@@ -1,0 +1,10 @@
+// kamphey.com: static site in site/, served as Cloudflare assets.
+{
+  "name": "kamphey",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./site" },
+  "routes": [
+    { "pattern": "kamphey.com", "custom_domain": true },
+    { "pattern": "www.kamphey.com", "custom_domain": true }
+  ]
+}

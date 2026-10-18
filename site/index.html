@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Andrew Kamphey</title>
+<meta name="description" content="Andrew Kamphey, creator and coder. Everything I'm building right now: Better Sheets, Ansaur, How Done It, Bali Micro, Keychain Maker, Where's My Mouse, Big Bean Battle and Rippn.">
+<meta property="og:title" content="Andrew Kamphey">
+<meta property="og:description" content="Creator / coder. Everything I'm building right now, plus the years that got me here.">
+<meta property="og:image" content="https://kamphey.com/img/andrew.jpg">
+<meta property="og:url" content="https://kamphey.com">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #faf6ef;
+  --surface: #ffffff;
+  --ink: #1d1a16;
+  --muted: #6b645a;
+  --line: #e7dfd2;
+  --accent: #d9480f;
+  --accent-soft: #fde8dc;
+  --sold: #2b8a3e;
+  --sold-soft: #e3f4e6;
+  --shadow: 0 1px 2px rgba(40, 30, 20, .06), 0 6px 20px rgba(40, 30, 20, .06);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15130f;
+    --surface: #1e1b17;
+    --ink: #f2ece2;
+    --muted: #a49b8e;
+    --line: #322d26;
+    --accent: #ff7a3d;
+    --accent-soft: #3a2316;
+    --sold: #69db7c;
+    --sold-soft: #1c3322;
+    --shadow: none;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 16px/1.55 "DM Sans", system-ui, sans-serif;
+}
+a { color: inherit; }
+img { display: block; max-width: 100%; }
+.wrap { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+
+/* Header */
+header { padding: 56px 0 36px; }
+.intro { display: flex; gap: 24px; align-items: center; }
+.intro img {
+  width: 96px; height: 96px; border-radius: 50%;
+  object-fit: cover; flex: none; border: 3px solid var(--surface); box-shadow: var(--shadow);
+}
+h1 {
+  font: 700 clamp(34px, 6vw, 54px)/1.05 "Fraunces", Georgia, serif;
+  margin: 0; letter-spacing: -.02em;
+}
+.tag { margin: 6px 0 0; color: var(--accent); font-weight: 700; letter-spacing: .02em; }
+.bio { max-width: 640px; margin: 22px 0 0; font-size: 18px; color: var(--muted); }
+.bio strong { color: var(--ink); font-weight: 500; }
+.links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.links a {
+  text-decoration: none; font-size: 14px; font-weight: 500;
+  padding: 7px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface);
+}
+.links a:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Layout */
+.layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 48px; padding-bottom: 72px; }
+h2 {
+  font: 700 13px/1 "DM Sans", sans-serif; text-transform: uppercase; letter-spacing: .12em;
+  color: var(--muted); margin: 0 0 18px; display: flex; align-items: center; gap: 10px;
+}
+h2 .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); animation: pulse 2s infinite; }
+@keyframes pulse { 50% { opacity: .35; } }
+@media (prefers-reduced-motion: reduce) { h2 .dot { animation: none; } }
+
+/* Project cards */
+.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.card {
+  display: flex; flex-direction: column; text-decoration: none;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+  overflow: hidden; box-shadow: var(--shadow); transition: transform .15s ease, border-color .15s ease;
+}
+.card:hover { transform: translateY(-3px); border-color: var(--accent); }
+.card:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.card .thumb { aspect-ratio: 16 / 9; background: var(--line); overflow: hidden; }
+.card .thumb img { width: 100%; height: 100%; object-fit: cover; }
+.card .body { padding: 14px 16px 16px; }
+.card .top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.card h3 { font: 700 20px/1.2 "Fraunces", Georgia, serif; margin: 0; }
+.card .kind {
+  font-size: 12px; font-weight: 700; white-space: nowrap;
+  color: var(--accent); background: var(--accent-soft); padding: 3px 8px; border-radius: 999px;
+}
+.card p { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
+.card .url { margin-top: 10px; font-size: 13px; font-weight: 500; color: var(--ink); opacity: .7; }
+
+/* Timeline */
+aside { position: sticky; top: 24px; align-self: start; }
+.timeline { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--line); }
+.timeline li { position: relative; padding: 0 0 20px 22px; }
+.timeline li::before {
+  content: ""; position: absolute; left: -7px; top: 6px;
+  width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--muted);
+}
+.timeline li.big::before { background: var(--accent); border-color: var(--accent); }
+.timeline li.sold::before { background: var(--sold); border-color: var(--sold); }
+.timeline .year { font: 700 15px/1.3 "Fraunces", Georgia, serif; }
+.timeline .what { margin: 2px 0 0; font-size: 15px; }
+.timeline .note { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+.badge {
+  display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em;
+  color: var(--sold); background: var(--sold-soft); padding: 2px 7px; border-radius: 4px; margin-left: 4px; vertical-align: 2px;
+}
+
+footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--muted); font-size: 14px; }
+
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; gap: 40px; }
+  aside { position: static; }
+}
+@media (max-width: 560px) {
+  header { padding-top: 36px; }
+  .intro { gap: 16px; }
+  .intro img { width: 72px; height: 72px; }
+  .grid { grid-template-columns: 1fr; }
+  .wrap { padding: 0 16px; }
+}
+</style>
+</head>
+<body>
+
+<header class="wrap">
+  <div class="intro">
+    <img src="/img/andrew.jpg" alt="Andrew Kamphey" width="96" height="96">
+    <div>
+      <h1>Andrew Kamphey</h1>
+      <p class="tag">Creator / Coder</p>
+    </div>
+  </div>
+  <p class="bio">
+    I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left.
+    Since 2020 I've run <strong>Better Sheets</strong>. These days I build a lot of things at once: software, games, apps and stuff you can hold.
+  </p>
+  <nav class="links" aria-label="Elsewhere">
+    <a href="https://www.youtube.com/bettersheets">YouTube</a>
+    <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a>
+    <a href="mailto:andrew@bettersheets.co">Email</a>
+  </nav>
+</header>
+
+<main class="wrap layout">
+  <section aria-labelledby="now">
+    <h2 id="now"><span class="dot"></span>What I'm working on now</h2>
+    <div class="grid">
+
+      <a class="card" href="https://bettersheets.co">
+        <div class="thumb"><img src="/img/bettersheets.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Better Sheets</h3><span class="kind">Google Sheets</span></div>
+          <p>Hundreds of templates, tools and 600+ tutorials that make you better at Google Sheets and Apps Script.</p>
+          <div class="url">bettersheets.co</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://ansaur.com">
+        <div class="thumb"><img src="/img/ansaur.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Ansaur</h3><span class="kind">SEO</span></div>
+          <p>Finds the real questions people search in your niche that you haven't answered yet. Real volume, no AI guesses.</p>
+          <div class="url">ansaur.com</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://howdoneit.com">
+        <div class="thumb"><img src="/img/howdoneit.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>How Done It</h3><span class="kind">Game</span></div>
+          <p>A voice-driven detective game. You know who did it. Interrogate the suspect and prove how.</p>
+          <div class="url">howdoneit.com</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://balimicro.com">
+        <div class="thumb"><img src="/img/balimicro.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Bali Micro</h3><span class="kind">3D printed</span></div>
+          <p>Tiny 3D-printed keychains and bag charms made in Bali, sold in padel clubs, cafés and studios.</p>
+          <div class="url">balimicro.com</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://keychainmaker.app">
+        <div class="thumb"><img src="/img/keychainmaker.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Keychain Maker</h3><span class="kind">Mac + web</span></div>
+          <p>Turn any logo into a printable 3D keychain file, ready for your printer in a couple of clicks.</p>
+          <div class="url">keychainmaker.app</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://wheresmymouse.com">
+        <div class="thumb"><img src="/img/wheresmymouse.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Where's My Mouse?</h3><span class="kind">Mac app</span></div>
+          <p>A menu bar app that makes your pointer bigger and bolder, for recordings, demos and screen shares.</p>
+          <div class="url">wheresmymouse.com</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://bigbeanbattle.com">
+        <div class="thumb"><img src="/img/bigbeanbattle.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Big Bean Battle</h3><span class="kind">Tabletop game</span></div>
+          <p>A dice-flicking, area-control game set in rooftop gardens. Play it online right now.</p>
+          <div class="url">bigbeanbattle.com</div>
+        </div>
+      </a>
+
+      <a class="card" href="https://rippn.app">
+        <div class="thumb"><img src="/img/rippn.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Rippn</h3><span class="kind">Android app</span></div>
+          <p>Party games and AI that print on a pocket receipt printer. The paper is the only truth.</p>
+          <div class="url">rippn.app</div>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <aside aria-labelledby="years">
+    <h2 id="years">Years gone by</h2>
+    <ol class="timeline">
+      <li class="big">
+        <div class="year">2026</div>
+        <p class="what">Shipped a wave of new things</p>
+        <p class="note">Games, Mac apps, an Android app and a 3D printing business.</p>
+      </li>
+      <li>
+        <div class="year">2024</div>
+        <p class="what">Got serious about YouTube</p>
+        <p class="note">17,000 subscribers and 1,500+ videos, no viral hit, just showing up.</p>
+      </li>
+      <li class="sold">
+        <div class="year">2021</div>
+        <p class="what">Bought Pigeon, sold it <span class="badge">Sold</span></p>
+        <p class="note">Acquired and flipped within one year.</p>
+      </li>
+      <li class="sold">
+        <div class="year">2020</div>
+        <p class="what">Launched Better Sheets, sold Influence Weekly <span class="badge">Sold</span></p>
+        <p class="note">Better Sheets went live April 3, built in 24 hours.</p>
+      </li>
+      <li>
+        <div class="year">2017</div>
+        <p class="what">Started Influence Weekly</p>
+        <p class="note">A weekly newsletter on influencer marketing.</p>
+      </li>
+      <li>
+        <div class="year">2014</div>
+        <p class="what">Joined The QYOU in LA</p>
+        <p class="note">Ran digital operations in Google Sheets for a team that built four TV networks.</p>
+      </li>
+      <li>
+        <div class="year">2008</div>
+        <p class="what">Royal Caribbean</p>
+        <p class="note">Built emergency evacuation signage for the world's largest cruise ships. Won a safety award.</p>
+      </li>
+      <li>
+        <div class="year">2004</div>
+        <p class="what">Florida Film Fiasco</p>
+        <p class="note">Founded a 24-hour film challenge in Gainesville.</p>
+      </li>
+    </ol>
+  </aside>
+</main>
+
+<footer class="wrap">
+  Andrew Kamphey · <a href="mailto:andrew@bettersheets.co">andrew@bettersheets.co</a>
+</footer>
+
+</body>
+</html>
