@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dark Variations</title>
+<style>
+  body { margin: 0; background: #000; color: #eee; font: 14px/1.4 system-ui, sans-serif; }
+  header { padding: 16px 20px; display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+  header h1 { font-size: 18px; margin: 0; }
+  header p { margin: 0; color: #999; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 20px; padding: 0 20px 40px; }
+  .v { border-radius: 12px; overflow: hidden; border: 1px solid #222; cursor: pointer; }
+  .v:hover { border-color: #888; }
+  .label { display: flex; justify-content: space-between; align-items: center; padding: 10px 12px; background: #111; }
+  .label b { font-size: 15px; }
+  .sw { display: flex; gap: 4px; }
+  .sw i { width: 16px; height: 16px; border-radius: 4px; display: block; border: 1px solid #333; }
+  .frame { position: relative; height: 420px; overflow: hidden; }
+  .frame iframe { width: 1200px; height: 1300px; border: 0; transform: scale(var(--s, .33)); transform-origin: 0 0; pointer-events: none; }
+  .full { position: fixed; inset: 0; background: #000; display: none; z-index: 10; }
+  .full iframe { width: 100%; height: 100%; border: 0; }
+  .full button { position: fixed; top: 12px; right: 12px; z-index: 11; padding: 8px 14px; border-radius: 999px; border: 0; font-weight: 700; cursor: pointer; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Dark variations</h1>
+  <p>Click one to see it full size. Not deployed.</p>
+</header>
+<div class="grid" id="grid"></div>
+<div class="full" id="full"><button onclick="closeFull()">Close</button><iframe id="fullframe"></iframe></div>
+<script>
+const V = [
+  { n: "1. Ink + Green (chosen)", bg: "#0f1110", surface: "#181b19", ink: "#f0f2ef", muted: "#9ba19c", line: "#2a2f2b", accent: "#4ade80", soft: "#143222", chip: "#232825" },
+  { n: "2. Midnight Neon", bg: "#07070d", surface: "#11111c", ink: "#ececff", muted: "#8e8eb3", line: "#23233a", accent: "#00ffa3", soft: "#06301f", chip: "#1d1d30" },
+  { n: "3. Synthwave", bg: "#170a2b", surface: "#241245", ink: "#fff0fb", muted: "#b79ad6", line: "#3b2066", accent: "#ff2fd0", soft: "#4a1347", chip: "#33195c" },
+  { n: "4. Terminal", bg: "#000000", surface: "#060c07", ink: "#c8ffd4", muted: "#3fae5c", line: "#123d1c", accent: "#33ff66", soft: "#0b2a13", chip: "#0d1f10" },
+  { n: "5. Acid", bg: "#0b0b0b", surface: "#151515", ink: "#f5f5f5", muted: "#9a9a9a", line: "#2a2a2a", accent: "#d4ff00", soft: "#2b3300", chip: "#222222" },
+  { n: "6. Blood Orange", bg: "#110705", surface: "#1d0e0a", ink: "#ffeadf", muted: "#c08f7c", line: "#3a1d15", accent: "#ff5a1f", soft: "#3d150a", chip: "#2b1610" },
+  { n: "7. Electric Blue", bg: "#040a1c", surface: "#0a1631", ink: "#e5efff", muted: "#8aa2c9", line: "#18294d", accent: "#3d8bff", soft: "#0f2856", chip: "#14233f" },
+  { n: "8. Forest Gold", bg: "#0a130f", surface: "#111f19", ink: "#f1ead3", muted: "#a8a58e", line: "#22362c", accent: "#e6b450", soft: "#33290f", chip: "#1a2b23" },
+  { n: "9. Ultraviolet", bg: "#0d061f", surface: "#170c33", ink: "#f0e8ff", muted: "#a596c9", line: "#2c1d55", accent: "#a66bff", soft: "#2c1a57", chip: "#22144a" },
+  { n: "10. Cherry Cola", bg: "#140508", surface: "#22090f", ink: "#ffe5ea", muted: "#c48a97", line: "#42131e", accent: "#ff3b5c", soft: "#4a0f1c", chip: "#331019" },
+  { n: "11. Ice", bg: "#0b1116", surface: "#121b22", ink: "#eaf6ff", muted: "#8fa7b8", line: "#22323e", accent: "#7fe3ff", soft: "#123342", chip: "#1a2731" },
+  { n: "12. Gameboy", bg: "#0f1a0b", surface: "#182812", ink: "#d6f0a8", muted: "#8bac0f", line: "#2c4420", accent: "#9bbc0f", soft: "#26380e", chip: "#22351a" },
+];
+function css(v) {
+  return `:root,:root:not([data-theme]){--bg:${v.bg}!important;--surface:${v.surface}!important;--ink:${v.ink}!important;--muted:${v.muted}!important;--line:${v.line}!important;--accent:${v.accent}!important;--accent-soft:${v.soft}!important;--chip:${v.chip}!important;--shadow:none!important;color-scheme:dark}`;
+}
+function paint(frame, v) {
+  try {
+    const d = frame.contentDocument; const s = d.createElement("style"); s.textContent = css(v); d.head.appendChild(s);
+  } catch (e) {}
+}
+const grid = document.getElementById("grid");
+V.forEach(v => {
+  const el = document.createElement("div"); el.className = "v";
+  el.innerHTML = `<div class="label"><b>${v.n}</b><span class="sw">${[v.bg, v.surface, v.ink, v.accent].map(c => `<i style="background:${c}"></i>`).join("")}</span></div><div class="frame"><iframe src="/" loading="lazy" tabindex="-1"></iframe></div>`;
+  const f = el.querySelector("iframe");
+  f.addEventListener("load", () => paint(f, v));
+  el.addEventListener("click", () => openFull(v));
+  grid.appendChild(el);
+});
+function fit() {
+  document.querySelectorAll(".frame").forEach(fr => fr.style.setProperty("--s", fr.clientWidth / 1200));
+}
+addEventListener("resize", fit); setTimeout(fit, 50);
+function openFull(v) {
+  const full = document.getElementById("full"), ff = document.getElementById("fullframe");
+  ff.onload = () => paint(ff, v); ff.src = "/?" + Date.now(); full.style.display = "block";
+}
+function closeFull() { document.getElementById("full").style.display = "none"; }
+</script>
+</body>
+</html>
