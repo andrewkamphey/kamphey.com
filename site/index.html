@@ -6,7 +6,7 @@
 <title>Andrew Kamphey</title>
 <meta name="description" content="Andrew Kamphey, creator and coder. Everything I'm building right now: Better Sheets, Ansaur, How Done It, Bali Micro, Keychain Maker, Where's My Mouse, Big Bean Battle and Rippn.">
 <meta property="og:title" content="Andrew Kamphey">
-<meta property="og:description" content="Creator / coder. Everything I'm building right now, plus the years that got me here.">
+<meta property="og:description" content="Creator / coder. Everything I'm building right now, plus a few things that came before.">
 <meta property="og:image" content="https://kamphey.com/img/andrew.jpg">
 <meta property="og:url" content="https://kamphey.com">
 <meta name="twitter:card" content="summary">
@@ -16,28 +16,26 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #faf6ef;
+  --bg: #f7f7f4;
   --surface: #ffffff;
-  --ink: #1d1a16;
-  --muted: #6b645a;
-  --line: #e7dfd2;
-  --accent: #d9480f;
-  --accent-soft: #fde8dc;
-  --sold: #2b8a3e;
-  --sold-soft: #e3f4e6;
-  --shadow: 0 1px 2px rgba(40, 30, 20, .06), 0 6px 20px rgba(40, 30, 20, .06);
+  --ink: #111111;
+  --muted: #5f625e;
+  --line: #e3e4df;
+  --accent: #1e8e3e;
+  --accent-soft: #e3f5e8;
+  --chip: #ecece7;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .05), 0 6px 20px rgba(0, 0, 0, .05);
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #15130f;
-    --surface: #1e1b17;
-    --ink: #f2ece2;
-    --muted: #a49b8e;
-    --line: #322d26;
-    --accent: #ff7a3d;
-    --accent-soft: #3a2316;
-    --sold: #69db7c;
-    --sold-soft: #1c3322;
+    --bg: #0f1110;
+    --surface: #181b19;
+    --ink: #f0f2ef;
+    --muted: #9ba19c;
+    --line: #2a2f2b;
+    --accent: #4ade80;
+    --accent-soft: #143222;
+    --chip: #232825;
     --shadow: none;
   }
 }
@@ -113,15 +111,16 @@ aside { position: sticky; top: 24px; align-self: start; }
   content: ""; position: absolute; left: -7px; top: 6px;
   width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--muted);
 }
-.timeline li.big::before { background: var(--accent); border-color: var(--accent); }
-.timeline li.sold::before { background: var(--sold); border-color: var(--sold); }
-.timeline .year { font: 700 15px/1.3 "Fraunces", Georgia, serif; }
-.timeline .what { margin: 2px 0 0; font-size: 15px; }
-.timeline .note { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+.timeline li.sold::before { background: var(--accent); border-color: var(--accent); }
+.timeline li.live::before { background: var(--ink); border-color: var(--ink); }
+.timeline .what { font: 700 17px/1.3 "Fraunces", Georgia, serif; margin: 0; }
+.timeline .note { margin: 3px 0 0; font-size: 14px; color: var(--muted); }
 .badge {
-  display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em;
-  color: var(--sold); background: var(--sold-soft); padding: 2px 7px; border-radius: 4px; margin-left: 4px; vertical-align: 2px;
+  display: inline-block; font: 700 11px/1.4 "DM Sans", sans-serif; text-transform: uppercase; letter-spacing: .06em;
+  color: var(--accent); background: var(--accent-soft); padding: 2px 7px; border-radius: 4px; margin-left: 4px; vertical-align: 2px;
 }
+.badge.live { color: var(--ink); background: var(--chip); }
+.card .kind.free { color: var(--surface); background: var(--accent); }
 
 footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--muted); font-size: 14px; }
 
@@ -153,9 +152,9 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
     Since 2020 I've run <strong>Better Sheets</strong>. These days I build a lot of things at once: software, games, apps and stuff you can hold.
   </p>
   <nav class="links" aria-label="Elsewhere">
+    <a href="https://x.com/Kamphey">X / Twitter</a>
     <a href="https://www.youtube.com/bettersheets">YouTube</a>
     <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a>
-    <a href="mailto:andrew@bettersheets.co">Email</a>
   </nav>
 </header>
 
@@ -212,8 +211,8 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
       <a class="card" href="https://wheresmymouse.com">
         <div class="thumb"><img src="/img/wheresmymouse.jpg" alt="" loading="lazy"></div>
         <div class="body">
-          <div class="top"><h3>Where's My Mouse?</h3><span class="kind">Mac app</span></div>
-          <p>A menu bar app that makes your pointer bigger and bolder, for recordings, demos and screen shares.</p>
+          <div class="top"><h3>Where's My Mouse?</h3><span class="kind free">Free Mac app</span></div>
+          <p>A free menu bar app that makes your pointer bigger and bolder, for recordings, demos and screen shares.</p>
           <div class="url">wheresmymouse.com</div>
         </div>
       </a>
@@ -221,8 +220,8 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
       <a class="card" href="https://bigbeanbattle.com">
         <div class="thumb"><img src="/img/bigbeanbattle.jpg" alt="" loading="lazy"></div>
         <div class="body">
-          <div class="top"><h3>Big Bean Battle</h3><span class="kind">Tabletop game</span></div>
-          <p>A dice-flicking, area-control game set in rooftop gardens. Play it online right now.</p>
+          <div class="top"><h3>Big Bean Battle</h3><span class="kind free">Free game</span></div>
+          <p>A board game I designed, now free to play on your phone or tablet. Flick dice, grab rooftop gardens.</p>
           <div class="url">bigbeanbattle.com</div>
         </div>
       </a>
@@ -239,55 +238,27 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
     </div>
   </section>
 
-  <aside aria-labelledby="years">
-    <h2 id="years">Years gone by</h2>
+  <aside aria-labelledby="before">
+    <h2 id="before">Before this</h2>
     <ol class="timeline">
-      <li class="big">
-        <div class="year">2026</div>
-        <p class="what">Shipped a wave of new things</p>
-        <p class="note">Games, Mac apps, an Android app and a 3D printing business.</p>
-      </li>
-      <li>
-        <div class="year">2024</div>
-        <p class="what">Got serious about YouTube</p>
-        <p class="note">17,000 subscribers and 1,500+ videos, no viral hit, just showing up.</p>
+      <li class="live">
+        <p class="what">The QYOU <span class="badge live">Still going</span></p>
+        <p class="note">2014 to 2018. We built four 24-hour TV channels from nothing in four years. One now reaches about 800 million homes in India, and TBD.com was born there.</p>
       </li>
       <li class="sold">
-        <div class="year">2021</div>
-        <p class="what">Bought Pigeon, sold it <span class="badge">Sold</span></p>
-        <p class="note">Acquired and flipped within one year.</p>
+        <p class="what">Influence Weekly <span class="badge">Sold 2020</span></p>
+        <p class="note">A weekly newsletter on influencer marketing I started in 2017.</p>
       </li>
       <li class="sold">
-        <div class="year">2020</div>
-        <p class="what">Launched Better Sheets, sold Influence Weekly <span class="badge">Sold</span></p>
-        <p class="note">Better Sheets went live April 3, built in 24 hours.</p>
-      </li>
-      <li>
-        <div class="year">2017</div>
-        <p class="what">Started Influence Weekly</p>
-        <p class="note">A weekly newsletter on influencer marketing.</p>
-      </li>
-      <li>
-        <div class="year">2014</div>
-        <p class="what">Joined The QYOU in LA</p>
-        <p class="note">Ran digital operations in Google Sheets for a team that built four TV networks.</p>
-      </li>
-      <li>
-        <div class="year">2008</div>
-        <p class="what">Royal Caribbean</p>
-        <p class="note">Built emergency evacuation signage for the world's largest cruise ships. Won a safety award.</p>
-      </li>
-      <li>
-        <div class="year">2004</div>
-        <p class="what">Florida Film Fiasco</p>
-        <p class="note">Founded a 24-hour film challenge in Gainesville.</p>
+        <p class="what">Pigeon <span class="badge">Sold 2021</span></p>
+        <p class="note">Bought it and sold it within a year.</p>
       </li>
     </ol>
   </aside>
 </main>
 
 <footer class="wrap">
-  Andrew Kamphey · <a href="mailto:andrew@bettersheets.co">andrew@bettersheets.co</a>
+  Best way to reach me: <a href="mailto:andrew@bettersheets.co">andrew@bettersheets.co</a>
 </footer>
 
 </body>
