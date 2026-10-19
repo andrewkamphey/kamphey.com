@@ -1,0 +1,11 @@
+// kampheyapproved.com (retired, expires Aug 6, 2027): 301 everything to kamphey.com.
+{
+  "name": "kampheyapproved-redirect",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": false,
+  "routes": [
+    { "pattern": "kampheyapproved.com", "custom_domain": true },
+    { "pattern": "www.kampheyapproved.com", "custom_domain": true }
+  ]
+}

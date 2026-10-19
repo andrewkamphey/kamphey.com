@@ -93,7 +93,7 @@ h2 .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent)
 .card .url { margin-top: 10px; font-size: 13px; font-weight: 500; color: var(--ink); opacity: .7; }
 
 /* Timeline */
-aside { position: sticky; top: 24px; align-self: start; }
+aside { align-self: start; }
 .timeline { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--line); }
 .timeline li { position: relative; padding: 0 0 20px 22px; }
 .timeline li::before {
@@ -105,6 +105,13 @@ aside { position: sticky; top: 24px; align-self: start; }
 .timeline .year { font: 700 15px/1.3 "Fraunces", Georgia, serif; }
 .timeline .what { margin: 2px 0 0; font-size: 15px; }
 .timeline .note { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+.timeline a { color: var(--ink); text-decoration-color: var(--accent); text-underline-offset: 2px; }
+.timeline a:hover { color: var(--accent); }
+.extras { margin: 6px 0 0; padding: 0; list-style: none; }
+.extras li { position: relative; padding: 0 0 4px 14px; font-size: 13px; color: var(--muted); }
+.extras li::before { content: ""; position: absolute; left: 2px; top: 8px; width: 5px; height: 5px; border-radius: 50%; background: var(--line); border: 0; }
+.aka { margin: 8px 0 0; padding: 14px 16px; border: 1px dashed var(--line); border-radius: 12px; font-size: 13px; color: var(--muted); }
+.aka strong { color: var(--ink); }
 .badge {
   display: inline-block; font: 700 11px/1.4 "DM Sans", sans-serif; text-transform: uppercase; letter-spacing: .06em;
   color: var(--accent); background: var(--accent-soft); padding: 2px 7px; border-radius: 4px; margin-left: 4px; vertical-align: 2px;
@@ -234,37 +241,91 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
       <li class="big">
         <div class="year">2026</div>
         <p class="what">Shipped a wave of new things</p>
-        <p class="note">Games, Mac apps, an Android app and a 3D printing business.</p>
+        <p class="note">How Done It, Where's My Mouse, Keychain Maker, Big Bean Battle, Rippn and Bali Micro. Games, Mac apps, an Android app and a 3D printing business.</p>
       </li>
       <li>
         <div class="year">2024</div>
         <p class="what">Got serious about YouTube</p>
         <p class="note">17,000 subscribers and 1,500+ videos, no viral hit, just showing up.</p>
       </li>
+      <li>
+        <div class="year">2022</div>
+        <p class="what">Rebuilt Better Sheets <span class="badge">#1 on Product Hunt</span></p>
+        <ul class="extras">
+          <li>Atomic Sheets: tab templates you drop into any Google Sheet</li>
+          <li>Learned Ruby on Rails</li>
+        </ul>
+      </li>
       <li class="sold">
         <div class="year">2021</div>
-        <p class="what">Bought Pigeon, sold it <span class="badge">Sold</span></p>
-        <p class="note">Acquired and flipped within one year.</p>
+        <p class="what">Bought <a href="https://trypigeon.co/">Pigeon for Gmail</a>, sold it <span class="badge">Sold</span></p>
+        <p class="note">CRM, mail merge and automations inside Gmail. #2 on Product Hunt. Bought and sold within the year.</p>
+        <ul class="extras">
+          <li><a href="https://onlysheets.xyz/">OnlySheets</a>: sell access to a Google Sheet. #3 on Product Hunt</li>
+          <li>Coupon Code Maker: bulk Gumroad and Stripe coupons, my first SaaS</li>
+          <li>NoCodeBlackFriday <span class="badge">Acquired</span></li>
+          <li>Featured in <a href="https://mashable.com/article/selling-google-spreadsheets-trend">Mashable</a> and <a href="https://www.businessinsider.com/teaching-people-how-to-make-better-google-sheets-earned-me-34000-in-a-year-2021-4">Business Insider</a></li>
+        </ul>
       </li>
       <li class="sold">
         <div class="year">2020</div>
-        <p class="what">Launched Better Sheets, sold Influence Weekly <span class="badge">Sold</span></p>
+        <p class="what">Launched <a href="https://bettersheets.co">Better Sheets</a>, sold Influence Weekly <span class="badge">Sold</span></p>
         <p class="note">Better Sheets went live April 3, built in 24 hours.</p>
+        <ul class="extras">
+          <li>Influence Directory, CreatorScape and Influencer's Guide to Bali <span class="badge">Acquired</span></li>
+          <li><a href="https://newslettervirtualmall.com/">Newsletter Virtual Mall</a>: a Google Sheet shaped like a mall. #2 on Product Hunt</li>
+          <li>Subscribers Into Profits and Digital Stocking Stuffers</li>
+          <li>Shut down HypeLetter</li>
+        </ul>
+      </li>
+      <li>
+        <div class="year">2019</div>
+        <p class="what">A year of side projects</p>
+        <ul class="extras">
+          <li>CreatorScape: a map of how creators make money online</li>
+          <li>Influencer's Guide to Bali</li>
+          <li>NoCodeBlackFriday</li>
+          <li>HypeLetter: sponsorship booking for newsletter writers</li>
+        </ul>
+      </li>
+      <li>
+        <div class="year">2018</div>
+        <p class="what">Made Influence Directory</p>
+        <p class="note">One place for influencer information.</p>
       </li>
       <li>
         <div class="year">2017</div>
         <p class="what">Started Influence Weekly</p>
-        <p class="note">A weekly newsletter on influencer marketing.</p>
+        <p class="note">Curated influencer marketing research. Grew to 7,500 subscribers in three years.</p>
+      </li>
+      <li>
+        <div class="year">2016</div>
+        <p class="what">Director of Digital Operations at The QYOU</p>
+        <p class="note">On the side: growth hacking Instagram and Twitter accounts, 2k to 5k new followers a month for clients. 100k followers of my own on Twitter.</p>
       </li>
       <li class="live">
         <div class="year">2014</div>
         <p class="what">Joined The QYOU in LA <span class="badge live">Still going</span></p>
         <p class="note">We built four 24-hour TV channels from nothing in four years. One now reaches about 800 million homes in India, and TBD.com was born there.</p>
+        <ul class="extras">
+          <li>Competed on a Food Network show</li>
+        </ul>
+      </li>
+      <li>
+        <div class="year">2013</div>
+        <p class="what">Moved to Los Angeles</p>
+      </li>
+      <li>
+        <div class="year">2010</div>
+        <p class="what">Lived in Mongolia for four months</p>
       </li>
       <li>
         <div class="year">2008</div>
-        <p class="what">Royal Caribbean</p>
-        <p class="note">Built emergency evacuation signage for the world's largest cruise ships. Won a safety award.</p>
+        <p class="what">Five years on Royal Caribbean cruise ships</p>
+        <p class="note">Built emergency evacuation signage for the world's largest ships and won a safety award. Produced a documentary that aired across the fleet.</p>
+        <ul class="extras">
+          <li>Before that, Minimum Wage Santa in downtown Chicago, and wrote my first ebook about it</li>
+        </ul>
       </li>
       <li>
         <div class="year">2004</div>
@@ -272,6 +333,7 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
         <p class="note">Founded a 24-hour film challenge in Gainesville.</p>
       </li>
     </ol>
+    <p class="aka">Formerly <strong>Kamphey Approved</strong>. On the cruise ships I kept seeing stickers in the windows of bad restaurants, and figured I should make my own: a sticker that says I've been here and I actually recommend it.</p>
   </aside>
 </main>
 
