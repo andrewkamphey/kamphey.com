@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hero Variations</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #111; font: 600 14px/1 system-ui, sans-serif; }
+  .bar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); z-index: 2; display: flex; gap: 4px; padding: 5px; background: #111; border-radius: 999px; box-shadow: 0 6px 24px rgba(0,0,0,.35); }
+  .bar button { border: 0; padding: 10px 16px; border-radius: 999px; background: transparent; color: #ddd; font: inherit; cursor: pointer; white-space: nowrap; }
+  .bar button[aria-pressed="true"] { background: #fff; color: #111; }
+  iframe { display: block; width: 100%; height: 100%; border: 0; background: #fff; }
+</style>
+</head>
+<body>
+<div class="bar" role="group" aria-label="Hero">
+  <button data-v="now" aria-pressed="true">Current</button>
+  <button data-v="giant">1 · Giant name</button>
+  <button data-v="sticker">2 · Approved sticker</button>
+  <button data-v="marquee">3 · Project reel</button>
+</div>
+<iframe id="f" src="/"></iframe>
+
+<template id="giant">
+<style>
+  .hero-giant { padding: 64px 0 48px; }
+  .hero-giant .kicker { display: flex; align-items: center; gap: 14px; font-size: 18px; color: var(--muted); }
+  .hero-giant .kicker img { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; }
+  .hero-giant .name { font-size: clamp(64px, 15vw, 208px); line-height: .82; font-weight: 700; letter-spacing: -.055em; margin: 18px 0 0; }
+  .hero-giant .name span { display: block; color: var(--link); }
+  .hero-giant .row { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 24px; margin-top: 32px; }
+  .hero-giant .bio { margin: 0; max-width: 560px; font-size: 22px; line-height: 1.45; }
+  .hero-giant .count { text-align: right; font-size: 15px; color: var(--muted); }
+  .hero-giant .count b { display: block; font-size: 64px; line-height: 1; color: var(--ink); letter-spacing: -.03em; }
+  .hero-giant .links { margin-top: 22px; }
+  @media (max-width: 560px) { .hero-giant .count { text-align: left; } .hero-giant .bio { font-size: 19px; } }
+</style>
+<header class="wrap hero-giant">
+  <div class="kicker"><img src="/img/andrew.jpg" alt="Andrew Kamphey">Creator / Coder in the Florida tropics</div>
+  <h1 class="name">Andrew <span>Kamphey</span></h1>
+  <div class="row">
+    <p class="bio">Cruise ships, then LA television, then Google Sheets forever. Since 2020 I've run <strong>Better Sheets</strong>, and now I build a lot of things at once.</p>
+    <div class="count"><b>8</b>things live right now</div>
+  </div>
+  <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
+</header>
+</template>
+
+<template id="sticker">
+<style>
+  .hero-sticker { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 40px; align-items: center; padding: 72px 0 48px; }
+  .hero-sticker .hi { font-size: 20px; color: var(--muted); margin: 0; }
+  .hero-sticker .big { font-size: clamp(34px, 5.2vw, 64px); line-height: 1.08; font-weight: 700; letter-spacing: -.03em; margin: 8px 0 0; }
+  .hero-sticker .big a { color: inherit; text-decoration: none; background: linear-gradient(var(--hl), var(--hl)) 0 88% / 100% .32em no-repeat; transition: background-size .2s ease; }
+  .hero-sticker .big a:hover { background-size: 100% .9em; }
+  .hero-sticker .big a:nth-of-type(1) { --hl: #ffd84d80; }
+  .hero-sticker .big a:nth-of-type(2) { --hl: #4caf5066; }
+  .hero-sticker .big a:nth-of-type(3) { --hl: #2f6bff55; }
+  .hero-sticker .big a:nth-of-type(4) { --hl: #ff7a2f66; }
+  .hero-sticker .sub { margin: 20px 0 0; max-width: 620px; font-size: 19px; color: var(--muted); }
+  .sticker { position: relative; width: 240px; height: 240px; transform: rotate(-9deg); }
+  .sticker .ring { position: absolute; inset: 0; border-radius: 50%; background: #ffd84d; border: 4px solid #141414; box-shadow: 0 10px 0 -2px rgba(0,0,0,.12); }
+  .sticker img { position: absolute; inset: 42px; width: 156px; height: 156px; border-radius: 50%; object-fit: cover; border: 4px solid #141414; }
+  .sticker svg { position: absolute; inset: 0; width: 100%; height: 100%; animation: spin 24s linear infinite; }
+  .sticker text { font: 700 19px "Source Sans 3", sans-serif; letter-spacing: .2em; fill: #141414; text-transform: uppercase; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .sticker svg { animation: none; } }
+  @media (max-width: 760px) { .hero-sticker { grid-template-columns: 1fr; } .sticker { width: 180px; height: 180px; order: -1; } .sticker img { inset: 32px; width: 116px; height: 116px; } .sticker text { font-size: 15px; } }
+</style>
+<header class="wrap hero-sticker">
+  <div>
+    <p class="hi">Hi, I'm Andrew Kamphey.</p>
+    <h1 class="big">I make <a href="https://bettersheets.co">software</a>, <a href="https://bigbeanbattle.com">games</a>, <a href="https://wheresmymouse.com">apps</a> and <a href="https://balimicro.com">stuff you can hold</a>.</h1>
+    <p class="sub">Cruise ships, LA television, then Google Sheets forever. Since 2020 I've run <strong>Better Sheets</strong>.</p>
+    <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
+  </div>
+  <div class="sticker" aria-hidden="true">
+    <div class="ring"></div>
+    <svg viewBox="0 0 240 240"><defs><path id="c" d="M120,120 m-99,0 a99,99 0 1,1 198,0 a99,99 0 1,1 -198,0"/></defs><text><textPath href="#c">Kamphey Approved ★ Kamphey Approved ★</textPath></text></svg>
+    <img src="/img/andrew.jpg" alt="">
+  </div>
+</header>
+</template>
+
+<template id="marquee">
+<style>
+  .hero-reel { padding: 0 0 44px; }
+  .reel { overflow: hidden; margin: 0 calc(50% - 50vw); padding: 70px 0 28px; }
+  .reel .track { display: flex; gap: 14px; width: max-content; animation: reel 40s linear infinite; }
+  .reel:hover .track { animation-play-state: paused; }
+  .reel a { flex: none; width: 260px; aspect-ratio: 16 / 9; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); transform: rotate(var(--r)); transition: transform .2s ease; }
+  .reel a:hover { transform: rotate(0) scale(1.05); }
+  .reel img { width: 100%; height: 100%; object-fit: cover; }
+  @keyframes reel { to { transform: translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .reel .track { animation: none; } }
+  .hero-reel .head { display: flex; gap: 20px; align-items: center; }
+  .hero-reel .head img { width: 84px; height: 84px; border-radius: 50%; object-fit: cover; }
+  .hero-reel h1 { font-size: clamp(36px, 6vw, 64px); line-height: 1; letter-spacing: -.03em; margin: 0; }
+  .hero-reel h1 small { display: block; font-size: 18px; letter-spacing: 0; font-weight: 400; color: var(--muted); margin-top: 6px; }
+  .hero-reel .bio { max-width: 700px; margin: 22px 0 0; font-size: 20px; }
+  @media (max-width: 560px) { .reel a { width: 190px; } .reel { padding-top: 76px; } }
+</style>
+<header class="wrap hero-reel">
+  <div class="reel" aria-label="Projects">
+    <div class="track"></div>
+  </div>
+  <div class="head">
+    <img src="/img/andrew.jpg" alt="Andrew Kamphey">
+    <h1>Andrew Kamphey<small>Creator / Coder. Building all of this, right now.</small></h1>
+  </div>
+  <p class="bio">I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left. Since 2020 I've run <strong>Better Sheets</strong>.</p>
+  <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
+</header>
+</template>
+
+<script>
+const f = document.getElementById("f");
+let original = null, current = "now";
+function apply() {
+  const d = f.contentDocument; if (!d) return;
+  const header = d.querySelector("header");
+  if (!original) original = header.outerHTML;
+  d.querySelectorAll("style.hero-v").forEach(s => s.remove());
+  if (current === "now") { header.outerHTML = original; return; }
+  const t = document.getElementById(current).content.cloneNode(true);
+  const style = t.querySelector("style"); style.classList.add("hero-v"); d.head.appendChild(style);
+  const h = t.querySelector("header");
+  header.replaceWith(d.importNode(h, true));
+  const track = d.querySelector(".reel .track");
+  if (track) {
+    const cards = [...d.querySelectorAll(".card")];
+    const items = cards.map((c, i) => `<a href="${c.href}" style="--r:${[-3, 2, -1, 3, -2, 1, -3, 2][i % 8]}deg"><img src="${c.querySelector("img").getAttribute("src")}" alt="${c.querySelector("h3").textContent}"></a>`).join("");
+    track.innerHTML = items + items;
+  }
+}
+f.addEventListener("load", () => { original = null; apply(); });
+document.querySelectorAll(".bar button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll(".bar button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  current = b.dataset.v; apply();
+}));
+</script>
+</body>
+</html>
