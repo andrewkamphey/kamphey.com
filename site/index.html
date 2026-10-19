@@ -4,137 +4,119 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Andrew Kamphey</title>
-<meta name="description" content="Andrew Kamphey, creator and coder. Everything I'm building right now: Better Sheets, Ansaur, How Done It, Bali Micro, Keychain Maker, Where's My Mouse, Big Bean Battle and Rippn.">
+<meta name="description" content="Andrew Kamphey, creator and coder. Everything I'm building right now: Where's My Mouse, Big Bean Battle, Better Sheets, How Done It, Bali Micro, Keychain Maker, Rippn and Ansaur.">
 <meta property="og:title" content="Andrew Kamphey">
 <meta property="og:description" content="Creator / coder. Everything I'm building right now, plus the years that got me here.">
 <meta property="og:image" content="https://kamphey.com/img/andrew.jpg">
 <meta property="og:url" content="https://kamphey.com">
 <meta name="twitter:card" content="summary">
-<meta name="theme-color" content="#0f1110">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
-<style>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<script>
+try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+<style id="theme">
 :root {
+  color-scheme: light;
+  --bg: #ffffff; --surface: #ffffff; --ink: #141414; --muted: #555555; --line: #e6e6e6;
+  --link: #1a5cff; --free: #127a3a;
+  --tog-on-bg: #141414; --tog-on-fg: #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #1c1c1e; --surface: #1c1c1e; --ink: #ececec; --muted: #a8a8ad; --line: #333336;
+    --link: #7aa7ff; --free: #5fd38a; --tog-on-bg: #ececec; --tog-on-fg: #1c1c1e;
+  }
+}
+:root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #0f1110;
-  --surface: #181b19;
-  --ink: #f0f2ef;
-  --muted: #9ba19c;
-  --line: #2a2f2b;
-  --accent: #4ade80;
-  --accent-soft: #143222;
-  --chip: #232825;
-  --shadow: none;
+  --bg: #1c1c1e; --surface: #1c1c1e; --ink: #ececec; --muted: #a8a8ad; --line: #333336;
+  --link: #7aa7ff; --free: #5fd38a; --tog-on-bg: #ececec; --tog-on-fg: #1c1c1e;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
-body {
-  margin: 0;
-  background: var(--bg);
-  color: var(--ink);
-  font: 400 16px/1.55 "DM Sans", system-ui, sans-serif;
-}
-a { color: inherit; }
+body { margin: 0; position: relative; background: var(--bg); color: var(--ink); font: 400 18px/1.6 "Source Sans 3", system-ui, sans-serif; }
+a { color: var(--link); text-underline-offset: 3px; }
 img { display: block; max-width: 100%; }
-.wrap { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
 
-/* Header */
-header { padding: 56px 0 36px; }
-.intro { display: flex; gap: 24px; align-items: center; }
-.intro img {
-  width: 96px; height: 96px; border-radius: 50%;
-  object-fit: cover; flex: none; border: 3px solid var(--surface); box-shadow: var(--shadow);
+.theme-toggle { position: absolute; top: 18px; right: 18px; display: flex; gap: 2px; padding: 3px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); cursor: pointer; z-index: 5; }
+.theme-toggle svg { width: 32px; height: 32px; padding: 7px; border-radius: 50%; fill: none; stroke: var(--muted); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.theme-toggle .sun { background: var(--tog-on-bg); stroke: var(--tog-on-fg); }
+:root[data-theme="dark"] .theme-toggle .sun { background: none; stroke: var(--muted); }
+:root[data-theme="dark"] .theme-toggle .moon { background: var(--tog-on-bg); stroke: var(--tog-on-fg); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .sun { background: none; stroke: var(--muted); }
+  :root:not([data-theme="light"]) .theme-toggle .moon { background: var(--tog-on-bg); stroke: var(--tog-on-fg); }
 }
-h1 {
-  font: 700 clamp(34px, 6vw, 54px)/1.05 "Fraunces", Georgia, serif;
-  margin: 0; letter-spacing: -.02em;
-}
-.tag { margin: 6px 0 0; color: var(--accent); font-weight: 700; letter-spacing: .02em; }
-.bio { max-width: 640px; margin: 22px 0 0; font-size: 18px; color: var(--muted); }
-.bio strong { color: var(--ink); font-weight: 500; }
-.links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
-.links a {
-  text-decoration: none; font-size: 14px; font-weight: 500;
-  padding: 7px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface);
-}
-.links a:hover { border-color: var(--accent); color: var(--accent); }
 
-/* Layout */
-.layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 48px; padding-bottom: 72px; }
-h2 {
-  font: 700 13px/1 "DM Sans", sans-serif; text-transform: uppercase; letter-spacing: .12em;
-  color: var(--muted); margin: 0 0 18px; display: flex; align-items: center; gap: 10px;
-}
-h2 .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); animation: pulse 2s infinite; }
-@keyframes pulse { 50% { opacity: .35; } }
-@media (prefers-reduced-motion: reduce) { h2 .dot { animation: none; } }
+header { padding: 72px 0 40px; }
+.intro { display: flex; gap: 20px; align-items: center; }
+.intro img { width: 84px; height: 84px; border-radius: 50%; object-fit: cover; flex: none; }
+h1 { font-size: clamp(32px, 5vw, 44px); line-height: 1.1; margin: 0; }
+.tag { margin: 4px 0 0; color: var(--muted); }
+.bio { max-width: 680px; margin: 24px 0 0; font-size: 20px; }
+.bio strong { font-weight: 700; }
+.links { display: flex; flex-wrap: wrap; gap: 20px; margin-top: 18px; }
+.links a { font-weight: 700; }
 
-/* Project cards */
-.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
-.card {
-  display: flex; flex-direction: column; text-decoration: none;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
-  overflow: hidden; box-shadow: var(--shadow); transition: transform .15s ease, border-color .15s ease;
-}
-.card:hover { transform: translateY(-3px); border-color: var(--accent); }
-.card:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
-.card .thumb { aspect-ratio: 16 / 9; background: var(--line); overflow: hidden; }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 64px; padding-bottom: 80px; }
+h2 { font-size: 15px; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 8px; padding-bottom: 10px; border-bottom: 2px solid var(--ink); }
+h2 .dot { display: none; }
+
+.grid { display: flex; flex-direction: column; }
+.card { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 20px; align-items: center; padding: 18px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+.card:hover h3 { text-decoration: underline; text-underline-offset: 4px; }
+.card:focus-visible { outline: 3px solid var(--link); outline-offset: 4px; }
+.card .thumb { aspect-ratio: 16 / 10; border-radius: 6px; overflow: hidden; background: var(--line); }
 .card .thumb img { width: 100%; height: 100%; object-fit: cover; }
-.card .body { padding: 14px 16px 16px; }
-.card .top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
-.card h3 { font: 700 20px/1.2 "Fraunces", Georgia, serif; margin: 0; }
-.card .kind {
-  font-size: 12px; font-weight: 700; white-space: nowrap;
-  color: var(--accent); background: var(--accent-soft); padding: 3px 8px; border-radius: 999px;
-}
-.card p { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
-.card .url { margin-top: 10px; font-size: 13px; font-weight: 500; color: var(--ink); opacity: .7; }
+.card .top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+.card h3 { font-size: 22px; line-height: 1.25; margin: 0; }
+.card .kind { font-size: 15px; color: var(--muted); }
+.card .kind.free { color: var(--free); font-weight: 700; }
+.card p { margin: 4px 0 0; color: var(--muted); }
+.card .url { margin-top: 6px; font-size: 15px; color: var(--link); }
 
-/* Timeline */
-aside { align-self: start; }
-.timeline { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--line); }
-.timeline li { position: relative; padding: 0 0 20px 22px; }
-.timeline li::before {
-  content: ""; position: absolute; left: -7px; top: 6px;
-  width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--muted);
-}
-.timeline li.big::before, .timeline li.sold::before { background: var(--accent); border-color: var(--accent); }
-.timeline li.live::before { background: var(--ink); border-color: var(--ink); }
-.timeline .year { font: 700 15px/1.3 "Fraunces", Georgia, serif; }
-.timeline .what { margin: 2px 0 0; font-size: 15px; }
-.timeline .note { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
-.timeline a { color: var(--ink); text-decoration-color: var(--accent); text-underline-offset: 2px; }
-.timeline a:hover { color: var(--accent); }
-.extras { margin: 6px 0 0; padding: 0; list-style: none; }
-.extras li { position: relative; padding: 0 0 4px 14px; font-size: 13px; color: var(--muted); }
-.extras li::before { content: ""; position: absolute; left: 2px; top: 8px; width: 5px; height: 5px; border-radius: 50%; background: var(--line); border: 0; }
-.aka { margin: 8px 0 0; padding: 14px 16px; border: 1px dashed var(--line); border-radius: 12px; font-size: 13px; color: var(--muted); }
+.timeline { list-style: none; margin: 0; padding: 0; }
+.timeline > li { display: grid; grid-template-columns: 56px minmax(0, 1fr); column-gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.timeline .year { grid-row: span 9; font-weight: 700; }
+.timeline .what { margin: 0; font-weight: 700; }
+.timeline .note { margin: 4px 0 0; font-size: 16px; color: var(--muted); }
+.extras { margin: 6px 0 0; padding: 0 0 0 18px; font-size: 16px; color: var(--muted); }
+.extras li { margin: 2px 0; }
+.badge { display: inline-block; font-size: 13px; font-weight: 700; color: var(--free); margin-left: 6px; }
+.badge.live { color: var(--link); }
+.aka { margin: 20px 0 0; font-size: 16px; color: var(--muted); }
 .aka strong { color: var(--ink); }
-.badge {
-  display: inline-block; font: 700 11px/1.4 "DM Sans", sans-serif; text-transform: uppercase; letter-spacing: .06em;
-  color: var(--accent); background: var(--accent-soft); padding: 2px 7px; border-radius: 4px; margin-left: 4px; vertical-align: 2px;
-}
-.badge.live { color: var(--ink); background: var(--chip); }
-.card .kind.free { color: var(--surface); background: var(--accent); }
 
-footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--muted); font-size: 14px; }
+footer { border-top: 1px solid var(--line); padding: 28px 0 48px; color: var(--muted); }
 
-@media (max-width: 900px) {
-  .layout { grid-template-columns: 1fr; gap: 40px; }
-  aside { position: static; }
-}
+@media (max-width: 900px) { .layout { grid-template-columns: 1fr; gap: 48px; } }
 @media (max-width: 560px) {
-  header { padding-top: 36px; }
-  .intro { gap: 16px; }
-  .intro img { width: 72px; height: 72px; }
-  .grid { grid-template-columns: 1fr; }
   .wrap { padding: 0 16px; }
+  header { padding-top: 76px; }
+  .card { grid-template-columns: 112px minmax(0, 1fr); gap: 14px; align-items: start; }
+  .card p { font-size: 16px; }
+  .bio { font-size: 18px; }
 }
 </style>
 </head>
 <body>
+<button class="theme-toggle" type="button" aria-label="Switch light or dark mode">
+  <svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v3M12 19.5v3M1.5 12h3M19.5 12h3M4.6 4.6l2.1 2.1M17.3 17.3l2.1 2.1M4.6 19.4l2.1-2.1M17.3 6.7l2.1-2.1"/></svg>
+  <svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg>
+</button>
+<script>
+document.querySelector(".theme-toggle").addEventListener("click", () => {
+  const root = document.documentElement;
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  root.dataset.theme = dark ? "light" : "dark";
+  try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
+});
+</script>
 
 <header class="wrap">
   <div class="intro">
@@ -160,52 +142,7 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
     <h2 id="now"><span class="dot"></span>What I'm working on now</h2>
     <div class="grid">
 
-      <a class="card" href="https://bettersheets.co">
-        <div class="thumb"><img src="/img/bettersheets.jpg" alt="" loading="lazy"></div>
-        <div class="body">
-          <div class="top"><h3>Better Sheets</h3><span class="kind">Google Sheets</span></div>
-          <p>Hundreds of templates, tools and 600+ tutorials that make you better at Google Sheets and Apps Script.</p>
-          <div class="url">bettersheets.co</div>
-        </div>
-      </a>
-
-      <a class="card" href="https://ansaur.com">
-        <div class="thumb"><img src="/img/ansaur.jpg" alt="" loading="lazy"></div>
-        <div class="body">
-          <div class="top"><h3>Ansaur</h3><span class="kind">SEO</span></div>
-          <p>Finds the real questions people search in your niche that you haven't answered yet. Real volume, no AI guesses.</p>
-          <div class="url">ansaur.com</div>
-        </div>
-      </a>
-
-      <a class="card" href="https://howdoneit.com">
-        <div class="thumb"><img src="/img/howdoneit.jpg" alt="" loading="lazy"></div>
-        <div class="body">
-          <div class="top"><h3>How Done It</h3><span class="kind">Game</span></div>
-          <p>A voice-driven detective game. You know who did it. Interrogate the suspect and prove how.</p>
-          <div class="url">howdoneit.com</div>
-        </div>
-      </a>
-
-      <a class="card" href="https://balimicro.com">
-        <div class="thumb"><img src="/img/balimicro.jpg" alt="" loading="lazy"></div>
-        <div class="body">
-          <div class="top"><h3>Bali Micro</h3><span class="kind">3D printed</span></div>
-          <p>Tiny 3D-printed keychains and bag charms made in Bali, sold in padel clubs, cafés and studios.</p>
-          <div class="url">balimicro.com</div>
-        </div>
-      </a>
-
-      <a class="card" href="https://keychainmaker.app">
-        <div class="thumb"><img src="/img/keychainmaker.jpg" alt="" loading="lazy"></div>
-        <div class="body">
-          <div class="top"><h3>Keychain Maker</h3><span class="kind">Mac + web</span></div>
-          <p>Turn any logo into a printable 3D keychain file, ready for your printer in a couple of clicks.</p>
-          <div class="url">keychainmaker.app</div>
-        </div>
-      </a>
-
-      <a class="card" href="https://wheresmymouse.com">
+      <a class="card" style="--c:#2f6bff" href="https://wheresmymouse.com">
         <div class="thumb"><img src="/img/wheresmymouse.jpg" alt="" loading="lazy"></div>
         <div class="body">
           <div class="top"><h3>Where's My Mouse?</h3><span class="kind free">Free Mac app</span></div>
@@ -214,7 +151,7 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
         </div>
       </a>
 
-      <a class="card" href="https://bigbeanbattle.com">
+      <a class="card" style="--c:#4caf50" href="https://bigbeanbattle.com">
         <div class="thumb"><img src="/img/bigbeanbattle.jpg" alt="" loading="lazy"></div>
         <div class="body">
           <div class="top"><h3>Big Bean Battle</h3><span class="kind free">Free game</span></div>
@@ -223,12 +160,57 @@ footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--m
         </div>
       </a>
 
-      <a class="card" href="https://rippn.app">
+      <a class="card" style="--c:#0f9d58" href="https://bettersheets.co">
+        <div class="thumb"><img src="/img/bettersheets.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Better Sheets</h3><span class="kind">Google Sheets</span></div>
+          <p>Hundreds of templates, tools and 600+ tutorials that make you better at Google Sheets and Apps Script.</p>
+          <div class="url">bettersheets.co</div>
+        </div>
+      </a>
+
+      <a class="card" style="--c:#1d1d1f" href="https://howdoneit.com">
+        <div class="thumb"><img src="/img/howdoneit.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>How Done It</h3><span class="kind">Game</span></div>
+          <p>A voice-driven detective game. You know who did it. Interrogate the suspect and prove how.</p>
+          <div class="url">howdoneit.com</div>
+        </div>
+      </a>
+
+      <a class="card" style="--c:#ff7a2f" href="https://balimicro.com">
+        <div class="thumb"><img src="/img/balimicro.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Bali Micro</h3><span class="kind">3D printed</span></div>
+          <p>Tiny 3D-printed keychains and bag charms made in Bali, sold in padel clubs, cafés and studios.</p>
+          <div class="url">balimicro.com</div>
+        </div>
+      </a>
+
+      <a class="card" style="--c:#f5b800" href="https://keychainmaker.app">
+        <div class="thumb"><img src="/img/keychainmaker.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Keychain Maker</h3><span class="kind">Mac + web</span></div>
+          <p>Turn any logo into a printable 3D keychain file, ready for your printer in a couple of clicks.</p>
+          <div class="url">keychainmaker.app</div>
+        </div>
+      </a>
+
+      <a class="card" style="--c:#ff4d6d" href="https://rippn.app">
         <div class="thumb"><img src="/img/rippn.jpg" alt="" loading="lazy"></div>
         <div class="body">
           <div class="top"><h3>Rippn</h3><span class="kind">Android app</span></div>
           <p>Party games and AI that print on a pocket receipt printer. The paper is the only truth.</p>
           <div class="url">rippn.app</div>
+        </div>
+      </a>
+
+      <a class="card" style="--c:#7c4dff" href="https://ansaur.com">
+        <div class="thumb"><img src="/img/ansaur.jpg" alt="" loading="lazy"></div>
+        <div class="body">
+          <div class="top"><h3>Ansaur</h3><span class="kind">SEO</span></div>
+          <p>Finds the real questions people search in your niche that you haven't answered yet. Real volume, no AI guesses.</p>
+          <div class="url">ansaur.com</div>
         </div>
       </a>
 

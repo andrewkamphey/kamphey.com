@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design Directions</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #111; font: 600 14px/1 system-ui, sans-serif; }
+  .bar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); z-index: 2; display: flex; gap: 4px; padding: 5px; background: #111; border-radius: 999px; box-shadow: 0 6px 24px rgba(0,0,0,.35); }
+  .bar button { border: 0; padding: 10px 16px; border-radius: 999px; background: transparent; color: #ddd; font: inherit; cursor: pointer; white-space: nowrap; }
+  .bar button[aria-pressed="true"] { background: #fff; color: #111; }
+  iframe { display: block; width: 100%; height: 100%; border: 0; background: #fff; }
+</style>
+</head>
+<body>
+<div class="bar" role="group" aria-label="Design">
+  <button data-css="a-plain.css" aria-pressed="true">A · Plain</button>
+  <button data-css="b-blocks.css">B · Blocks</button>
+  <button data-css="c-editorial.css">C · Editorial</button>
+</div>
+<iframe id="f" src="/"></iframe>
+<script>
+const f = document.getElementById("f");
+let current = "a-plain.css";
+async function apply() {
+  const css = await fetch("/_themes/" + current + "?" + Date.now()).then(r => r.text());
+  const d = f.contentDocument;
+  const el = d && d.getElementById("theme");
+  if (el) el.textContent = css;
+}
+f.addEventListener("load", apply);
+document.querySelectorAll(".bar button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll(".bar button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  current = b.dataset.css; apply();
+}));
+</script>
+</body>
+</html>
