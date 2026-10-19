@@ -15,99 +15,90 @@
 <body>
 <div class="bar" role="group" aria-label="Hero">
   <button data-v="now" aria-pressed="true">Current</button>
-  <button data-v="giant">1 · Giant name</button>
-  <button data-v="sticker">2 · Approved sticker</button>
-  <button data-v="marquee">3 · Project reel</button>
+  <button data-v="booth">1 · Photo booth</button>
+  <button data-v="popout">2 · Pop-out</button>
+  <button data-v="stickers">3 · Stickers</button>
 </div>
 <iframe id="f" src="/"></iframe>
 
-<template id="giant">
+<template id="booth">
 <style>
-  .hero-giant { padding: 64px 0 48px; }
-  .hero-giant .kicker { display: flex; align-items: center; gap: 14px; font-size: 18px; color: var(--muted); }
-  .hero-giant .kicker img { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; }
-  .hero-giant .name { font-size: clamp(64px, 15vw, 208px); line-height: .82; font-weight: 700; letter-spacing: -.055em; margin: 18px 0 0; }
-  .hero-giant .name span { display: block; color: var(--link); }
-  .hero-giant .row { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 24px; margin-top: 32px; }
-  .hero-giant .bio { margin: 0; max-width: 560px; font-size: 22px; line-height: 1.45; }
-  .hero-giant .count { text-align: right; font-size: 15px; color: var(--muted); }
-  .hero-giant .count b { display: block; font-size: 64px; line-height: 1; color: var(--ink); letter-spacing: -.03em; }
-  .hero-giant .links { margin-top: 22px; }
-  @media (max-width: 560px) { .hero-giant .count { text-align: left; } .hero-giant .bio { font-size: 19px; } }
+  .hero-booth { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 56px; align-items: center; padding: 72px 0 48px; }
+  .hero-booth h1 { font-size: clamp(48px, 8vw, 104px); line-height: .9; letter-spacing: -.045em; margin: 0; }
+  .hero-booth .tag { font-size: 20px; margin-top: 14px; }
+  .hero-booth .bio { max-width: 600px; }
+  .strip { width: 210px; padding: 12px 12px 0; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 18px 40px rgba(0,0,0,.18); transform: rotate(4deg); transition: transform .25s ease; }
+  .strip:hover { transform: rotate(0) scale(1.03); }
+  .strip img { width: 100%; aspect-ratio: 1; object-fit: cover; margin-bottom: 10px; filter: contrast(1.05) saturate(1.1); }
+  .strip p { margin: 0; padding: 4px 0 12px; text-align: center; font: 700 13px/1 "Source Sans 3", sans-serif; letter-spacing: .25em; color: #222; }
+  @media (max-width: 760px) { .hero-booth { grid-template-columns: 1fr; gap: 32px; } .strip { width: auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; padding: 8px; transform: rotate(-2deg); } .strip img { margin: 0; } .strip p { display: none; } }
 </style>
-<header class="wrap hero-giant">
-  <div class="kicker"><img src="/img/andrew.jpg" alt="Andrew Kamphey">Creator / Coder in the Florida tropics</div>
-  <h1 class="name">Andrew <span>Kamphey</span></h1>
-  <div class="row">
-    <p class="bio">Cruise ships, then LA television, then Google Sheets forever. Since 2020 I've run <strong>Better Sheets</strong>, and now I build a lot of things at once.</p>
-    <div class="count"><b>8</b>things live right now</div>
+<header class="wrap hero-booth">
+  <div>
+    <h1>Andrew<br>Kamphey</h1>
+    <p class="tag">Creator / Coder</p>
+    <p class="bio">I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left. Since 2020 I've run <strong>Better Sheets</strong>. These days I build a lot of things at once.</p>
+    <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
   </div>
+  <div class="strip" aria-hidden="true">
+    <img src="/img/me/face-4.jpg" alt=""><img src="/img/me/face-6.jpg" alt=""><img src="/img/me/face-2.jpg" alt=""><img src="/img/me/face-5.jpg" alt="">
+    <p>KAMPHEY · 2026</p>
+  </div>
+</header>
+</template>
+
+<template id="popout">
+<style>
+  .hero-pop { position: relative; padding: 64px 0 40px; text-align: center; }
+  .hero-pop .first { font-size: clamp(22px, 3vw, 34px); font-weight: 700; margin: 0; }
+  .hero-pop .giant { position: relative; height: clamp(220px, 34vw, 440px); margin-top: 4px; }
+  .hero-pop .giant h1 { position: absolute; inset: 0 0 auto; font-size: clamp(76px, 17vw, 236px); line-height: .85; letter-spacing: -.06em; margin: 0; color: var(--link); }
+  .hero-pop .giant button { position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); width: clamp(240px, 38vw, 500px); padding: 0; border: 0; background: none; cursor: pointer; }
+  .hero-pop .giant img { width: 100%; display: block; filter: drop-shadow(0 18px 24px rgba(0,0,0,.25)); transition: transform .2s ease; }
+  .hero-pop .giant button:hover img { transform: translateY(-6px) rotate(-2deg); }
+  .hero-pop .hint { position: absolute; right: 6%; top: 46%; font-size: 15px; font-weight: 700; color: var(--muted); transform: rotate(8deg); }
+  .hero-pop .bio { margin: 28px auto 0; max-width: 680px; }
+  .hero-pop .links { justify-content: center; }
+  @media (max-width: 560px) { .hero-pop .hint { display: none; } }
+</style>
+<header class="wrap hero-pop">
+  <p class="first">Andrew</p>
+  <div class="giant">
+    <h1>KAMPHEY</h1>
+    <button type="button" aria-label="Show another photo" onclick="const p=['4','6','2','5','7','1','3'];this.dataset.i=((+this.dataset.i||0)+1)%p.length;this.querySelector('img').src='/img/me/cut-'+p[this.dataset.i]+'.png'"><img src="/img/me/cut-4.png" alt="Andrew Kamphey"></button>
+    <span class="hint">click me ↺</span>
+  </div>
+  <p class="bio">Creator / Coder. I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left. Since 2020 I've run <strong>Better Sheets</strong>.</p>
   <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
 </header>
 </template>
 
-<template id="sticker">
+<template id="stickers">
 <style>
-  .hero-sticker { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 40px; align-items: center; padding: 72px 0 48px; }
-  .hero-sticker .hi { font-size: 20px; color: var(--muted); margin: 0; }
-  .hero-sticker .big { font-size: clamp(34px, 5.2vw, 64px); line-height: 1.08; font-weight: 700; letter-spacing: -.03em; margin: 8px 0 0; }
-  .hero-sticker .big a { color: inherit; text-decoration: none; background: linear-gradient(var(--hl), var(--hl)) 0 88% / 100% .32em no-repeat; transition: background-size .2s ease; }
-  .hero-sticker .big a:hover { background-size: 100% .9em; }
-  .hero-sticker .big a:nth-of-type(1) { --hl: #ffd84d80; }
-  .hero-sticker .big a:nth-of-type(2) { --hl: #4caf5066; }
-  .hero-sticker .big a:nth-of-type(3) { --hl: #2f6bff55; }
-  .hero-sticker .big a:nth-of-type(4) { --hl: #ff7a2f66; }
-  .hero-sticker .sub { margin: 20px 0 0; max-width: 620px; font-size: 19px; color: var(--muted); }
-  .sticker { position: relative; width: 240px; height: 240px; transform: rotate(-9deg); }
-  .sticker .ring { position: absolute; inset: 0; border-radius: 50%; background: #ffd84d; border: 4px solid #141414; box-shadow: 0 10px 0 -2px rgba(0,0,0,.12); }
-  .sticker img { position: absolute; inset: 42px; width: 156px; height: 156px; border-radius: 50%; object-fit: cover; border: 4px solid #141414; }
-  .sticker svg { position: absolute; inset: 0; width: 100%; height: 100%; animation: spin 24s linear infinite; }
-  .sticker text { font: 700 19px "Source Sans 3", sans-serif; letter-spacing: .2em; fill: #141414; text-transform: uppercase; }
-  @keyframes spin { to { transform: rotate(360deg); } }
-  @media (prefers-reduced-motion: reduce) { .sticker svg { animation: none; } }
-  @media (max-width: 760px) { .hero-sticker { grid-template-columns: 1fr; } .sticker { width: 180px; height: 180px; order: -1; } .sticker img { inset: 32px; width: 116px; height: 116px; } .sticker text { font-size: 15px; } }
+  .hero-stk { position: relative; padding: 96px 0 64px; min-height: 560px; }
+  .hero-stk .hi { font-size: 20px; color: var(--muted); margin: 0; }
+  .hero-stk h1 { position: relative; z-index: 2; max-width: 760px; font-size: clamp(36px, 5.4vw, 70px); line-height: 1.05; letter-spacing: -.03em; margin: 8px 0 0; }
+  .hero-stk h1 a { color: inherit; text-decoration: none; background: linear-gradient(var(--hl), var(--hl)) 0 88% / 100% .3em no-repeat; }
+  .hero-stk h1 a:nth-of-type(1) { --hl: #ffd84d90; } .hero-stk h1 a:nth-of-type(2) { --hl: #4caf5070; } .hero-stk h1 a:nth-of-type(3) { --hl: #2f6bff60; } .hero-stk h1 a:nth-of-type(4) { --hl: #ff7a2f70; }
+  .hero-stk .bio { position: relative; z-index: 2; max-width: 560px; }
+  .hero-stk .links { position: relative; z-index: 2; }
+  .stk { position: absolute; z-index: 1; width: var(--w); transform: rotate(var(--r)); filter: drop-shadow(3px 0 0 #fff) drop-shadow(-3px 0 0 #fff) drop-shadow(0 3px 0 #fff) drop-shadow(0 -3px 0 #fff) drop-shadow(0 8px 12px rgba(0,0,0,.22)); transition: transform .2s ease; }
+  .stk:hover { transform: rotate(0) scale(1.08); z-index: 3; }
+  .stk.s1 { --w: 230px; --r: 8deg; right: 0; top: 40px; }
+  .stk.s2 { --w: 190px; --r: -10deg; right: 220px; top: 250px; }
+  .stk.s3 { --w: 170px; --r: 12deg; right: 10px; top: 330px; }
+  .stk.s4 { --w: 150px; --r: -6deg; right: 260px; top: 40px; }
+  @media (max-width: 980px) { .stk.s2, .stk.s4 { display: none; } .stk.s1 { --w: 170px; } .stk.s3 { --w: 130px; top: 260px; } .hero-stk h1 { max-width: 70%; } }
+  @media (max-width: 600px) { .hero-stk { min-height: 0; padding-top: 220px; } .stk.s1 { --w: 150px; top: 70px; right: auto; left: 0; } .stk.s3 { --w: 120px; top: 80px; right: 0; } .hero-stk h1 { max-width: none; } }
+  @media (prefers-reduced-motion: reduce) { .stk { transition: none; } }
 </style>
-<header class="wrap hero-sticker">
-  <div>
-    <p class="hi">Hi, I'm Andrew Kamphey.</p>
-    <h1 class="big">I make <a href="https://bettersheets.co">software</a>, <a href="https://bigbeanbattle.com">games</a>, <a href="https://wheresmymouse.com">apps</a> and <a href="https://balimicro.com">stuff you can hold</a>.</h1>
-    <p class="sub">Cruise ships, LA television, then Google Sheets forever. Since 2020 I've run <strong>Better Sheets</strong>.</p>
-    <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
-  </div>
-  <div class="sticker" aria-hidden="true">
-    <div class="ring"></div>
-    <svg viewBox="0 0 240 240"><defs><path id="c" d="M120,120 m-99,0 a99,99 0 1,1 198,0 a99,99 0 1,1 -198,0"/></defs><text><textPath href="#c">Kamphey Approved ★ Kamphey Approved ★</textPath></text></svg>
-    <img src="/img/andrew.jpg" alt="">
-  </div>
-</header>
-</template>
-
-<template id="marquee">
-<style>
-  .hero-reel { padding: 0 0 44px; }
-  .reel { overflow: hidden; margin: 0 calc(50% - 50vw); padding: 70px 0 28px; }
-  .reel .track { display: flex; gap: 14px; width: max-content; animation: reel 40s linear infinite; }
-  .reel:hover .track { animation-play-state: paused; }
-  .reel a { flex: none; width: 260px; aspect-ratio: 16 / 9; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); transform: rotate(var(--r)); transition: transform .2s ease; }
-  .reel a:hover { transform: rotate(0) scale(1.05); }
-  .reel img { width: 100%; height: 100%; object-fit: cover; }
-  @keyframes reel { to { transform: translateX(-50%); } }
-  @media (prefers-reduced-motion: reduce) { .reel .track { animation: none; } }
-  .hero-reel .head { display: flex; gap: 20px; align-items: center; }
-  .hero-reel .head img { width: 84px; height: 84px; border-radius: 50%; object-fit: cover; }
-  .hero-reel h1 { font-size: clamp(36px, 6vw, 64px); line-height: 1; letter-spacing: -.03em; margin: 0; }
-  .hero-reel h1 small { display: block; font-size: 18px; letter-spacing: 0; font-weight: 400; color: var(--muted); margin-top: 6px; }
-  .hero-reel .bio { max-width: 700px; margin: 22px 0 0; font-size: 20px; }
-  @media (max-width: 560px) { .reel a { width: 190px; } .reel { padding-top: 76px; } }
-</style>
-<header class="wrap hero-reel">
-  <div class="reel" aria-label="Projects">
-    <div class="track"></div>
-  </div>
-  <div class="head">
-    <img src="/img/andrew.jpg" alt="Andrew Kamphey">
-    <h1>Andrew Kamphey<small>Creator / Coder. Building all of this, right now.</small></h1>
-  </div>
+<header class="wrap hero-stk">
+  <img class="stk s1" src="/img/me/cut-4.png" alt="">
+  <img class="stk s2" src="/img/me/cut-2.png" alt="">
+  <img class="stk s3" src="/img/me/cut-6.png" alt="">
+  <img class="stk s4" src="/img/me/cut-7.png" alt="">
+  <p class="hi">Hi, I'm Andrew Kamphey.</p>
+  <h1>I make <a href="https://bettersheets.co">software</a>, <a href="https://bigbeanbattle.com">games</a>, <a href="https://wheresmymouse.com">apps</a> and <a href="https://balimicro.com">stuff you can hold</a>.</h1>
   <p class="bio">I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left. Since 2020 I've run <strong>Better Sheets</strong>.</p>
   <nav class="links" aria-label="Elsewhere"><a href="https://x.com/Kamphey">X / Twitter</a> <a href="https://www.youtube.com/bettersheets">YouTube</a> <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a></nav>
 </header>
