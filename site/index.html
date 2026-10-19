@@ -7,7 +7,7 @@
 <meta name="description" content="Andrew Kamphey, creator and coder. Everything I'm building right now: Where's My Mouse, Big Bean Battle, Better Sheets, How Done It, Bali Micro, Keychain Maker, Rippn and Ansaur.">
 <meta property="og:title" content="Andrew Kamphey">
 <meta property="og:description" content="Creator / coder. Everything I'm building right now, plus the years that got me here.">
-<meta property="og:image" content="https://kamphey.com/img/andrew.jpg">
+<meta property="og:image" content="https://kamphey.com/img/me/face-3.jpg">
 <meta property="og:url" content="https://kamphey.com">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -53,7 +53,9 @@ img { display: block; max-width: 100%; }
   :root:not([data-theme="light"]) .theme-toggle .moon { background: var(--tog-on-bg); stroke: var(--tog-on-fg); }
 }
 
-header { padding: 72px 0 40px; }
+header { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 64px; align-items: center; padding: 72px 0 40px; }
+.photos { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.photos img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 14px; }
 .intro { display: flex; gap: 28px; align-items: center; }
 .intro img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; flex: none; }
 h1 { font-size: clamp(32px, 5vw, 44px); line-height: 1.1; margin: 0; }
@@ -100,7 +102,7 @@ aside { padding-top: 12px; }
 
 footer { border-top: 1px solid var(--line); padding: 28px 0 48px; color: var(--muted); }
 
-@media (max-width: 900px) { .layout { grid-template-columns: 1fr; gap: 48px; } }
+@media (max-width: 900px) { .layout, header { grid-template-columns: 1fr; gap: 48px; } header { gap: 28px; } .photos { grid-template-columns: repeat(4, 1fr); max-width: 520px; } }
 @media (max-width: 560px) {
   .intro { gap: 18px; }
   .intro img { width: 112px; height: 112px; }
@@ -127,22 +129,30 @@ document.querySelector(".theme-toggle").addEventListener("click", () => {
 </script>
 
 <header class="wrap">
-  <div class="intro">
-    <img src="/img/andrew.jpg" alt="Andrew Kamphey" width="180" height="180">
-    <div>
-      <h1>Andrew Kamphey</h1>
-      <p class="tag">Creator / Coder</p>
+  <div class="hero-text">
+    <div class="intro">
+      <img src="/img/me/face-3.jpg" alt="Andrew Kamphey" width="180" height="180">
+      <div>
+        <h1>Andrew Kamphey</h1>
+        <p class="tag">Creator / Coder</p>
+      </div>
     </div>
+    <p class="bio">
+      I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left.
+      Since 2020 I've run <strong>Better Sheets</strong>. These days I build a lot of things at once: software, games, apps and stuff you can hold.
+    </p>
+    <nav class="links" aria-label="Elsewhere">
+      <a href="https://x.com/Kamphey">X / Twitter</a>
+      <a href="https://www.youtube.com/bettersheets">YouTube</a>
+      <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a>
+    </nav>
   </div>
-  <p class="bio">
-    I grew up in the Florida tropics, spent years on cruise ships and in LA television, then fell for Google Sheets and never left.
-    Since 2020 I've run <strong>Better Sheets</strong>. These days I build a lot of things at once: software, games, apps and stuff you can hold.
-  </p>
-  <nav class="links" aria-label="Elsewhere">
-    <a href="https://x.com/Kamphey">X / Twitter</a>
-    <a href="https://www.youtube.com/bettersheets">YouTube</a>
-    <a href="https://www.linkedin.com/in/andrewkamphey">LinkedIn</a>
-  </nav>
+  <div class="photos" aria-hidden="true">
+    <img src="/img/me/face-2.jpg" alt="">
+    <img src="/img/me/face-4.jpg" alt="">
+    <img src="/img/me/face-6.jpg" alt="">
+    <img src="/img/me/face-5.jpg" alt="">
+  </div>
 </header>
 
 <main class="wrap layout">
@@ -226,7 +236,7 @@ document.querySelector(".theme-toggle").addEventListener("click", () => {
   </section>
 
   <aside aria-labelledby="years">
-    <h2 id="years">Years gone by</h2>
+    <h2 id="years">How I got here</h2>
     <ol class="timeline">
       <li class="big">
         <div class="year">2026</div>
