@@ -1,0 +1,305 @@
+{
+ "items": [
+  {
+   "episode": "Why Do Donuts Have Holes?",
+   "date": "2026-03-09",
+   "orig": "When a donut cooks, what part touches the hot oil first? The outside or the inside?",
+   "prompt": "When a donut cooks, what part touches the hot oil first?",
+   "answer": "The outside",
+   "choices": [
+    "The inside",
+    "The hole"
+   ]
+  },
+  {
+   "episode": "Why Do Donuts Have Holes?",
+   "date": "2026-03-09",
+   "orig": "And what is the word for heat traveling through food from the outside toward the inside?",
+   "prompt": "What is the word for heat traveling through food from the outside toward the inside?",
+   "answer": "Conduction",
+   "choices": [
+    "Evaporation",
+    "Melting"
+   ]
+  },
+  {
+   "episode": "How Do Fireflies Glow?",
+   "date": "2026-09-13",
+   "orig": "What is the name of the special glow making process in fireflies?",
+   "prompt": "What is the name of the special glow-making process in fireflies?",
+   "answer": "Bioluminescence",
+   "choices": [
+    "Photosynthesis",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do Fireflies Glow?",
+   "date": "2026-09-13",
+   "orig": "What are the two special chemicals that fireflies use to glow?",
+   "prompt": "What are the two special chemicals that fireflies use to glow?",
+   "answer": "Luciferin and luciferase",
+   "choices": [
+    "Melanin and keratin",
+    "Oxygen and helium"
+   ]
+  },
+  {
+   "episode": "What Is an Eclipse?",
+   "date": "2026-09-14",
+   "orig": "What moves between Earth and the sun during a solar eclipse?",
+   "prompt": "What moves between Earth and the sun during a solar eclipse?",
+   "answer": "The moon",
+   "choices": [
+    "Mars",
+    "A cloud"
+   ]
+  },
+  {
+   "episode": "What Is an Eclipse?",
+   "date": "2026-09-14",
+   "orig": "And during a lunar eclipse, whose shadow falls across the moon?",
+   "prompt": "During a lunar eclipse, whose shadow falls across the moon?",
+   "answer": "Earth's shadow",
+   "choices": [
+    "The sun's shadow",
+    "Mars's shadow"
+   ],
+   "explain": "The sun hits Earth, and then Earth's shadow hits the moon."
+  },
+  {
+   "episode": "What Is an Eclipse?",
+   "date": "2026-09-14",
+   "orig": "And what is the sun's outer atmosphere called?",
+   "prompt": "What is the sun's outer atmosphere called?",
+   "answer": "The corona",
+   "choices": [
+    "The core",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "Who Is the Fastest Human?",
+   "date": "2026-09-21",
+   "orig": "What race is used to determine the fastest sprinters in the world?",
+   "prompt": "What race is used to find the fastest sprinters in the world?",
+   "answer": "The 100 meter sprint",
+   "choices": [
+    "The marathon",
+    "The mile run"
+   ]
+  },
+  {
+   "episode": "Who Is the Fastest Human?",
+   "date": "2026-09-21",
+   "orig": "And what is Usain Bolt's world record? How long did it take him to run 100 meters?",
+   "prompt": "How long did it take Usain Bolt to run 100 meters?",
+   "answer": "9.58 seconds",
+   "choices": [
+    "30 seconds",
+    "2 minutes"
+   ]
+  },
+  {
+   "episode": "Who Is the Fastest Human?",
+   "date": "2026-09-21",
+   "orig": "And about how fast was Usain Bolt moving during the fastest part of his race?",
+   "prompt": "About how fast was Usain Bolt moving during the fastest part of his race?",
+   "answer": "About 28 miles per hour",
+   "choices": [
+    "About 5 miles per hour",
+    "About 100 miles per hour"
+   ]
+  },
+  {
+   "episode": "How Do Helicopters Fly?",
+   "date": "2026-09-22",
+   "orig": "What are the long spinning blades on top of a helicopter called?",
+   "prompt": "What are the long spinning blades on top of a helicopter called?",
+   "answer": "Rotor blades",
+   "choices": [
+    "Tail fins",
+    "Landing skids"
+   ]
+  },
+  {
+   "episode": "How Do Helicopters Fly?",
+   "date": "2026-09-22",
+   "orig": "And what is the upward force that helps an aircraft overcome its weight?",
+   "prompt": "What is the upward force that helps an aircraft overcome its weight?",
+   "answer": "Lift",
+   "choices": [
+    "Gravity",
+    "Drag"
+   ]
+  },
+  {
+   "episode": "How Do Helicopters Fly?",
+   "date": "2026-09-22",
+   "orig": "And what happens when a helicopter's lift is about equal to its weight?",
+   "prompt": "What happens when a helicopter's lift is about equal to its weight?",
+   "answer": "It can hover",
+   "choices": [
+    "It falls fast",
+    "It flips over"
+   ]
+  },
+  {
+   "episode": "Why Do Cats Always Land on Their Feet?",
+   "date": "2026-09-23",
+   "orig": "What is the automatic ability that helps a cat land safely?",
+   "prompt": "What is the automatic ability that helps a cat land safely?",
+   "answer": "The righting reflex",
+   "choices": [
+    "The purring reflex",
+    "The jumping reflex"
+   ]
+  },
+  {
+   "episode": "Why Do Cats Always Land on Their Feet?",
+   "date": "2026-09-23",
+   "orig": "And what part of a cat's body is flexible enough to help the front and back move differently while the cat turns?",
+   "prompt": "What part of a cat's body is flexible enough to let the front and back move differently while it turns?",
+   "answer": "The spine",
+   "choices": [
+    "The whiskers",
+    "The ears"
+   ]
+  },
+  {
+   "episode": "What Are Lasers and How Do They Work?",
+   "date": "2026-09-24",
+   "orig": "What do we call the tiny packets of light energy that are produced inside a laser?",
+   "prompt": "What do we call the tiny packets of light energy made inside a laser?",
+   "answer": "Photons",
+   "choices": [
+    "Pixels",
+    "Bubbles"
+   ]
+  },
+  {
+   "episode": "What Are Lasers and How Do They Work?",
+   "date": "2026-09-24",
+   "orig": "And do you remember what can bounce light back and forth inside a laser?",
+   "prompt": "What can bounce light back and forth inside a laser?",
+   "answer": "Mirrors",
+   "choices": [
+    "Magnets",
+    "Batteries"
+   ]
+  },
+  {
+   "episode": "What Are Lasers and How Do They Work?",
+   "date": "2026-09-24",
+   "orig": "And what is the process called where one photon causes an excited particle to release another matching photon?",
+   "prompt": "What is the process called where one photon makes an excited particle release another matching photon?",
+   "answer": "Stimulated emission",
+   "choices": [
+    "Photosynthesis",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do Car Airbags Work?",
+   "date": "2026-09-25",
+   "orig": "What does the car use to measure what is happening when a crash begins?",
+   "prompt": "What does a car use to measure what is happening when a crash begins?",
+   "answer": "Crash sensors",
+   "choices": [
+    "Headlights",
+    "Mirrors"
+   ]
+  },
+  {
+   "episode": "How Do Car Airbags Work?",
+   "date": "2026-09-25",
+   "orig": "And what fills an airbag when it deploys?",
+   "prompt": "What fills an airbag when it opens?",
+   "answer": "Gas",
+   "choices": [
+    "Water",
+    "Foam"
+   ]
+  },
+  {
+   "episode": "How Do Car Airbags Work?",
+   "date": "2026-09-25",
+   "orig": "And about how quickly can an airbag inflate?",
+   "prompt": "About how quickly can an airbag inflate?",
+   "answer": "Less than a second",
+   "choices": [
+    "About a minute",
+    "About an hour"
+   ],
+   "explain": "It's about 1/20th of a second."
+  },
+  {
+   "episode": "How Do Car Airbags Work?",
+   "date": "2026-09-25",
+   "orig": "And what device is designed to work together with an airbag to keep you safe?",
+   "prompt": "What is designed to work together with an airbag to keep you safe?",
+   "answer": "Your seatbelt",
+   "choices": [
+    "The radio",
+    "The windshield wipers"
+   ]
+  },
+  {
+   "episode": "What Is the Biggest Fish?",
+   "date": "2026-09-26",
+   "orig": "Does a whale shark breathe with lungs or gills?",
+   "prompt": "Does a whale shark breathe with lungs or gills?",
+   "answer": "Gills",
+   "choices": [
+    "Lungs",
+    "A blowhole"
+   ]
+  },
+  {
+   "episode": "What Is the Biggest Fish?",
+   "date": "2026-09-26",
+   "orig": "And what kind of food does a whale shark mostly eat?",
+   "prompt": "What kind of food does a whale shark mostly eat?",
+   "answer": "Tiny food like plankton",
+   "choices": [
+    "Seals",
+    "Big fish"
+   ]
+  },
+  {
+   "episode": "What Is the Biggest Fish?",
+   "date": "2026-09-26",
+   "orig": "And what does filter feeder mean?",
+   "prompt": "What does filter feeder mean?",
+   "answer": "Strains tiny food from water",
+   "choices": [
+    "Eats only plants",
+    "Hunts big animals"
+   ],
+   "explain": "It takes in water and separates out the tiny food."
+  },
+  {
+   "episode": "Why Do Veins Look Blue?",
+   "date": "2026-10-05",
+   "orig": "What color is the blood inside your veins?",
+   "prompt": "What color is the blood inside your veins?",
+   "answer": "Red",
+   "choices": [
+    "Blue",
+    "Purple"
+   ]
+  },
+  {
+   "episode": "Why Do Veins Look Blue?",
+   "date": "2026-10-05",
+   "orig": "And what protein inside red blood cells helps give blood its red color?",
+   "prompt": "What protein inside red blood cells helps give blood its red color?",
+   "answer": "Hemoglobin",
+   "choices": [
+    "Melanin",
+    "Keratin"
+   ]
+  }
+ ],
+ "dropped": []
+}

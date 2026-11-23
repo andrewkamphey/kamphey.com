@@ -1,0 +1,21 @@
+1 e=It goes downhill, just thanks to gravity.
+10 e=
+15 e=
+25 e=
+34 e=Like a sponge, the ground eventually gets completely filled with water.
+42 e=It's not a hole. It's super compressed matter.
+45 e=
+48 e=Curds are the soft, chunky parts. Whey is the watery liquid.
+56 e=A small bruise may still be okay.
+59 a=F ;; e=
+62 e=
+80 e=They turn the diaphragm's movement into an electrical signal in different ways.
+81 e=That kind of power is called phantom power.
+88 e=
+-89 fragment
+90 a=F ;; e=Tickling often makes us laugh.
+-91 answer to previous item
+96 e=Crumbs can float away and get into someone's eye or the air vents.
+97 e=Tides are mainly caused by the pull of the moon and sun.
+98 e=An earthquake must move enough of the seafloor to push a large amount of water.
+100 e=A later wave may be larger.

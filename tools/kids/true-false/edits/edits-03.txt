@@ -1,0 +1,27 @@
+11 p=Some bottled water comes straight from natural springs.
+18 p=Jupiter is so big that more than 1,300 Earths could fit inside of it.
+20 e=
+22 e=
+38 p=Cirrus clouds are often found close to the ground.
+39 e=
+40 e=They get their name from the humming sound of their wings flapping so fast.
+41 e=They have to be eating constantly.
+42 e=Sometimes they are literally just floating in the sky in one spot.
+44 e=
+45 a=F ;; e=Titan's rivers and lakes are filled with liquid methane and ethane, not water.
+46 a=T ;; e=That's faster than a jet airplane.
+-47 fragment, answer belongs to previous item
+48 p=At Saturn's North Pole, there's a giant storm shaped like a hexagon. ;; e=It's so big you could fit four Earths inside.
+57 e=
+61 p=Plaque is easy to see because it's bright green.
+71 e=
+73 e=
+79 e=Water is way better for hydrating you than soda.
+82 p=Bird songs can act like "Hello, I'm over here" messages to help flocks stay together.
+85 e=It's a mammal. It has to come up for air.
+-87 not a factual statement (time travel paradox)
+93 e=
+95 p=Astronomers discovered Neptune by spotting it with a telescope first.
+104 e=Mirrors work because of light.
+107 e=So are your eyes, darting back and forth under your eyelids.
+108 e=We've learned quite a bit by studying people's brains.

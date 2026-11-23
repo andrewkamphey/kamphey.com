@@ -1,0 +1,22 @@
+1 e=They sting many times.
+2 e=
+4 e=A white-throated needletail can go about 105 miles an hour, and a cheetah runs about 70.
+5 e=
+17 e=They can hear inside their mama's tummy.
+21 e=It's just nerves being squished.
+23 p=Paresthesia is another name for the pins and needles feeling.
+27 e=
+-28 fragment, not a statement
+-34 about Josh himself, needs the show
+35 e=
+-36 about Josh himself, needs the show
+-37 about Josh himself, needs the show
+-41 paradox with no true/false answer
+59 e=
+67 a=F
+-68 duplicate intro of the next item
+69 e=
+82 e=
+83 e=
+91 e=
+92 e=

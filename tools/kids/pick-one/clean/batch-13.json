@@ -1,0 +1,968 @@
+{
+ "items": [
+  {
+   "episode": "How Do Things Glow in the Dark?",
+   "date": "2026-06-24",
+   "orig": "What special material is often used in glow-in-the-dark toys to store energy from light?",
+   "prompt": "What special material is often used in glow-in-the-dark toys to store energy from light?",
+   "answer": "Phosphors",
+   "choices": [
+    "Batteries",
+    "Crayons"
+   ]
+  },
+  {
+   "episode": "How Do Things Glow in the Dark?",
+   "date": "2026-06-24",
+   "orig": "And what happens inside a glow stick when you bend it?",
+   "prompt": "What happens inside a glow stick when you bend it?",
+   "answer": "Chemicals mix and react",
+   "choices": [
+    "A light bulb turns on",
+    "It soaks up sunlight"
+   ]
+  },
+  {
+   "episode": "How Do Things Glow in the Dark?",
+   "date": "2026-06-24",
+   "orig": "And what is the name for light produced by living things, like fireflies?",
+   "prompt": "What is the name for light made by living things, like fireflies?",
+   "answer": "Bioluminescence",
+   "choices": [
+    "Photosynthesis",
+    "Electricity"
+   ]
+  },
+  {
+   "episode": "Why Are Some Babies Twins?",
+   "date": "2026-06-25",
+   "orig": "What are twins called when they come from two different eggs?",
+   "prompt": "What are twins called when they come from two different eggs?",
+   "answer": "Fraternal twins",
+   "choices": [
+    "Identical twins",
+    "Triplets"
+   ]
+  },
+  {
+   "episode": "Why Are Some Babies Twins?",
+   "date": "2026-06-25",
+   "orig": "And what are twins called when one fertilized egg splits into two?",
+   "prompt": "What are twins called when one egg splits into two?",
+   "answer": "Identical twins",
+   "choices": [
+    "Fraternal twins",
+    "Quadruplets"
+   ]
+  },
+  {
+   "episode": "Why Are Some Berries Poisonous?",
+   "date": "2026-06-26",
+   "orig": "What animals often spread berry seeds to new places?",
+   "prompt": "What animals often spread berry seeds to new places?",
+   "answer": "Birds",
+   "choices": [
+    "Fish",
+    "Worms"
+   ]
+  },
+  {
+   "episode": "Where Does Waste Go After You Flush the Toilet?",
+   "date": "2026-06-27",
+   "orig": "Where does wastewater go after it leaves your house?",
+   "prompt": "Where does toilet water go first after it leaves your house?",
+   "answer": "Underground sewer pipes",
+   "choices": [
+    "Straight to the ocean",
+    "Up into the clouds"
+   ]
+  },
+  {
+   "episode": "Where Does Waste Go After You Flush the Toilet?",
+   "date": "2026-06-27",
+   "orig": "And what tiny helpers break down small waste in aeration tanks?",
+   "prompt": "What tiny helpers break down waste at a treatment plant?",
+   "answer": "Bacteria",
+   "choices": [
+    "Ants",
+    "Fish"
+   ]
+  },
+  {
+   "episode": "Where Does Waste Go After You Flush the Toilet?",
+   "date": "2026-06-27",
+   "orig": "And what is the leftover solid material at treatment plants called?",
+   "prompt": "What is the leftover solid material at treatment plants called?",
+   "answer": "Sludge",
+   "choices": [
+    "Slime",
+    "Gravel"
+   ]
+  },
+  {
+   "episode": "How Do Fireworks Work?",
+   "date": "2026-06-29",
+   "orig": "What is the tube called that helps launch an aerial shell into the sky?",
+   "prompt": "What is the tube called that launches a firework shell into the sky?",
+   "answer": "A mortar",
+   "choices": [
+    "A chimney",
+    "A straw"
+   ]
+  },
+  {
+   "episode": "How Do Fireworks Work?",
+   "date": "2026-06-29",
+   "orig": "And what part pushes the fireworks shell upward?",
+   "prompt": "What part pushes the firework shell upward?",
+   "answer": "The lift charge",
+   "choices": [
+    "The burst charge",
+    "The stars"
+   ]
+  },
+  {
+   "episode": "How Do Fireworks Work?",
+   "date": "2026-06-29",
+   "orig": "And what are the small pellets inside the fireworks shell called?",
+   "prompt": "What are the small pellets inside a firework shell called?",
+   "answer": "Stars",
+   "choices": [
+    "Seeds",
+    "Marbles"
+   ],
+   "explain": "They are what make all the color."
+  },
+  {
+   "episode": "How Do Fireworks Work?",
+   "date": "2026-06-29",
+   "orig": "And why do you see the flash before you hear the boom?",
+   "prompt": "Why do you see the firework flash before you hear the boom?",
+   "answer": "Light is faster than sound",
+   "choices": [
+    "Sound is faster than light",
+    "Your eyes are closer"
+   ],
+   "explain": "Light travels faster than sound."
+  },
+  {
+   "episode": "Why Are Pretzels Shaped Like That?",
+   "date": "2026-06-30",
+   "orig": "What does a baker start with when making a pretzel?",
+   "prompt": "What does a baker start with when making a pretzel?",
+   "answer": "A long rope of dough",
+   "choices": [
+    "A ball of cheese",
+    "A slice of bread"
+   ]
+  },
+  {
+   "episode": "Why Are Pretzels Shaped Like That?",
+   "date": "2026-06-30",
+   "orig": "And who may have been the first ones to make soft pretzels?",
+   "prompt": "Who may have been the first to make soft pretzels?",
+   "answer": "Monks in Europe",
+   "choices": [
+    "Bakers in China",
+    "Farmers in Mexico"
+   ],
+   "explain": "Over 1400 years ago."
+  },
+  {
+   "episode": "Why Do We Pass Gas?",
+   "date": "2026-07-01",
+   "orig": "What is one way gas gets into your digestive system?",
+   "prompt": "What is one way gas gets into your digestive system?",
+   "answer": "Swallowing air",
+   "choices": [
+    "Blinking your eyes",
+    "Rubbing your skin"
+   ],
+   "explain": "You can swallow air when you eat or drink or talk."
+  },
+  {
+   "episode": "Why Do We Pass Gas?",
+   "date": "2026-07-01",
+   "orig": "Oh, and speaking of, what part of your digestive system has helpful bacteria that can make gas while breaking down the food?",
+   "prompt": "What part of your digestive system has helpful bacteria that make gas while breaking down food?",
+   "answer": "The large intestine",
+   "choices": [
+    "The lungs",
+    "The heart"
+   ]
+  },
+  {
+   "episode": "Why Do We Pass Gas?",
+   "date": "2026-07-01",
+   "orig": "What is the name of the process where bacteria break down food parts and make gas?",
+   "prompt": "What is the name of the process where bacteria break down food parts and make gas?",
+   "answer": "Fermentation",
+   "choices": [
+    "Evaporation",
+    "Photosynthesis"
+   ]
+  },
+  {
+   "episode": "Why Do We Pass Gas?",
+   "date": "2026-07-01",
+   "orig": "And why can passing gas make your belly feel better?",
+   "prompt": "Why can passing gas make your belly feel better?",
+   "answer": "It relieves pressure",
+   "choices": [
+    "It warms your belly",
+    "It adds more food"
+   ],
+   "explain": "It relieves all that pressure that's built up."
+  },
+  {
+   "episode": "Why Do We Pass Gas?",
+   "date": "2026-07-01",
+   "orig": "And do you remember the actual term for passing gas? Remember what we called it?",
+   "prompt": "What is the actual word for passing gas?",
+   "answer": "Flatulence",
+   "choices": [
+    "Fermentation",
+    "Hiccups"
+   ]
+  },
+  {
+   "episode": "Who Invented Basketball?",
+   "date": "2026-07-02",
+   "orig": "Oh, remember the name we just said? Who invented basketball?",
+   "prompt": "Who invented basketball?",
+   "answer": "James Naismith",
+   "choices": [
+    "Thomas Edison",
+    "George Washington"
+   ]
+  },
+  {
+   "episode": "Who Invented Basketball?",
+   "date": "2026-07-02",
+   "orig": "And what year was basketball invented?",
+   "prompt": "What year was basketball invented?",
+   "answer": "1891",
+   "choices": [
+    "1991",
+    "1491"
+   ]
+  },
+  {
+   "episode": "Who Invented Basketball?",
+   "date": "2026-07-02",
+   "orig": "And what kind of ball was used in the first game?",
+   "prompt": "What kind of ball was used in the first basketball game?",
+   "answer": "A soccer ball",
+   "choices": [
+    "A tennis ball",
+    "A golf ball"
+   ]
+  },
+  {
+   "episode": "Who Invented Basketball?",
+   "date": "2026-07-02",
+   "orig": "And what did they use for the first hoops?",
+   "prompt": "What did they use for the first basketball hoops?",
+   "answer": "Peach baskets",
+   "choices": [
+    "Bicycle tires",
+    "Hula hoops"
+   ],
+   "explain": "That's why we call it basketball."
+  },
+  {
+   "episode": "What Is at the Center of the Earth?",
+   "date": "2026-07-03",
+   "orig": "What is the name of the solid metal ball at the very center of the earth?",
+   "prompt": "What is the name of the solid metal ball at the very center of the Earth?",
+   "answer": "The inner core",
+   "choices": [
+    "The outer core",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "What Is at the Center of the Earth?",
+   "date": "2026-07-03",
+   "orig": "And what metal is the inner core mostly made of?",
+   "prompt": "What metal is the Earth's inner core mostly made of?",
+   "answer": "Iron",
+   "choices": [
+    "Gold",
+    "Silver"
+   ]
+  },
+  {
+   "episode": "What Is at the Center of the Earth?",
+   "date": "2026-07-03",
+   "orig": "And what is the layer around the inner core called?",
+   "prompt": "What is the layer around the inner core called?",
+   "answer": "The outer core",
+   "choices": [
+    "The crust",
+    "The mantle top"
+   ]
+  },
+  {
+   "episode": "How Do Trains Move?",
+   "date": "2026-07-05",
+   "orig": "What is the front part of a train that gives it power, called?",
+   "prompt": "What is the front part of a train that gives it power called?",
+   "answer": "The locomotive",
+   "choices": [
+    "The caboose",
+    "The boxcar"
+   ]
+  },
+  {
+   "episode": "How Do Trains Move?",
+   "date": "2026-07-05",
+   "orig": "What powers a steam train?",
+   "prompt": "What powers a steam train?",
+   "answer": "Steam from boiling water",
+   "choices": [
+    "Batteries",
+    "Wind"
+   ],
+   "explain": "The water is heated by coal or wood."
+  },
+  {
+   "episode": "How Do Trains Move?",
+   "date": "2026-07-05",
+   "orig": "What do electric trains use to move? Electricity from wires above or a rail underneath?",
+   "prompt": "What do electric trains use to move?",
+   "answer": "Electricity",
+   "choices": [
+    "Steam",
+    "Wind"
+   ],
+   "explain": "Electricity from wires above or a rail underneath."
+  },
+  {
+   "episode": "How Do Trains Move?",
+   "date": "2026-07-05",
+   "orig": "What helps train wheels grip the tracks?",
+   "prompt": "What helps train wheels grip the tracks?",
+   "answer": "Friction",
+   "choices": [
+    "Glue",
+    "Magnets"
+   ]
+  },
+  {
+   "episode": "How Do Antibiotics Work?",
+   "date": "2026-07-06",
+   "orig": "What tiny living things can antibiotics help fight?",
+   "prompt": "What tiny living things can antibiotics help fight?",
+   "answer": "Bacteria",
+   "choices": [
+    "Ants",
+    "Worms"
+   ]
+  },
+  {
+   "episode": "How Do Antibiotics Work?",
+   "date": "2026-07-06",
+   "orig": "And what is one way an antibiotic can fight a bacterium?",
+   "prompt": "What is one way an antibiotic can fight bacteria?",
+   "answer": "Damage its outer shell",
+   "choices": [
+    "Freeze it",
+    "Tickle it"
+   ],
+   "explain": "It can also make it hard for bacteria to make what they need to grow."
+  },
+  {
+   "episode": "How Do Antibiotics Work?",
+   "date": "2026-07-06",
+   "orig": "And why does a doctor choose one medicine instead of another?",
+   "prompt": "Why does a doctor choose one antibiotic instead of another?",
+   "answer": "Bacteria have different weak spots",
+   "choices": [
+    "Some taste better",
+    "Some are cheaper colors"
+   ],
+   "explain": "Different medicines work for different infections."
+  },
+  {
+   "episode": "How Can Parrots Talk?",
+   "date": "2026-07-08",
+   "orig": "What is the special sound making part inside of a bird called?",
+   "prompt": "What is the special sound making part inside of a bird called?",
+   "answer": "The syrinx",
+   "choices": [
+    "The beak",
+    "The wing"
+   ]
+  },
+  {
+   "episode": "How Can Parrots Talk?",
+   "date": "2026-07-08",
+   "orig": "And what does vocal learning mean?",
+   "prompt": "What does vocal learning mean?",
+   "answer": "Hearing a sound and copying it",
+   "choices": [
+    "Reading out loud",
+    "Talking in your sleep"
+   ]
+  },
+  {
+   "episode": "How Can Parrots Talk?",
+   "date": "2026-07-08",
+   "orig": "What body part helps a parrot shape sounds? Do you remember the flexible part in their mouth that helps them make a variety of sounds?",
+   "prompt": "What flexible part in a parrot's mouth helps it shape sounds?",
+   "answer": "Its tongue",
+   "choices": [
+    "Its lips",
+    "Its teeth"
+   ]
+  },
+  {
+   "episode": "What Makes a Flood Happen?",
+   "date": "2026-07-09",
+   "orig": "What is the most common thing that causes a flood?",
+   "prompt": "What is the most common thing that causes a flood?",
+   "answer": "Heavy rain",
+   "choices": [
+    "Earthquakes",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "What Makes a Flood Happen?",
+   "date": "2026-07-09",
+   "orig": "And what can happen when the ground is already full of water?",
+   "prompt": "What happens when the ground is already full of water?",
+   "answer": "Water runs over the top",
+   "choices": [
+    "The ground gets dry",
+    "The water disappears"
+   ],
+   "explain": "The extra water runs over the surface instead of soaking in."
+  },
+  {
+   "episode": "What Makes a Flood Happen?",
+   "date": "2026-07-09",
+   "orig": "And why can a river rise over its banks?",
+   "prompt": "Why can a river rise over its banks?",
+   "answer": "More water comes in than it holds",
+   "choices": [
+    "The water gets warmer",
+    "The wind stops blowing"
+   ]
+  },
+  {
+   "episode": "What Makes a Flood Happen?",
+   "date": "2026-07-09",
+   "orig": "And why can cities flood so quickly?",
+   "prompt": "Why can cities flood so quickly?",
+   "answer": "Concrete can't soak up water",
+   "choices": [
+    "Cities have more clouds",
+    "Cars make rain"
+   ],
+   "explain": "Concrete and asphalt surfaces can't soak up water."
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "date": "2026-07-10",
+   "orig": "How far is it through the earth from one side to the other?",
+   "prompt": "How far is it through the Earth from one side to the other?",
+   "answer": "About 7,900 miles",
+   "choices": [
+    "About 79 miles",
+    "About 7 miles"
+   ]
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "date": "2026-07-10",
+   "orig": "And why couldn't a real human dig all the way through the earth?",
+   "prompt": "Why couldn't a real person dig all the way through the Earth?",
+   "answer": "It gets too hot",
+   "choices": [
+    "It's too dark",
+    "The dirt is too soft"
+   ],
+   "explain": "The pressure gets too strong too."
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "date": "2026-07-10",
+   "orig": "How many feet are there in one mile?",
+   "prompt": "How many feet are there in one mile?",
+   "answer": "5,280 feet",
+   "choices": [
+    "100 feet",
+    "1,000 feet"
+   ]
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "date": "2026-07-10",
+   "orig": "If a tunnel machine dug one mile each week, would digging through the earth take days, years, or more than a century?",
+   "prompt": "If a tunnel machine dug one mile each week, how long would it take to dig through the Earth?",
+   "answer": "More than a century",
+   "choices": [
+    "Days",
+    "A few years"
+   ],
+   "explain": "About 150 years."
+  },
+  {
+   "episode": "How Are Roller Coasters Safe?",
+   "date": "2026-07-11",
+   "orig": "What gives a roller coaster its stored energy at the start of the ride?",
+   "prompt": "What gives a roller coaster its stored energy at the start of the ride?",
+   "answer": "Height",
+   "choices": [
+    "Batteries",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "How Are Roller Coasters Safe?",
+   "date": "2026-07-11",
+   "orig": "And what part of a roller coaster holds everything up like bones?",
+   "prompt": "What part of a roller coaster holds everything up like bones?",
+   "answer": "The supports",
+   "choices": [
+    "The seats",
+    "The seatbelts"
+   ]
+  },
+  {
+   "episode": "How Are Roller Coasters Safe?",
+   "date": "2026-07-11",
+   "orig": "And how many sets of wheels does a roller coaster train usually have?",
+   "prompt": "How many sets of wheels does a roller coaster train usually have?",
+   "answer": "Three",
+   "choices": [
+    "One",
+    "Ten"
+   ]
+  },
+  {
+   "episode": "What Is a Black Hole?",
+   "date": "2026-07-12",
+   "orig": "What is the name of the explosion that happens when a massive star dies?",
+   "prompt": "What is the name of the explosion that happens when a massive star dies?",
+   "answer": "A supernova",
+   "choices": [
+    "A comet",
+    "An eclipse"
+   ]
+  },
+  {
+   "episode": "What Is a Black Hole?",
+   "date": "2026-07-12",
+   "orig": "And what is the center of a black hole called?",
+   "prompt": "What is the center of a black hole called?",
+   "answer": "The singularity",
+   "choices": [
+    "The equator",
+    "The crater"
+   ]
+  },
+  {
+   "episode": "What Is a Black Hole?",
+   "date": "2026-07-12",
+   "orig": "And what is the invisible edge around a black hole called where nothing can escape?",
+   "prompt": "What is the invisible edge around a black hole where nothing can escape called?",
+   "answer": "The event horizon",
+   "choices": [
+    "The north pole",
+    "The atmosphere"
+   ]
+  },
+  {
+   "episode": "Why Do Zebras Have Stripes?",
+   "date": "2026-07-13",
+   "orig": "What kind of insect seems to have trouble landing on striped patterns?",
+   "prompt": "What kind of insect seems to have trouble landing on striped patterns?",
+   "answer": "Biting flies",
+   "choices": [
+    "Butterflies",
+    "Ladybugs"
+   ]
+  },
+  {
+   "episode": "How Does Cheese Get Made?",
+   "date": "2026-07-14",
+   "orig": "What liquid does cheese start with?",
+   "prompt": "What liquid does cheese start with?",
+   "answer": "Milk",
+   "choices": [
+    "Juice",
+    "Water"
+   ]
+  },
+  {
+   "episode": "How Does Cheese Get Made?",
+   "date": "2026-07-14",
+   "orig": "And what are the soft, chunky parts called after milk begins to separate?",
+   "prompt": "What are the soft, chunky parts called after milk begins to separate?",
+   "answer": "Curds",
+   "choices": [
+    "Whey",
+    "Crumbs"
+   ]
+  },
+  {
+   "episode": "How Does Cheese Get Made?",
+   "date": "2026-07-14",
+   "orig": "And what is the watery liquid called?",
+   "prompt": "What is the watery liquid called when milk separates into cheese parts?",
+   "answer": "Whey",
+   "choices": [
+    "Curds",
+    "Syrup"
+   ]
+  },
+  {
+   "episode": "What's the Difference Between a Jet and an Airplane?",
+   "date": "2026-07-15",
+   "orig": "What word means a flying machine with fixed wings?",
+   "prompt": "What word means a flying machine with fixed wings?",
+   "answer": "Airplane",
+   "choices": [
+    "Helicopter",
+    "Rocket"
+   ]
+  },
+  {
+   "episode": "What's the Difference Between a Jet and an Airplane?",
+   "date": "2026-07-15",
+   "orig": "Airplane And what word usually means an airplane powered by jet engines?",
+   "prompt": "What word usually means an airplane powered by jet engines?",
+   "answer": "Jet",
+   "choices": [
+    "Glider",
+    "Blimp"
+   ]
+  },
+  {
+   "episode": "What's the Difference Between a Jet and an Airplane?",
+   "date": "2026-07-15",
+   "orig": "And what is the forward push that helps aircraft move through the air called?",
+   "prompt": "What is the forward push that helps aircraft move through the air called?",
+   "answer": "Thrust",
+   "choices": [
+    "Drag",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "What's the Difference Between a Jet and an Airplane?",
+   "date": "2026-07-15",
+   "orig": "Thrust And what spinning part helps small airplanes move forward?",
+   "prompt": "What spinning part helps small airplanes move forward?",
+   "answer": "A propeller",
+   "choices": [
+    "A wheel",
+    "A tail"
+   ]
+  },
+  {
+   "episode": "Why Do Fruits Get Bruises?",
+   "date": "2026-07-16",
+   "orig": "What is the name of the enzyme that helps make fruits brown?",
+   "prompt": "What is the name of the enzyme that helps make fruits brown?",
+   "answer": "Polyphenol oxidase",
+   "choices": [
+    "Chlorophyll",
+    "Keratin"
+   ]
+  },
+  {
+   "episode": "iPhone vs Android & Mac vs PC: What's the Difference?",
+   "date": "2026-07-17",
+   "orig": "What is the main software called that helps a phone or computer work?",
+   "prompt": "What is the main software called that helps a phone or computer work?",
+   "answer": "An operating system",
+   "choices": [
+    "A video game",
+    "A charger"
+   ]
+  },
+  {
+   "episode": "iPhone vs Android & Mac vs PC: What's the Difference?",
+   "date": "2026-07-17",
+   "orig": "And what company makes the iPhone?",
+   "prompt": "What company makes the iPhone?",
+   "answer": "Apple",
+   "choices": [
+    "Google",
+    "Nintendo"
+   ]
+  },
+  {
+   "episode": "iPhone vs Android & Mac vs PC: What's the Difference?",
+   "date": "2026-07-17",
+   "orig": "And what operating system do most PCs use?",
+   "prompt": "What operating system do most PCs use?",
+   "answer": "Windows",
+   "choices": [
+    "iOS",
+    "Android"
+   ]
+  },
+  {
+   "episode": "iPhone vs Android & Mac vs PC: What's the Difference?",
+   "date": "2026-07-17",
+   "orig": "And why might a game work on one computer but not another one?",
+   "prompt": "Why might a game work on one computer but not another?",
+   "answer": "It's made for one operating system",
+   "choices": [
+    "The keyboard is a different color",
+    "The screen is too small"
+   ],
+   "explain": "Games and software are made for a specific operating system."
+  },
+  {
+   "episode": "Why Do Crabs Walk Sideways?",
+   "date": "2026-07-18",
+   "orig": "What is a skeleton on the outside of an animal called?",
+   "prompt": "What is a skeleton on the outside of an animal called?",
+   "answer": "An exoskeleton",
+   "choices": [
+    "A backbone",
+    "A shell bone"
+   ]
+  },
+  {
+   "episode": "Why Do Crabs Walk Sideways?",
+   "date": "2026-07-18",
+   "orig": "And crabs' walking legs are attached mostly on the front, the back, or the sides of the body. Which one? Front, back, or sides?",
+   "prompt": "Where on a crab's body are its walking legs mostly attached?",
+   "answer": "The sides",
+   "choices": [
+    "The front",
+    "The back"
+   ]
+  },
+  {
+   "episode": "Why Can Music Make You Happy or Sad?",
+   "date": "2026-07-19",
+   "orig": "What part of the brain lights up when you hear music you like? Do you remember what that was called?",
+   "prompt": "What part of the brain lights up when you hear music you like?",
+   "answer": "The reward center",
+   "choices": [
+    "The sleep center",
+    "The smell center"
+   ]
+  },
+  {
+   "episode": "Why Can Music Make You Happy or Sad?",
+   "date": "2026-07-19",
+   "orig": "And do you remember the special machine that scientists use to take a picture of your brain reacting to things like music?",
+   "prompt": "What machine do scientists use to take a picture of your brain reacting to music?",
+   "answer": "An fMRI machine",
+   "choices": [
+    "A microwave",
+    "A telescope"
+   ]
+  },
+  {
+   "episode": "How Do Rattlesnakes Rattle Their Tails?",
+   "date": "2026-07-20",
+   "orig": "What material is a rattlesnake's rattle made from? Remember, it's the same material that is in our fingernails and our hair.",
+   "prompt": "What material is a rattlesnake's rattle made from?",
+   "answer": "Keratin",
+   "choices": [
+    "Bone",
+    "Wood"
+   ],
+   "explain": "It's the same material that's in our fingernails and hair."
+  },
+  {
+   "episode": "How Do Rattlesnakes Rattle Their Tails?",
+   "date": "2026-07-20",
+   "orig": "And what does the rattle do when the snake shakes its tail?",
+   "prompt": "What happens to the rattle when the snake shakes its tail?",
+   "answer": "Hollow parts bump together",
+   "choices": [
+    "Tiny bells ring",
+    "Air whistles out"
+   ],
+   "explain": "The hollow segments bump into each other and make the rattling sound."
+  },
+  {
+   "episode": "Why Does the Sun Go Down?",
+   "date": "2026-07-22",
+   "orig": "What is earth doing that makes the sun appear to move across the sky?",
+   "prompt": "What is Earth doing that makes the sun seem to move across the sky?",
+   "answer": "Spinning",
+   "choices": [
+    "Standing still",
+    "Shrinking"
+   ],
+   "explain": "Earth is rotating on its axis."
+  },
+  {
+   "episode": "Why Does the Sun Go Down?",
+   "date": "2026-07-22",
+   "orig": "And what is the horizon?",
+   "prompt": "What is the horizon?",
+   "answer": "Where land meets the sky",
+   "choices": [
+    "The top of a cloud",
+    "The middle of the ocean"
+   ],
+   "explain": "Where the land or the ocean appears to meet the sky."
+  },
+  {
+   "episode": "Why Does the Sun Go Down?",
+   "date": "2026-07-22",
+   "orig": "And why do sunsets often look red and orange?",
+   "prompt": "Why do sunsets often look red and orange?",
+   "answer": "Light goes through more air",
+   "choices": [
+    "The sun gets hotter",
+    "The sky gets warmer"
+   ],
+   "explain": "More blue light gets scattered, and more red and orange reach our eyes."
+  },
+  {
+   "episode": "How Do Sharks Sleep While Swimming?",
+   "date": "2026-07-23",
+   "orig": "What body part helps sharks take oxygen out of the water?",
+   "prompt": "What body part helps sharks take oxygen out of the water?",
+   "answer": "Gills",
+   "choices": [
+    "Lungs",
+    "Fins"
+   ]
+  },
+  {
+   "episode": "How Do Sharks Sleep While Swimming?",
+   "date": "2026-07-23",
+   "orig": "And what are these small openings behind the eyes of some sharks called?",
+   "prompt": "What are the small openings behind the eyes of some sharks called?",
+   "answer": "Spiracles",
+   "choices": [
+    "Nostrils",
+    "Earholes"
+   ]
+  },
+  {
+   "episode": "How Do Sharks Sleep While Swimming?",
+   "date": "2026-07-23",
+   "orig": "And why do some sharks have to keep swimming?",
+   "prompt": "Why do some sharks have to keep swimming?",
+   "answer": "To keep water over their gills",
+   "choices": [
+    "To stay warm",
+    "To find their friends"
+   ],
+   "explain": "They need water flowing across their gills to get enough oxygen."
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "Why Are Some Babies Twins?",
+   "q": "And can fraternal twins be a boy and a girl?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Are Some Babies Twins?",
+   "q": "And do scientists fully understand why a fertilized egg sometimes splits into two?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Are Some Berries Poisonous?",
+   "q": "And should you eat a wild berry if you're not sure what it is?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Are Pretzels Shaped Like That?",
+   "q": "And which pretzels are older, soft pretzels or hard pretzels?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Who Invented Basketball?",
+   "q": "Oh, remember the name we just said?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does a Seed Turn into a Plant?",
+   "q": "What's the first part of the plant that comes out of the seed?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "How Does a Seed Turn into a Plant?",
+   "q": "What do leaves use to make food?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "How Does a Seed Turn into a Plant?",
+   "q": "So what is photosynthesis?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "How Does a Seed Turn into a Plant?",
+   "q": "What do the leaves use to make food?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "How Does a Seed Turn into a Plant?",
+   "q": "And what do we call the baby plant inside a seed?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "How Do Trains Move?",
+   "q": "Electricity from wires above or a rail underneath?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Can Parrots Talk?",
+   "q": "Do you remember the flexible part in their mouth that helps them make a variety of sounds?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Can Parrots Talk?",
+   "q": "And does a talking bird always understand every word it says?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "q": "I only mentioned this once, so if you haven't already memorized this number, you probably don't remember this, but let's learn it today, okay?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "q": "Okay, you think you're gonna remember that?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Long Would It Take to Dig through the Earth?",
+   "q": "I'm gonna ask you one more time at the end of the episode, all right?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Zebras Have Stripes?",
+   "q": "And do researchers know every reason that zebras have stripes?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Do Fruits Get Bruises?",
+   "q": "And does fruit get harder or softer as it ripens?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Do Crabs Walk Sideways?",
+   "q": "Which one?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Crabs Walk Sideways?",
+   "q": "Front, back, or sides?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Does the Sun Go Down?",
+   "q": "And about how long does earth take to make one complete rotation?",
+   "why": "duplicate"
+  }
+ ]
+}

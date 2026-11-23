@@ -1,0 +1,22 @@
+12 e=It has enough fuel to keep on burning for 5 billion more years.
+-13 about Josh himself, needs the show
+-15 about Josh himself, needs the show
+-16 about Josh himself, needs the show
+22 a=T ;; e=Dogs can get something called canine influenza.
+29 e=It appears that woodpeckers are fine, but scientists are still doing more research.
+30 p=When a woodpecker pecks, the pressure seems to stay below the level that causes concussions. ;; e=A concussion is an injury to the brain when you get hit in the head.
+33 p=Experiments show that you will sink all the way under quicksand.
+38 e=
+44 p=The mantle can sometimes add new material where a shell has been damaged.
+50 e=Gravity still pulls them down, but they're so tiny that moving air can keep them up for a long time.
+56 p=The eye of a hurricane is the most dangerous part.
+68 p=The horned dung beetle's record of 1,141 times its body weight was for carrying something on its back.
+69 e=Dung is just animal waste.
+77 e=
+82 e=
+87 e=Thrust gets the plane moving on the ground, and lift gets the plane moving into the air.
+92 a=F ;; e=Cutting an onion damages some of its cells and lets the chemicals inside mix.
+96 e=
+97 e=
+98 e=It gets over 900 degrees Fahrenheit.
+99 e=

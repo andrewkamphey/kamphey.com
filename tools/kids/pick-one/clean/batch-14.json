@@ -1,0 +1,965 @@
+{
+ "items": [
+  {
+   "episode": "How Do Microphones Record Your Voice?",
+   "date": "2026-07-24",
+   "orig": "What part of a microphone vibrates when sound waves reach it?",
+   "prompt": "What part of a microphone vibrates when sound waves reach it?",
+   "answer": "The diaphragm",
+   "choices": [
+    "The cable",
+    "The plug"
+   ]
+  },
+  {
+   "episode": "How Do Microphones Record Your Voice?",
+   "date": "2026-07-24",
+   "orig": "And what is attached to the diaphragm inside a dynamic microphone?",
+   "prompt": "What is attached to the diaphragm inside a dynamic microphone?",
+   "answer": "A tiny coil of wire",
+   "choices": [
+    "A tiny battery",
+    "A tiny light bulb"
+   ]
+  },
+  {
+   "episode": "How Do Microphones Record Your Voice?",
+   "date": "2026-07-24",
+   "orig": "Do you remember what that kind of power is called?",
+   "prompt": "What is the power called that many studio microphones get through their audio cable?",
+   "answer": "Phantom power",
+   "choices": [
+    "Solar power",
+    "Battery power"
+   ]
+  },
+  {
+   "episode": "How Do Toilets Work?",
+   "date": "2026-07-25",
+   "orig": "What is the tank of a toilet filled with?",
+   "prompt": "What is the tank of a toilet filled with?",
+   "answer": "Water",
+   "choices": [
+    "Air",
+    "Sand"
+   ]
+  },
+  {
+   "episode": "How Do Toilets Work?",
+   "date": "2026-07-25",
+   "orig": "What is the name of the part that seals and unseals the tank?",
+   "prompt": "What is the name of the toilet part that seals and unseals the tank?",
+   "answer": "The flapper",
+   "choices": [
+    "The handle",
+    "The seat"
+   ]
+  },
+  {
+   "episode": "How Do Toilets Work?",
+   "date": "2026-07-25",
+   "orig": "What shape helps create suction to pull everything down?",
+   "prompt": "What shape helps a toilet create suction to pull everything down?",
+   "answer": "An S shape",
+   "choices": [
+    "A square",
+    "A star"
+   ],
+   "explain": "It's the S-shaped trap way."
+  },
+  {
+   "episode": "Why Do We Laugh?",
+   "date": "2026-07-26",
+   "orig": "What chemicals do your brain release that make you feel good?",
+   "prompt": "What chemicals does your brain release that make you feel good?",
+   "answer": "Endorphins",
+   "choices": [
+    "Vitamins",
+    "Proteins"
+   ]
+  },
+  {
+   "episode": "Why Do We Laugh?",
+   "date": "2026-07-26",
+   "orig": "And what part of the brain controls emotions and lights up when you laugh?",
+   "prompt": "What part of the brain controls emotions and lights up when you laugh?",
+   "answer": "The limbic system",
+   "choices": [
+    "The cerebellum",
+    "The spinal cord"
+   ]
+  },
+  {
+   "episode": "Why Do We Laugh?",
+   "date": "2026-07-26",
+   "orig": "What do some doctors say is a great way to get a mini-exercise?",
+   "prompt": "What do some doctors say is a great way to get a mini exercise?",
+   "answer": "Laughing",
+   "choices": [
+    "Sleeping",
+    "Watching TV"
+   ]
+  },
+  {
+   "episode": "What Do Astronauts Eat in Outer Space?",
+   "date": "2026-07-27",
+   "orig": "Why do astronauts and objects appear to float aboard the International Space Station?",
+   "prompt": "Why do astronauts appear to float on the space station?",
+   "answer": "They're falling around Earth",
+   "choices": [
+    "There's no air up there",
+    "Their suits are full of helium"
+   ],
+   "explain": "The station, the astronauts, and everything inside are falling around Earth together."
+  },
+  {
+   "episode": "What Do Astronauts Eat in Outer Space?",
+   "date": "2026-07-27",
+   "orig": "And why is water removed from certain foods before launch?",
+   "prompt": "Why is water removed from certain foods before launch?",
+   "answer": "So they keep a long time",
+   "choices": [
+    "So they taste sweeter",
+    "So they turn crunchy"
+   ],
+   "explain": "Removing the water also makes the food lighter."
+  },
+  {
+   "episode": "What Do Astronauts Eat in Outer Space?",
+   "date": "2026-07-27",
+   "orig": "And what flat food is commonly used instead of sliced bread aboard the space station?",
+   "prompt": "What flat food is used instead of sliced bread on the space station?",
+   "answer": "Tortillas",
+   "choices": [
+    "Pancakes",
+    "Crackers"
+   ]
+  },
+  {
+   "episode": "How Do Tsunamis Form?",
+   "date": "2026-07-28",
+   "orig": "What must happen to the ocean water for a tsunami to begin?",
+   "prompt": "What must happen to the ocean water for a tsunami to begin?",
+   "answer": "It gets pushed suddenly",
+   "choices": [
+    "It gets very cold",
+    "It gets very salty"
+   ],
+   "explain": "A large amount of ocean water must be displaced suddenly."
+  },
+  {
+   "episode": "How Do Tsunamis Form?",
+   "date": "2026-07-28",
+   "orig": "And what part of the water does a tsunami move? Does it move the top of the water or does it move the entire water column?",
+   "prompt": "What part of the water does a tsunami move?",
+   "answer": "The whole water column",
+   "choices": [
+    "Just the top",
+    "Just the bottom"
+   ],
+   "explain": "From the surface all the way down toward the seafloor."
+  },
+  {
+   "episode": "How Do Tsunamis Form?",
+   "date": "2026-07-28",
+   "orig": "What happens to a tsunami as it enters shallower water?",
+   "prompt": "What happens to a tsunami as it enters shallower water?",
+   "answer": "It slows and rises higher",
+   "choices": [
+    "It shrinks and disappears",
+    "It turns back out to sea"
+   ]
+  },
+  {
+   "episode": "How Do Tsunamis Form?",
+   "date": "2026-07-28",
+   "orig": "Is a tsunami one wave or a series of waves?",
+   "prompt": "Is a tsunami one wave or a series of waves?",
+   "answer": "A series of waves",
+   "choices": [
+    "One big wave",
+    "One small wave"
+   ]
+  },
+  {
+   "episode": "How Is Yogurt Made?",
+   "date": "2026-07-29",
+   "orig": "What is a starter culture?",
+   "prompt": "What is a starter culture?",
+   "answer": "Helpful bacteria",
+   "choices": [
+    "A bit of sugar",
+    "A bit of fruit"
+   ],
+   "explain": "It's a small amount of helpful bacteria added to milk to begin making yogurt."
+  },
+  {
+   "episode": "How Is Yogurt Made?",
+   "date": "2026-07-29",
+   "orig": "What do the starter bacteria produce as they use the sugar in milk?",
+   "prompt": "What do the starter bacteria make as they use the sugar in milk?",
+   "answer": "Lactic acid",
+   "choices": [
+    "Salt",
+    "Honey"
+   ]
+  },
+  {
+   "episode": "How Is Yogurt Made?",
+   "date": "2026-07-29",
+   "orig": "And what is the name of the process in which bacteria cause useful changes in the milk?",
+   "prompt": "What is the name of the process where bacteria cause useful changes in the milk?",
+   "answer": "Fermentation",
+   "choices": [
+    "Evaporation",
+    "Photosynthesis"
+   ]
+  },
+  {
+   "episode": "How Does Sunscreen Protect Your Skin?",
+   "date": "2026-07-30",
+   "orig": "What invisible kind of radiation from the sun can damage skin cells?",
+   "prompt": "What invisible kind of radiation from the sun can damage skin cells?",
+   "answer": "UV radiation",
+   "choices": [
+    "Radio waves",
+    "Microwaves"
+   ],
+   "explain": "That's ultraviolet radiation."
+  },
+  {
+   "episode": "How Does Sunscreen Protect Your Skin?",
+   "date": "2026-07-30",
+   "orig": "Which type of UV radiation is the main cause of sunburn?",
+   "prompt": "Which type of UV radiation is the main cause of sunburn?",
+   "answer": "UVB",
+   "choices": [
+    "UVA",
+    "UVC"
+   ],
+   "explain": "Burn starts with B."
+  },
+  {
+   "episode": "How Does Sunscreen Protect Your Skin?",
+   "date": "2026-07-30",
+   "orig": "And what words on a sunscreen label mean that it protects from both UVA and UVB?",
+   "prompt": "What words on a sunscreen label mean it protects from both UVA and UVB?",
+   "answer": "Broad spectrum",
+   "choices": [
+    "Water resistant",
+    "Extra strong"
+   ]
+  },
+  {
+   "episode": "How Does Sunscreen Protect Your Skin?",
+   "date": "2026-07-30",
+   "orig": "And what does the SPF number tell you?",
+   "prompt": "What does the SPF number on sunscreen tell you?",
+   "answer": "How much sunburn protection",
+   "choices": [
+    "How good it smells",
+    "How old the bottle is"
+   ]
+  },
+  {
+   "episode": "Why Do You Have Gums in Your Mouth?",
+   "date": "2026-07-31",
+   "orig": "What connects a tooth's root to the inside of its socket?",
+   "prompt": "What connects a tooth's root to the inside of its socket?",
+   "answer": "The periodontal ligament",
+   "choices": [
+    "The tongue",
+    "The enamel"
+   ]
+  },
+  {
+   "episode": "Why Do You Have Gums in Your Mouth?",
+   "date": "2026-07-31",
+   "orig": "And what is that nasty sticky film that forms on teeth?",
+   "prompt": "What is the nasty sticky film that forms on teeth?",
+   "answer": "Plaque",
+   "choices": [
+    "Enamel",
+    "Saliva"
+   ]
+  },
+  {
+   "episode": "Why Do You Have Gums in Your Mouth?",
+   "date": "2026-07-31",
+   "orig": "And what is the mild gum inflammation caused by plaque called?",
+   "prompt": "What is the mild gum inflammation caused by plaque called?",
+   "answer": "Gingivitis",
+   "choices": [
+    "A cavity",
+    "Tonsillitis"
+   ]
+  },
+  {
+   "episode": "Why Do People Snore?",
+   "date": "2026-08-02",
+   "orig": "What makes the snoring sound?",
+   "prompt": "What makes the snoring sound?",
+   "answer": "Vibrations in your throat",
+   "choices": [
+    "Air in your tummy",
+    "Your teeth clicking"
+   ],
+   "explain": "The soft parts of the throat and mouth vibrate."
+  },
+  {
+   "episode": "Why Do People Snore?",
+   "date": "2026-08-02",
+   "orig": "What's the name of the little dangly thing in the back of your throat?",
+   "prompt": "What's the name of the little dangly thing in the back of your throat?",
+   "answer": "The uvula",
+   "choices": [
+    "The tonsils",
+    "The tongue"
+   ]
+  },
+  {
+   "episode": "Why Do People Snore?",
+   "date": "2026-08-02",
+   "orig": "And sleeping in what position can make snoring more likely for some people because of gravity?",
+   "prompt": "Sleeping in what position can make snoring more likely?",
+   "answer": "On your back",
+   "choices": [
+    "On your side",
+    "On your tummy"
+   ]
+  },
+  {
+   "episode": "Why Are Cheetahs So Fast?",
+   "date": "2026-08-03",
+   "orig": "What does a cheetah mainly use its speed to do?",
+   "prompt": "What does a cheetah mainly use its speed to do?",
+   "answer": "Catch food",
+   "choices": [
+    "Climb trees",
+    "Find water"
+   ]
+  },
+  {
+   "episode": "Why Are Cheetahs So Fast?",
+   "date": "2026-08-03",
+   "orig": "Which part of a cheetah's feet help it grip the ground?",
+   "prompt": "Which part of a cheetah's feet helps it grip the ground?",
+   "answer": "Paw pads and claws",
+   "choices": [
+    "Webbed toes",
+    "Fluffy fur"
+   ],
+   "explain": "Special paw pads and semi-retractable claws."
+  },
+  {
+   "episode": "Why Are Cheetahs So Fast?",
+   "date": "2026-08-03",
+   "orig": "And which sense does a cheetah depend on heavily while searching for prey?",
+   "prompt": "Which sense does a cheetah depend on most while searching for prey?",
+   "answer": "Eyesight",
+   "choices": [
+    "Taste",
+    "Touch"
+   ]
+  },
+  {
+   "episode": "How Do Electric Guitars Work?",
+   "date": "2026-08-05",
+   "orig": "What must a guitar string do to begin making a note?",
+   "prompt": "What must a guitar string do to begin making a note?",
+   "answer": "Vibrate",
+   "choices": [
+    "Light up",
+    "Get hot"
+   ]
+  },
+  {
+   "episode": "How Do Electric Guitars Work?",
+   "date": "2026-08-05",
+   "orig": "And what is the process called when a changing magnetic field produces an electrical signal?",
+   "prompt": "What is it called when a changing magnetic field makes an electrical signal?",
+   "answer": "Electromagnetic induction",
+   "choices": [
+    "Photosynthesis",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do Electric Guitars Work?",
+   "date": "2026-08-05",
+   "orig": "What does a speaker cone move to create sound waves?",
+   "prompt": "What does a speaker cone move to create sound waves?",
+   "answer": "The air",
+   "choices": [
+    "The strings",
+    "The wires"
+   ]
+  },
+  {
+   "episode": "How Does Grass Grow?",
+   "date": "2026-08-06",
+   "orig": "What does grass make during photosynthesis that helps it grow?",
+   "prompt": "What does grass make during photosynthesis that helps it grow?",
+   "answer": "Sugar",
+   "choices": [
+    "Salt",
+    "Oil"
+   ]
+  },
+  {
+   "episode": "How Does Grass Grow?",
+   "date": "2026-08-06",
+   "orig": "And where does new leaf growth happen on a grass plant?",
+   "prompt": "Where does new leaf growth happen on a grass plant?",
+   "answer": "Near the base",
+   "choices": [
+    "At the tips",
+    "In the middle"
+   ],
+   "explain": "Near the base of the leaves and the crown, close to the soil."
+  },
+  {
+   "episode": "How Does Grass Grow?",
+   "date": "2026-08-06",
+   "orig": "And what are the names of the stems that help some grasses spread above and below the soil?",
+   "prompt": "What are the stems called that help some grasses spread above and below the soil?",
+   "answer": "Stolons and rhizomes",
+   "choices": [
+    "Petals and pollen",
+    "Seeds and buds"
+   ],
+   "explain": "Stolons grow above the soil and rhizomes grow below it."
+  },
+  {
+   "episode": "How Deep Is the Sand at the Beach?",
+   "date": "2026-08-07",
+   "orig": "What can be found underneath a beach's sandy layer?",
+   "prompt": "What can be found underneath a beach's sandy layer?",
+   "answer": "Rock, gravel, or clay",
+   "choices": [
+    "Hot lava",
+    "Fresh snow"
+   ]
+  },
+  {
+   "episode": "How Deep Is the Sand at the Beach?",
+   "date": "2026-08-07",
+   "orig": "And what is the water table?",
+   "prompt": "What is the water table?",
+   "answer": "The underground water level",
+   "choices": [
+    "The top of the waves",
+    "The deepest part of the ocean"
+   ],
+   "explain": "It's where the spaces between sand grains are completely filled with water."
+  },
+  {
+   "episode": "How Deep Is the Sand at the Beach?",
+   "date": "2026-08-07",
+   "orig": "And how can geologists study underground layers without digging a massive hole?",
+   "prompt": "How can geologists study underground layers without digging a massive hole?",
+   "answer": "Core samples or radar",
+   "choices": [
+    "Counting shells",
+    "Listening to waves"
+   ]
+  },
+  {
+   "episode": "How Do Our Eyes See?",
+   "date": "2026-08-08",
+   "orig": "What part of your eye changes size depending on the light?",
+   "prompt": "What part of your eye changes size depending on the light?",
+   "answer": "The pupil",
+   "choices": [
+    "The eyelid",
+    "The eyebrow"
+   ],
+   "explain": "It's the part in the middle."
+  },
+  {
+   "episode": "How Do Our Eyes See?",
+   "date": "2026-08-08",
+   "orig": "What does the lens in your eye do?",
+   "prompt": "What does the lens in your eye do?",
+   "answer": "Focuses light",
+   "choices": [
+    "Makes tears",
+    "Blinks"
+   ]
+  },
+  {
+   "episode": "How Do Our Eyes See?",
+   "date": "2026-08-08",
+   "orig": "What part of your body turns light into signals your brain can understand?",
+   "prompt": "What part of your body turns light into signals your brain can understand?",
+   "answer": "The retina",
+   "choices": [
+    "The pupil",
+    "The eyelid"
+   ],
+   "explain": "The signals travel through the optic nerve to your brain."
+  },
+  {
+   "episode": "How Long Would It Take to Walk Around the World?",
+   "date": "2026-08-09",
+   "orig": "Which is the fastest way of moving? Is it a boat, an airplane, or a rocket ship?",
+   "prompt": "Which is the fastest way of moving?",
+   "answer": "A rocket ship",
+   "choices": [
+    "A boat",
+    "An airplane"
+   ],
+   "explain": "You could go around the entire world in just 90 minutes."
+  },
+  {
+   "episode": "How Long Would It Take to Walk Around the World?",
+   "date": "2026-08-09",
+   "orig": "What's the slowest way of moving? Is it a car, walking, or an airplane?",
+   "prompt": "What's the slowest way of moving?",
+   "answer": "Walking",
+   "choices": [
+    "A car",
+    "An airplane"
+   ]
+  },
+  {
+   "episode": "How Does AI (Artificial Intelligence) Know So Much?",
+   "date": "2026-08-10",
+   "orig": "What kind of model powers many chatbots?",
+   "prompt": "What kind of model powers many chatbots?",
+   "answer": "A large language model",
+   "choices": [
+    "A weather model",
+    "A model train"
+   ]
+  },
+  {
+   "episode": "How Does AI (Artificial Intelligence) Know So Much?",
+   "date": "2026-08-10",
+   "orig": "And what does a large language model predict while creating a response?",
+   "prompt": "What does a large language model predict while creating a response?",
+   "answer": "The next token",
+   "choices": [
+    "The weather",
+    "Your birthday"
+   ]
+  },
+  {
+   "episode": "How Does AI (Artificial Intelligence) Know So Much?",
+   "date": "2026-08-10",
+   "orig": "And what do we call it when an AI sounds convincing, but it's actually getting something wrong?",
+   "prompt": "What do we call it when an AI sounds convincing but is actually wrong?",
+   "answer": "A hallucination",
+   "choices": [
+    "A sneeze",
+    "An echo"
+   ]
+  },
+  {
+   "episode": "What Are the Northern Lights (Aurora Borealis)?",
+   "date": "2026-08-11",
+   "orig": "What is the stream of charged particles and energy flowing from the sun called?",
+   "prompt": "What is the stream of charged particles flowing from the sun called?",
+   "answer": "The solar wind",
+   "choices": [
+    "A moonbeam",
+    "A comet tail"
+   ]
+  },
+  {
+   "episode": "What Are the Northern Lights (Aurora Borealis)?",
+   "date": "2026-08-11",
+   "orig": "And what is the name for the solar wind? It's the charged particles that accelerate toward the upper atmosphere to produce the auroral display.",
+   "prompt": "What charged particles speed toward the upper atmosphere to make the aurora?",
+   "answer": "Electrons",
+   "choices": [
+    "Raindrops",
+    "Dust"
+   ],
+   "needsReview": true
+  },
+  {
+   "episode": "What Are the Northern Lights (Aurora Borealis)?",
+   "date": "2026-08-11",
+   "orig": "And what do gases release after collisions give them extra energy?",
+   "prompt": "What do gases give off after collisions give them extra energy?",
+   "answer": "Visible light",
+   "choices": [
+    "Rain",
+    "Smoke"
+   ]
+  },
+  {
+   "episode": "What Are the Northern Lights (Aurora Borealis)?",
+   "date": "2026-08-11",
+   "orig": "And do you remember what auroras in the Southern Hemisphere are called?",
+   "prompt": "What are auroras in the Southern Hemisphere called?",
+   "answer": "Aurora australis",
+   "choices": [
+    "Aurora borealis",
+    "The Milky Way"
+   ]
+  },
+  {
+   "episode": "What Makes Food Spicy?",
+   "date": "2026-08-12",
+   "orig": "What chemical gives chili peppers their spicy feeling?",
+   "prompt": "What chemical gives chili peppers their spicy feeling?",
+   "answer": "Capsaicin",
+   "choices": [
+    "Chlorophyll",
+    "Caffeine"
+   ]
+  },
+  {
+   "episode": "What Makes Food Spicy?",
+   "date": "2026-08-12",
+   "orig": "And where is most of a hot pepper's capsaicin made?",
+   "prompt": "Where is most of a hot pepper's capsaicin made?",
+   "answer": "The pale inner tissue",
+   "choices": [
+    "The green skin",
+    "The stem"
+   ],
+   "explain": "It's the part that holds the seeds."
+  },
+  {
+   "episode": "What Makes Food Spicy?",
+   "date": "2026-08-12",
+   "orig": "You remember what a better liquid option is? If you're trying to get rid of the capsaicin in your mouth.",
+   "prompt": "What drink is better than water for calming a spicy mouth?",
+   "answer": "Milk",
+   "choices": [
+    "Water",
+    "Orange juice"
+   ],
+   "explain": "Capsaicin doesn't mix easily with water."
+  },
+  {
+   "episode": "What Was the World's First Video Game?",
+   "date": "2026-08-13",
+   "orig": "In what year was the patent for the Cathode-Ray Tube Amusement Device filed?",
+   "prompt": "In what year was the patent for the Cathode-Ray Tube Amusement Device filed?",
+   "answer": "1947",
+   "choices": [
+    "1990",
+    "2010"
+   ],
+   "explain": "It was granted the next year, in 1948."
+  },
+  {
+   "episode": "What Was the World's First Video Game?",
+   "date": "2026-08-13",
+   "orig": "What did an OXO player use to select a square?",
+   "prompt": "What did an OXO player use to pick a square?",
+   "answer": "A telephone dial",
+   "choices": [
+    "A joystick",
+    "A computer mouse"
+   ]
+  },
+  {
+   "episode": "What Was the World's First Video Game?",
+   "date": "2026-08-13",
+   "orig": "And why did William Higginbotham create Tennis for Two?",
+   "prompt": "Why did William Higginbotham create Tennis for Two?",
+   "answer": "To entertain visitors",
+   "choices": [
+    "To sell computers",
+    "To win a prize"
+   ],
+   "explain": "He wanted to entertain the visitors at Brookhaven National Laboratory."
+  },
+  {
+   "episode": "How Are Monster Trucks Built?",
+   "date": "2026-08-14",
+   "orig": "What material is used to build the driver's protective structure?",
+   "prompt": "What material is used to build a monster truck driver's protective structure?",
+   "answer": "Steel tubing",
+   "choices": [
+    "Wood boards",
+    "Plastic pipes"
+   ]
+  },
+  {
+   "episode": "How Are Monster Trucks Built?",
+   "date": "2026-08-14",
+   "orig": "And what material is used to make a Monster Jam truck's outer body?",
+   "prompt": "What material is used to make a Monster Jam truck's outer body?",
+   "answer": "Fiberglass",
+   "choices": [
+    "Steel",
+    "Wood"
+   ],
+   "explain": "It's very light."
+  },
+  {
+   "episode": "How Are Monster Trucks Built?",
+   "date": "2026-08-14",
+   "orig": "And about how tall is a Monster Jam tire?",
+   "prompt": "About how tall is a Monster Jam tire?",
+   "answer": "About 5 and a half feet",
+   "choices": [
+    "About 1 foot",
+    "About 20 feet"
+   ],
+   "explain": "66 inches."
+  },
+  {
+   "episode": "How Do Solar Panels Work?",
+   "date": "2026-08-15",
+   "orig": "What tiny packets of energy come from the sun and hit solar panels?",
+   "prompt": "What tiny packets of energy come from the sun and hit solar panels?",
+   "answer": "Photons",
+   "choices": [
+    "Electrons",
+    "Protons"
+   ]
+  },
+  {
+   "episode": "How Do Solar Panels Work?",
+   "date": "2026-08-15",
+   "orig": "What material are most solar cells made from?",
+   "prompt": "What material are most solar cells made from?",
+   "answer": "Silicon",
+   "choices": [
+    "Wood",
+    "Rubber"
+   ]
+  },
+  {
+   "episode": "How Do Solar Panels Work?",
+   "date": "2026-08-15",
+   "orig": "And what do we call the moving particles that create electricity?",
+   "prompt": "What do we call the moving particles that create electricity?",
+   "answer": "Electrons",
+   "choices": [
+    "Photons",
+    "Dust"
+   ]
+  },
+  {
+   "episode": "How Do Calculators Work?",
+   "date": "2026-08-16",
+   "orig": "When you press a button on a calculator, are you pressing a real number or are you closing an electrical switch?",
+   "prompt": "When you press a button on a calculator, what are you really doing?",
+   "answer": "Closing an electrical switch",
+   "choices": [
+    "Pressing a real number",
+    "Turning on a light"
+   ],
+   "explain": "It turns your button press into binary code."
+  },
+  {
+   "episode": "How Do Calculators Work?",
+   "date": "2026-08-16",
+   "orig": "And what two digits does binary use?",
+   "prompt": "What two digits does binary use?",
+   "answer": "0 and 1",
+   "choices": [
+    "1 and 2",
+    "5 and 10"
+   ]
+  },
+  {
+   "episode": "Why Does the Temperature Change?",
+   "date": "2026-08-17",
+   "orig": "What is the boundary between two different air masses called?",
+   "prompt": "What is the boundary between two different air masses called?",
+   "answer": "A front",
+   "choices": [
+    "A back",
+    "A cloud"
+   ]
+  },
+  {
+   "episode": "Why Does the Temperature Change?",
+   "date": "2026-08-17",
+   "orig": "And why is afternoon time usually the warmest part of the day?",
+   "prompt": "Why is the afternoon usually the warmest part of the day?",
+   "answer": "The sun has warmed the ground",
+   "choices": [
+    "The moon has gone away",
+    "The wind has stopped"
+   ],
+   "explain": "The sun is highest and the ground has been gaining energy for a long time."
+  },
+  {
+   "episode": "Why Does the Temperature Change?",
+   "date": "2026-08-17",
+   "orig": "And what are the two main reasons that summer time is warmer than the winter time?",
+   "prompt": "What makes summer warmer than winter?",
+   "answer": "Direct sun and longer days",
+   "choices": [
+    "We're closer to the sun",
+    "There are more clouds"
+   ]
+  },
+  {
+   "episode": "How Are Books Made?",
+   "date": "2026-08-19",
+   "orig": "What is the special arrangement of pages before they are printed and folded?",
+   "prompt": "What is the special arrangement of pages before they are printed and folded called?",
+   "answer": "Imposition",
+   "choices": [
+    "Illustration",
+    "Punctuation"
+   ]
+  },
+  {
+   "episode": "How Are Books Made?",
+   "date": "2026-08-19",
+   "orig": "And which printing method can print from a digital file without using physical printing plates? Remember, there's offset printing and then there is...",
+   "prompt": "Which printing method can print from a digital file without printing plates?",
+   "answer": "Digital printing",
+   "choices": [
+    "Offset printing",
+    "Hand stamping"
+   ]
+  },
+  {
+   "episode": "How Are Books Made?",
+   "date": "2026-08-19",
+   "orig": "And what do printers call the gathered inside pages before the cover is attached?",
+   "prompt": "What do printers call the inside pages before the cover is attached?",
+   "answer": "The text block",
+   "choices": [
+    "The book jacket",
+    "The spine"
+   ]
+  },
+  {
+   "episode": "What Is the World's Longest Snake?",
+   "date": "2026-08-20",
+   "orig": "About how long do reticulated pythons commonly measure?",
+   "prompt": "About how long do reticulated pythons usually grow?",
+   "answer": "10 to 20 feet",
+   "choices": [
+    "1 to 2 feet",
+    "50 to 100 feet"
+   ]
+  },
+  {
+   "episode": "What Is the World's Longest Snake?",
+   "date": "2026-08-20",
+   "orig": "And what record does Medusa hold?",
+   "prompt": "What record does the python Medusa hold?",
+   "answer": "Longest snake in captivity",
+   "choices": [
+    "Fastest snake ever",
+    "Oldest snake ever"
+   ]
+  },
+  {
+   "episode": "What Is the World's Longest Snake?",
+   "date": "2026-08-20",
+   "orig": "And do you remember how long Ibu Baron was when handlers measured her in January, 2026?",
+   "prompt": "How long was Ibu Baron, the longest wild snake ever measured?",
+   "answer": "23 feet 8 inches",
+   "choices": [
+    "3 feet",
+    "100 feet"
+   ]
+  },
+  {
+   "episode": "How Do Fire Hydrants Work?",
+   "date": "2026-08-21",
+   "orig": "What is the large underground pipe that usually supplies water to a fire hydrant?",
+   "prompt": "What is the large underground pipe that supplies water to a fire hydrant?",
+   "answer": "A water main",
+   "choices": [
+    "A garden hose",
+    "A storm drain"
+   ]
+  },
+  {
+   "episode": "How Do Fire Hydrants Work?",
+   "date": "2026-08-21",
+   "orig": "And what happens when a firefighter turns the operating nut on top of a hydrant?",
+   "prompt": "What happens when a firefighter turns the nut on top of a hydrant?",
+   "answer": "It opens the main valve",
+   "choices": [
+    "It rings an alarm",
+    "It locks the hydrant"
+   ],
+   "explain": "A long stem moves through the hydrant and gets the water flowing."
+  },
+  {
+   "episode": "How Do Fire Hydrants Work?",
+   "date": "2026-08-21",
+   "orig": "And why does the water drain out of a dry barrel hydrant after it is closed?",
+   "prompt": "Why does water drain out of a dry barrel hydrant after it is closed?",
+   "answer": "So it won't freeze",
+   "choices": [
+    "So it gets lighter",
+    "So it won't rust"
+   ],
+   "explain": "Frozen water would damage the hydrant."
+  },
+  {
+   "episode": "How Do Fire Hydrants Work?",
+   "date": "2026-08-21",
+   "orig": "And what does the pump on a fire engine do with water from a hydrant?",
+   "prompt": "What does the pump on a fire engine do with water from a hydrant?",
+   "answer": "Increases the pressure",
+   "choices": [
+    "Heats the water",
+    "Cleans the water"
+   ]
+  },
+  {
+   "episode": "Why Can't You Eat Candy All the Time?",
+   "date": "2026-08-22",
+   "orig": "What gives candy its sweet taste and quick energy?",
+   "prompt": "What gives candy its sweet taste and quick energy?",
+   "answer": "Sugar",
+   "choices": [
+    "Salt",
+    "Flour"
+   ]
+  },
+  {
+   "episode": "Why Can't You Eat Candy All the Time?",
+   "date": "2026-08-22",
+   "orig": "And what is it in your mouth that really likes sugar?",
+   "prompt": "What is it in your mouth that really likes sugar?",
+   "answer": "Bacteria",
+   "choices": [
+    "Your tonsils",
+    "Your lips"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "How Do Microphones Record Your Voice?",
+   "q": "And why does a dynamic microphone not need phantom power?",
+   "why": "too-hard-to-shorten"
+  },
+  {
+   "episode": "How Do Tsunamis Form?",
+   "q": "Does it move the top of the water or does it move the entire water column?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does Grass Grow?",
+   "q": "Remember what we called them?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Makes Food Spicy?",
+   "q": "And what tiny nerve sensors does capsaicin activate?",
+   "why": "too-hard-to-shorten"
+  },
+  {
+   "episode": "What Makes Food Spicy?",
+   "q": "And why can the same spicy food feel different to different people?",
+   "why": "open-ended"
+  },
+  {
+   "episode": "How Do Calculators Work?",
+   "q": "And does a calculator understand math like a human?",
+   "why": "yes-no"
+  }
+ ]
+}

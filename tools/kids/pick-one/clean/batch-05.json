@@ -1,0 +1,921 @@
+{
+ "items": [
+  {
+   "episode": "When Were Phones Invented?",
+   "date": "2025-10-13",
+   "orig": "Who is credited with inventing the telephone?",
+   "prompt": "Who is credited with inventing the telephone?",
+   "answer": "Alexander Graham Bell",
+   "choices": [
+    "Thomas Edison",
+    "Samuel Morse"
+   ]
+  },
+  {
+   "episode": "When Were Phones Invented?",
+   "date": "2025-10-13",
+   "orig": "And what invention came before the telephone and used Morse code?",
+   "prompt": "What invention came before the telephone and used Morse code?",
+   "answer": "The telegraph",
+   "choices": [
+    "The radio",
+    "The television"
+   ]
+  },
+  {
+   "episode": "Why Do We Get Dizzy When We Spin Around?",
+   "date": "2025-10-14",
+   "orig": "What part of the body helps you balance when you spin?",
+   "prompt": "What part of the body helps you balance when you spin?",
+   "answer": "The inner ear",
+   "choices": [
+    "The nose",
+    "The knees"
+   ]
+  },
+  {
+   "episode": "Why Do We Get Dizzy When We Spin Around?",
+   "date": "2025-10-14",
+   "orig": "And what are the tubes in your inner ear called?",
+   "prompt": "What are the tubes in your inner ear called?",
+   "answer": "Semicircular canals",
+   "choices": [
+    "Vocal cords",
+    "Eustachian tubes"
+   ]
+  },
+  {
+   "episode": "Why Do We Get Dizzy When We Spin Around?",
+   "date": "2025-10-14",
+   "orig": "And what makes you feel dizzy after you stop spinning?",
+   "prompt": "What makes you feel dizzy after you stop spinning?",
+   "answer": "Fluid still moving in your ear",
+   "choices": [
+    "Your stomach is empty",
+    "Your eyes get tired"
+   ],
+   "explain": "The fluid in your semicircular canals is still moving even after your body stops."
+  },
+  {
+   "episode": "Why Do Your Muscles Get Sore after Playing Hard?",
+   "date": "2025-10-15",
+   "orig": "What are muscles made of?",
+   "prompt": "What are muscles made of?",
+   "answer": "Thousands of tiny fibers",
+   "choices": [
+    "Thousands of tiny bones",
+    "Thousands of tiny bubbles"
+   ]
+  },
+  {
+   "episode": "Why Do Your Muscles Get Sore after Playing Hard?",
+   "date": "2025-10-15",
+   "orig": "What does DOMS stand for?",
+   "prompt": "What does DOMS stand for?",
+   "answer": "Delayed onset muscle soreness",
+   "choices": [
+    "Daily outdoor muscle stretching",
+    "Don't overdo my sports"
+   ],
+   "explain": "That's when you play hard and your muscles hurt the next day."
+  },
+  {
+   "episode": "Why Are Some Teeth Pointy and Others Flat?",
+   "date": "2025-10-17",
+   "orig": "Which teeth are at the very front of your mouth?",
+   "prompt": "Which teeth are at the very front of your mouth?",
+   "answer": "Incisors",
+   "choices": [
+    "Canines",
+    "Molars"
+   ]
+  },
+  {
+   "episode": "Why Are Some Teeth Pointy and Others Flat?",
+   "date": "2025-10-17",
+   "orig": "Which teeth are sharp and pointy for tearing food?",
+   "prompt": "Which teeth are sharp and pointy for tearing food?",
+   "answer": "Canines",
+   "choices": [
+    "Incisors",
+    "Molars"
+   ]
+  },
+  {
+   "episode": "Why Are Some Teeth Pointy and Others Flat?",
+   "date": "2025-10-17",
+   "orig": "And which teeth are the biggest and best for grinding food?",
+   "prompt": "Which teeth are the biggest and best for grinding food?",
+   "answer": "Molars",
+   "choices": [
+    "Incisors",
+    "Canines"
+   ],
+   "explain": "They're in the very back."
+  },
+  {
+   "episode": "What Are Fingerprints?",
+   "date": "2025-10-18",
+   "orig": "What do fingerprints help us do?",
+   "prompt": "What do fingerprints help us do?",
+   "answer": "Grip and hold things",
+   "choices": [
+    "Hear sounds",
+    "Keep fingers warm"
+   ]
+  },
+  {
+   "episode": "How Does Wi-Fi Work?",
+   "date": "2025-10-19",
+   "orig": "What does Wi-Fi stand for?",
+   "prompt": "What does Wi-Fi stand for?",
+   "answer": "Wireless Fidelity",
+   "choices": [
+    "Wide Field",
+    "Wild Fire"
+   ]
+  },
+  {
+   "episode": "How Does Wi-Fi Work?",
+   "date": "2025-10-19",
+   "orig": "And what kind of waves does Wi-Fi use to send information?",
+   "prompt": "What kind of waves does Wi-Fi use to send information?",
+   "answer": "Radio waves",
+   "choices": [
+    "Ocean waves",
+    "Heat waves"
+   ]
+  },
+  {
+   "episode": "How Does Wi-Fi Work?",
+   "date": "2025-10-19",
+   "orig": "Ooh, and what are the small pieces of information called that travel through Wi-Fi?",
+   "prompt": "What are the small pieces of information called that travel through Wi-Fi?",
+   "answer": "Packets",
+   "choices": [
+    "Pixels",
+    "Bubbles"
+   ]
+  },
+  {
+   "episode": "Why Do Earthquakes Happen?",
+   "date": "2025-10-20",
+   "orig": "What are the giant puzzle pieces of Earth's crust called?",
+   "prompt": "What are the giant puzzle pieces of Earth's crust called?",
+   "answer": "Tectonic plates",
+   "choices": [
+    "Volcanoes",
+    "Mountains"
+   ]
+  },
+  {
+   "episode": "Why Do Earthquakes Happen?",
+   "date": "2025-10-20",
+   "orig": "What's the spot on Earth's surface directly above the earthquake's focus?",
+   "prompt": "What do we call the spot on the ground right above where an earthquake starts?",
+   "answer": "The epicenter",
+   "choices": [
+    "The focus",
+    "The crater"
+   ]
+  },
+  {
+   "episode": "Why Do Earthquakes Happen?",
+   "date": "2025-10-20",
+   "orig": "And do you remember what US state has the most earthquakes each year?",
+   "prompt": "What US state has the most earthquakes each year?",
+   "answer": "Alaska",
+   "choices": [
+    "California",
+    "Texas"
+   ],
+   "explain": "It's not California."
+  },
+  {
+   "episode": "How Do Satellites Stay in Space?",
+   "date": "2025-10-21",
+   "orig": "What is Earth's natural satellite?",
+   "prompt": "What is Earth's natural satellite?",
+   "answer": "The moon",
+   "choices": [
+    "The sun",
+    "Mars"
+   ]
+  },
+  {
+   "episode": "How Do Satellites Stay in Space?",
+   "date": "2025-10-21",
+   "orig": "How fast does a satellite need to go to stay in orbit around the Earth?",
+   "prompt": "How fast does a satellite need to go to stay in orbit around the Earth?",
+   "answer": "About 17,000 miles per hour",
+   "choices": [
+    "About 100 miles per hour",
+    "About 1,000 miles per hour"
+   ],
+   "explain": "That's fast enough to go around the entire Earth in about 90 minutes."
+  },
+  {
+   "episode": "How Do Satellites Stay in Space?",
+   "date": "2025-10-21",
+   "orig": "What do satellites use to make small adjustments in space?",
+   "prompt": "What do satellites use to make small adjustments in space?",
+   "answer": "Thrusters",
+   "choices": [
+    "Sails",
+    "Wheels"
+   ]
+  },
+  {
+   "episode": "How Do Cameras Take Pictures?",
+   "date": "2025-10-22",
+   "orig": "What do cameras capture when they take a picture?",
+   "prompt": "What do cameras capture when they take a picture?",
+   "answer": "Light",
+   "choices": [
+    "Sound",
+    "Air"
+   ]
+  },
+  {
+   "episode": "How Do Cameras Take Pictures?",
+   "date": "2025-10-22",
+   "orig": "What is the little door inside a camera call that opens and closes quickly?",
+   "prompt": "What is the little door inside a camera called that opens and closes quickly?",
+   "answer": "The shutter",
+   "choices": [
+    "The lens",
+    "The flash"
+   ]
+  },
+  {
+   "episode": "How Do Cameras Take Pictures?",
+   "date": "2025-10-22",
+   "orig": "And in digital cameras, what replaces film?",
+   "prompt": "In digital cameras, what replaces film?",
+   "answer": "A sensor made of pixels",
+   "choices": [
+    "A tiny mirror",
+    "A battery"
+   ]
+  },
+  {
+   "episode": "Why Does Food Go Bad?",
+   "date": "2025-10-24",
+   "orig": "What are the tiny living things that make food go bad?",
+   "prompt": "What are the tiny living things that make food go bad?",
+   "answer": "Microorganisms",
+   "choices": [
+    "Raindrops",
+    "Sunbeams"
+   ],
+   "explain": "Things like bacteria, mold, and yeast."
+  },
+  {
+   "episode": "Why Does Food Go Bad?",
+   "date": "2025-10-24",
+   "orig": "Why do we keep food in the refrigerator?",
+   "prompt": "Why do we keep food in the refrigerator?",
+   "answer": "Cold slows down bacteria",
+   "choices": [
+    "It makes food bigger",
+    "It adds vitamins"
+   ]
+  },
+  {
+   "episode": "Why Does Food Go Bad?",
+   "date": "2025-10-24",
+   "orig": "And what kind of foods usually spoil the fastest?",
+   "prompt": "What kind of foods usually spoil the fastest?",
+   "answer": "Fresh fruits and dairy",
+   "choices": [
+    "Canned foods",
+    "Dry rice"
+   ],
+   "explain": "Things with lots of water and nutrients in them."
+  },
+  {
+   "episode": "Why Do You Get Sunburns?",
+   "date": "2025-10-25",
+   "orig": "What kind of invisible light causes sunburns?",
+   "prompt": "What kind of invisible light causes sunburns?",
+   "answer": "Ultraviolet light",
+   "choices": [
+    "Moonlight",
+    "Starlight"
+   ],
+   "explain": "We also call it UV light."
+  },
+  {
+   "episode": "Why Do You Get Sunburns?",
+   "date": "2025-10-25",
+   "orig": "What part of your body gets damaged by UV light?",
+   "prompt": "What part of your body gets damaged by UV light?",
+   "answer": "Your skin cells",
+   "choices": [
+    "Your bones",
+    "Your teeth"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Sunburns?",
+   "date": "2025-10-25",
+   "orig": "And why does your skin turn red after too much sun?",
+   "prompt": "Why does your skin turn red after too much sun?",
+   "answer": "Blood rushes in to repair it",
+   "choices": [
+    "The skin gets dirty",
+    "The skin gets cold"
+   ],
+   "explain": "Your body sends blood to the area to repair the damage."
+  },
+  {
+   "episode": "Why Do You Get Sunburns?",
+   "date": "2025-10-25",
+   "orig": "And what does sunscreen do?",
+   "prompt": "What does sunscreen do?",
+   "answer": "Blocks UV rays",
+   "choices": [
+    "Makes you tan faster",
+    "Cools the air"
+   ],
+   "explain": "It blocks or absorbs UV rays to protect your skin."
+  },
+  {
+   "episode": "How Does a Zipper Work?",
+   "date": "2025-10-26",
+   "orig": "What part of the zipper do you pull up and down?",
+   "prompt": "What part of the zipper do you pull up and down?",
+   "answer": "The slider",
+   "choices": [
+    "The teeth",
+    "The wedge"
+   ]
+  },
+  {
+   "episode": "How Does a Zipper Work?",
+   "date": "2025-10-26",
+   "orig": "What are the little pieces that lock together called?",
+   "prompt": "What are the little pieces of a zipper that lock together called?",
+   "answer": "The teeth",
+   "choices": [
+    "The sliders",
+    "The buttons"
+   ]
+  },
+  {
+   "episode": "How Does a Zipper Work?",
+   "date": "2025-10-26",
+   "orig": "And then what is the shape inside the slider that helps connect the teeth? What's that thing called?",
+   "prompt": "What is the shape inside the zipper slider that helps connect the teeth?",
+   "answer": "The wedge",
+   "choices": [
+    "The hook",
+    "The spring"
+   ]
+  },
+  {
+   "episode": "How Does a Vacuum Cleaner Suck Up Dirt?",
+   "date": "2025-10-27",
+   "orig": "Why does air rush into the hose?",
+   "prompt": "Why does air rush into a vacuum hose?",
+   "answer": "Low air pressure inside",
+   "choices": [
+    "Magnets pull it in",
+    "The dust is sticky"
+   ]
+  },
+  {
+   "episode": "How Does a Vacuum Cleaner Suck Up Dirt?",
+   "date": "2025-10-27",
+   "orig": "What happens to the dirt when it gets sucked up?",
+   "prompt": "What happens to the dirt when it gets sucked up?",
+   "answer": "It's trapped in a bag",
+   "choices": [
+    "It's blown out the back",
+    "It turns into water"
+   ],
+   "explain": "It gets trapped in a bag or dust container."
+  },
+  {
+   "episode": "How Does a Vacuum Cleaner Suck Up Dirt?",
+   "date": "2025-10-27",
+   "orig": "And why are vacuums so loud?",
+   "prompt": "Why are vacuums so loud?",
+   "answer": "A fast spinning motor and fan",
+   "choices": [
+    "Rocks rattling inside",
+    "Squeaky wheels"
+   ]
+  },
+  {
+   "episode": "How Can You Guess a Dice Roll?",
+   "date": "2025-10-29",
+   "orig": "How many sides does a normal die have?",
+   "prompt": "How many sides does a normal die have?",
+   "answer": "Six",
+   "choices": [
+    "Four",
+    "Eight"
+   ]
+  },
+  {
+   "episode": "How Can You Guess a Dice Roll?",
+   "date": "2025-10-29",
+   "orig": "And what is the lowest total you can roll with two six-sided dice?",
+   "prompt": "What is the lowest total you can roll with two six-sided dice?",
+   "answer": "2",
+   "choices": [
+    "1",
+    "6"
+   ],
+   "explain": "You could roll a one and a one."
+  },
+  {
+   "episode": "How Can You Guess a Dice Roll?",
+   "date": "2025-10-29",
+   "orig": "Okay, and what's the highest total you can roll with two six-sided dice?",
+   "prompt": "What's the highest total you can roll with two six-sided dice?",
+   "answer": "12",
+   "choices": [
+    "10",
+    "13"
+   ],
+   "explain": "A six and a six."
+  },
+  {
+   "episode": "How Can You Guess a Dice Roll?",
+   "date": "2025-10-29",
+   "orig": "What's the total you're most likely to roll thanks to probability?",
+   "prompt": "What total are you most likely to roll with two dice?",
+   "answer": "7",
+   "choices": [
+    "2",
+    "12"
+   ]
+  },
+  {
+   "episode": "Why Do Fire Ants Sting?",
+   "date": "2025-10-31",
+   "orig": "What chemical in a fire ant's venom makes it burn?",
+   "prompt": "What chemical in a fire ant's venom makes it burn?",
+   "answer": "Solenopsin",
+   "choices": [
+    "Histamine",
+    "Melanin"
+   ]
+  },
+  {
+   "episode": "Why Do Fire Ants Sting?",
+   "date": "2025-10-31",
+   "orig": "And where did fire ants come from originally?",
+   "prompt": "Where did fire ants come from originally?",
+   "answer": "South America",
+   "choices": [
+    "Australia",
+    "Europe"
+   ]
+  },
+  {
+   "episode": "What Is the Fastest Bird?",
+   "date": "2025-11-01",
+   "orig": "What is the fastest bird in the world?",
+   "prompt": "What is the fastest bird in the world?",
+   "answer": "The peregrine falcon",
+   "choices": [
+    "The bald eagle",
+    "The hummingbird"
+   ]
+  },
+  {
+   "episode": "What Is the Fastest Bird?",
+   "date": "2025-11-01",
+   "orig": "How fast can a Peregrine Falcon dive?",
+   "prompt": "How fast can a peregrine falcon dive?",
+   "answer": "Over 240 miles per hour",
+   "choices": [
+    "About 20 miles per hour",
+    "About 1,000 miles per hour"
+   ]
+  },
+  {
+   "episode": "What Is the Fastest Bird?",
+   "date": "2025-11-01",
+   "orig": "What is the fastest bird in level flight? As in flying through the air, not diving down. What is the fastest bird there?",
+   "prompt": "What is the fastest bird when flying straight, not diving?",
+   "answer": "White-throated needletail",
+   "choices": [
+    "Bald eagle",
+    "Hummingbird"
+   ]
+  },
+  {
+   "episode": "What Is the Fastest Bird?",
+   "date": "2025-11-01",
+   "orig": "And do you remember what scientists call a falcon's high-speed dive?",
+   "prompt": "What do scientists call a falcon's high-speed dive?",
+   "answer": "A stoop",
+   "choices": [
+    "A swoop",
+    "A splash"
+   ]
+  },
+  {
+   "episode": "Why Do We Feel Pain?",
+   "date": "2025-11-02",
+   "orig": "What part of your brain creates the feeling of pain?",
+   "prompt": "What part of your body creates the feeling of pain?",
+   "answer": "Your brain",
+   "choices": [
+    "Your heart",
+    "Your toes"
+   ]
+  },
+  {
+   "episode": "Why Do We Feel Pain?",
+   "date": "2025-11-02",
+   "orig": "What are the tiny sensors in your skin called that detect danger or damage?",
+   "prompt": "What are the tiny sensors in your skin called that detect danger or damage?",
+   "answer": "Nociceptors",
+   "choices": [
+    "Taste buds",
+    "Freckles"
+   ]
+  },
+  {
+   "episode": "Why Do We Feel Pain?",
+   "date": "2025-11-02",
+   "orig": "Why is pain important?",
+   "prompt": "Why is pain important?",
+   "answer": "It warns us something is wrong",
+   "choices": [
+    "It makes us sleepy",
+    "It helps us grow taller"
+   ],
+   "explain": "It helps protect our body from further harm."
+  },
+  {
+   "episode": "How Does a Bicycle Stay Balanced?",
+   "date": "2025-11-04",
+   "orig": "What's the name of the force that helps spinning things stay upright?",
+   "prompt": "What's the name of the force that helps spinning things stay upright?",
+   "answer": "Gyroscopic stability",
+   "choices": [
+    "Gravity",
+    "Friction"
+   ]
+  },
+  {
+   "episode": "How Does a Bicycle Stay Balanced?",
+   "date": "2025-11-04",
+   "orig": "And what do you do to help your bike balance when it starts leaning to one side?",
+   "prompt": "What do you do to help your bike balance when it starts leaning to one side?",
+   "answer": "Steer toward the lean",
+   "choices": [
+    "Steer away from the lean",
+    "Close your eyes"
+   ]
+  },
+  {
+   "episode": "How Does a Bicycle Stay Balanced?",
+   "date": "2025-11-04",
+   "orig": "And why do people say, It's just like riding a bike?",
+   "prompt": "Why do people say, \"It's just like riding a bike\"?",
+   "answer": "Your brain never forgets how",
+   "choices": [
+    "Bikes are very easy",
+    "Everyone has a bike"
+   ],
+   "explain": "Once you learn how, your brain never forgets how to balance."
+  },
+  {
+   "episode": "How Does a Bicycle Stay Balanced?",
+   "date": "2025-11-04",
+   "orig": "What about a unicycle?",
+   "prompt": "How many wheels does a unicycle have?",
+   "answer": "One",
+   "choices": [
+    "Two",
+    "Three"
+   ]
+  },
+  {
+   "episode": "How Does a Bicycle Stay Balanced?",
+   "date": "2025-11-04",
+   "orig": "What about a tricycle? How many wheels does it have?",
+   "prompt": "How many wheels does a tricycle have?",
+   "answer": "Three",
+   "choices": [
+    "Two",
+    "Four"
+   ]
+  },
+  {
+   "episode": "Why Do Cars Need Gas?",
+   "date": "2025-11-05",
+   "orig": "What happens inside a car's engine to make it move?",
+   "prompt": "What happens inside a car's engine to make it move?",
+   "answer": "Tiny explosions of gas and air",
+   "choices": [
+    "Water splashing around",
+    "Magnets spinning"
+   ]
+  },
+  {
+   "episode": "Why Do Cars Need Gas?",
+   "date": "2025-11-05",
+   "orig": "What does the spark plug do?",
+   "prompt": "What does the spark plug do?",
+   "answer": "Makes a spark",
+   "choices": [
+    "Cools the engine",
+    "Holds the gas"
+   ],
+   "explain": "It makes the spark that causes the explosion."
+  },
+  {
+   "episode": "Why Do Cars Need Gas?",
+   "date": "2025-11-05",
+   "orig": "What powers an electric car instead of gas?",
+   "prompt": "What powers an electric car instead of gas?",
+   "answer": "A big battery",
+   "choices": [
+    "Water",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "Why Do Cars Need Gas?",
+   "date": "2025-11-05",
+   "orig": "And what part of the car turns because of the engine's power?",
+   "prompt": "What part of the car turns because of the engine's power?",
+   "answer": "The wheels",
+   "choices": [
+    "The seats",
+    "The windows"
+   ]
+  },
+  {
+   "episode": "How Do Babies Learn to Talk?",
+   "date": "2025-11-06",
+   "orig": "What's the first way babies communicate?",
+   "prompt": "What's the first way babies communicate?",
+   "answer": "Crying",
+   "choices": [
+    "Talking",
+    "Waving"
+   ]
+  },
+  {
+   "episode": "How Do Babies Learn to Talk?",
+   "date": "2025-11-06",
+   "orig": "Around what age do most babies say their first word?",
+   "prompt": "Around what age do most babies say their first word?",
+   "answer": "About one year old",
+   "choices": [
+    "About one month old",
+    "About five years old"
+   ],
+   "explain": "Some kids talk earlier, and some wait a little longer."
+  },
+  {
+   "episode": "How Do Babies Learn to Talk?",
+   "date": "2025-11-06",
+   "orig": "What helps babies learn language the most?",
+   "prompt": "What helps babies learn language the most?",
+   "answer": "People talking to them",
+   "choices": [
+    "Watching TV",
+    "Sleeping a lot"
+   ],
+   "explain": "Talking, reading, or singing to them."
+  },
+  {
+   "episode": "How Do You Make a Movie?",
+   "date": "2025-11-07",
+   "orig": "What's the very first stage of making a movie called?",
+   "prompt": "What's the very first stage of making a movie called?",
+   "answer": "Pre-production",
+   "choices": [
+    "Production",
+    "Post-production"
+   ]
+  },
+  {
+   "episode": "How Do You Make a Movie?",
+   "date": "2025-11-07",
+   "orig": "What do filmmakers use to plan out each scene like a comic book?",
+   "prompt": "What do filmmakers use to plan out each scene like a comic book?",
+   "answer": "Storyboards",
+   "choices": [
+    "Posters",
+    "Tickets"
+   ]
+  },
+  {
+   "episode": "How Do You Make a Movie?",
+   "date": "2025-11-07",
+   "orig": "And what do we call the part of the process where all the filming or animating happens?",
+   "prompt": "What do we call the part of making a movie where all the filming happens?",
+   "answer": "Production",
+   "choices": [
+    "Pre-production",
+    "Post-production"
+   ]
+  },
+  {
+   "episode": "How Do You Make a Movie?",
+   "date": "2025-11-07",
+   "orig": "And then what is the stage where editors and sound designers finish the movie?",
+   "prompt": "What is the stage where editors and sound designers finish the movie?",
+   "answer": "Post-production",
+   "choices": [
+    "Pre-production",
+    "Production"
+   ]
+  },
+  {
+   "episode": "Why Do Your Legs Fall Asleep Sometimes?",
+   "date": "2025-11-08",
+   "orig": "What part of your body sends messages between your brain and your legs?",
+   "prompt": "What part of your body sends messages between your brain and your legs?",
+   "answer": "Nerves",
+   "choices": [
+    "Bones",
+    "Muscles"
+   ]
+  },
+  {
+   "episode": "Why Do Your Legs Fall Asleep Sometimes?",
+   "date": "2025-11-08",
+   "orig": "What happens to those nerves when your leg falls asleep?",
+   "prompt": "What happens to your nerves when your leg falls asleep?",
+   "answer": "They get squished",
+   "choices": [
+    "They fall asleep",
+    "They get hungry"
+   ],
+   "explain": "They get squished or pressed, so they can't send messages properly."
+  },
+  {
+   "episode": "Why Do Your Legs Fall Asleep Sometimes?",
+   "date": "2025-11-08",
+   "orig": "What's the pins and needles feeling caused by?",
+   "prompt": "What's the pins and needles feeling caused by?",
+   "answer": "Nerves waking up",
+   "choices": [
+    "Bugs crawling",
+    "Bones growing"
+   ],
+   "explain": "Nerves wake up as blood flow returns."
+  },
+  {
+   "episode": "Why Do Sticks Make Different Sounds When You Swing Them?",
+   "date": "2025-11-09",
+   "orig": "What causes the sound when you swing a stick?",
+   "prompt": "What causes the sound when you swing a stick?",
+   "answer": "Vibrations in the air",
+   "choices": [
+    "The wood cracking",
+    "Your hand squeezing"
+   ],
+   "explain": "Those are sound waves."
+  },
+  {
+   "episode": "Why Is It Bad to Look at the Sun?",
+   "date": "2025-11-10",
+   "orig": "What is the invisible type of light that sunglasses protect your eyes from?",
+   "prompt": "What invisible type of light do sunglasses protect your eyes from?",
+   "answer": "Ultraviolet light",
+   "choices": [
+    "Moonlight",
+    "Starlight"
+   ],
+   "explain": "We also call it UV light."
+  },
+  {
+   "episode": "Why Is It Bad to Look at the Sun?",
+   "date": "2025-11-10",
+   "orig": "Why do things look darker when you wear sunglasses?",
+   "prompt": "Why do things look darker when you wear sunglasses?",
+   "answer": "They block some light",
+   "choices": [
+    "They make things smaller",
+    "They turn off the sun"
+   ]
+  },
+  {
+   "episode": "Why Is It Bad to Look at the Sun?",
+   "date": "2025-11-10",
+   "orig": "What is the purpose of polarized lenses?",
+   "prompt": "What is the purpose of polarized sunglasses?",
+   "answer": "To block glare",
+   "choices": [
+    "To make things bigger",
+    "To help you see at night"
+   ],
+   "explain": "They block glare from shiny surfaces like water and snow."
+  },
+  {
+   "episode": "Why Is Chocolate Good for You?",
+   "date": "2025-11-11",
+   "orig": "What kind of tree does chocolate come from?",
+   "prompt": "What kind of tree does chocolate come from?",
+   "answer": "The cacao tree",
+   "choices": [
+    "The maple tree",
+    "The apple tree"
+   ]
+  },
+  {
+   "episode": "Why Is Chocolate Good for You?",
+   "date": "2025-11-11",
+   "orig": "What happens to the beans before drying?",
+   "prompt": "What happens to cacao beans before drying?",
+   "answer": "They ferment",
+   "choices": [
+    "They freeze",
+    "They boil"
+   ]
+  },
+  {
+   "episode": "Why Is Chocolate Good for You?",
+   "date": "2025-11-11",
+   "orig": "What makes milk chocolate different from dark chocolate?",
+   "prompt": "What makes milk chocolate different from dark chocolate?",
+   "answer": "Milk powder and more sugar",
+   "choices": [
+    "Salt and pepper",
+    "Water and ice"
+   ]
+  },
+  {
+   "episode": "Why Do Fans Make You Cold?",
+   "date": "2025-11-12",
+   "orig": "What does your body release when you're hot to help you cool down?",
+   "prompt": "What does your body release when you're hot to help you cool down?",
+   "answer": "Sweat",
+   "choices": [
+    "Tears",
+    "Blood"
+   ]
+  },
+  {
+   "episode": "Why Do Fans Make You Cold?",
+   "date": "2025-11-12",
+   "orig": "What process helps cool your skin when air moves across it?",
+   "prompt": "What process helps cool your skin when air moves across it?",
+   "answer": "Evaporation",
+   "choices": [
+    "Condensation",
+    "Precipitation"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "How Does Wi-Fi Work?",
+   "q": "Do you remember the binary code comes inside of something?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does Wi-Fi Work?",
+   "q": "Do you remember what it's called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Earthquakes Happen?",
+   "q": "Alright, so the focus is where the slip happens, and then above that on the ground where we are, what do we call that spot right above the focus?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Satellites Stay in Space?",
+   "q": "Do we have an object that orbits the Earth?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does a Zipper Work?",
+   "q": "What's that thing called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Is the Fastest Bird?",
+   "q": "What is the fastest bird there?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Sticks Make Different Sounds When You Swing Them?",
+   "q": "What kind of stick makes a deeper whoosh sound?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Is It Bad to Look at the Sun?",
+   "q": "Would you rather live in a world where it's always sunny, always cloudy, or always rainy?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Is Chocolate Good for You?",
+   "q": "Do you remember they have to sit out for a while and let the natural processes take place?",
+   "why": "fragment"
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "items": [
+  {
+   "episode": "What Is Time Dilation?",
+   "date": "2026-10-06",
+   "orig": "What do we call the effect that causes different amounts of time to pass under different conditions?",
+   "prompt": "What do we call the effect that makes different amounts of time pass under different conditions?",
+   "answer": "Time dilation",
+   "choices": [
+    "Time travel",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "What Is Time Dilation?",
+   "date": "2026-10-06",
+   "orig": "And if relativity were ignored, about how large would GPS position errors become in a single day?",
+   "prompt": "If GPS ignored time dilation, about how far off would it be in one day?",
+   "answer": "Several miles",
+   "choices": [
+    "A few inches",
+    "A few feet"
+   ]
+  },
+  {
+   "episode": "Why Don't Birds Get Shocked on Power Lines?",
+   "date": "2026-10-07",
+   "orig": "What is the movement of electric charge called?",
+   "prompt": "What is the movement of electric charge called?",
+   "answer": "Electric current",
+   "choices": [
+    "Voltage",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "Why Don't Birds Get Shocked on Power Lines?",
+   "date": "2026-10-07",
+   "orig": "And why can a bird usually sit safely with both feet on the same power line?",
+   "prompt": "Why can a bird usually sit safely with both feet on the same power line?",
+   "answer": "Both feet have the same voltage",
+   "choices": [
+    "Its feathers block it",
+    "It is too light"
+   ],
+   "explain": "Very little current flows through its body."
+  },
+  {
+   "episode": "Why Don't Birds Get Shocked on Power Lines?",
+   "date": "2026-10-07",
+   "orig": "And what could happen if a bird touched two electrical paths with different voltages at the same time?",
+   "prompt": "What could happen if a bird touched two wires with different voltages at the same time?",
+   "answer": "It could get shocked",
+   "choices": [
+    "It would fly faster",
+    "Nothing at all"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Get to Mars?",
+   "date": "2026-10-08",
+   "orig": "If we can take humans to Mars, about how long will the trip be?",
+   "prompt": "About how long would a trip to Mars take?",
+   "answer": "Six to nine months",
+   "choices": [
+    "Two weeks",
+    "Ten years"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Get to Mars?",
+   "date": "2026-10-08",
+   "orig": "And why does the distance between Earth and Mars keep changing?",
+   "prompt": "Why does the distance between Earth and Mars keep changing?",
+   "answer": "Both move around the sun",
+   "choices": [
+    "Mars keeps shrinking",
+    "The moon pushes Mars"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Get to Mars?",
+   "date": "2026-10-08",
+   "orig": "And about how often does a good launch opportunity for Mars come around?",
+   "prompt": "About how often does a good launch time for Mars come around?",
+   "answer": "Every 26 months",
+   "choices": [
+    "Every week",
+    "Every 100 years"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Get to Mars?",
+   "date": "2026-10-08",
+   "orig": "And why do engineers aim a spacecraft towards where Mars will be instead of where it is when the spacecraft launches?",
+   "prompt": "Why do engineers aim a spacecraft at where Mars will be, not where it is at launch?",
+   "answer": "Mars keeps moving",
+   "choices": [
+    "Mars is too bright",
+    "Mars is too small"
+   ],
+   "explain": "Mars keeps moving around the sun while the spacecraft is traveling."
+  },
+  {
+   "episode": "How Do Electric Bikes Work?",
+   "date": "2026-10-14",
+   "orig": "What part of an electric bike stores the electrical energy that the bike can use?",
+   "prompt": "What part of an electric bike stores the electrical energy?",
+   "answer": "The battery",
+   "choices": [
+    "The chain",
+    "The seat"
+   ]
+  },
+  {
+   "episode": "How Do Electric Bikes Work?",
+   "date": "2026-10-14",
+   "orig": "And what part uses electrical energy to help move the bike?",
+   "prompt": "What part of an electric bike uses electrical energy to help move the bike?",
+   "answer": "The electric motor",
+   "choices": [
+    "The bell",
+    "The kickstand"
+   ]
+  },
+  {
+   "episode": "How Do Electric Bikes Work?",
+   "date": "2026-10-14",
+   "orig": "And what can detect that the rider is pedaling or how hard the rider is pushing?",
+   "prompt": "What can tell that the rider is pedaling or how hard they're pushing?",
+   "answer": "Sensors",
+   "choices": [
+    "Reflectors",
+    "Speakers"
+   ]
+  },
+  {
+   "episode": "Why Does Garbage Smell So Bad?",
+   "date": "2026-10-21",
+   "orig": "What has to reach your nose before you can smell something? ... Do you remember what they're called?",
+   "prompt": "What has to reach your nose before you can smell something?",
+   "answer": "Odor molecules",
+   "choices": [
+    "Light waves",
+    "Sound waves"
+   ],
+   "explain": "They're called odorants."
+  },
+  {
+   "episode": "Why Does Garbage Smell So Bad?",
+   "date": "2026-10-21",
+   "orig": "And what kind of tiny living things can help break down food scraps in the garbage?",
+   "prompt": "What kind of tiny living things help break down food scraps in the garbage?",
+   "answer": "Bacteria",
+   "choices": [
+    "Seeds",
+    "Crystals"
+   ],
+   "explain": "Microorganisms, including bacteria."
+  },
+  {
+   "episode": "Why Does Garbage Smell So Bad?",
+   "date": "2026-10-21",
+   "orig": "And what gas can have a smell similar to rotten eggs?",
+   "prompt": "What gas can smell like rotten eggs?",
+   "answer": "Hydrogen sulfide",
+   "choices": [
+    "Helium",
+    "Oxygen"
+   ]
+  },
+  {
+   "episode": "Why Does Garbage Smell So Bad?",
+   "date": "2026-10-21",
+   "orig": "And why can putting a lid on a trash can help with the smell?",
+   "prompt": "Why can putting a lid on a trash can help with the smell?",
+   "answer": "It keeps odor molecules in",
+   "choices": [
+    "It makes the trash colder",
+    "It kills all the germs"
+   ]
+  },
+  {
+   "episode": "What Is DNA?",
+   "date": "2026-11-02",
+   "orig": "What four letters do scientists use for the chemical pieces that determine DNA's information?",
+   "prompt": "What four letters do scientists use for the chemical pieces of DNA?",
+   "answer": "A, T, C, and G",
+   "choices": [
+    "A, B, C, and D",
+    "W, X, Y, and Z"
+   ]
+  },
+  {
+   "episode": "What Is DNA?",
+   "date": "2026-11-02",
+   "orig": "And what are the sections of DNA that carry particular instructions called?",
+   "prompt": "What are the sections of DNA that carry particular instructions called?",
+   "answer": "Genes",
+   "choices": [
+    "Bones",
+    "Atoms"
+   ]
+  },
+  {
+   "episode": "What Is DNA?",
+   "date": "2026-11-02",
+   "orig": "And what molecules do cells make that can help your muscles move?",
+   "prompt": "What molecules do cells make that can help your muscles move?",
+   "answer": "Proteins",
+   "choices": [
+    "Minerals",
+    "Salts"
+   ]
+  },
+  {
+   "episode": "What Is DNA?",
+   "date": "2026-11-02",
+   "orig": "And who do you inherit your DNA from?",
+   "prompt": "Who do you get your DNA from?",
+   "answer": "Your biological parents",
+   "choices": [
+    "Your friends",
+    "Your teachers"
+   ]
+  },
+  {
+   "episode": "Why Do Stink Bugs Stink?",
+   "date": "2026-11-23",
+   "orig": "What makes the smelly liquid inside the bug?",
+   "prompt": "What makes the smelly liquid inside a stink bug?",
+   "answer": "Scent glands",
+   "choices": [
+    "Its wings",
+    "Its antennae"
+   ]
+  },
+  {
+   "episode": "Why Do Stink Bugs Stink?",
+   "date": "2026-11-23",
+   "orig": "And besides its smell, what about the defensive liquid can discourage a predator?",
+   "prompt": "Besides its smell, what else about a stink bug's liquid can scare off a predator?",
+   "answer": "It tastes bad",
+   "choices": [
+    "It glows",
+    "It is very hot"
+   ]
+  },
+  {
+   "episode": "Why Do Stink Bugs Stink?",
+   "date": "2026-11-23",
+   "orig": "Now, where does the liquid leave on an adult stink bug's body?",
+   "prompt": "Where does the stinky liquid come out of an adult stink bug's body?",
+   "answer": "Openings near its legs",
+   "choices": [
+    "Its mouth",
+    "Its antennae"
+   ],
+   "explain": "Tiny openings on its underside."
+  },
+  {
+   "episode": "Why Do Stink Bugs Stink?",
+   "date": "2026-11-23",
+   "orig": "And why do brown marmorated stink bugs enter houses in the fall?",
+   "prompt": "Why do stink bugs come into houses in the fall?",
+   "answer": "To find shelter for winter",
+   "choices": [
+    "To lay eggs",
+    "To find water"
+   ]
+  }
+ ],
+ "dropped": []
+}

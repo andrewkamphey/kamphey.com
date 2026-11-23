@@ -1,0 +1,505 @@
+{
+ "items": [
+  {
+   "episode": "How Do Mountains Form?",
+   "date": "2026-11-07",
+   "orig": "What are the big puzzle pieces that make up Earth's surface called?",
+   "prompt": "What are the big puzzle pieces that make up Earth's surface called?",
+   "answer": "Tectonic plates",
+   "choices": [
+    "Volcanoes",
+    "Glaciers"
+   ]
+  },
+  {
+   "episode": "How Do Mountains Form?",
+   "date": "2026-11-07",
+   "orig": "What type of mountain forms when magma pushes land upward?",
+   "prompt": "What type of mountain forms when magma pushes land upward?",
+   "answer": "Uplift mountains",
+   "choices": [
+    "Volcanic mountains",
+    "Ice mountains"
+   ]
+  },
+  {
+   "episode": "How Do Mountains Form?",
+   "date": "2026-11-07",
+   "orig": "And what natural force wears mountains down over time?",
+   "prompt": "What natural force wears mountains down over time?",
+   "answer": "Erosion",
+   "choices": [
+    "Evaporation",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "How Do Mountains Form?",
+   "date": "2026-11-07",
+   "orig": "What do you call mountains built by cooled lava from volcanoes?",
+   "prompt": "What do you call mountains built by cooled lava from volcanoes?",
+   "answer": "Volcanic mountains",
+   "choices": [
+    "Uplift mountains",
+    "Ice mountains"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Brain Freeze?",
+   "date": "2026-11-08",
+   "orig": "Where does a brain freeze start?",
+   "prompt": "Where does a brain freeze start?",
+   "answer": "The roof of your mouth",
+   "choices": [
+    "The tip of your nose",
+    "Your ears"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Brain Freeze?",
+   "date": "2026-11-08",
+   "orig": "And what does your tongue do that can help a brain freeze go away faster?",
+   "prompt": "What can your tongue do to help a brain freeze go away faster?",
+   "answer": "Press on the roof of your mouth",
+   "choices": [
+    "Stick out of your mouth",
+    "Wiggle side to side"
+   ],
+   "explain": "It warms the roof of your mouth."
+  },
+  {
+   "episode": "Why Do You Get a Brain Freeze?",
+   "date": "2026-11-08",
+   "orig": "What is changing quickly when you get a brain freeze? Your bones, your blood flow or your hair?",
+   "prompt": "What is changing quickly when you get a brain freeze?",
+   "answer": "Your blood flow",
+   "choices": [
+    "Your bones",
+    "Your hair"
+   ]
+  },
+  {
+   "episode": "How Long Would it Take to Sail around the World?",
+   "date": "2026-11-09",
+   "orig": "What is the imaginary line around Earth's middle called?",
+   "prompt": "What is the imaginary line around Earth's middle called?",
+   "answer": "The equator",
+   "choices": [
+    "The North Pole",
+    "The horizon"
+   ]
+  },
+  {
+   "episode": "How Long Would it Take to Sail around the World?",
+   "date": "2026-11-09",
+   "orig": "And what percentage of Earth's surface does the ocean cover?",
+   "prompt": "How much of Earth's surface does the ocean cover?",
+   "answer": "About 71 percent",
+   "choices": [
+    "About 10 percent",
+    "About 30 percent"
+   ]
+  },
+  {
+   "episode": "How Long Would it Take to Sail around the World?",
+   "date": "2026-11-09",
+   "orig": "And about how long did the first recorded voyage around the world take?",
+   "prompt": "About how long did the first recorded voyage around the world take?",
+   "answer": "About three years",
+   "choices": [
+    "About three days",
+    "About three weeks"
+   ],
+   "explain": "Magellan started it and Elcano finished it."
+  },
+  {
+   "episode": "What Causes Sinkholes?",
+   "date": "2026-11-11",
+   "orig": "What kind of rock underneath much of Tennessee can slowly dissolve in slightly acidic water?",
+   "prompt": "What kind of rock can slowly dissolve in slightly acidic water?",
+   "answer": "Limestone",
+   "choices": [
+    "Granite",
+    "Diamond"
+   ]
+  },
+  {
+   "episode": "What Causes Sinkholes?",
+   "date": "2026-11-11",
+   "orig": "And what gas combines with water to form carbonic acid?",
+   "prompt": "What gas combines with water to form carbonic acid?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Helium"
+   ]
+  },
+  {
+   "episode": "What Causes Sinkholes?",
+   "date": "2026-11-11",
+   "orig": "And what do we call a landscape shaped by water dissolving rock?",
+   "prompt": "What do we call a landscape shaped by water dissolving rock?",
+   "answer": "Karst",
+   "choices": [
+    "Tundra",
+    "Savanna"
+   ]
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "date": "2026-11-14",
+   "orig": "What shape do a hummingbird's wings move in?",
+   "prompt": "What shape do a hummingbird's wings move in?",
+   "answer": "A figure eight",
+   "choices": [
+    "A circle",
+    "A square"
+   ]
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "date": "2026-11-14",
+   "orig": "What kind of food do hummingbirds love to eat? ... What was that thing they get from the flowers?",
+   "prompt": "What do hummingbirds love to get from flowers?",
+   "answer": "Nectar",
+   "choices": [
+    "Seeds",
+    "Petals"
+   ],
+   "explain": "They also like to eat tiny insects."
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "date": "2026-11-14",
+   "orig": "And how fast can some hummingbirds flap their wings during a dive? Ten times per second? A hundred times per second? Or two hundred times per second?",
+   "prompt": "How fast can some hummingbirds flap their wings during a dive?",
+   "answer": "200 times per second",
+   "choices": [
+    "10 times per second",
+    "100 times per second"
+   ]
+  },
+  {
+   "episode": "How Do Jellyfish Sting?",
+   "date": "2026-11-15",
+   "orig": "What are the special stinging cells in jellyfish tentacles called?",
+   "prompt": "What are the special stinging cells in jellyfish tentacles called?",
+   "answer": "Nidocytes",
+   "choices": [
+    "Neurons",
+    "Muscle cells"
+   ]
+  },
+  {
+   "episode": "How Do Jellyfish Sting?",
+   "date": "2026-11-15",
+   "orig": "Okay, so then, inside each stinging cell, what is the thing that acts like a tiny harpoon?",
+   "prompt": "Inside each stinging cell, what acts like a tiny harpoon?",
+   "answer": "A nematocyst",
+   "choices": [
+    "A tentacle",
+    "A fin"
+   ]
+  },
+  {
+   "episode": "How Do Jellyfish Sting?",
+   "date": "2026-11-15",
+   "orig": "What do jellyfish use their stings for?",
+   "prompt": "What do jellyfish use their stings for?",
+   "answer": "To catch prey and defend",
+   "choices": [
+    "To make light",
+    "To swim faster"
+   ]
+  },
+  {
+   "episode": "How Strong Are Gorillas?",
+   "date": "2026-11-16",
+   "orig": "About how much does an adult male Western lowland gorilla weigh?",
+   "prompt": "About how much does an adult male gorilla weigh?",
+   "answer": "300 to 400 pounds",
+   "choices": [
+    "30 to 40 pounds",
+    "3,000 to 4,000 pounds"
+   ]
+  },
+  {
+   "episode": "How Strong Are Gorillas?",
+   "date": "2026-11-16",
+   "orig": "And what is the name for walking on the feet and the backs of curled fingers, the way that a gorilla does?",
+   "prompt": "What is it called when a gorilla walks on its feet and the backs of its curled fingers?",
+   "answer": "Knuckle walking",
+   "choices": [
+    "Tiptoe walking",
+    "Hopping"
+   ]
+  },
+  {
+   "episode": "How Strong Are Gorillas?",
+   "date": "2026-11-16",
+   "orig": "And what word describes the advantage that makes a heavy door easier to open when you push near the handle instead of near the hinges.",
+   "prompt": "What word describes why a heavy door is easier to open when you push near the handle?",
+   "answer": "Leverage",
+   "choices": [
+    "Gravity",
+    "Friction"
+   ]
+  },
+  {
+   "episode": "Why Do Hammerhead Sharks Have Eyes on the Sides of Their Heads?",
+   "date": "2026-11-17",
+   "orig": "What do we call seeing the same thing with both eyes at once?",
+   "prompt": "What do we call seeing the same thing with both eyes at once?",
+   "answer": "Binocular vision",
+   "choices": [
+    "Night vision",
+    "X-ray vision"
+   ]
+  },
+  {
+   "episode": "Why Do Hammerhead Sharks Have Eyes on the Sides of Their Heads?",
+   "date": "2026-11-17",
+   "orig": "And what part of your body uses differences between your eyes' views to help judge distance?",
+   "prompt": "What part of your body uses the views from both eyes to help judge distance?",
+   "answer": "Your brain",
+   "choices": [
+    "Your nose",
+    "Your ears"
+   ]
+  },
+  {
+   "episode": "Why Do Hammerhead Sharks Have Eyes on the Sides of Their Heads?",
+   "date": "2026-11-17",
+   "orig": "What movement helps bring more of the surrounding water into view as the shark swims?",
+   "prompt": "What movement helps a hammerhead see more of the water around it?",
+   "answer": "Swimming side to side",
+   "choices": [
+    "Swimming in circles",
+    "Jumping out of the water"
+   ]
+  },
+  {
+   "episode": "How Is Glass Made?",
+   "date": "2026-11-18",
+   "orig": "What ingredient helps the mixture melt at a lower temperature?",
+   "prompt": "What ingredient helps the glass mixture melt at a lower temperature?",
+   "answer": "Soda ash",
+   "choices": [
+    "Sugar",
+    "Pepper"
+   ]
+  },
+  {
+   "episode": "How Is Glass Made?",
+   "date": "2026-11-18",
+   "orig": "And what do we call the enormous oven where the ingredients melt?",
+   "prompt": "What do we call the enormous oven where glass ingredients melt?",
+   "answer": "A furnace",
+   "choices": [
+    "A fireplace",
+    "A chimney"
+   ]
+  },
+  {
+   "episode": "How Is Glass Made?",
+   "date": "2026-11-18",
+   "orig": "And do you remember how hot it gets?",
+   "prompt": "How hot does a glass furnace get?",
+   "answer": "3,000 degrees Fahrenheit",
+   "choices": [
+    "300 degrees Fahrenheit",
+    "30 degrees Fahrenheit"
+   ]
+  },
+  {
+   "episode": "How Is Glass Made?",
+   "date": "2026-11-18",
+   "orig": "And what metal does hot glass float on when factories make flat sheets of glass?",
+   "prompt": "What metal does hot glass float on when factories make flat sheets?",
+   "answer": "Tin",
+   "choices": [
+    "Gold",
+    "Iron"
+   ],
+   "explain": "The tin is so hot it becomes a liquid."
+  },
+  {
+   "episode": "How Is Glass Made?",
+   "date": "2026-11-18",
+   "orig": "And what is the name of the recycled pieces of glass that are mixed into a new batch?",
+   "prompt": "What are the recycled pieces of glass mixed into a new batch called?",
+   "answer": "Cullet",
+   "choices": [
+    "Confetti",
+    "Gravel"
+   ]
+  },
+  {
+   "episode": "How Is Glass Made?",
+   "date": "2026-11-18",
+   "orig": "And do you remember what that cooling process is called when they cool the glass? What is that called?",
+   "prompt": "What is the careful cooling process for glass called?",
+   "answer": "Annealing",
+   "choices": [
+    "Freezing",
+    "Baking"
+   ]
+  },
+  {
+   "episode": "How Do Rockets Launch?",
+   "date": "2026-11-19",
+   "orig": "What do we call the push produced by a rocket engine?",
+   "prompt": "What do we call the push made by a rocket engine?",
+   "answer": "Thrust",
+   "choices": [
+    "Lift",
+    "Drag"
+   ]
+  },
+  {
+   "episode": "How Do Rockets Launch?",
+   "date": "2026-11-19",
+   "orig": "And what substance do most rocket engines carry in liquid form to help their fuel burn?",
+   "prompt": "What do most rocket engines carry in liquid form to help their fuel burn?",
+   "answer": "Oxygen",
+   "choices": [
+    "Water",
+    "Helium"
+   ]
+  },
+  {
+   "episode": "How Do Rockets Launch?",
+   "date": "2026-11-19",
+   "orig": "And what do we call extra rockets attached along side a launch vehicle to provide more thrust?",
+   "prompt": "What do we call extra rockets attached alongside a rocket to give more thrust?",
+   "answer": "Boosters",
+   "choices": [
+    "Satellites",
+    "Fins"
+   ]
+  },
+  {
+   "episode": "How Fast Does Light Travel?",
+   "date": "2026-11-21",
+   "orig": "What does a light year measure? Does it measure time or distance?",
+   "prompt": "What does a light year measure?",
+   "answer": "Distance",
+   "choices": [
+    "Time",
+    "Brightness"
+   ],
+   "explain": "It's the distance light travels in a whole year."
+  },
+  {
+   "episode": "How Fast Does Light Travel?",
+   "date": "2026-11-21",
+   "orig": "Do you remember how fast light travels in one second?",
+   "prompt": "How fast does light travel?",
+   "answer": "186,000 miles per second",
+   "choices": [
+    "186 miles per second",
+    "1,000 miles per second"
+   ]
+  },
+  {
+   "episode": "How Fast Does Light Travel?",
+   "date": "2026-11-21",
+   "orig": "Why do astronomers use light years instead of miles?",
+   "prompt": "Why do astronomers use light years instead of miles?",
+   "answer": "Space is so big",
+   "choices": [
+    "Stars are very close",
+    "Light is slow"
+   ],
+   "explain": "Miles would be too hard to work with."
+  },
+  {
+   "episode": "How Fast Does Light Travel?",
+   "date": "2026-11-21",
+   "orig": "If a star is five light years away, how long ago did the light from the star leave?",
+   "prompt": "If a star is five light years away, how long ago did its light leave?",
+   "answer": "Five years ago",
+   "choices": [
+    "Five minutes ago",
+    "Yesterday"
+   ]
+  },
+  {
+   "episode": "How Do Tornadoes Form?",
+   "date": "2026-11-22",
+   "orig": "What kind of storm is most likely to form a tornado?",
+   "prompt": "What kind of storm is most likely to form a tornado?",
+   "answer": "A supercell",
+   "choices": [
+    "A snowstorm",
+    "A dust storm"
+   ]
+  },
+  {
+   "episode": "How Do Tornadoes Form?",
+   "date": "2026-11-22",
+   "orig": "What scale is used to measure tornado strength?",
+   "prompt": "What scale is used to measure tornado strength?",
+   "answer": "The EF scale",
+   "choices": [
+    "The Richter scale",
+    "The Celsius scale"
+   ],
+   "explain": "It's the enhanced Fujita scale."
+  },
+  {
+   "episode": "How Do Tornadoes Form?",
+   "date": "2026-11-22",
+   "orig": "What makes the air start spinning before a tornado forms?",
+   "prompt": "What makes the air start spinning before a tornado forms?",
+   "answer": "Different winds at different heights",
+   "choices": [
+    "The moon's gravity",
+    "Ocean waves"
+   ],
+   "explain": "Different wind speeds and directions at different heights."
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "Why Do You Get a Brain Freeze?",
+   "q": "Your bones, your blood flow or your hair?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Long Would it Take to Sail around the World?",
+   "q": "What percentage of the Earth's surface is ocean?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "q": "Something they get from the flower They eat?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "q": "Ten times per second?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "q": "A hundred times per second?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Fast Do Hummingbirds Flap Their Wings?",
+   "q": "Or two hundred times per second?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Strong Are Gorillas?",
+   "q": "What is that called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Tornadoes Form?",
+   "q": "Remember we learned the word supercell?",
+   "why": "fragment"
+  }
+ ]
+}

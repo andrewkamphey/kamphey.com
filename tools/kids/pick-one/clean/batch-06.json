@@ -1,0 +1,833 @@
+{
+ "items": [
+  {
+   "episode": "How Do You Make a Podcast?",
+   "date": "2025-11-13",
+   "orig": "What's the first thing every episode of Curious Kids Every Day starts with?",
+   "prompt": "What's the first thing every episode of Curious Kids Every Day starts with?",
+   "answer": "A question",
+   "choices": [
+    "A song",
+    "A joke"
+   ]
+  },
+  {
+   "episode": "Why Do Horses Sleep Standing Up?",
+   "date": "2025-11-15",
+   "orig": "What is the special system in a horse's legs that helps them stand while resting?",
+   "prompt": "What is the special system in a horse's legs that helps them stand while resting?",
+   "answer": "The stay apparatus",
+   "choices": [
+    "The hoof lock",
+    "The knee spring"
+   ]
+  },
+  {
+   "episode": "Why Do Horses Sleep Standing Up?",
+   "date": "2025-11-15",
+   "orig": "Why do horses prefer to sleep lightly while standing?",
+   "prompt": "Why do horses like to sleep lightly while standing?",
+   "answer": "To stay alert for danger",
+   "choices": [
+    "To stay warm",
+    "To grow taller"
+   ]
+  },
+  {
+   "episode": "Why Do Horses Sleep Standing Up?",
+   "date": "2025-11-15",
+   "orig": "And what kind of sleep do horses get only when lying down?",
+   "prompt": "What kind of sleep do horses get only when lying down?",
+   "answer": "Deep sleep",
+   "choices": [
+    "Light sleep",
+    "Quick naps"
+   ]
+  },
+  {
+   "episode": "What Is a Paradox?",
+   "date": "2025-11-16",
+   "orig": "What do we call a statement that seems to contradict itself?",
+   "prompt": "What do we call a statement that seems to contradict itself?",
+   "answer": "A paradox",
+   "choices": [
+    "A riddle",
+    "A rhyme"
+   ]
+  },
+  {
+   "episode": "What Is a Paradox?",
+   "date": "2025-11-16",
+   "orig": "And what paradox involves someone who only shaves people who don't shave themselves?",
+   "prompt": "What paradox is about someone who only shaves people who don't shave themselves?",
+   "answer": "The barber paradox",
+   "choices": [
+    "The grandfather paradox",
+    "The clock paradox"
+   ]
+  },
+  {
+   "episode": "What Is a Paradox?",
+   "date": "2025-11-16",
+   "orig": "And what kind of story often uses the grandfather paradox?",
+   "prompt": "What kind of story often uses the grandfather paradox?",
+   "answer": "Time travel stories",
+   "choices": [
+    "Fairy tales",
+    "Animal stories"
+   ]
+  },
+  {
+   "episode": "How Do Telescopes See So Far Away?",
+   "date": "2025-11-17",
+   "orig": "What do telescopes collect to help you see far away things?",
+   "prompt": "What do telescopes collect to help you see faraway things?",
+   "answer": "Light",
+   "choices": [
+    "Sound",
+    "Air"
+   ]
+  },
+  {
+   "episode": "How Do Telescopes See So Far Away?",
+   "date": "2025-11-17",
+   "orig": "What is the opening of a telescope called?",
+   "prompt": "What is the opening of a telescope called?",
+   "answer": "The aperture",
+   "choices": [
+    "The tripod",
+    "The mirror"
+   ]
+  },
+  {
+   "episode": "How Do Telescopes See So Far Away?",
+   "date": "2025-11-17",
+   "orig": "And which part of your body already has a lens?",
+   "prompt": "Which part of your body already has a lens?",
+   "answer": "Your eye",
+   "choices": [
+    "Your ear",
+    "Your nose"
+   ]
+  },
+  {
+   "episode": "How Do Traffic Lights Know When to Change Colors?",
+   "date": "2025-11-18",
+   "orig": "What is the small computer that controls traffic lights called?",
+   "prompt": "What is the small computer that controls traffic lights called?",
+   "answer": "A controller",
+   "choices": [
+    "A remote",
+    "A robot"
+   ]
+  },
+  {
+   "episode": "How Do Traffic Lights Know When to Change Colors?",
+   "date": "2025-11-18",
+   "orig": "And what color is the traffic light when you need to slow down?",
+   "prompt": "What color is the traffic light when you need to slow down?",
+   "answer": "Yellow",
+   "choices": [
+    "Green",
+    "Blue"
+   ]
+  },
+  {
+   "episode": "Why Do Dolphins Jump Out of the Water?",
+   "date": "2025-11-19",
+   "orig": "What do dolphins use to breathe?",
+   "prompt": "What do dolphins use to breathe?",
+   "answer": "Their blowhole",
+   "choices": [
+    "Their gills",
+    "Their fins"
+   ]
+  },
+  {
+   "episode": "Why Do Dolphins Jump Out of the Water?",
+   "date": "2025-11-19",
+   "orig": "And what is a group of dolphins called?",
+   "prompt": "What is a group of dolphins called?",
+   "answer": "A pod",
+   "choices": [
+    "A herd",
+    "A flock"
+   ]
+  },
+  {
+   "episode": "Why Do You Have Wax in Your Ears?",
+   "date": "2025-11-20",
+   "orig": "What is the real name for earwax? Do you remember the name?",
+   "prompt": "What is the real name for earwax?",
+   "answer": "Cerumen",
+   "choices": [
+    "Keratin",
+    "Mucus"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Sore Throat?",
+   "date": "2025-11-21",
+   "orig": "What part of your throat gets swollen during a sore throat?",
+   "prompt": "What part of your throat gets swollen during a sore throat?",
+   "answer": "The mucus membrane",
+   "choices": [
+    "The tongue",
+    "The teeth"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Sore Throat?",
+   "date": "2025-11-21",
+   "orig": "And what season can make your throat hurt because of all the dry air?",
+   "prompt": "What season can make your throat hurt because of all the dry air?",
+   "answer": "Winter",
+   "choices": [
+    "Summer",
+    "Spring"
+   ]
+  },
+  {
+   "episode": "Why Do Dollar Bills Look So Weird?",
+   "date": "2025-11-22",
+   "orig": "What material is a dollar bill mostly made of? Remember, it's 25% linen and 75%...",
+   "prompt": "What material is a dollar bill mostly made of?",
+   "answer": "Cotton",
+   "choices": [
+    "Paper",
+    "Plastic"
+   ],
+   "explain": "It's 25% linen and 75% cotton."
+  },
+  {
+   "episode": "Why Do Dollar Bills Look So Weird?",
+   "date": "2025-11-22",
+   "orig": "Why did the government choose green ink long ago?",
+   "prompt": "Why did the government choose green ink long ago?",
+   "answer": "It was hard to copy",
+   "choices": [
+    "It was the cheapest",
+    "It looked like grass"
+   ],
+   "explain": "And it didn't fade quickly."
+  },
+  {
+   "episode": "Why Do Dollar Bills Look So Weird?",
+   "date": "2025-11-22",
+   "orig": "And what does the big letter inside the seal on the left side of the bill represent?",
+   "prompt": "What does the big letter inside the seal on the left side of a dollar bill stand for?",
+   "answer": "A Federal Reserve Bank",
+   "choices": [
+    "The president's name",
+    "The year it was made"
+   ]
+  },
+  {
+   "episode": "Why Do Elephants Have Big Trunks?",
+   "date": "2025-11-23",
+   "orig": "What sense is an elephant's trunk best at?",
+   "prompt": "What sense is an elephant's trunk best at?",
+   "answer": "Smell",
+   "choices": [
+    "Hearing",
+    "Taste"
+   ]
+  },
+  {
+   "episode": "Why Do Elephants Have Big Trunks?",
+   "date": "2025-11-23",
+   "orig": "And what do elephants use their trunk to do when swimming?",
+   "prompt": "What do elephants use their trunk to do when swimming?",
+   "answer": "Breathe like a snorkel",
+   "choices": [
+    "Steer like a tail",
+    "Catch fish"
+   ],
+   "explain": "They keep it above the water."
+  },
+  {
+   "episode": "Why Do Elephants Have Big Trunks?",
+   "date": "2025-11-23",
+   "orig": "And about how many muscles are in a trunk?",
+   "prompt": "About how many muscles are in an elephant's trunk?",
+   "answer": "About 40,000",
+   "choices": [
+    "About 10",
+    "About 100"
+   ]
+  },
+  {
+   "episode": "What If You Never Cut Your Fingernails?",
+   "date": "2025-11-24",
+   "orig": "What is the strong material your nails are made of?",
+   "prompt": "What is the strong material your nails are made of?",
+   "answer": "Keratin",
+   "choices": [
+    "Bone",
+    "Wood"
+   ],
+   "explain": "Same stuff your hair is made of."
+  },
+  {
+   "episode": "What If You Never Cut Your Fingernails?",
+   "date": "2025-11-24",
+   "orig": "What is the hidden part under your skin that makes new nail cells?",
+   "prompt": "What is the hidden part under your skin that makes new nail cells?",
+   "answer": "The nail matrix",
+   "choices": [
+    "The lunula",
+    "The free edge"
+   ]
+  },
+  {
+   "episode": "What If You Never Cut Your Fingernails?",
+   "date": "2025-11-24",
+   "orig": "And what part of your nail looks like a tiny white half moon?",
+   "prompt": "What part of your nail looks like a tiny white half moon?",
+   "answer": "The lunula",
+   "choices": [
+    "The nail matrix",
+    "The free edge"
+   ]
+  },
+  {
+   "episode": "How Do Fire Extinguishers Work?",
+   "date": "2025-11-25",
+   "orig": "What are the three parts of the fire triangle?",
+   "prompt": "What are the three parts of the fire triangle?",
+   "answer": "Heat, fuel, and oxygen",
+   "choices": [
+    "Water, wind, and smoke",
+    "Wood, sparks, and ash"
+   ]
+  },
+  {
+   "episode": "How Do Fire Extinguishers Work?",
+   "date": "2025-11-25",
+   "orig": "What is one type of material inside many fire extinguishers?",
+   "prompt": "What is one type of material inside many fire extinguishers?",
+   "answer": "Dry chemical powder",
+   "choices": [
+    "Cooking oil",
+    "Flour"
+   ],
+   "explain": "It could also be carbon dioxide."
+  },
+  {
+   "episode": "How Do Fire Extinguishers Work?",
+   "date": "2025-11-25",
+   "orig": "And speaking of carbon dioxide, what does carbon dioxide remove from a fire?",
+   "prompt": "What does carbon dioxide remove from a fire?",
+   "answer": "Oxygen",
+   "choices": [
+    "Smoke",
+    "Light"
+   ]
+  },
+  {
+   "episode": "Why Does the Sky Change Colors at Sunrise & Sunset?",
+   "date": "2025-11-26",
+   "orig": "What color of light scatters the most?",
+   "prompt": "What color of light scatters the most?",
+   "answer": "Blue",
+   "choices": [
+    "Red",
+    "Orange"
+   ],
+   "explain": "That's why the sky looks blue."
+  },
+  {
+   "episode": "Why Does the Sky Change Colors at Sunrise & Sunset?",
+   "date": "2025-11-26",
+   "orig": "What colors have the longest wavelengths?",
+   "prompt": "What colors have the longest wavelengths?",
+   "answer": "Red and orange",
+   "choices": [
+    "Blue and purple",
+    "Blue and green"
+   ]
+  },
+  {
+   "episode": "Why Does the Sky Change Colors at Sunrise & Sunset?",
+   "date": "2025-11-26",
+   "orig": "And what part of the day makes sunlight pass through the most air?",
+   "prompt": "What part of the day makes sunlight pass through the most air?",
+   "answer": "Sunrise and sunset",
+   "choices": [
+    "The middle of the day",
+    "Midnight"
+   ]
+  },
+  {
+   "episode": "How Do Doctors Make You Sleep During Surgery?",
+   "date": "2025-11-27",
+   "orig": "What is the special medicine that makes you sleep during surgery called?",
+   "prompt": "What is the special medicine that makes you sleep during surgery called?",
+   "answer": "Anesthesia",
+   "choices": [
+    "Cough syrup",
+    "Vitamins"
+   ]
+  },
+  {
+   "episode": "How Do Doctors Make You Sleep During Surgery?",
+   "date": "2025-11-27",
+   "orig": "And who is the doctor that watches you while you're asleep?",
+   "prompt": "Who is the doctor that watches you while you're asleep during surgery?",
+   "answer": "The anesthesiologist",
+   "choices": [
+    "The dentist",
+    "The vet"
+   ]
+  },
+  {
+   "episode": "Why Are Skunks So Smelly?",
+   "date": "2025-11-28",
+   "orig": "What kind of molecules make skunk spray smell so strong?",
+   "prompt": "What kind of molecules make skunk spray smell so strong?",
+   "answer": "Thiols",
+   "choices": [
+    "Polymers",
+    "Neurons"
+   ]
+  },
+  {
+   "episode": "Why Are Skunks So Smelly?",
+   "date": "2025-11-28",
+   "orig": "And what part of the skunk's body holds the smelly liquid?",
+   "prompt": "What part of the skunk's body holds the smelly liquid?",
+   "answer": "Sacs near its tail",
+   "choices": [
+    "Its nose",
+    "Its belly"
+   ],
+   "explain": "Two small sacs near the tail."
+  },
+  {
+   "episode": "Why Are Skunks So Smelly?",
+   "date": "2025-11-28",
+   "orig": "And why does a skunk smell bad on purpose?",
+   "prompt": "Why does a skunk smell bad on purpose?",
+   "answer": "To stay safe",
+   "choices": [
+    "To find friends",
+    "To find food"
+   ],
+   "explain": "It's for self-defense."
+  },
+  {
+   "episode": "How Many People Does It Take to Make a Pencil?",
+   "date": "2025-11-30",
+   "orig": "What mineral is found in the center of the pencil and that's what you use to write with?",
+   "prompt": "What mineral is in the center of a pencil, the part you write with?",
+   "answer": "Graphite",
+   "choices": [
+    "Chalk",
+    "Gold"
+   ]
+  },
+  {
+   "episode": "How Many People Does It Take to Make a Pencil?",
+   "date": "2025-11-30",
+   "orig": "What part of the pencil is made from trees?",
+   "prompt": "What part of the pencil is made from trees?",
+   "answer": "The wood",
+   "choices": [
+    "The metal band",
+    "The graphite"
+   ],
+   "explain": "Natural rubber for the eraser comes from trees too."
+  },
+  {
+   "episode": "How Many People Does It Take to Make a Pencil?",
+   "date": "2025-11-30",
+   "orig": "And what metal is used to hold the eraser on?",
+   "prompt": "What metal is used to hold the eraser on a pencil?",
+   "answer": "Aluminum",
+   "choices": [
+    "Gold",
+    "Iron"
+   ]
+  },
+  {
+   "episode": "Why Does Play-Doh Dry Out?",
+   "date": "2025-11-29",
+   "orig": "What ingredient inside Play-Doh helps it stay soft?",
+   "prompt": "What ingredient inside Play-Doh helps it stay soft?",
+   "answer": "Water",
+   "choices": [
+    "Glue",
+    "Sand"
+   ]
+  },
+  {
+   "episode": "Why Does Play-Doh Dry Out?",
+   "date": "2025-11-29",
+   "orig": "And speaking of water, what is it called when water escapes into the air?",
+   "prompt": "What is it called when water escapes into the air?",
+   "answer": "Evaporation",
+   "choices": [
+    "Condensation",
+    "Precipitation"
+   ]
+  },
+  {
+   "episode": "What Is Outside of Outer Space?",
+   "date": "2025-12-02",
+   "orig": "What do you call the part of the universe that we can see?",
+   "prompt": "What do you call the part of the universe that we can see?",
+   "answer": "The observable universe",
+   "choices": [
+    "The solar system",
+    "The Milky Way"
+   ]
+  },
+  {
+   "episode": "What Is Outside of Outer Space?",
+   "date": "2025-12-02",
+   "orig": "And why can't we see everything in the universe?",
+   "prompt": "Why can't we see everything in the universe?",
+   "answer": "Light hasn't reached us yet",
+   "choices": [
+    "Clouds are in the way",
+    "Our eyes are too small"
+   ]
+  },
+  {
+   "episode": "How Are Mountains Made?",
+   "date": "2025-12-03",
+   "orig": "What are the big puzzle pieces that make up Earth's surface called?",
+   "prompt": "What are the big puzzle pieces that make up Earth's surface called?",
+   "answer": "Tectonic plates",
+   "choices": [
+    "Boulders",
+    "Craters"
+   ]
+  },
+  {
+   "episode": "How Are Mountains Made?",
+   "date": "2025-12-03",
+   "orig": "What type of mountain forms when magma pushes land upward?",
+   "prompt": "What type of mountain forms when magma pushes land upward?",
+   "answer": "Uplift mountains",
+   "choices": [
+    "Volcanic mountains",
+    "Ice mountains"
+   ]
+  },
+  {
+   "episode": "How Are Mountains Made?",
+   "date": "2025-12-03",
+   "orig": "And what natural force wears mountains down over time?",
+   "prompt": "What natural force wears mountains down over time?",
+   "answer": "Erosion",
+   "choices": [
+    "Magnetism",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Are Mountains Made?",
+   "date": "2025-12-03",
+   "orig": "What do you call mountains built by cooled lava from volcanoes?",
+   "prompt": "What do you call mountains built by cooled lava from volcanoes?",
+   "answer": "Volcanic mountains",
+   "choices": [
+    "Uplift mountains",
+    "Ice mountains"
+   ]
+  },
+  {
+   "episode": "How Does Glue Make Things Stick Together?",
+   "date": "2025-12-05",
+   "orig": "What are the long chain-like molecules in glue called? Remember the kind of spaghetti type things?",
+   "prompt": "What are the long chain-like molecules in glue called?",
+   "answer": "Polymers",
+   "choices": [
+    "Neurons",
+    "Crystals"
+   ]
+  },
+  {
+   "episode": "How Does Glue Make Things Stick Together?",
+   "date": "2025-12-05",
+   "orig": "What has to happen for school glue to harden?",
+   "prompt": "What has to happen for school glue to harden?",
+   "answer": "The water evaporates",
+   "choices": [
+    "It gets cold",
+    "It gets shaken"
+   ]
+  },
+  {
+   "episode": "How Does Glue Make Things Stick Together?",
+   "date": "2025-12-05",
+   "orig": "And what makes super glue dry so fast?",
+   "prompt": "What makes super glue dry so fast?",
+   "answer": "Moisture in the air",
+   "choices": [
+    "Sunlight",
+    "Cold air"
+   ],
+   "explain": "It reacts instantly with moisture in the air."
+  },
+  {
+   "episode": "How Does Glue Make Things Stick Together?",
+   "date": "2025-12-05",
+   "orig": "And why doesn't glue dry inside the bottle?",
+   "prompt": "Why doesn't glue dry inside the bottle?",
+   "answer": "Air can't get in",
+   "choices": [
+    "It's too dark",
+    "It's too cold"
+   ],
+   "explain": "So the water can't evaporate."
+  },
+  {
+   "episode": "How Do We Know What Dinosaurs Looked Like?",
+   "date": "2025-12-07",
+   "orig": "What do scientists study to learn about dinosaur bodies?",
+   "prompt": "What do scientists study to learn about dinosaur bodies?",
+   "answer": "Fossils",
+   "choices": [
+    "Old photos",
+    "Cave paintings"
+   ]
+  },
+  {
+   "episode": "How Do We Know What Dinosaurs Looked Like?",
+   "date": "2025-12-07",
+   "orig": "What marks on bones help scientists know where muscles were?",
+   "prompt": "What marks on bones help scientists know where muscles were?",
+   "answer": "Muscle attachment marks",
+   "choices": [
+    "Tooth marks",
+    "Scratch marks"
+   ]
+  },
+  {
+   "episode": "How Do We Know What Dinosaurs Looked Like?",
+   "date": "2025-12-07",
+   "orig": "Do you know what the name is for a scientist who studies fossils?",
+   "prompt": "What is the name for a scientist who studies fossils?",
+   "answer": "A paleontologist",
+   "choices": [
+    "An astronomer",
+    "A chemist"
+   ]
+  },
+  {
+   "episode": "Why Do We Sweat?",
+   "date": "2025-12-08",
+   "orig": "What helps cool your body when sweat disappears into the air?",
+   "prompt": "What helps cool your body when sweat disappears into the air?",
+   "answer": "Evaporation",
+   "choices": [
+    "Condensation",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "Why Do We Sweat?",
+   "date": "2025-12-08",
+   "orig": "And what part of your body tells sweat glands to start sweating?",
+   "prompt": "What part of your body tells sweat glands to start sweating?",
+   "answer": "Your brain",
+   "choices": [
+    "Your heart",
+    "Your stomach"
+   ]
+  },
+  {
+   "episode": "Why Do Some People Sleepwalk?",
+   "date": "2025-12-09",
+   "orig": "When does sleepwalking usually happen?",
+   "prompt": "When does sleepwalking usually happen?",
+   "answer": "During deep sleep",
+   "choices": [
+    "While dreaming",
+    "While awake"
+   ],
+   "explain": "During deep non-REM sleep, the third stage."
+  },
+  {
+   "episode": "Why Do Some People Sleepwalk?",
+   "date": "2025-12-09",
+   "orig": "And what can make sleepwalking more likely?",
+   "prompt": "What can make sleepwalking more likely?",
+   "answer": "Being overtired",
+   "choices": [
+    "Drinking water",
+    "Reading books"
+   ],
+   "explain": "Being sick or a family history can too."
+  },
+  {
+   "episode": "Why Do Some People Sleepwalk?",
+   "date": "2025-12-09",
+   "orig": "Do you remember the stage of sleep where you dream? Is it the first, second, third or fourth stage?",
+   "prompt": "What stage of sleep is when you dream?",
+   "answer": "The fourth stage",
+   "choices": [
+    "The first stage",
+    "The second stage"
+   ],
+   "explain": "It's REM sleep."
+  },
+  {
+   "episode": "What Would Happen If the Earth Stopped Spinning?",
+   "date": "2025-12-10",
+   "orig": "What keeps us from flying off the spinning earth?",
+   "prompt": "What keeps us from flying off the spinning Earth?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Air"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Earth Stopped Spinning?",
+   "date": "2025-12-10",
+   "orig": "And what would happen to day and night if earth stopped spinning?",
+   "prompt": "What would happen to day and night if Earth stopped spinning?",
+   "answer": "A day would last a year",
+   "choices": [
+    "Days would get shorter",
+    "Nothing would change"
+   ],
+   "explain": "Daytime would last about six months."
+  },
+  {
+   "episode": "How Fast Does the Esophagus Move Food? (Captain Curious)",
+   "date": "2025-12-11",
+   "orig": "When you swallow, do you remember what it's called, the thing that closes your airway for a moment?",
+   "prompt": "What's the name of the thing that closes your airway for a moment when you swallow?",
+   "answer": "The epiglottis",
+   "choices": [
+    "The uvula",
+    "The esophagus"
+   ]
+  },
+  {
+   "episode": "Why Do We Cry When We Are Sad?",
+   "date": "2025-12-12",
+   "orig": "What type of tear helps wash dust or onion out of your eyes?",
+   "prompt": "What type of tear helps wash dust or onion out of your eyes?",
+   "answer": "Reflex tears",
+   "choices": [
+    "Basal tears",
+    "Emotional tears"
+   ]
+  },
+  {
+   "episode": "Why Do We Cry When We Are Sad?",
+   "date": "2025-12-12",
+   "orig": "What tiny part of your body makes all of your tears?",
+   "prompt": "What tiny part of your body makes all of your tears?",
+   "answer": "Tear glands",
+   "choices": [
+    "Sweat glands",
+    "Eyelashes"
+   ]
+  },
+  {
+   "episode": "Why Do We Cry When We Are Sad?",
+   "date": "2025-12-12",
+   "orig": "And emotional tears can help your body release what?",
+   "prompt": "Emotional tears can help your body release what?",
+   "answer": "Stress chemicals",
+   "choices": [
+    "Vitamins",
+    "Sugar"
+   ]
+  },
+  {
+   "episode": "Why Do We Cry When We Are Sad?",
+   "date": "2025-12-12",
+   "orig": "So, do you remember how many types of tears that your tear glands produce?",
+   "prompt": "How many types of tears do your tear glands make?",
+   "answer": "Three",
+   "choices": [
+    "Two",
+    "Five"
+   ],
+   "explain": "Basal tears, reflex tears, and emotional tears."
+  },
+  {
+   "episode": "How Are Snowflakes Made?",
+   "date": "2025-12-15",
+   "orig": "What tiny thing does a snowflake usually start growing on?",
+   "prompt": "What tiny thing does a snowflake usually start growing on?",
+   "answer": "Dust or pollen",
+   "choices": [
+    "Tiny feathers",
+    "Tiny bugs"
+   ]
+  },
+  {
+   "episode": "How Are Snowflakes Made?",
+   "date": "2025-12-15",
+   "orig": "And how many sides do snowflakes usually have?",
+   "prompt": "How many sides do snowflakes usually have?",
+   "answer": "Six",
+   "choices": [
+    "Four",
+    "Eight"
+   ]
+  },
+  {
+   "episode": "How Are Snowflakes Made?",
+   "date": "2025-12-15",
+   "orig": "And what pulls a snowflake down to the ground?",
+   "prompt": "What pulls a snowflake down to the ground?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Clouds"
+   ]
+  },
+  {
+   "episode": "How Are Snowflakes Made?",
+   "date": "2025-12-15",
+   "orig": "And what happens if a snowflake melts on the way down to the ground?",
+   "prompt": "What happens if a snowflake melts on the way down to the ground?",
+   "answer": "It turns into rain",
+   "choices": [
+    "It turns into hail",
+    "It floats back up"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "Why Do You Have Wax in Your Ears?",
+   "q": "Do you remember the name?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Elephants Have Big Trunks?",
+   "q": "Do you remember that number?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Elephants Have Big Trunks?",
+   "q": "How many thousands?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Doctors Make You Sleep During Surgery?",
+   "q": "And what part of the brain does anesthesia calm down to make you sleep?",
+   "why": "no-answer"
+  },
+  {
+   "episode": "Why Does Play-Doh Dry Out?",
+   "q": "And what dries out first when Play-Doh sits out, the outside or the inside?",
+   "why": "other-category"
+  },
+  {
+   "episode": "How Does Glue Make Things Stick Together?",
+   "q": "Remember the kind of spaghetti type things?",
+   "why": "fragment"
+  }
+ ]
+}

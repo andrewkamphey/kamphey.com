@@ -1,0 +1,1010 @@
+{
+ "items": [
+  {
+   "episode": "Why Do Frogs Croak at Night?",
+   "date": "2026-03-24",
+   "orig": "What is the stretchy balloon-like material that can puff up on a frog to help their call sound louder?",
+   "prompt": "What is the stretchy balloon-like part that puffs up on a frog to make its call louder?",
+   "answer": "The vocal sac",
+   "choices": [
+    "The tongue",
+    "The eyelid"
+   ]
+  },
+  {
+   "episode": "What Is a Galaxy?",
+   "date": "2026-03-25",
+   "orig": "What force helps hold stars and gas and dust together in space?",
+   "prompt": "What force helps hold stars and gas and dust together in space?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Electricity"
+   ]
+  },
+  {
+   "episode": "What Is a Galaxy?",
+   "date": "2026-03-25",
+   "orig": "And what is the name of the system that we live in? What is our galaxy called?",
+   "prompt": "What is our galaxy called?",
+   "answer": "The Milky Way",
+   "choices": [
+    "The Big Dipper",
+    "The Solar System"
+   ]
+  },
+  {
+   "episode": "What Is a Galaxy?",
+   "date": "2026-03-25",
+   "orig": "And what do we call a swirling kind of system in space?",
+   "prompt": "What do we call a swirling kind of galaxy in space?",
+   "answer": "A spiral galaxy",
+   "choices": [
+    "A black hole",
+    "A comet"
+   ]
+  },
+  {
+   "episode": "What Is a Galaxy?",
+   "date": "2026-03-25",
+   "orig": "And what is the name of our star?",
+   "prompt": "What is the name of our star?",
+   "answer": "The sun",
+   "choices": [
+    "The moon",
+    "Mars"
+   ]
+  },
+  {
+   "episode": "How Did Nintendo Get Its Name?",
+   "date": "2026-03-26",
+   "orig": "In what country did Nintendo begin?",
+   "prompt": "In what country did Nintendo begin?",
+   "answer": "Japan",
+   "choices": [
+    "China",
+    "France"
+   ]
+  },
+  {
+   "episode": "How Did Nintendo Get Its Name?",
+   "date": "2026-03-26",
+   "orig": "And what famous arcade game introduced Mario? But his name was Jumpman back then.",
+   "prompt": "What famous arcade game introduced Mario?",
+   "answer": "Donkey Kong",
+   "choices": [
+    "Pac-Man",
+    "Tetris"
+   ],
+   "explain": "His name was Jumpman back then."
+  },
+  {
+   "episode": "How Cold Is Antarctica?",
+   "date": "2026-03-27",
+   "orig": "What do we call a place that gets very little precipitation?",
+   "prompt": "What do we call a place that gets very little precipitation?",
+   "answer": "A desert",
+   "choices": [
+    "A jungle",
+    "A swamp"
+   ]
+  },
+  {
+   "episode": "How Cold Is Antarctica?",
+   "date": "2026-03-27",
+   "orig": "And why does sunlight warm Antarctica less strongly than places near the equator?",
+   "prompt": "Why does sunlight warm Antarctica less than places near the equator?",
+   "answer": "It hits at a low angle",
+   "choices": [
+    "Clouds hide the sun",
+    "It's farther from the sun"
+   ],
+   "explain": "The sunlight spreads out more."
+  },
+  {
+   "episode": "What Is TNT?",
+   "date": "2026-03-28",
+   "orig": "What does TNT stand for?",
+   "prompt": "What does TNT stand for?",
+   "answer": "Trinitrotoluene",
+   "choices": [
+    "Tetranitrogen",
+    "Trinitrocarbon"
+   ]
+  },
+  {
+   "episode": "What Is TNT?",
+   "date": "2026-03-28",
+   "orig": "And what is the powerful push of pressure called that moves outward from an explosion?",
+   "prompt": "What is the powerful push of pressure called that moves outward from an explosion?",
+   "answer": "The blast wave",
+   "choices": [
+    "The heat wave",
+    "The tidal wave"
+   ]
+  },
+  {
+   "episode": "How Is Cotton Candy Made?",
+   "date": "2026-03-29",
+   "orig": "What does the machine do to the sugar first?",
+   "prompt": "What does a cotton candy machine do to the sugar first?",
+   "answer": "Melts and spins it",
+   "choices": [
+    "Freezes it",
+    "Grinds it"
+   ]
+  },
+  {
+   "episode": "How Is Cotton Candy Made?",
+   "date": "2026-03-29",
+   "orig": "And what pushes the melted sugar outward?",
+   "prompt": "What pushes the melted sugar outward?",
+   "answer": "The spinning center",
+   "choices": [
+    "A fan",
+    "A pump"
+   ]
+  },
+  {
+   "episode": "How Is Cotton Candy Made?",
+   "date": "2026-03-29",
+   "orig": "And what does the melted sugar turn into after it cools?",
+   "prompt": "What does the melted sugar turn into after it cools?",
+   "answer": "Thin solid threads",
+   "choices": [
+    "Hard candy balls",
+    "Sticky syrup"
+   ]
+  },
+  {
+   "episode": "How Is Cotton Candy Made?",
+   "date": "2026-03-29",
+   "orig": "And why does cotton candy look fluffy?",
+   "prompt": "Why does cotton candy look fluffy?",
+   "answer": "Its threads trap air",
+   "choices": [
+    "It's full of water",
+    "It has marshmallow in it"
+   ],
+   "explain": "The tiny sugar threads trap a lot of air."
+  },
+  {
+   "episode": "What Is Fog?",
+   "date": "2026-03-30",
+   "orig": "What is fog mostly made of?",
+   "prompt": "What is fog mostly made of?",
+   "answer": "Tiny drops of water",
+   "choices": [
+    "Smoke",
+    "Dust"
+   ]
+  },
+  {
+   "episode": "What Is Fog?",
+   "date": "2026-03-30",
+   "orig": "And what is the invisible form of water in the air called?",
+   "prompt": "What is the invisible form of water in the air called?",
+   "answer": "Water vapor",
+   "choices": [
+    "Ice",
+    "Rain"
+   ]
+  },
+  {
+   "episode": "What Is Fog?",
+   "date": "2026-03-30",
+   "orig": "And why is fog often more common in the morning?",
+   "prompt": "Why is fog often more common in the morning?",
+   "answer": "The air cools overnight",
+   "choices": [
+    "The wind is strongest",
+    "The sun heats the ground"
+   ],
+   "explain": "The ground and air often cool down overnight."
+  },
+  {
+   "episode": "What Was the Biggest Dinosaur?",
+   "date": "2026-04-01",
+   "orig": "What is one of the biggest dinosaurs scientists have discovered?",
+   "prompt": "What is one of the biggest dinosaurs scientists have discovered?",
+   "answer": "Argentinosaurus",
+   "choices": [
+    "T. rex",
+    "Velociraptor"
+   ]
+  },
+  {
+   "episode": "What Was the Biggest Dinosaur?",
+   "date": "2026-04-01",
+   "orig": "And what kind of dinosaur is Argentinosaurus?",
+   "prompt": "What kind of dinosaur is Argentinosaurus?",
+   "answer": "A sauropod",
+   "choices": [
+    "A raptor",
+    "A pterosaur"
+   ],
+   "explain": "A giant plant-eating dinosaur with a long neck and a long tail."
+  },
+  {
+   "episode": "What Was the Biggest Dinosaur?",
+   "date": "2026-04-01",
+   "orig": "What did Argentinosaurus eat?",
+   "prompt": "What did Argentinosaurus eat?",
+   "answer": "Plants",
+   "choices": [
+    "Meat",
+    "Fish"
+   ]
+  },
+  {
+   "episode": "What Was the Biggest Dinosaur?",
+   "date": "2026-04-01",
+   "orig": "And why are scientists not completely sure which dinosaur was the biggest?",
+   "prompt": "Why are scientists not completely sure which dinosaur was the biggest?",
+   "answer": "Only parts of skeletons are found",
+   "choices": [
+    "The bones got too wet",
+    "No one has looked yet"
+   ],
+   "explain": "They have to use fossils to estimate."
+  },
+  {
+   "episode": "What Happens When You Sprain Your Ankle?",
+   "date": "2026-04-02",
+   "orig": "What kind of body part gets hurt in a sprain?",
+   "prompt": "What kind of body part gets hurt in a sprain?",
+   "answer": "Ligaments",
+   "choices": [
+    "Bones",
+    "Fingernails"
+   ]
+  },
+  {
+   "episode": "What Happens When You Sprain Your Ankle?",
+   "date": "2026-04-02",
+   "orig": "And do ligaments connect bone to bone or muscle to muscle?",
+   "prompt": "What do ligaments connect?",
+   "answer": "Bone to bone",
+   "choices": [
+    "Muscle to muscle",
+    "Skin to skin"
+   ]
+  },
+  {
+   "episode": "What Happens When You Sprain Your Ankle?",
+   "date": "2026-04-02",
+   "orig": "And what is swelling? Is it extra fluid building up in an injured area? Or is it your foot filling with air?",
+   "prompt": "What is swelling?",
+   "answer": "Extra fluid building up",
+   "choices": [
+    "Your foot filling with air",
+    "Your bone getting bigger"
+   ]
+  },
+  {
+   "episode": "What Happens When You Sprain Your Ankle?",
+   "date": "2026-04-02",
+   "orig": "And if your ankle hurts after twisting, should you keep running on it right away or stop and rest it?",
+   "prompt": "If your ankle hurts after twisting, what should you do?",
+   "answer": "Stop and rest it",
+   "choices": [
+    "Keep running on it",
+    "Hop on it to test it"
+   ]
+  },
+  {
+   "episode": "How Are Marbles Made?",
+   "date": "2026-04-03",
+   "orig": "What shape does a hot glass blob become when it's rolled through special grooves?",
+   "prompt": "What shape does a hot glass blob become when it's rolled through special grooves?",
+   "answer": "A sphere",
+   "choices": [
+    "A cube",
+    "A cone"
+   ],
+   "explain": "A round ball shape."
+  },
+  {
+   "episode": "How Are Marbles Made?",
+   "date": "2026-04-03",
+   "orig": "And why do marbles need to slowly cool?",
+   "prompt": "Why do marbles need to cool slowly?",
+   "answer": "So they don't crack",
+   "choices": [
+    "So they change color",
+    "So they get bigger"
+   ]
+  },
+  {
+   "episode": "Why Don't You Remember Being a Baby?",
+   "date": "2026-04-04",
+   "orig": "What helps make memory stronger? Never thinking about them or practicing and repeating them?",
+   "prompt": "What helps make memories stronger?",
+   "answer": "Practicing and repeating",
+   "choices": [
+    "Never thinking about them",
+    "Watching more TV"
+   ]
+  },
+  {
+   "episode": "Why Don't You Remember Being a Baby?",
+   "date": "2026-04-04",
+   "orig": "And what is one thing that helps your brain sort and organize memories?",
+   "prompt": "What is one thing that helps your brain sort and organize memories?",
+   "answer": "Sleep",
+   "choices": [
+    "Sugar",
+    "Noise"
+   ]
+  },
+  {
+   "episode": "Why Don't You Remember Being a Baby?",
+   "date": "2026-04-04",
+   "orig": "And what is the name of the brain part that helps with making and organizing memories?",
+   "prompt": "What is the name of the brain part that helps make and organize memories?",
+   "answer": "The hippocampus",
+   "choices": [
+    "The cerebellum",
+    "The heart"
+   ]
+  },
+  {
+   "episode": "How Does the Internet Work?",
+   "date": "2026-04-05",
+   "orig": "If your computer asks to open a video, what is that called?",
+   "prompt": "If your computer asks to open a video, what is that called?",
+   "answer": "A request",
+   "choices": [
+    "A reply",
+    "A password"
+   ]
+  },
+  {
+   "episode": "How Does the Internet Work?",
+   "date": "2026-04-05",
+   "orig": "And what do we call the tiny pieces of information that travel across the Internet?",
+   "prompt": "What do we call the tiny pieces of information that travel across the Internet?",
+   "answer": "Data",
+   "choices": [
+    "Batteries",
+    "Wires"
+   ]
+  },
+  {
+   "episode": "How Does the Internet Work?",
+   "date": "2026-04-05",
+   "orig": "And what machine in your house connects you to the Internet outside of the house?",
+   "prompt": "What machine in your house connects you to the Internet outside?",
+   "answer": "The modem",
+   "choices": [
+    "The microwave",
+    "The printer"
+   ]
+  },
+  {
+   "episode": "How Does the Internet Work?",
+   "date": "2026-04-05",
+   "orig": "And what is the number address that your computer uses for the Internet called?",
+   "prompt": "What is the number address your computer uses for the Internet called?",
+   "answer": "An IP address",
+   "choices": [
+    "A zip code",
+    "A phone number"
+   ]
+  },
+  {
+   "episode": "Why Do Birds Migrate?",
+   "date": "2026-04-06",
+   "orig": "What does migration mean?",
+   "prompt": "What does migration mean?",
+   "answer": "Moving to a new place for a while",
+   "choices": [
+    "Building a nest",
+    "Laying eggs"
+   ],
+   "explain": "Moving from one region to another and staying there for a while."
+  },
+  {
+   "episode": "Why Do Birds Migrate?",
+   "date": "2026-04-06",
+   "orig": "Can you name one big reason that many birds migrate?",
+   "prompt": "What is one big reason many birds migrate?",
+   "answer": "To find food",
+   "choices": [
+    "To grow new feathers",
+    "To get away from rain"
+   ]
+  },
+  {
+   "episode": "Why Do Birds Migrate?",
+   "date": "2026-04-06",
+   "orig": "And can you name one clue that birds can use to help them know where to go?",
+   "prompt": "What is one clue birds can use to know where to go?",
+   "answer": "The sun and stars",
+   "choices": [
+    "Road signs",
+    "Phone maps"
+   ],
+   "explain": "Also landmarks, or even Earth's magnetic field."
+  },
+  {
+   "episode": "Why Are Apples Green or Red?",
+   "date": "2026-04-07",
+   "orig": "What is a pigment?",
+   "prompt": "What is a pigment?",
+   "answer": "Something that gives color",
+   "choices": [
+    "Something that makes it sweet",
+    "Something that makes seeds"
+   ]
+  },
+  {
+   "episode": "Why Are Apples Green or Red?",
+   "date": "2026-04-07",
+   "orig": "And what is the green pigment in many plants and apples called?",
+   "prompt": "What is the green pigment in many plants and apples called?",
+   "answer": "Chlorophyll",
+   "choices": [
+    "Anthocyanin",
+    "Keratin"
+   ]
+  },
+  {
+   "episode": "Why Are Apples Green or Red?",
+   "date": "2026-04-07",
+   "orig": "All right, but what about the red pigment that makes apple skin look red? What is that one called?",
+   "prompt": "What is the red pigment that makes apple skin look red called?",
+   "answer": "Anthocyanin",
+   "choices": [
+    "Chlorophyll",
+    "Keratin"
+   ]
+  },
+  {
+   "episode": "How Do Grapes Become Raisins?",
+   "date": "2026-04-09",
+   "orig": "What is the main thing that happens when a grape becomes a raisin?",
+   "prompt": "What is the main thing that happens when a grape becomes a raisin?",
+   "answer": "It loses its water",
+   "choices": [
+    "Sugar is added",
+    "It gets frozen"
+   ]
+  },
+  {
+   "episode": "How Do Grapes Become Raisins?",
+   "date": "2026-04-09",
+   "orig": "And why do raisins taste sweeter than fresh grapes?",
+   "prompt": "Why do raisins taste sweeter than fresh grapes?",
+   "answer": "The sugar gets concentrated",
+   "choices": [
+    "Someone adds sugar",
+    "They grow in the sun longer"
+   ],
+   "explain": "The sugar gets more concentrated as the water leaves."
+  },
+  {
+   "episode": "How Do Grapes Become Raisins?",
+   "date": "2026-04-09",
+   "orig": "And what is a machine called that dries out a fruit?",
+   "prompt": "What is a machine that dries out fruit called?",
+   "answer": "A dehydrator",
+   "choices": [
+    "A blender",
+    "A toaster"
+   ]
+  },
+  {
+   "episode": "How Does Your Mail Get Delivered?",
+   "date": "2026-04-10",
+   "orig": "What part of the address helps sort mail into the right area quickly?",
+   "prompt": "What part of the address helps sort mail into the right area quickly?",
+   "answer": "The zip code",
+   "choices": [
+    "The person's name",
+    "The street name"
+   ]
+  },
+  {
+   "episode": "How Does Your Mail Get Delivered?",
+   "date": "2026-04-10",
+   "orig": "Do you know what the word zip stands for? ... And do you remember what zip stands for?",
+   "prompt": "What does ZIP in zip code stand for?",
+   "answer": "Zone Improvement Project",
+   "choices": [
+    "Zoom Into Places",
+    "Zone Information Post"
+   ]
+  },
+  {
+   "episode": "How Are Drums Made at a Factory?",
+   "date": "2026-04-11",
+   "orig": "What is the round body of a drum called?",
+   "prompt": "What is the round body of a drum called?",
+   "answer": "The shell",
+   "choices": [
+    "The stick",
+    "The pedal"
+   ]
+  },
+  {
+   "episode": "How Are Drums Made at a Factory?",
+   "date": "2026-04-11",
+   "orig": "And what are the thin layers of wood in some drum shells called?",
+   "prompt": "What are the thin layers of wood in some drum shells called?",
+   "answer": "Plies",
+   "choices": [
+    "Rings",
+    "Scales"
+   ]
+  },
+  {
+   "episode": "How Are Drums Made at a Factory?",
+   "date": "2026-04-11",
+   "orig": "And what is the stretched part called that you hit?",
+   "prompt": "What is the stretched part of a drum that you hit called?",
+   "answer": "The drum head",
+   "choices": [
+    "The shell",
+    "The pedal"
+   ]
+  },
+  {
+   "episode": "How Are Drums Made at a Factory?",
+   "date": "2026-04-11",
+   "orig": "And what do we call changing how tight the drum head is to change the sound?",
+   "prompt": "What do we call changing how tight the drum head is to change the sound?",
+   "answer": "Tuning",
+   "choices": [
+    "Drumming",
+    "Polishing"
+   ]
+  },
+  {
+   "episode": "How Are Drums Made at a Factory?",
+   "date": "2026-04-11",
+   "orig": "What about the drum head? (Wood, Metal or Plastic)",
+   "prompt": "Is a drum head made of wood, metal, or plastic?",
+   "answer": "Plastic",
+   "choices": [
+    "Wood",
+    "Metal"
+   ]
+  },
+  {
+   "episode": "How Are Drums Made at a Factory?",
+   "date": "2026-04-11",
+   "orig": "Do you think that the cymbal is made of wood, metal or plastic?",
+   "prompt": "Is a cymbal made of wood, metal, or plastic?",
+   "answer": "Metal",
+   "choices": [
+    "Wood",
+    "Plastic"
+   ]
+  },
+  {
+   "episode": "How Are Bridges Built Over Water?",
+   "date": "2026-04-12",
+   "orig": "What is the flat part of the bridge called that cars drive on?",
+   "prompt": "What is the flat part of a bridge that cars drive on called?",
+   "answer": "The bridge deck",
+   "choices": [
+    "The pier",
+    "The roof"
+   ]
+  },
+  {
+   "episode": "How Are Bridges Built Over Water?",
+   "date": "2026-04-12",
+   "orig": "And what do engineers call the strong, upright supports that hold up a bridge?",
+   "prompt": "What do engineers call the strong, upright supports that hold up a bridge?",
+   "answer": "Piers",
+   "choices": [
+    "Ropes",
+    "Barges"
+   ]
+  },
+  {
+   "episode": "How Are Bridges Built Over Water?",
+   "date": "2026-04-12",
+   "orig": "And what is the temporary wall built in water so workers can pump the water out and work in a dry space?",
+   "prompt": "What is the temporary wall built in water so workers can pump the water out and work in a dry space?",
+   "answer": "A cofferdam",
+   "choices": [
+    "A barge",
+    "A pier"
+   ]
+  },
+  {
+   "episode": "How Are Bridges Built Over Water?",
+   "date": "2026-04-12",
+   "orig": "And what are long, strong posts driven deep into the ground under the water to help hold the bridge in place?",
+   "prompt": "What are the long, strong posts driven deep into the ground under the water to hold a bridge in place?",
+   "answer": "Piles",
+   "choices": [
+    "Cables",
+    "Barges"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Become a Doctor?",
+   "date": "2026-04-13",
+   "orig": "In the United States, about how many years does it often take after high school to become a doctor who can practice on their own?",
+   "prompt": "In the United States, about how many years does it take after high school to become a doctor?",
+   "answer": "About 11 years",
+   "choices": [
+    "About 2 years",
+    "About 30 years"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Become a Doctor?",
+   "date": "2026-04-13",
+   "orig": "And what is the special training period after medical school called?",
+   "prompt": "What is the special training period after medical school called?",
+   "answer": "Residency",
+   "choices": [
+    "Recess",
+    "Vacation"
+   ]
+  },
+  {
+   "episode": "How Long Does It Take to Become a Doctor?",
+   "date": "2026-04-13",
+   "orig": "And what do you call a doctor who takes care of children?",
+   "prompt": "What do you call a doctor who takes care of children?",
+   "answer": "A pediatrician",
+   "choices": [
+    "A dentist",
+    "A veterinarian"
+   ]
+  },
+  {
+   "episode": "What Is the Smallest Animal on Earth?",
+   "date": "2026-04-15",
+   "orig": "What tool do you need to see Myxobulus shekel?",
+   "prompt": "What tool do you need to see the smallest animal on Earth?",
+   "answer": "A microscope",
+   "choices": [
+    "A telescope",
+    "Binoculars"
+   ]
+  },
+  {
+   "episode": "What Is the Smallest Animal on Earth?",
+   "date": "2026-04-15",
+   "orig": "What kind of animal is Myxobulus shekel?",
+   "prompt": "What kind of animal is Myxobolus shekel, the smallest animal?",
+   "answer": "A parasite",
+   "choices": [
+    "A bird",
+    "An insect"
+   ]
+  },
+  {
+   "episode": "What Is the Smallest Animal on Earth?",
+   "date": "2026-04-15",
+   "orig": "And where does Myxobulus shekel live?",
+   "prompt": "Where does Myxobolus shekel live?",
+   "answer": "Inside other animals",
+   "choices": [
+    "In trees",
+    "In the sand"
+   ],
+   "explain": "It lives inside animals like fish."
+  },
+  {
+   "episode": "How Do Hot Air Balloons Fly?",
+   "date": "2026-04-16",
+   "orig": "What is the biggest reason a hot air balloon can rise into the sky?",
+   "prompt": "What is the biggest reason a hot air balloon can rise into the sky?",
+   "answer": "The air inside is heated",
+   "choices": [
+    "The wind blows it up",
+    "It has a motor"
+   ],
+   "explain": "The heated air becomes less dense than the cooler air outside."
+  },
+  {
+   "episode": "How Do Hot Air Balloons Fly?",
+   "date": "2026-04-16",
+   "orig": "What is the name of the giant fabric part of the balloon?",
+   "prompt": "What is the name of the giant fabric part of a hot air balloon?",
+   "answer": "The envelope",
+   "choices": [
+    "The basket",
+    "The burner"
+   ]
+  },
+  {
+   "episode": "How Do Hot Air Balloons Fly?",
+   "date": "2026-04-16",
+   "orig": "And what does the burner do?",
+   "prompt": "What does the burner on a hot air balloon do?",
+   "answer": "Heats the air",
+   "choices": [
+    "Cools the air",
+    "Steers the balloon"
+   ],
+   "explain": "It heats the air inside the balloon."
+  },
+  {
+   "episode": "How Do Hot Air Balloons Fly?",
+   "date": "2026-04-16",
+   "orig": "And if a pilot wants the balloon to go lower, what do they need to do?",
+   "prompt": "If a pilot wants the balloon to go lower, what do they do?",
+   "answer": "Stop using the burner",
+   "choices": [
+    "Turn the burner up",
+    "Throw out the basket"
+   ],
+   "explain": "The air inside the balloon needs to cool down a little."
+  },
+  {
+   "episode": "What Are Blisters?",
+   "date": "2026-04-17",
+   "orig": "What is inside of most blisters?",
+   "prompt": "What is inside most blisters?",
+   "answer": "Fluid",
+   "choices": [
+    "Air",
+    "Sand"
+   ],
+   "explain": "More specifically, serum."
+  },
+  {
+   "episode": "What Are Blisters?",
+   "date": "2026-04-17",
+   "orig": "And why does your body make a blister?",
+   "prompt": "Why does your body make a blister?",
+   "answer": "To protect damaged skin",
+   "choices": [
+    "To keep you warm",
+    "To help you walk faster"
+   ],
+   "explain": "It cushions the area."
+  },
+  {
+   "episode": "Why Do Bugs Bite Us?",
+   "date": "2026-04-18",
+   "orig": "What is one reason that a bug might bite a human?",
+   "prompt": "What is one reason a bug might bite a human?",
+   "answer": "To get food",
+   "choices": [
+    "To say hello",
+    "To get warm"
+   ],
+   "explain": "Or in some cases, to defend itself."
+  },
+  {
+   "episode": "Why Do Bugs Bite Us?",
+   "date": "2026-04-18",
+   "orig": "What does a stinger do?",
+   "prompt": "What does a stinger do?",
+   "answer": "Injects venom",
+   "choices": [
+    "Sucks up nectar",
+    "Makes honey"
+   ]
+  },
+  {
+   "episode": "Why Do Bugs Bite Us?",
+   "date": "2026-04-18",
+   "orig": "Which mosquito bites people, the male or the female?",
+   "prompt": "Which mosquito bites people?",
+   "answer": "The female",
+   "choices": [
+    "The male",
+    "Both"
+   ],
+   "explain": "They need the blood to grow their eggs."
+  },
+  {
+   "episode": "How Do Electric Eels Shock You?",
+   "date": "2026-04-19",
+   "orig": "What are the special cells in an electric eel called?",
+   "prompt": "What are the special cells in an electric eel called?",
+   "answer": "Electrocytes",
+   "choices": [
+    "Neurons",
+    "Batteries"
+   ]
+  },
+  {
+   "episode": "How Do Electric Eels Shock You?",
+   "date": "2026-04-19",
+   "orig": "And why might an electric eel use a weak electrical signal?",
+   "prompt": "Why might an electric eel use a weak electrical signal?",
+   "answer": "To sense what's around it",
+   "choices": [
+    "To cook its food",
+    "To light up the water"
+   ],
+   "explain": "It helps in dark or muddy water."
+  },
+  {
+   "episode": "Where Did the Happy Birthday Song Come From?",
+   "date": "2026-04-20",
+   "orig": "Before it was a birthday song, what was the Happy Birthday to You melody used for?",
+   "prompt": "Before it was a birthday song, what was the Happy Birthday melody used for?",
+   "answer": "A good morning song",
+   "choices": [
+    "A lullaby",
+    "A Christmas song"
+   ],
+   "explain": "It was called Good Morning to All."
+  },
+  {
+   "episode": "Where Did the Happy Birthday Song Come From?",
+   "date": "2026-04-20",
+   "orig": "What does public domain mean?",
+   "prompt": "What does public domain mean?",
+   "answer": "Anybody can use it for free",
+   "choices": [
+    "Only one person can use it",
+    "It costs a lot to use"
+   ]
+  },
+  {
+   "episode": "How Long Can Humans Hold Their Breath?",
+   "date": "2026-04-21",
+   "orig": "What gas builds up when you hold your breath?",
+   "prompt": "What gas builds up when you hold your breath?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Helium"
+   ]
+  },
+  {
+   "episode": "How Long Can Humans Hold Their Breath?",
+   "date": "2026-04-21",
+   "orig": "And what part of your brain helps control breathing automatically?",
+   "prompt": "What part of your brain helps control breathing automatically?",
+   "answer": "The brain stem",
+   "choices": [
+    "The hippocampus",
+    "The frontal lobe"
+   ]
+  },
+  {
+   "episode": "How Do Rubber Bands Work?",
+   "date": "2026-04-22",
+   "orig": "What are the long twisty chains inside rubber called?",
+   "prompt": "What are the long twisty chains inside rubber called?",
+   "answer": "Polymers",
+   "choices": [
+    "Crystals",
+    "Bubbles"
+   ]
+  },
+  {
+   "episode": "How Do Rubber Bands Work?",
+   "date": "2026-04-22",
+   "orig": "And what is the name for the tendency of things to move toward a disordered state?",
+   "prompt": "What is the name for the way things tend to get messy and jumbled?",
+   "answer": "Entropy",
+   "choices": [
+    "Gravity",
+    "Friction"
+   ]
+  },
+  {
+   "episode": "How Do Rubber Bands Work?",
+   "date": "2026-04-22",
+   "orig": "And what do we call the type of energy you get when a rubber band is stretched?",
+   "prompt": "What do we call the type of energy in a stretched rubber band?",
+   "answer": "Stored energy",
+   "choices": [
+    "Heat energy",
+    "Light energy"
+   ],
+   "explain": "It's called elastic potential energy."
+  },
+  {
+   "episode": "What Would Happen If the Moon Disappeared?",
+   "date": "2026-04-23",
+   "orig": "What force from the moon helps cause tides?",
+   "prompt": "What force from the moon helps cause tides?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Moon Disappeared?",
+   "date": "2026-04-23",
+   "orig": "Is there any other gravitational force besides the moon that's pulling on us right now? Maybe something that we're rotating around.",
+   "prompt": "Besides the moon, what else pulls on Earth and causes tides?",
+   "answer": "The sun",
+   "choices": [
+    "The stars",
+    "The clouds"
+   ],
+   "explain": "It has less of an effect because the moon is closer to us."
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "What Is a Galaxy?",
+   "q": "And what is the name of the system that we live in?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Cold Is Antarctica?",
+   "q": "Is the coast usually colder or warmer than the deep interior of Antarctica?",
+   "why": "other-category"
+  },
+  {
+   "episode": "What Is TNT?",
+   "q": "Is an explosion usually a slow chemical reaction or a fast chemical reaction?",
+   "why": "other-category"
+  },
+  {
+   "episode": "What Happens When You Sprain Your Ankle?",
+   "q": "Is it extra fluid building up in an injured area?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Happens When You Sprain Your Ankle?",
+   "q": "Or is it your foot filling with air?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Don't You Remember Being a Baby?",
+   "q": "If you are not paying attention when someone tells you something, is it easier or harder to remember later?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Don't You Remember Being a Baby?",
+   "q": "Never thinking about them or practicing and repeating them?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Are Apples Green or Red?",
+   "q": "What is that one called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Is the Smallest Animal on Earth?",
+   "q": "And is a micrometer bigger or smaller than a millimeter?",
+   "why": "other-category"
+  },
+  {
+   "episode": "How Do Hot Air Balloons Fly?",
+   "q": "Well, I guess it's more, what don't they need to do?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Bugs Bite Us?",
+   "q": "And do all bugs bite or sting people?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Do Bugs Bite Us?",
+   "q": "And do you remember why?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "Why Do Bugs Bite Us?",
+   "q": "Isn't that crazy?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Long Can Humans Hold Their Breath?",
+   "q": "And if you are very calm and still, do you usually use oxygen faster or slower?",
+   "why": "other-category"
+  },
+  {
+   "episode": "What Would Happen If the Moon Disappeared?",
+   "q": "Does the moon make its own light?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "What Would Happen If the Moon Disappeared?",
+   "q": "And would tides disappear completely if the moon vanished?",
+   "why": "yes-no"
+  }
+ ]
+}

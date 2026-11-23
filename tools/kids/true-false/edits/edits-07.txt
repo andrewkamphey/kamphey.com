@@ -1,0 +1,23 @@
+2 p=Eating slowly can help prevent brain freeze.
+8 e=It's actually very long. It's just called small because it's skinny.
+11 e=
+15 e=Other parts of your skin have oil glands that help trap the moisture.
+16 e=
+18 e=But it's still important to wash your hands.
+25 e=
+-27 speaker label fragment
+29 e=
+30 p=Doctors can hear your lungs with a stethoscope. ;; a=T ;; e=
+31 a=F ;; r
+-33 answer to a question that was never read
+45 e=Their skin is trying to figure out the right amount of oil to make.
+-48 fragment
+50 e=
+51 e=Birds have really good eyesight and really good memories.
+58 e=It's closer to 2,500 years.
+61 e=
+74 e=It's not a leg. It's a foot.
+78 e=Much slower.
+83 e=The meteor is the shooting star that you see.
+94 e=
+102 e=Rest is really important. That's when your body rebuilds itself.

@@ -1,0 +1,1062 @@
+{
+ "items": [
+  {
+   "episode": "Why Do We Blush?",
+   "date": "2026-02-19",
+   "orig": "What are the tiniest blood vessels near your skin called?",
+   "prompt": "What are the tiniest blood vessels near your skin called?",
+   "answer": "Capillaries",
+   "choices": [
+    "Arteries",
+    "Nerves"
+   ]
+  },
+  {
+   "episode": "Why Do We Blush?",
+   "date": "2026-02-19",
+   "orig": "And what system helps your body automatically react when you feel stressed or embarrassed?",
+   "prompt": "What system helps your body automatically react when you feel stressed or embarrassed?",
+   "answer": "The sympathetic nervous system",
+   "choices": [
+    "The digestive system",
+    "The immune system"
+   ]
+  },
+  {
+   "episode": "Why Do We Blush?",
+   "date": "2026-02-19",
+   "orig": "And what is it called when blood vessels open wider?",
+   "prompt": "What is it called when blood vessels open wider?",
+   "answer": "Vasodilation",
+   "choices": [
+    "Vasoconstriction",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "Why Do We Blush?",
+   "date": "2026-02-19",
+   "orig": "And why can your cheeks feel warm during an embarrassing moment?",
+   "prompt": "Why can your cheeks feel warm during an embarrassing moment?",
+   "answer": "More blood near the skin",
+   "choices": [
+    "Your cheeks get sunburned",
+    "Your face gets sweaty"
+   ],
+   "explain": "More blood is flowing near the surface of your skin."
+  },
+  {
+   "episode": "Why Do You Hear Ringing When It's Very Quiet?",
+   "date": "2026-02-21",
+   "orig": "What is the snail shell-shaped part inside your head that helps you process sound?",
+   "prompt": "What is the snail shell-shaped part inside your head that helps you process sound?",
+   "answer": "The cochlea",
+   "choices": [
+    "The eardrum",
+    "The uvula"
+   ]
+  },
+  {
+   "episode": "Why Do You Hear Ringing When It's Very Quiet?",
+   "date": "2026-02-21",
+   "orig": "And what is the name of the pathway that carries sound messages to your brain?",
+   "prompt": "What is the pathway that carries sound messages to your brain?",
+   "answer": "The auditory nerve",
+   "choices": [
+    "The vagus nerve",
+    "The spinal cord"
+   ]
+  },
+  {
+   "episode": "Why Do You Hear Ringing When It's Very Quiet?",
+   "date": "2026-02-21",
+   "orig": "And when does your brain notice tiny signals more easily? When it's loud? Or when it's very quiet?",
+   "prompt": "When does your brain notice tiny sounds more easily?",
+   "answer": "When it's very quiet",
+   "choices": [
+    "When it's loud",
+    "When you're eating"
+   ],
+   "explain": "It has less to focus on."
+  },
+  {
+   "episode": "Why Do Grown Ups Get Gray Hair?",
+   "date": "2026-02-22",
+   "orig": "What is the name of the pigment that gives hair its color?",
+   "prompt": "What is the name of the pigment that gives hair its color?",
+   "answer": "Melanin",
+   "choices": [
+    "Keratin",
+    "Chlorophyll"
+   ]
+  },
+  {
+   "episode": "Why Do Grown Ups Get Gray Hair?",
+   "date": "2026-02-22",
+   "orig": "What are the tiny pockets in your skin called where hair grows?",
+   "prompt": "What are the tiny pockets in your skin where hair grows called?",
+   "answer": "Hair follicles",
+   "choices": [
+    "Freckles",
+    "Capillaries"
+   ]
+  },
+  {
+   "episode": "Why Do Grown Ups Get Gray Hair?",
+   "date": "2026-02-22",
+   "orig": "And what are the special cells that make hair pigment?",
+   "prompt": "What are the special cells that make hair pigment called?",
+   "answer": "Melanocytes",
+   "choices": [
+    "Neurons",
+    "Platelets"
+   ]
+  },
+  {
+   "episode": "How Is Cardboard Made?",
+   "date": "2026-02-23",
+   "orig": "What is the mushy soup called that the paper is made from?",
+   "prompt": "What is the mushy soup that paper is made from called?",
+   "answer": "Pulp",
+   "choices": [
+    "Glue",
+    "Batter"
+   ]
+  },
+  {
+   "episode": "How Is Cardboard Made?",
+   "date": "2026-02-23",
+   "orig": "And what is the wavy middle layer inside many shipping boxes called?",
+   "prompt": "What is the wavy middle layer inside many shipping boxes called?",
+   "answer": "Fluting",
+   "choices": [
+    "Bubble wrap",
+    "Foam"
+   ]
+  },
+  {
+   "episode": "How Is Cardboard Made?",
+   "date": "2026-02-23",
+   "orig": "What is the name of the main plant fiber that gives paper its strength?",
+   "prompt": "What is the main plant fiber that gives paper its strength?",
+   "answer": "Cellulose",
+   "choices": [
+    "Protein",
+    "Plastic"
+   ]
+  },
+  {
+   "episode": "Why Are Some Stars Brighter than Others?",
+   "date": "2026-02-24",
+   "orig": "If two stars make the same amount of light, which one looks brighter to you?",
+   "prompt": "If two stars make the same amount of light, which one looks brighter to you?",
+   "answer": "The closer one",
+   "choices": [
+    "The farther one",
+    "The older one"
+   ]
+  },
+  {
+   "episode": "Why Are Some Stars Brighter than Others?",
+   "date": "2026-02-24",
+   "orig": "And what do we call how bright something looks to us from earth?",
+   "prompt": "What do we call how bright something looks to us from Earth?",
+   "answer": "Apparent brightness",
+   "choices": [
+    "Luminosity",
+    "Light pollution"
+   ]
+  },
+  {
+   "episode": "Why Are Some Stars Brighter than Others?",
+   "date": "2026-02-24",
+   "orig": "Alright, what do we call how much light a star makes?",
+   "prompt": "What do we call how much light a star makes?",
+   "answer": "Luminosity",
+   "choices": [
+    "Apparent brightness",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "Why Are Some Stars Brighter than Others?",
+   "date": "2026-02-24",
+   "orig": "And what do we call extra city lights that make the sky glow and hide dim stars?",
+   "prompt": "What do we call extra city lights that make the sky glow and hide dim stars?",
+   "answer": "Light pollution",
+   "choices": [
+    "Moonlight",
+    "Fog"
+   ]
+  },
+  {
+   "episode": "What Happens When You Bite Your Tongue?",
+   "date": "2026-02-25",
+   "orig": "What tiny blood helpers rush in to start plugging a bleeding spot?",
+   "prompt": "What tiny blood helpers rush in to start plugging a bleeding spot?",
+   "answer": "Platelets",
+   "choices": [
+    "Red blood cells",
+    "White blood cells"
+   ]
+  },
+  {
+   "episode": "What Happens When You Bite Your Tongue?",
+   "date": "2026-02-25",
+   "orig": "And what do we call the message wires in your body that send pain signals to your brain?",
+   "prompt": "What do we call the message wires in your body that send pain signals to your brain?",
+   "answer": "Nerves",
+   "choices": [
+    "Muscles",
+    "Veins"
+   ]
+  },
+  {
+   "episode": "What Happens When You Bite Your Tongue?",
+   "date": "2026-02-25",
+   "orig": "And what liquid in your mouth helps rinse the area and keep it from drying out?",
+   "prompt": "What liquid in your mouth helps rinse a bite and keep it from drying out?",
+   "answer": "Saliva",
+   "choices": [
+    "Mucus",
+    "Tears"
+   ],
+   "explain": "Saliva or spit."
+  },
+  {
+   "episode": "Why Does Glass Look Invisible?",
+   "date": "2026-02-26",
+   "orig": "What is the name for light bending when it goes into a new material like a window?",
+   "prompt": "What is the name for light bending when it goes into a new material like a window?",
+   "answer": "Refraction",
+   "choices": [
+    "Reflection",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "Why Does Glass Look Invisible?",
+   "date": "2026-02-26",
+   "orig": "And what is the word for light bouncing off a surface like when you see a glare on a window?",
+   "prompt": "What is the word for light bouncing off a surface, like a glare on a window?",
+   "answer": "Reflection",
+   "choices": [
+    "Refraction",
+    "Vibration"
+   ]
+  },
+  {
+   "episode": "Why Does Glass Look Invisible?",
+   "date": "2026-02-26",
+   "orig": "And what is one common starting ingredient for many types of glass?",
+   "prompt": "What is one common starting ingredient for many types of glass?",
+   "answer": "Sand",
+   "choices": [
+    "Salt",
+    "Sugar"
+   ],
+   "explain": "Silica from sand."
+  },
+  {
+   "episode": "How Do You Know When You Fall Asleep?",
+   "date": "2026-02-27",
+   "orig": "What is the name for your body's internal clock that helps you feel sleepy at night?",
+   "prompt": "What is the name for your body's internal clock that helps you feel sleepy at night?",
+   "answer": "Circadian rhythm",
+   "choices": [
+    "Heartbeat",
+    "Metabolism"
+   ]
+  },
+  {
+   "episode": "How Do You Know When You Fall Asleep?",
+   "date": "2026-02-27",
+   "orig": "When you fall asleep, do you usually react faster or slower to your name being called?",
+   "prompt": "When you fall asleep, do you react faster or slower to your name being called?",
+   "answer": "Slower",
+   "choices": [
+    "Faster",
+    "Exactly the same"
+   ]
+  },
+  {
+   "episode": "Why Does Exercise Make You Feel Good?",
+   "date": "2026-02-28",
+   "orig": "Which body part pumps faster to move blood and oxygen around when you're running?",
+   "prompt": "Which body part pumps faster to move blood and oxygen around when you're running?",
+   "answer": "Your heart",
+   "choices": [
+    "Your stomach",
+    "Your liver"
+   ]
+  },
+  {
+   "episode": "Why Does Exercise Make You Feel Good?",
+   "date": "2026-02-28",
+   "orig": "And what is one hormone your body can release when you feel stressed?",
+   "prompt": "What is one hormone your body can release when you feel stressed?",
+   "answer": "Cortisol",
+   "choices": [
+    "Melanin",
+    "Keratin"
+   ]
+  },
+  {
+   "episode": "Why Does Exercise Make You Feel Good?",
+   "date": "2026-02-28",
+   "orig": "And which brain chemical is part of your reward system and helps you feel, That was good. I want to do that again.",
+   "prompt": "Which brain chemical helps you feel, \"That was good, I want to do that again\"?",
+   "answer": "Dopamine",
+   "choices": [
+    "Cortisol",
+    "Melanin"
+   ]
+  },
+  {
+   "episode": "Why Does Exercise Make You Feel Good?",
+   "date": "2026-02-28",
+   "orig": "Which one helps reduce pain and discomfort during longer activity? Is it endorphins or dopamine?",
+   "prompt": "Which chemical helps reduce pain and discomfort during longer exercise?",
+   "answer": "Endorphins",
+   "choices": [
+    "Dopamine",
+    "Cortisol"
+   ]
+  },
+  {
+   "episode": "Why Does Exercise Make You Feel Good?",
+   "date": "2026-02-28",
+   "orig": "And which chemical is connected to mood balance? Is that serotonin or norepinephrine?",
+   "prompt": "Which brain chemical is connected to mood balance?",
+   "answer": "Serotonin",
+   "choices": [
+    "Norepinephrine",
+    "Cortisol"
+   ]
+  },
+  {
+   "episode": "Why Does Exercise Make You Feel Good?",
+   "date": "2026-02-28",
+   "orig": "This one increases alertness and focus and attention during an activity. Is that norepinephrine or cortisol?",
+   "prompt": "Which brain chemical increases alertness and focus during an activity?",
+   "answer": "Norepinephrine",
+   "choices": [
+    "Cortisol",
+    "Serotonin"
+   ]
+  },
+  {
+   "episode": "Why Do Your Fingers Go Numb When It's Cold?",
+   "date": "2026-03-01",
+   "orig": "When it is really cold, your body tries hardest to keep what warm?",
+   "prompt": "When it is really cold, your body tries hardest to keep what warm?",
+   "answer": "Your core",
+   "choices": [
+    "Your fingers",
+    "Your nose"
+   ],
+   "explain": "Your most vital organs."
+  },
+  {
+   "episode": "Why Do Your Fingers Go Numb When It's Cold?",
+   "date": "2026-03-01",
+   "orig": "And what is the name for when blood vessels squeeze smaller in the cold?",
+   "prompt": "What is it called when blood vessels squeeze smaller in the cold?",
+   "answer": "Vasoconstriction",
+   "choices": [
+    "Vasodilation",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do Thermometers Check Your Temperature?",
+   "date": "2026-03-02",
+   "orig": "What's the name of the tiny sensor in many digital thermometers that changes when it warms up?",
+   "prompt": "What's the tiny sensor in many digital thermometers that changes when it warms up?",
+   "answer": "A thermistor",
+   "choices": [
+    "A thermostat",
+    "A battery"
+   ]
+  },
+  {
+   "episode": "How Do Thermometers Check Your Temperature?",
+   "date": "2026-03-02",
+   "orig": "What kind of invisible light comes from warm things and can be used by forehead thermometers?",
+   "prompt": "What kind of invisible light comes from warm things and is used by forehead thermometers?",
+   "answer": "Infrared",
+   "choices": [
+    "X-rays",
+    "Moonlight"
+   ]
+  },
+  {
+   "episode": "How Do You Make Ice Cream?",
+   "date": "2026-03-04",
+   "orig": "What is the process called when factories heat the mix to kill harmful bacteria?",
+   "prompt": "What is it called when factories heat the ice cream mix to kill harmful bacteria?",
+   "answer": "Pasteurization",
+   "choices": [
+    "Homogenization",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do You Make Ice Cream?",
+   "date": "2026-03-04",
+   "orig": "And what process breaks fat into tiny droplets to make the texture smoother?",
+   "prompt": "What process breaks fat into tiny droplets to make the texture smoother?",
+   "answer": "Homogenization",
+   "choices": [
+    "Pasteurization",
+    "Freezing"
+   ]
+  },
+  {
+   "episode": "How Do You Make Ice Cream?",
+   "date": "2026-03-04",
+   "orig": "And what is the name for the measured amount of air mixed in during freezing?",
+   "prompt": "What is the measured amount of air mixed into ice cream during freezing called?",
+   "answer": "Overrun",
+   "choices": [
+    "Overflow",
+    "Overtime"
+   ]
+  },
+  {
+   "episode": "Why Do Flamingos Stand on One Leg?",
+   "date": "2026-03-05",
+   "orig": "Water pools heat away from your body faster than what?",
+   "prompt": "Water pulls heat away from your body faster than what?",
+   "answer": "Air",
+   "choices": [
+    "A blanket",
+    "Sunshine"
+   ]
+  },
+  {
+   "episode": "Why Do Flamingos Stand on One Leg?",
+   "date": "2026-03-05",
+   "orig": "And what helps a flamingo stay warm by reducing exposed surface area?",
+   "prompt": "What helps a flamingo stay warm when it stands in water?",
+   "answer": "Tucking one leg in",
+   "choices": [
+    "Flapping its wings",
+    "Opening its beak"
+   ],
+   "explain": "Tucking one leg into its feathers."
+  },
+  {
+   "episode": "Why Do Flamingos Stand on One Leg?",
+   "date": "2026-03-05",
+   "orig": "And what part of the flamingo's body locks to help it balance with little effort?",
+   "prompt": "What part of the flamingo's body locks to help it balance with little effort?",
+   "answer": "Its leg joints",
+   "choices": [
+    "Its neck",
+    "Its beak"
+   ]
+  },
+  {
+   "episode": "How Do Automatic Doors Know You're There?",
+   "date": "2026-03-06",
+   "orig": "What is the brain of an automatic door called?",
+   "prompt": "What is the brain of an automatic door called?",
+   "answer": "The controller",
+   "choices": [
+    "The handle",
+    "The hinge"
+   ]
+  },
+  {
+   "episode": "How Do Automatic Doors Know You're There?",
+   "date": "2026-03-06",
+   "orig": "And what part of the door turns electricity into motion?",
+   "prompt": "What part of an automatic door turns electricity into motion?",
+   "answer": "The motor",
+   "choices": [
+    "The sensor",
+    "The glass"
+   ]
+  },
+  {
+   "episode": "How Do Automatic Doors Know You're There?",
+   "date": "2026-03-06",
+   "orig": "And radar sensors send out invisible waves and listen for what?",
+   "prompt": "Radar sensors send out invisible waves and listen for what?",
+   "answer": "The waves bouncing back",
+   "choices": [
+    "Footsteps",
+    "Voices"
+   ]
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "date": "2026-03-07",
+   "orig": "What is the main job of a fridge? To create cold or to move heat out of the inside?",
+   "prompt": "What is the main job of a fridge?",
+   "answer": "Move heat out",
+   "choices": [
+    "Create cold",
+    "Make ice"
+   ],
+   "explain": "It moves heat out of the inside."
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "date": "2026-03-07",
+   "orig": "And when you move heat out of a space, what happens to that space?",
+   "prompt": "When you move heat out of a space, what happens to that space?",
+   "answer": "It gets colder",
+   "choices": [
+    "It gets warmer",
+    "It gets bigger"
+   ]
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "date": "2026-03-07",
+   "orig": "Alright, where does the refrigerant absorb heat? The inside coil or the outside coil?",
+   "prompt": "Where does the refrigerant in a fridge soak up heat?",
+   "answer": "The inside coil",
+   "choices": [
+    "The outside coil",
+    "The door"
+   ],
+   "explain": "It's called the evaporator."
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "date": "2026-03-07",
+   "orig": "And what part squeezes the refrigerant gas?",
+   "prompt": "What part of a fridge squeezes the refrigerant gas?",
+   "answer": "The compressor",
+   "choices": [
+    "The evaporator",
+    "The freezer"
+   ]
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "date": "2026-03-07",
+   "orig": "And why can the back or bottom of a fridge get warm?",
+   "prompt": "Why can the back or bottom of a fridge get warm?",
+   "answer": "Heat is dumped out there",
+   "choices": [
+    "A heater warms it",
+    "The lights make heat"
+   ],
+   "explain": "The condenser coils are dumping heat into the kitchen air."
+  },
+  {
+   "episode": "How Do Ceiling Fans Work?",
+   "date": "2026-03-08",
+   "orig": "What is the machine inside a fan that turns electricity into motion?",
+   "prompt": "What is the machine inside a fan that turns electricity into motion?",
+   "answer": "A motor",
+   "choices": [
+    "A battery",
+    "A magnet"
+   ]
+  },
+  {
+   "episode": "How Do Ceiling Fans Work?",
+   "date": "2026-03-08",
+   "orig": "And what do we call the part of the motor that stays still?",
+   "prompt": "What do we call the part of a motor that stays still?",
+   "answer": "The stator",
+   "choices": [
+    "The rotor",
+    "The blade"
+   ]
+  },
+  {
+   "episode": "How Do Ceiling Fans Work?",
+   "date": "2026-03-08",
+   "orig": "And what do we call the part of the motor that spins or rotates?",
+   "prompt": "What do we call the part of a motor that spins?",
+   "answer": "The rotor",
+   "choices": [
+    "The stator",
+    "The switch"
+   ]
+  },
+  {
+   "episode": "How Do Dogs Bark?",
+   "date": "2026-03-10",
+   "orig": "What is the voice box called that helps make a bark?",
+   "prompt": "What is the voice box called that helps a dog bark?",
+   "answer": "The larynx",
+   "choices": [
+    "The trachea",
+    "The tonsils"
+   ]
+  },
+  {
+   "episode": "How Do Dogs Bark?",
+   "date": "2026-03-10",
+   "orig": "And what do we call the two stretchy folds that vibrate to create the sound?",
+   "prompt": "What do we call the two stretchy folds that vibrate to make a bark?",
+   "answer": "Vocal cords",
+   "choices": [
+    "Tonsils",
+    "Eardrums"
+   ]
+  },
+  {
+   "episode": "How Do Dogs Bark?",
+   "date": "2026-03-10",
+   "orig": "And what is the big breathing muscle under the lungs that helps push air out?",
+   "prompt": "What is the big breathing muscle under the lungs that helps push air out?",
+   "answer": "The diaphragm",
+   "choices": [
+    "The stomach",
+    "The heart"
+   ]
+  },
+  {
+   "episode": "Why Do Ice Cubes Crack in Your Drink?",
+   "date": "2026-03-11",
+   "orig": "When a solid warms up, it usually does what?",
+   "prompt": "When a solid warms up, what does it usually do?",
+   "answer": "Expands a little",
+   "choices": [
+    "Shrinks a lot",
+    "Changes color"
+   ]
+  },
+  {
+   "episode": "Why Do Ice Cubes Crack in Your Drink?",
+   "date": "2026-03-11",
+   "orig": "And if the outside warms faster than the inside, does that make cracking more likely or less likely?",
+   "prompt": "If the outside of an ice cube warms faster than the inside, is cracking more or less likely?",
+   "answer": "More likely",
+   "choices": [
+    "Less likely",
+    "No change"
+   ]
+  },
+  {
+   "episode": "Why Do Ice Cubes Crack in Your Drink?",
+   "date": "2026-03-11",
+   "orig": "And what is one thing that can be trapped inside frozen water that helps cracks start?",
+   "prompt": "What can be trapped inside frozen water that helps cracks start?",
+   "answer": "Tiny air bubbles",
+   "choices": [
+    "Tiny rocks",
+    "Tiny seeds"
+   ]
+  },
+  {
+   "episode": "How Do Printers Work?",
+   "date": "2026-03-12",
+   "orig": "What does DPI stand for?",
+   "prompt": "What does DPI stand for?",
+   "answer": "Dots per inch",
+   "choices": [
+    "Drawings per inch",
+    "Dark paper ink"
+   ],
+   "explain": "The higher the DPI, the better quality of the print."
+  },
+  {
+   "episode": "How Do Printers Work?",
+   "date": "2026-03-12",
+   "orig": "In an inkjet printer, what slides left and right to spray tiny drops?",
+   "prompt": "In an inkjet printer, what slides left and right to spray tiny drops?",
+   "answer": "The print head",
+   "choices": [
+    "The toner",
+    "The fuser"
+   ]
+  },
+  {
+   "episode": "How Do Printers Work?",
+   "date": "2026-03-12",
+   "orig": "And what is the powder used in many laser printers called?",
+   "prompt": "What is the powder used in many laser printers called?",
+   "answer": "Toner",
+   "choices": [
+    "Flour",
+    "Glitter"
+   ]
+  },
+  {
+   "episode": "How Do Printers Work?",
+   "date": "2026-03-12",
+   "orig": "What heated part melts and presses toner onto paper? Do you remember what that part is called?",
+   "prompt": "What heated part of a laser printer melts and presses toner onto paper?",
+   "answer": "The fuser",
+   "choices": [
+    "The tray",
+    "The print head"
+   ]
+  },
+  {
+   "episode": "How Do Printers Work?",
+   "date": "2026-03-12",
+   "orig": "And what kind of printer often makes shipping labels using heat?",
+   "prompt": "What kind of printer often makes shipping labels using heat?",
+   "answer": "A thermal printer",
+   "choices": [
+    "An inkjet printer",
+    "A laser printer"
+   ]
+  },
+  {
+   "episode": "How Long Do Crocodiles Live?",
+   "date": "2026-03-13",
+   "orig": "What does it mean if an animal is an ectotherm?",
+   "prompt": "What does it mean if an animal is an ectotherm?",
+   "answer": "It can't make its own heat",
+   "choices": [
+    "It lives only in water",
+    "It eats only plants"
+   ],
+   "explain": "They don't make their own constant body heat the way humans do."
+  },
+  {
+   "episode": "How Long Do Crocodiles Live?",
+   "date": "2026-03-13",
+   "orig": "And what is metabolism?",
+   "prompt": "What is metabolism?",
+   "answer": "Turning food into energy",
+   "choices": [
+    "Growing a new tail",
+    "Shedding old skin"
+   ],
+   "explain": "Your body turns food and oxygen into energy."
+  },
+  {
+   "episode": "How Long Do Crocodiles Live?",
+   "date": "2026-03-13",
+   "orig": "And are baby crocodiles safer or more in danger than adult crocodiles?",
+   "prompt": "Are baby crocodiles safer or more in danger than adult crocodiles?",
+   "answer": "More in danger",
+   "choices": [
+    "Safer",
+    "Exactly the same"
+   ],
+   "explain": "Many animals can eat them while they're small."
+  },
+  {
+   "episode": "What Would Happen If the Sun Exploded?",
+   "date": "2026-03-14",
+   "orig": "Okay, let's have a quick quiz about how long does sunlight take to reach the earth.",
+   "prompt": "How long does sunlight take to reach the Earth?",
+   "answer": "A little over 8 minutes",
+   "choices": [
+    "One second",
+    "One year"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Sun Exploded?",
+   "date": "2026-03-14",
+   "orig": "And what do we call the giant explosion some stars have?",
+   "prompt": "What do we call the giant explosion some stars have?",
+   "answer": "A supernova",
+   "choices": [
+    "A black hole",
+    "An eclipse"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Sun Exploded?",
+   "date": "2026-03-14",
+   "orig": "And what force helps keep earth moving in an orbit?",
+   "prompt": "What force helps keep Earth moving in an orbit?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Sun Exploded?",
+   "date": "2026-03-14",
+   "orig": "And what is the process plants use to make food using sunlight?",
+   "prompt": "What is the process plants use to make food using sunlight?",
+   "answer": "Photosynthesis",
+   "choices": [
+    "Evaporation",
+    "Hibernation"
+   ]
+  },
+  {
+   "episode": "Why Does Liquid Stay in a Straw?",
+   "date": "2026-03-15",
+   "orig": "What force is always pulling the liquid downward?",
+   "prompt": "What force is always pulling liquid downward?",
+   "answer": "Gravity",
+   "choices": [
+    "Air pressure",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "Why Does Liquid Stay in a Straw?",
+   "date": "2026-03-15",
+   "orig": "And what do we call the pushing force from the air all around us?",
+   "prompt": "What do we call the pushing force from the air all around us?",
+   "answer": "Air pressure",
+   "choices": [
+    "Gravity",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "Why Does Liquid Stay in a Straw?",
+   "date": "2026-03-15",
+   "orig": "And what is a space with very little air called?",
+   "prompt": "What is a space with very little air called?",
+   "answer": "A vacuum",
+   "choices": [
+    "A bubble",
+    "A cloud"
+   ]
+  },
+  {
+   "episode": "Why Do Penguins Waddle?",
+   "date": "2026-03-16",
+   "orig": "What is the balance point of your body called?",
+   "prompt": "What is the balance point of your body called?",
+   "answer": "Your center of mass",
+   "choices": [
+    "Your belly button",
+    "Your backbone"
+   ]
+  },
+  {
+   "episode": "Why Do Penguins Waddle?",
+   "date": "2026-03-16",
+   "orig": "And penguins have toes connected by skin. What are those called?",
+   "prompt": "Penguins have toes connected by skin. What are those called?",
+   "answer": "Webbed feet",
+   "choices": [
+    "Claws",
+    "Hooves"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Butterflies in Your Stomach?",
+   "date": "2026-03-18",
+   "orig": "When you feel nervous, your body can switch into what kind of response? Do you remember what we called it? Blank or blank?",
+   "prompt": "When you feel nervous, your body can switch into what kind of response?",
+   "answer": "Fight or flight",
+   "choices": [
+    "Rest and digest",
+    "Sleep and snore"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Butterflies in Your Stomach?",
+   "date": "2026-03-18",
+   "orig": "Alright, we talked about a couple of chemicals that your body can release when you're nervous. Can you name one of them?",
+   "prompt": "What is one chemical your body can release when you're nervous?",
+   "answer": "Adrenaline",
+   "choices": [
+    "Melanin",
+    "Keratin"
+   ],
+   "explain": "Adrenaline and cortisol."
+  },
+  {
+   "episode": "Why Do You Get Butterflies in Your Stomach?",
+   "date": "2026-03-18",
+   "orig": "What is the name of the wavy muscle movement that helps push food through your body?",
+   "prompt": "What is the wavy muscle movement that helps push food through your body?",
+   "answer": "Peristalsis",
+   "choices": [
+    "Borborygmus",
+    "Vibration"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Butterflies in Your Stomach?",
+   "date": "2026-03-18",
+   "orig": "And what is the name of the nerve that helps your brain and stomach communicate?",
+   "prompt": "What is the nerve that helps your brain and stomach communicate?",
+   "answer": "The vagus nerve",
+   "choices": [
+    "The auditory nerve",
+    "The spinal cord"
+   ]
+  },
+  {
+   "episode": "Why Do You Cough?",
+   "date": "2026-03-19",
+   "orig": "What is an automatic action that your body can do without you yourself deciding to do it? What is that called?",
+   "prompt": "What is an automatic action your body does without you deciding to do it?",
+   "answer": "A reflex",
+   "choices": [
+    "A habit",
+    "A choice"
+   ]
+  },
+  {
+   "episode": "Why Do You Cough?",
+   "date": "2026-03-19",
+   "orig": "And your windpipe, the main tube that carries air towards your lungs. What is the name of that thing?",
+   "prompt": "What is the name of your windpipe, the main tube that carries air toward your lungs?",
+   "answer": "The trachea",
+   "choices": [
+    "The esophagus",
+    "The diaphragm"
+   ]
+  },
+  {
+   "episode": "Why Do You Cough?",
+   "date": "2026-03-19",
+   "orig": "And what part of your brain helps run the cough reflex control center? Remember the vagus nerve takes a message up to... What is it in your brain stem?",
+   "prompt": "What part of your brain stem runs the cough reflex?",
+   "answer": "The medulla",
+   "choices": [
+    "The cerebellum",
+    "The hippocampus"
+   ]
+  },
+  {
+   "episode": "Why Do You Cough?",
+   "date": "2026-03-19",
+   "orig": "And what are the bronchi?",
+   "prompt": "What are the bronchi?",
+   "answer": "Small breathing tubes",
+   "choices": [
+    "Tiny ear bones",
+    "Belly muscles"
+   ],
+   "explain": "They branch off from the windpipe into your lungs."
+  },
+  {
+   "episode": "Why Does Soda Explode When You Shake It?",
+   "date": "2026-03-21",
+   "orig": "What gas makes soda fizzy?",
+   "prompt": "What gas makes soda fizzy?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Helium"
+   ]
+  },
+  {
+   "episode": "Why Does Soda Explode When You Shake It?",
+   "date": "2026-03-21",
+   "orig": "And what happens to the pressure inside a soda when you open it?",
+   "prompt": "What happens to the pressure inside a soda when you open it?",
+   "answer": "It drops quickly",
+   "choices": [
+    "It goes up",
+    "It stays the same"
+   ]
+  },
+  {
+   "episode": "Why Do We Sleep Talk?",
+   "date": "2026-03-22",
+   "orig": "Sleep talking has a scientific name. Do you remember what it is?",
+   "prompt": "What is the scientific name for sleep talking?",
+   "answer": "Somniloquy",
+   "choices": [
+    "Hypertrophy",
+    "Photosynthesis"
+   ]
+  },
+  {
+   "episode": "Why Do We Sleep Talk?",
+   "date": "2026-03-22",
+   "orig": "And can sleep talking happen in REM sleep or non-REM sleep? Or both?",
+   "prompt": "Can sleep talking happen in REM sleep, non-REM sleep, or both?",
+   "answer": "Both",
+   "choices": [
+    "Only REM sleep",
+    "Only non-REM sleep"
+   ]
+  },
+  {
+   "episode": "Why Do Cakes Rise in the Oven?",
+   "date": "2026-03-23",
+   "orig": "What is the name of the gas that helps make cakes rise?",
+   "prompt": "What is the name of the gas that helps make cakes rise?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Helium"
+   ],
+   "explain": "It's the same thing that makes your soda fizzy."
+  },
+  {
+   "episode": "Why Do Cakes Rise in the Oven?",
+   "date": "2026-03-23",
+   "orig": "And what's the word for an ingredient that helps food get puffy and lighter?",
+   "prompt": "What's the word for an ingredient that helps food get puffy and lighter?",
+   "answer": "A leavening agent",
+   "choices": [
+    "A sweetener",
+    "A thickener"
+   ]
+  },
+  {
+   "episode": "Why Do Cakes Rise in the Oven?",
+   "date": "2026-03-23",
+   "orig": "And besides carbon dioxide, what gas can form from water in a hot oven and help batter puff up even more?",
+   "prompt": "Besides carbon dioxide, what gas forms from water in a hot oven and helps batter puff up?",
+   "answer": "Steam",
+   "choices": [
+    "Smoke",
+    "Helium"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "Why Do You Hear Ringing When It's Very Quiet?",
+   "q": "When it's loud?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Hear Ringing When It's Very Quiet?",
+   "q": "Or when it's very quiet?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Are Some Stars Brighter than Others?",
+   "q": "Remember we gave that kind of brightness a name?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "q": "To create cold or to move heat out of the inside?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does a Refrigerator Keep Food Cold?",
+   "q": "The inside coil or the outside coil?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Printers Work?",
+   "q": "Do you remember what that part is called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Get Butterflies in Your Stomach?",
+   "q": "Blank or blank?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Get Butterflies in Your Stomach?",
+   "q": "Fight or flight?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Cough?",
+   "q": "What is it in your brain stem?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do We Sleep Talk?",
+   "q": "Or both?",
+   "why": "fragment"
+  }
+ ]
+}

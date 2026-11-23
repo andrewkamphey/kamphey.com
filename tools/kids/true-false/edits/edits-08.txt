@@ -1,0 +1,10 @@
+0 e=They live in big groups called troops.
+7 e=Moisture in the air helps the electrons leak out more gradually.
+12 e=Helium atoms are smaller, and that's why helium balloons tend to get smaller faster.
+18 e=
+36 e=But it does change the way we see them.
+60 e=
+66 e=
+-70 Josh says "true, but also false"
+84 e=A decade is 10 years.
+86 e=It doesn't have enough mass for that.

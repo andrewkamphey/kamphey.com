@@ -1,0 +1,11 @@
+3 p=A planet has to orbit the sun, be round, and share its orbit with other space rocks.
+13 e=
+19 e=Sometimes you're not even tired and you start yawning.
+27 e=Your outer ear acts as a little funnel.
+35 p=Anthocyanins give leaves red and purple colors. ;; e=
+37 e=
+39 e=They can be about six feet tall.
+41 p=Elevators in skyscrapers usually use hydraulic systems.
+62 e=They all are very different.
+64 e=What kind of teeth a creature has depends on what it eats.
+80 e=

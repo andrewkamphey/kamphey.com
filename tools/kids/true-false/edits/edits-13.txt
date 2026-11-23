@@ -1,0 +1,14 @@
+9 e=The jawbone, periodontal ligaments, and gums work together to hold your teeth.
+-12 repeat of the previous item after the outro
+19 e=Some related males live together in groups called coalitions.
+28 e=
+35 e=
+40 e=Spicy foods don't have to actually be hot to make your brain think you're eating something hot.
+41 e=
+43 e=Milk is a better way to get rid of capsaicin in your mouth.
+46 e=
+-65 needs the episode (who Ibu Baron is)
+69 e=The water drains out. That's why it's called a dry barrel hydrant.
+80 p=A tankless water heater needs to store a large tank of hot water. ;; e=It's tankless.
+81 e=
+83 e=An ant has six legs.

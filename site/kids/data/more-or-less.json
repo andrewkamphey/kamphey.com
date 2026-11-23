@@ -1,0 +1,1485 @@
+[
+  {
+    "id": "mol-0001",
+    "category": "more-or-less",
+    "prompt": "Which is hotter, a lightning bolt or the sun's surface?",
+    "options": [
+      "Lightning bolt",
+      "Sun's surface"
+    ],
+    "answer": "Lightning bolt",
+    "explain": "A lightning bolt can be over 50,000 degrees Fahrenheit.",
+    "episode": "What Makes Lightning and Thunder?",
+    "date": "2025-06-10"
+  },
+  {
+    "id": "mol-0002",
+    "category": "more-or-less",
+    "prompt": "Bird bones are hollow, which means they're empty on the inside. Does that make their bones heavier or lighter?",
+    "options": [
+      "Heavier",
+      "Lighter"
+    ],
+    "answer": "Lighter",
+    "explain": "Hollow bones are lighter, and that makes flying much easier.",
+    "episode": "How Do Birds Fly?",
+    "date": "2025-06-13"
+  },
+  {
+    "id": "mol-0003",
+    "category": "more-or-less",
+    "prompt": "Does running up a hill make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0004",
+    "category": "more-or-less",
+    "prompt": "Does lying down and sleeping make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0005",
+    "category": "more-or-less",
+    "prompt": "Does getting a big surprise make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0006",
+    "category": "more-or-less",
+    "prompt": "Does dancing around your living room make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0007",
+    "category": "more-or-less",
+    "prompt": "Does watching a peaceful sunset make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0008",
+    "category": "more-or-less",
+    "prompt": "Does playing tag with your friends make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0009",
+    "category": "more-or-less",
+    "prompt": "Does relaxing in a quiet place make your heart beat faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "Why Does Your Heart Beat?",
+    "date": "2025-07-08"
+  },
+  {
+    "id": "mol-0010",
+    "category": "more-or-less",
+    "prompt": "Which is bigger, the moon or the Earth?",
+    "options": [
+      "The moon",
+      "Earth"
+    ],
+    "answer": "Earth",
+    "explain": "Earth is much bigger than the moon.",
+    "episode": "Why Does the Moon Change Shapes?",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "mol-0011",
+    "category": "more-or-less",
+    "prompt": "Which is bigger, Mars or Jupiter?",
+    "options": [
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "explain": "Jupiter is the biggest planet in our solar system.",
+    "episode": "Why Does the Moon Change Shapes?",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "mol-0012",
+    "category": "more-or-less",
+    "prompt": "Which is bigger, the sun or the moon?",
+    "options": [
+      "The sun",
+      "The moon"
+    ],
+    "answer": "The sun",
+    "explain": "",
+    "episode": "Why Does the Moon Change Shapes?",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "mol-0013",
+    "category": "more-or-less",
+    "prompt": "Which is bigger, a comet or a planet?",
+    "options": [
+      "A comet",
+      "A planet"
+    ],
+    "answer": "A planet",
+    "explain": "",
+    "episode": "Why Does the Moon Change Shapes?",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "mol-0014",
+    "category": "more-or-less",
+    "prompt": "Which is bigger, Earth or the International Space Station?",
+    "options": [
+      "Earth",
+      "Space Station"
+    ],
+    "answer": "Earth",
+    "explain": "",
+    "episode": "Why Does the Moon Change Shapes?",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "mol-0015",
+    "category": "more-or-less",
+    "prompt": "If gravity were stronger, would you feel heavier or lighter?",
+    "options": [
+      "Heavier",
+      "Lighter"
+    ],
+    "answer": "Heavier",
+    "explain": "",
+    "episode": "Why Do Roller Coasters Make You Feel Weird?",
+    "date": "2025-07-21"
+  },
+  {
+    "id": "mol-0016",
+    "category": "more-or-less",
+    "prompt": "When you zoom straight down on a drop tower, do you feel heavier or lighter?",
+    "options": [
+      "Heavier",
+      "Lighter"
+    ],
+    "answer": "Lighter",
+    "explain": "You feel like you're floating.",
+    "episode": "Why Do Roller Coasters Make You Feel Weird?",
+    "date": "2025-07-21"
+  },
+  {
+    "id": "mol-0017",
+    "category": "more-or-less",
+    "prompt": "When a roller coaster hits the bottom of a big hill and turns up again, do you feel heavier or lighter?",
+    "options": [
+      "Heavier",
+      "Lighter"
+    ],
+    "answer": "Heavier",
+    "explain": "You feel pressed into your seat.",
+    "episode": "Why Do Roller Coasters Make You Feel Weird?",
+    "date": "2025-07-21"
+  },
+  {
+    "id": "mol-0018",
+    "category": "more-or-less",
+    "prompt": "Are there more or fewer ants on Earth than humans?",
+    "options": [
+      "More",
+      "Fewer"
+    ],
+    "answer": "More",
+    "explain": "There are trillions of ants.",
+    "episode": "What If Everyone in the World Shared One Giant Pizza?",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "mol-0019",
+    "category": "more-or-less",
+    "prompt": "Are there more or fewer chickens on Earth than humans?",
+    "options": [
+      "More",
+      "Fewer"
+    ],
+    "answer": "More",
+    "explain": "There are over 33 billion chickens on Earth.",
+    "episode": "What If Everyone in the World Shared One Giant Pizza?",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "mol-0020",
+    "category": "more-or-less",
+    "prompt": "Are there more or fewer cars on Earth than people?",
+    "options": [
+      "More",
+      "Fewer"
+    ],
+    "answer": "Fewer",
+    "explain": "There are around 1.5 billion cars on Earth.",
+    "episode": "What If Everyone in the World Shared One Giant Pizza?",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "mol-0021",
+    "category": "more-or-less",
+    "prompt": "Are there more or fewer trees on Earth than people?",
+    "options": [
+      "More",
+      "Fewer"
+    ],
+    "answer": "More",
+    "explain": "There are about 3 trillion trees on Earth.",
+    "episode": "What If Everyone in the World Shared One Giant Pizza?",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "mol-0022",
+    "category": "more-or-less",
+    "prompt": "Are there more or fewer dogs on Earth than people?",
+    "options": [
+      "More",
+      "Fewer"
+    ],
+    "answer": "Fewer",
+    "explain": "There are about 900 million dogs.",
+    "episode": "What If Everyone in the World Shared One Giant Pizza?",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "mol-0023",
+    "category": "more-or-less",
+    "prompt": "Which state is bigger, Texas or Rhode Island?",
+    "options": [
+      "Texas",
+      "Rhode Island"
+    ],
+    "answer": "Texas",
+    "explain": "",
+    "episode": "How Long Would It Take to Walk across the United States?",
+    "date": "2025-08-08"
+  },
+  {
+    "id": "mol-0024",
+    "category": "more-or-less",
+    "prompt": "Which state is bigger, California or Alaska?",
+    "options": [
+      "California",
+      "Alaska"
+    ],
+    "answer": "Alaska",
+    "explain": "That's a tough one. Alaska is bigger than California.",
+    "episode": "How Long Would It Take to Walk across the United States?",
+    "date": "2025-08-08"
+  },
+  {
+    "id": "mol-0025",
+    "category": "more-or-less",
+    "prompt": "Which state is bigger, Florida or New York?",
+    "options": [
+      "Florida",
+      "New York"
+    ],
+    "answer": "Florida",
+    "explain": "",
+    "episode": "How Long Would It Take to Walk across the United States?",
+    "date": "2025-08-08"
+  },
+  {
+    "id": "mol-0026",
+    "category": "more-or-less",
+    "prompt": "Which state is bigger, Montana or Hawaii?",
+    "options": [
+      "Montana",
+      "Hawaii"
+    ],
+    "answer": "Montana",
+    "explain": "",
+    "episode": "How Long Would It Take to Walk across the United States?",
+    "date": "2025-08-08"
+  },
+  {
+    "id": "mol-0027",
+    "category": "more-or-less",
+    "prompt": "Which would cost more money, a regular sandwich or a sandwich made by a famous chef?",
+    "options": [
+      "Regular sandwich",
+      "Famous chef sandwich"
+    ],
+    "answer": "Famous chef sandwich",
+    "explain": "There would be way fewer of those sandwiches.",
+    "episode": "How Does Money Work?",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "mol-0028",
+    "category": "more-or-less",
+    "prompt": "Which would cost more money, a toy car made of plastic or a toy car made of gold?",
+    "options": [
+      "Plastic car",
+      "Gold car"
+    ],
+    "answer": "Gold car",
+    "explain": "For thousands of years, people have used gold as money because it's rare.",
+    "episode": "How Does Money Work?",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "mol-0029",
+    "category": "more-or-less",
+    "prompt": "Which would cost more money, a t-shirt from a store or a t-shirt signed by a famous movie star?",
+    "options": [
+      "Store t-shirt",
+      "Signed t-shirt"
+    ],
+    "answer": "Signed t-shirt",
+    "explain": "There aren't going to be too many signed t-shirts.",
+    "episode": "How Does Money Work?",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "mol-0030",
+    "category": "more-or-less",
+    "prompt": "Which would cost more money, a plain notebook with a hundred pages or a plain notebook with a thousand pages?",
+    "options": [
+      "100 pages",
+      "1,000 pages"
+    ],
+    "answer": "1,000 pages",
+    "explain": "You're getting more pages, so it's probably worth more.",
+    "episode": "How Does Money Work?",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "mol-0031",
+    "category": "more-or-less",
+    "prompt": "Do freckles usually get darker or lighter when you go out in the sun?",
+    "options": [
+      "Darker",
+      "Lighter"
+    ],
+    "answer": "Darker",
+    "explain": "",
+    "episode": "Why Do Some People Have Freckles?",
+    "date": "2025-09-01"
+  },
+  {
+    "id": "mol-0032",
+    "category": "more-or-less",
+    "prompt": "Which bird is faster, an eagle or a robin?",
+    "options": [
+      "Eagle",
+      "Robin"
+    ],
+    "answer": "Eagle",
+    "explain": "An eagle can dive at speeds over 100 miles per hour.",
+    "episode": "How Fast Do Hummingbird Wings Flap?",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "mol-0033",
+    "category": "more-or-less",
+    "prompt": "Which bird is faster, a falcon or a hawk?",
+    "options": [
+      "Falcon",
+      "Hawk"
+    ],
+    "answer": "Falcon",
+    "explain": "The peregrine falcon is the fastest bird on earth. It can dive at over 240 miles per hour.",
+    "episode": "How Fast Do Hummingbird Wings Flap?",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "mol-0034",
+    "category": "more-or-less",
+    "prompt": "Which bird is faster, a chicken or a duck?",
+    "options": [
+      "Chicken",
+      "Duck"
+    ],
+    "answer": "Duck",
+    "explain": "Ducks can fly and swim quickly, while chickens mostly just run or flutter.",
+    "episode": "How Fast Do Hummingbird Wings Flap?",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "mol-0035",
+    "category": "more-or-less",
+    "prompt": "Which bird can run faster, an ostrich or a penguin?",
+    "options": [
+      "Ostrich",
+      "Penguin"
+    ],
+    "answer": "Ostrich",
+    "explain": "Ostriches are the fastest runners of any bird.",
+    "episode": "How Fast Do Hummingbird Wings Flap?",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "mol-0036",
+    "category": "more-or-less",
+    "prompt": "Is diamond harder or softer than bone?",
+    "options": [
+      "Harder",
+      "Softer"
+    ],
+    "answer": "Harder",
+    "explain": "",
+    "episode": "How Do Bones Heal After They're Broken?",
+    "date": "2025-09-10"
+  },
+  {
+    "id": "mol-0037",
+    "category": "more-or-less",
+    "prompt": "Is wood harder or softer than bone?",
+    "options": [
+      "Harder",
+      "Softer"
+    ],
+    "answer": "Softer",
+    "explain": "Bone is harder than wood.",
+    "episode": "How Do Bones Heal After They're Broken?",
+    "date": "2025-09-10"
+  },
+  {
+    "id": "mol-0038",
+    "category": "more-or-less",
+    "prompt": "Is the enamel on your teeth harder or softer than bone?",
+    "options": [
+      "Harder",
+      "Softer"
+    ],
+    "answer": "Harder",
+    "explain": "Enamel is the hardest substance in your body.",
+    "episode": "How Do Bones Heal After They're Broken?",
+    "date": "2025-09-10"
+  },
+  {
+    "id": "mol-0039",
+    "category": "more-or-less",
+    "prompt": "Is rubber harder or softer than bone?",
+    "options": [
+      "Harder",
+      "Softer"
+    ],
+    "answer": "Softer",
+    "explain": "Bone is much harder.",
+    "episode": "How Do Bones Heal After They're Broken?",
+    "date": "2025-09-10"
+  },
+  {
+    "id": "mol-0040",
+    "category": "more-or-less",
+    "prompt": "Is a sloth a fast animal or a slow animal?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Slow",
+    "explain": "Sloths move only a few feet per minute.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0041",
+    "category": "more-or-less",
+    "prompt": "Is a rabbit a fast animal or a slow animal?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Fast",
+    "explain": "Rabbits can hop up to 35 miles per hour.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0042",
+    "category": "more-or-less",
+    "prompt": "Is a blue whale a fast animal or a slow animal?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Slow",
+    "explain": "Even though they're huge, whales usually swim about five miles per hour.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0043",
+    "category": "more-or-less",
+    "prompt": "Is a falcon a fast animal or a slow animal?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Fast",
+    "explain": "The peregrine falcon can dive at over 200 miles per hour.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0044",
+    "category": "more-or-less",
+    "prompt": "Is a snail a fast animal or a slow animal? Even the fastest snail you've ever seen?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Slow",
+    "explain": "Snails might move only a few inches in a whole minute.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0045",
+    "category": "more-or-less",
+    "prompt": "Is a horse a fast animal or a slow animal?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Fast",
+    "explain": "Horses can run around 40 miles per hour.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0046",
+    "category": "more-or-less",
+    "prompt": "Is a sea turtle a fast animal or a slow animal?",
+    "options": [
+      "Fast",
+      "Slow"
+    ],
+    "answer": "Slow",
+    "explain": "Sea turtles cruise about one to two miles per hour.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "mol-0047",
+    "category": "more-or-less",
+    "prompt": "Do strawberries go bad quickly or slowly?",
+    "options": [
+      "Quickly",
+      "Slowly"
+    ],
+    "answer": "Quickly",
+    "explain": "They're full of water and sugars that bacteria love.",
+    "episode": "Why Does Food Go Bad?",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "mol-0048",
+    "category": "more-or-less",
+    "prompt": "Does canned soup go bad quickly or slowly?",
+    "options": [
+      "Quickly",
+      "Slowly"
+    ],
+    "answer": "Slowly",
+    "explain": "The can keeps air and bacteria out.",
+    "episode": "Why Does Food Go Bad?",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "mol-0049",
+    "category": "more-or-less",
+    "prompt": "Do bananas go bad quickly or slowly?",
+    "options": [
+      "Quickly",
+      "Slowly"
+    ],
+    "answer": "Quickly",
+    "explain": "They ripen fast and then they get brown and mushy.",
+    "episode": "Why Does Food Go Bad?",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "mol-0050",
+    "category": "more-or-less",
+    "prompt": "Do eggs go bad quickly or slowly?",
+    "options": [
+      "Quickly",
+      "Slowly"
+    ],
+    "answer": "Quickly",
+    "explain": "Especially if they're left out of the fridge.",
+    "episode": "Why Does Food Go Bad?",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "mol-0051",
+    "category": "more-or-less",
+    "prompt": "Do fans usually make you warmer or colder?",
+    "options": [
+      "Warmer",
+      "Colder"
+    ],
+    "answer": "Colder",
+    "explain": "A fan moves air across your skin, and that makes you feel chilly.",
+    "episode": "Why Do Fans Make You Cold?",
+    "date": "2025-11-12"
+  },
+  {
+    "id": "mol-0052",
+    "category": "more-or-less",
+    "prompt": "Is a horse faster or slower than a bicycle going up a big hill?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "Why Do Horses Sleep Standing Up?",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "mol-0053",
+    "category": "more-or-less",
+    "prompt": "Is a horse faster or slower than a bicycle going down a big hill?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "Bicycles going down a steep hill can go faster than 30 miles an hour.",
+    "episode": "Why Do Horses Sleep Standing Up?",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "mol-0054",
+    "category": "more-or-less",
+    "prompt": "Is a horse faster or slower than a cheetah?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "The cheetah is faster.",
+    "episode": "Why Do Horses Sleep Standing Up?",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "mol-0055",
+    "category": "more-or-less",
+    "prompt": "Is a horse faster or slower than a running human?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Horses can go about 25 to 30 miles an hour.",
+    "episode": "Why Do Horses Sleep Standing Up?",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "mol-0056",
+    "category": "more-or-less",
+    "prompt": "Is a horse faster or slower than a snail?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "A snail is slower than most things that move.",
+    "episode": "Why Do Horses Sleep Standing Up?",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "mol-0057",
+    "category": "more-or-less",
+    "prompt": "Is a hippo bigger or smaller than an elephant?",
+    "options": [
+      "Bigger",
+      "Smaller"
+    ],
+    "answer": "Smaller",
+    "explain": "Hippos are big, but they are smaller than elephants.",
+    "episode": "Why Do Elephants Have Big Trunks?",
+    "date": "2025-11-23"
+  },
+  {
+    "id": "mol-0058",
+    "category": "more-or-less",
+    "prompt": "Is a lion bigger or smaller than an elephant?",
+    "options": [
+      "Bigger",
+      "Smaller"
+    ],
+    "answer": "Smaller",
+    "explain": "",
+    "episode": "Why Do Elephants Have Big Trunks?",
+    "date": "2025-11-23"
+  },
+  {
+    "id": "mol-0059",
+    "category": "more-or-less",
+    "prompt": "Is a blue whale bigger or smaller than an elephant?",
+    "options": [
+      "Bigger",
+      "Smaller"
+    ],
+    "answer": "Bigger",
+    "explain": "Blue whales are way bigger than elephants. They are huge.",
+    "episode": "Why Do Elephants Have Big Trunks?",
+    "date": "2025-11-23"
+  },
+  {
+    "id": "mol-0060",
+    "category": "more-or-less",
+    "prompt": "If you feel a little colder near a campfire, is that because you got closer or further away from it?",
+    "options": [
+      "Closer",
+      "Further"
+    ],
+    "answer": "Further",
+    "explain": "Winter is when our part of Earth is tilted away from the sun.",
+    "episode": "Why Are Days Shorter in the Winter?",
+    "date": "2026-01-05"
+  },
+  {
+    "id": "mol-0061",
+    "category": "more-or-less",
+    "prompt": "Hold your finger close to your face, then hold it out as far as your arm can reach. Does it look bigger or smaller now?",
+    "options": [
+      "Bigger",
+      "Smaller"
+    ],
+    "answer": "Smaller",
+    "explain": "When something is farther away, it takes up less space in your eyes. That's perspective.",
+    "episode": "Why Do People Look Tiny from Far Away?",
+    "date": "2026-01-12"
+  },
+  {
+    "id": "mol-0062",
+    "category": "more-or-less",
+    "prompt": "Is a crawling baby faster or slower than a snail?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Crawling babies move pretty slow, but not as slow as a snail.",
+    "episode": "How Do Snails Move?",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "mol-0063",
+    "category": "more-or-less",
+    "prompt": "Is a growing plant faster or slower than a snail?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "How Do Snails Move?",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "mol-0064",
+    "category": "more-or-less",
+    "prompt": "Is a walking ant faster or slower than a snail?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "How Do Snails Move?",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "mol-0065",
+    "category": "more-or-less",
+    "prompt": "Is a cloud drifting across the sky faster or slower than a snail?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Clouds look slow because they're so far away, but they move very quickly.",
+    "episode": "How Do Snails Move?",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "mol-0066",
+    "category": "more-or-less",
+    "prompt": "Is a growing fingernail faster or slower than a snail?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "How Do Snails Move?",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "mol-0067",
+    "category": "more-or-less",
+    "prompt": "Imagine breathing through a straw. If the straw gets really squished, is it harder or easier to breathe through?",
+    "options": [
+      "Harder",
+      "Easier"
+    ],
+    "answer": "Harder",
+    "explain": "That's what happens inside a stuffy nose.",
+    "episode": "Why Does Your Nose Get Stuffy?",
+    "date": "2026-02-05"
+  },
+  {
+    "id": "mol-0068",
+    "category": "more-or-less",
+    "prompt": "If you cover your ears, does your own humming sound louder or quieter?",
+    "options": [
+      "Louder",
+      "Quieter"
+    ],
+    "answer": "Louder",
+    "explain": "",
+    "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "mol-0069",
+    "category": "more-or-less",
+    "prompt": "If a friend is talking across the room and you cover your ears, do they sound louder or quieter?",
+    "options": [
+      "Louder",
+      "Quieter"
+    ],
+    "answer": "Quieter",
+    "explain": "",
+    "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "mol-0070",
+    "category": "more-or-less",
+    "prompt": "If you're watching TV and you cover your ears, does it sound louder or quieter?",
+    "options": [
+      "Louder",
+      "Quieter"
+    ],
+    "answer": "Quieter",
+    "explain": "You hear the TV through the air.",
+    "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "mol-0071",
+    "category": "more-or-less",
+    "prompt": "If you chew crunchy cereal with your ears covered, does it sound louder or quieter?",
+    "options": [
+      "Louder",
+      "Quieter"
+    ],
+    "answer": "Louder",
+    "explain": "Have you ever chewed with your ears closed? It's really loud.",
+    "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "mol-0072",
+    "category": "more-or-less",
+    "prompt": "Are some people more likely to snore when they sleep on their back or on their side?",
+    "options": [
+      "On their back",
+      "On their side"
+    ],
+    "answer": "On their back",
+    "explain": "On your back, gravity pulls your tongue back a bit and makes the airway smaller.",
+    "episode": "Why Do Some People Snore?",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "mol-0073",
+    "category": "more-or-less",
+    "prompt": "Which is more likely to give you a zap: sliding across a car seat and then touching the metal door, or gently touching a wooden table?",
+    "options": [
+      "Car seat, metal door",
+      "Wooden table"
+    ],
+    "answer": "Car seat, metal door",
+    "explain": "Have you ever been buzzed by a wooden table?",
+    "episode": "Why Do You Get Shocked When You Touch Things?",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "mol-0074",
+    "category": "more-or-less",
+    "prompt": "Which is more likely to give you a zap: walking on carpet in socks, or walking on tile in bare feet?",
+    "options": [
+      "Carpet in socks",
+      "Tile in bare feet"
+    ],
+    "answer": "Carpet in socks",
+    "explain": "",
+    "episode": "Why Do You Get Shocked When You Touch Things?",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "mol-0075",
+    "category": "more-or-less",
+    "prompt": "Where are you more likely to get a zap: a super dry room or a more humid room?",
+    "options": [
+      "Dry room",
+      "Humid room"
+    ],
+    "answer": "Dry room",
+    "explain": "In dry air, the charge builds up until you touch something.",
+    "episode": "Why Do You Get Shocked When You Touch Things?",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "mol-0076",
+    "category": "more-or-less",
+    "prompt": "A friend points a flashlight at you, then walks far away down the road and points it at you again. Does it look brighter or dimmer?",
+    "options": [
+      "Brighter",
+      "Dimmer"
+    ],
+    "answer": "Dimmer",
+    "explain": "The flashlight didn't change, but it's farther away. Stars are like that too.",
+    "episode": "Why Are Some Stars Brighter than Others?",
+    "date": "2026-02-24"
+  },
+  {
+    "id": "mol-0077",
+    "category": "more-or-less",
+    "prompt": "When you're falling asleep, do you react faster or slower when someone calls your name?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "How Do You Know When You Fall Asleep?",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "mol-0078",
+    "category": "more-or-less",
+    "prompt": "When you exercise, does your heart pump faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Your blood moves around more quickly and carries oxygen to your muscles and brain.",
+    "episode": "Why Does Exercise Make You Feel Good?",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "mol-0079",
+    "category": "more-or-less",
+    "prompt": "When you are running around, does your breathing get faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "",
+    "episode": "Why Does Exercise Make You Feel Good?",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "mol-0080",
+    "category": "more-or-less",
+    "prompt": "Is it easier to run through grass or through mud?",
+    "options": [
+      "Grass",
+      "Mud"
+    ],
+    "answer": "Grass",
+    "explain": "Grass has less resistance.",
+    "episode": "How Do Thermometers Check Your Temperature?",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "mol-0081",
+    "category": "more-or-less",
+    "prompt": "Are baby crocodiles safer or more in danger than adult crocodiles?",
+    "options": [
+      "Safer",
+      "More in danger"
+    ],
+    "answer": "More in danger",
+    "explain": "Many animals can eat them while they're small.",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "mol-0082",
+    "category": "more-or-less",
+    "prompt": "Do hamsters live longer or shorter than crocodiles?",
+    "options": [
+      "Longer",
+      "Shorter"
+    ],
+    "answer": "Shorter",
+    "explain": "Crocodiles can live around 50 to 70 years.",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "mol-0083",
+    "category": "more-or-less",
+    "prompt": "Do cats live longer or shorter than crocodiles?",
+    "options": [
+      "Longer",
+      "Shorter"
+    ],
+    "answer": "Shorter",
+    "explain": "",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "mol-0084",
+    "category": "more-or-less",
+    "prompt": "Do elephants live longer or shorter than crocodiles?",
+    "options": [
+      "Longer",
+      "Shorter"
+    ],
+    "answer": "Longer",
+    "explain": "Elephants can live for many decades.",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "mol-0085",
+    "category": "more-or-less",
+    "prompt": "Do goldfish live longer or shorter than crocodiles?",
+    "options": [
+      "Longer",
+      "Shorter"
+    ],
+    "answer": "Shorter",
+    "explain": "",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "mol-0086",
+    "category": "more-or-less",
+    "prompt": "Do tortoises live longer or shorter than crocodiles?",
+    "options": [
+      "Longer",
+      "Shorter"
+    ],
+    "answer": "Longer",
+    "explain": "Some kinds of tortoises can live longer than crocodiles.",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "mol-0087",
+    "category": "more-or-less",
+    "prompt": "Is water thicker or thinner than air?",
+    "options": [
+      "Thicker",
+      "Thinner"
+    ],
+    "answer": "Thicker",
+    "explain": "",
+    "episode": "Why Do Penguins Waddle?",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "mol-0088",
+    "category": "more-or-less",
+    "prompt": "If you're standing in water, is it harder or easier to move?",
+    "options": [
+      "Harder",
+      "Easier"
+    ],
+    "answer": "Harder",
+    "explain": "That's why penguins need strong pushing power in the water.",
+    "needsReview": true,
+    "episode": "Why Do Penguins Waddle?",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "mol-0089",
+    "category": "more-or-less",
+    "prompt": "Is the coast of Antarctica usually colder or warmer than the deep middle of Antarctica?",
+    "options": [
+      "Colder",
+      "Warmer"
+    ],
+    "answer": "Warmer",
+    "explain": "The middle of Antarctica is usually much colder.",
+    "episode": "How Cold Is Antarctica?",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "mol-0090",
+    "category": "more-or-less",
+    "prompt": "If you are not paying attention when someone tells you something, is it easier or harder to remember later?",
+    "options": [
+      "Easier",
+      "Harder"
+    ],
+    "answer": "Harder",
+    "explain": "",
+    "episode": "Why Don't You Remember Being a Baby?",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "mol-0091",
+    "category": "more-or-less",
+    "prompt": "Which has more water, a raisin or a grape?",
+    "options": [
+      "Raisin",
+      "Grape"
+    ],
+    "answer": "Grape",
+    "explain": "",
+    "episode": "How Do Grapes Become Raisins?",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "mol-0092",
+    "category": "more-or-less",
+    "prompt": "Which has more water, a juicy peach slice or a dried apricot?",
+    "options": [
+      "Peach slice",
+      "Dried apricot"
+    ],
+    "answer": "Peach slice",
+    "explain": "",
+    "episode": "How Do Grapes Become Raisins?",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "mol-0093",
+    "category": "more-or-less",
+    "prompt": "Which has more water, a fresh plum or a prune?",
+    "options": [
+      "Fresh plum",
+      "Prune"
+    ],
+    "answer": "Fresh plum",
+    "explain": "A prune is just a dried plum.",
+    "episode": "How Do Grapes Become Raisins?",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "mol-0094",
+    "category": "more-or-less",
+    "prompt": "Which has more water, a slice of watermelon or a fruit leather strip?",
+    "options": [
+      "Watermelon",
+      "Fruit leather"
+    ],
+    "answer": "Watermelon",
+    "explain": "",
+    "episode": "How Do Grapes Become Raisins?",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "mol-0095",
+    "category": "more-or-less",
+    "prompt": "Which has more water, a fresh blueberry or a dried blueberry?",
+    "options": [
+      "Fresh blueberry",
+      "Dried blueberry"
+    ],
+    "answer": "Fresh blueberry",
+    "explain": "",
+    "episode": "How Do Grapes Become Raisins?",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "mol-0096",
+    "category": "more-or-less",
+    "prompt": "If you are very calm and still, do you use oxygen faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "",
+    "episode": "How Long Can Humans Hold Their Breath?",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "mol-0097",
+    "category": "more-or-less",
+    "prompt": "Which one is bigger, a mouse or a rat?",
+    "options": [
+      "Mouse",
+      "Rat"
+    ],
+    "answer": "Rat",
+    "explain": "A mouse can fit in the palm of your hand. A rat is around the size of a ruler with its tail.",
+    "episode": "What's the Difference Between a Mouse and a Rat?",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "mol-0098",
+    "category": "more-or-less",
+    "prompt": "Which one usually has bigger ears compared to its head, a mouse or a rat?",
+    "options": [
+      "Mouse",
+      "Rat"
+    ],
+    "answer": "Mouse",
+    "explain": "Remember, Mickey Mouse has big ears.",
+    "episode": "What's the Difference Between a Mouse and a Rat?",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "mol-0099",
+    "category": "more-or-less",
+    "prompt": "Which one usually has a thicker, stronger tail, a mouse or a rat?",
+    "options": [
+      "Mouse",
+      "Rat"
+    ],
+    "answer": "Rat",
+    "explain": "",
+    "episode": "What's the Difference Between a Mouse and a Rat?",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "mol-0100",
+    "category": "more-or-less",
+    "prompt": "Which pretzels are older, soft pretzels or hard pretzels?",
+    "options": [
+      "Soft pretzels",
+      "Hard pretzels"
+    ],
+    "answer": "Soft pretzels",
+    "explain": "Big soft pretzels have been around a very long time. The small hard pretzels in bags came a lot later.",
+    "episode": "Why Are Pretzels Shaped Like That?",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "mol-0101",
+    "category": "more-or-less",
+    "prompt": "When a fruit ripens, does it get harder or softer?",
+    "options": [
+      "Harder",
+      "Softer"
+    ],
+    "answer": "Softer",
+    "explain": "As fruit ripens, the stuff holding its cells together breaks down, so it gets softer and sweeter.",
+    "episode": "Why Do Fruits Get Bruises?",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "mol-0102",
+    "category": "more-or-less",
+    "prompt": "Is it easier or harder to hold something heavy when you're wearing slippery shoes in the rain?",
+    "options": [
+      "Easier",
+      "Harder"
+    ],
+    "answer": "Harder",
+    "explain": "Shoes with good grip help you feel secure, just like an ant's gripping feet help it carry big loads.",
+    "episode": "How Do Ants Carry Heavy Things?",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "mol-0103",
+    "category": "more-or-less",
+    "prompt": "When you're holding a really heavy thing, do you walk faster or slower?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "It works the same way for ants. Leafcutter ants slow down as their load gets heavier.",
+    "episode": "How Do Ants Carry Heavy Things?",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "mol-0104",
+    "category": "more-or-less",
+    "prompt": "In a traffic jam, does the wave of traffic move backward or forward?",
+    "options": [
+      "Backward",
+      "Forward"
+    ],
+    "answer": "Backward",
+    "explain": "The slowdown wave moves backward through the line, even though the cars themselves are going forward.",
+    "episode": "Why Do Traffic Jams Happen?",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "mol-0105",
+    "category": "more-or-less",
+    "prompt": "Which can travel deeper through your skin, red light or blue light?",
+    "options": [
+      "Red light",
+      "Blue light"
+    ],
+    "answer": "Red light",
+    "explain": "Red light travels deeper, while blue light bounces and scatters. That's why veins can look blue.",
+    "episode": "Why Do Veins Look Blue?",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "mol-0106",
+    "category": "more-or-less",
+    "prompt": "One clock sits on the ground and an identical clock is one foot higher. Which one ticks slightly faster?",
+    "options": [
+      "On the ground",
+      "Higher up"
+    ],
+    "answer": "Higher up",
+    "explain": "The lower clock feels stronger gravity, and the weaker the gravity, the faster time moves.",
+    "episode": "What Is Time Dilation?",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "mol-0107",
+    "category": "more-or-less",
+    "prompt": "One clock stays home while another clock travels extremely fast and comes back. Which one ticks faster?",
+    "options": [
+      "Stays home",
+      "Travels fast"
+    ],
+    "answer": "Stays home",
+    "explain": "When you move extremely fast, time moves slower.",
+    "episode": "What Is Time Dilation?",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "mol-0108",
+    "category": "more-or-less",
+    "prompt": "Is it harder or easier to push a heavy door open right next to the hinges, instead of near the handle?",
+    "options": [
+      "Harder",
+      "Easier"
+    ],
+    "answer": "Harder",
+    "explain": "You use the same strength, but pushing near the handle is a better spot. That's called leverage.",
+    "episode": "How Strong Are Gorillas?",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "mol-0109",
+    "category": "more-or-less",
+    "prompt": "Is a cheetah faster or slower than a tornado?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "A small tornado has winds around 65 miles per hour. A cheetah can run up to 70.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "mol-0110",
+    "category": "more-or-less",
+    "prompt": "Is a race car faster or slower than a tornado?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Race cars can go around 200 miles per hour.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "mol-0111",
+    "category": "more-or-less",
+    "prompt": "Is an airplane faster or slower than a tornado?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Way faster. Airplanes fly over 500 miles per hour.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "mol-0112",
+    "category": "more-or-less",
+    "prompt": "Is a person riding a bicycle faster or slower than a tornado?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "Much slower. Bikes go around 10 to 15 miles per hour.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "mol-0113",
+    "category": "more-or-less",
+    "prompt": "Is a rocket ship blasting into space faster or slower than a tornado?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Faster",
+    "explain": "Rockets can reach speeds over 17,000 miles per hour.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "mol-0114",
+    "category": "more-or-less",
+    "prompt": "Is a galloping horse faster or slower than a tornado?",
+    "options": [
+      "Faster",
+      "Slower"
+    ],
+    "answer": "Slower",
+    "explain": "Horses gallop around 30 to 40 miles per hour. That's still really fast.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  }
+]

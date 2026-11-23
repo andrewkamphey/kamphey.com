@@ -1,0 +1,651 @@
+{
+ "items": [
+  {
+   "episode": "Why Do You Get Carsick?",
+   "date": "2025-12-16",
+   "orig": "Which part of your body helps you sense balance in motion?",
+   "prompt": "Which part of your body helps you sense balance in motion?",
+   "answer": "Your inner ears",
+   "choices": [
+    "Your knees",
+    "Your nose"
+   ],
+   "explain": "It's called the vestibular system."
+  },
+  {
+   "episode": "Why Do You Get Carsick?",
+   "date": "2025-12-16",
+   "orig": "Why does looking out the window sometimes help car sickness?",
+   "prompt": "Why does looking out the window sometimes help car sickness?",
+   "answer": "Your eyes and ears agree",
+   "choices": [
+    "It slows the car down",
+    "It keeps you awake"
+   ],
+   "explain": "Your eyes and inner ears agree that you are moving."
+  },
+  {
+   "episode": "Why Do We Get Fevers?",
+   "date": "2025-12-17",
+   "orig": "What is a fever?",
+   "prompt": "What is a fever?",
+   "answer": "A higher body temperature",
+   "choices": [
+    "A kind of rash",
+    "A runny nose"
+   ],
+   "explain": "It's when your body temperature is higher than normal."
+  },
+  {
+   "episode": "Why Do We Get Fevers?",
+   "date": "2025-12-17",
+   "orig": "And who tells your body to raise its temperature?",
+   "prompt": "Who tells your body to raise its temperature during a fever?",
+   "answer": "Your immune system",
+   "choices": [
+    "Your stomach",
+    "Your bones"
+   ],
+   "explain": "It sends the signal to your brain."
+  },
+  {
+   "episode": "How Do Calculators Know Every Math Problem?",
+   "date": "2025-12-19",
+   "orig": "When you press a button on a calculator, are you pressing a real number, or are you closing an electrical switch?",
+   "prompt": "When you press a button on a calculator, what are you doing?",
+   "answer": "Closing an electrical switch",
+   "choices": [
+    "Pressing a real number",
+    "Turning on a tiny light"
+   ]
+  },
+  {
+   "episode": "How Do Calculators Know Every Math Problem?",
+   "date": "2025-12-19",
+   "orig": "And what two digits does binary use?",
+   "prompt": "What two digits does binary use?",
+   "answer": "0 and 1",
+   "choices": [
+    "1 and 2",
+    "5 and 10"
+   ]
+  },
+  {
+   "episode": "How Do Calculators Know Every Math Problem?",
+   "date": "2025-12-19",
+   "orig": "One plus one equals what? Ten. But only in binary.",
+   "prompt": "In binary, what does one plus one equal?",
+   "answer": "10",
+   "choices": [
+    "2",
+    "11"
+   ]
+  },
+  {
+   "episode": "How Many Babies Are Born Every Second?",
+   "date": "2025-12-20",
+   "orig": "About how many babies are born every second?",
+   "prompt": "About how many babies are born every second?",
+   "answer": "Four",
+   "choices": [
+    "One",
+    "A hundred"
+   ]
+  },
+  {
+   "episode": "How Many Babies Are Born Every Second?",
+   "date": "2025-12-20",
+   "orig": "And how many people live on earth today?",
+   "prompt": "How many people live on Earth today?",
+   "answer": "Over eight billion",
+   "choices": [
+    "About one million",
+    "About one thousand"
+   ]
+  },
+  {
+   "episode": "Why Can't You Just Eat Candy All the Time?",
+   "date": "2025-12-21",
+   "orig": "What gives candy its sweet taste and quick energy?",
+   "prompt": "What gives candy its sweet taste and quick energy?",
+   "answer": "Sugar",
+   "choices": [
+    "Salt",
+    "Flour"
+   ]
+  },
+  {
+   "episode": "Why Can't You Just Eat Candy All the Time?",
+   "date": "2025-12-21",
+   "orig": "And what is it in your mouth that really likes sugar? Remember the bacteria.",
+   "prompt": "What is it in your mouth that really likes sugar?",
+   "answer": "Bacteria",
+   "choices": [
+    "Your gums",
+    "Your saliva"
+   ]
+  },
+  {
+   "episode": "How Does a Piano Make Music?",
+   "date": "2025-12-23",
+   "orig": "What hits the strings when you press a piano key?",
+   "prompt": "What hits the strings when you press a piano key?",
+   "answer": "A small wooden hammer",
+   "choices": [
+    "A small metal bell",
+    "A tiny drumstick"
+   ]
+  },
+  {
+   "episode": "How Does a Piano Make Music?",
+   "date": "2025-12-23",
+   "orig": "And what do vibrating strings push on to create sound?",
+   "prompt": "What do vibrating piano strings push on to create sound?",
+   "answer": "The air",
+   "choices": [
+    "The keys",
+    "The floor"
+   ]
+  },
+  {
+   "episode": "How Does a Piano Make Music?",
+   "date": "2025-12-23",
+   "orig": "And what part of the piano helps make the sound louder?",
+   "prompt": "What part of the piano helps make the sound louder?",
+   "answer": "The soundboard",
+   "choices": [
+    "The damper",
+    "The pedal"
+   ]
+  },
+  {
+   "episode": "Why Are Vitamins Good for You?",
+   "date": "2025-12-24",
+   "orig": "What is a vitamin?",
+   "prompt": "What is a vitamin?",
+   "answer": "A tiny nutrient",
+   "choices": [
+    "A kind of germ",
+    "A kind of candy"
+   ],
+   "explain": "A tiny nutrient your body needs to stay healthy."
+  },
+  {
+   "episode": "Why Are Vitamins Good for You?",
+   "date": "2025-12-24",
+   "orig": "And what does vitamin D help with?",
+   "prompt": "What does vitamin D help with?",
+   "answer": "Strong bones",
+   "choices": [
+    "Shiny hair",
+    "Sharp hearing"
+   ]
+  },
+  {
+   "episode": "Why Do Clothes Shrink in the Dryer?",
+   "date": "2025-12-28",
+   "orig": "What are the tiny threads that make up fabric?",
+   "prompt": "What are the tiny threads that make up fabric?",
+   "answer": "Fibers",
+   "choices": [
+    "Buttons",
+    "Pockets"
+   ]
+  },
+  {
+   "episode": "Why Do Clothes Shrink in the Dryer?",
+   "date": "2025-12-28",
+   "orig": "Which machine causes the most shrinking? Is it the washer or the dryer?",
+   "prompt": "Which machine causes the most shrinking?",
+   "answer": "The dryer",
+   "choices": [
+    "The washer",
+    "The closet"
+   ]
+  },
+  {
+   "episode": "Why Do Clothes Shrink in the Dryer?",
+   "date": "2025-12-28",
+   "orig": "And what two things in the dryer make clothes shrink?",
+   "prompt": "What two things in the dryer make clothes shrink?",
+   "answer": "Heat and tumbling",
+   "choices": [
+    "Soap and water",
+    "Light and noise"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Headache?",
+   "date": "2025-12-29",
+   "orig": "Which kind of headache can happen when your neck and shoulder muscles get tight?",
+   "prompt": "Which kind of headache can happen when your neck and shoulder muscles get tight?",
+   "answer": "A tension headache",
+   "choices": [
+    "A brain freeze",
+    "A sugar headache"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Headache?",
+   "date": "2025-12-29",
+   "orig": "And what's the word for not having enough water in your body?",
+   "prompt": "What's the word for not having enough water in your body?",
+   "answer": "Dehydration",
+   "choices": [
+    "Evaporation",
+    "Condensation"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Headache?",
+   "date": "2025-12-29",
+   "orig": "And if you go a long time without eating, what is it in your body that drops and can trigger a headache?",
+   "prompt": "If you go a long time without eating, what drops in your body and can trigger a headache?",
+   "answer": "Blood sugar",
+   "choices": [
+    "Your heartbeat",
+    "Your body temperature"
+   ]
+  },
+  {
+   "episode": "Why Do Batteries in Your Toys Die?",
+   "date": "2025-12-30",
+   "orig": "What moves through a toy that makes it work?",
+   "prompt": "What tiny things move through a toy to make it work?",
+   "answer": "Electrons",
+   "choices": [
+    "Bubbles",
+    "Water drops"
+   ]
+  },
+  {
+   "episode": "Why Do Batteries in Your Toys Die?",
+   "date": "2025-12-30",
+   "orig": "And what do we call the moving flow of electrons?",
+   "prompt": "What do we call the moving flow of electrons?",
+   "answer": "Electricity",
+   "choices": [
+    "Gravity",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "Why Does a Lizard's Tail Fall Off?",
+   "date": "2025-12-31",
+   "orig": "What is the special ability called when a lizard drops its tail?",
+   "prompt": "What is the special ability called when a lizard drops its tail?",
+   "answer": "Autotomy",
+   "choices": [
+    "Camouflage",
+    "Hibernation"
+   ],
+   "needsReview": true
+  },
+  {
+   "episode": "Why Does a Lizard's Tail Fall Off?",
+   "date": "2025-12-31",
+   "orig": "And why does the dropped tail wiggle around?",
+   "prompt": "Why does a lizard's dropped tail wiggle around?",
+   "answer": "To distract predators",
+   "choices": [
+    "To find food",
+    "To dig a hole"
+   ]
+  },
+  {
+   "episode": "Why Does a Lizard's Tail Fall Off?",
+   "date": "2025-12-31",
+   "orig": "And does the regrown tail have the same bones as the original? Nope, it's usually made of cartilage.",
+   "prompt": "What is a lizard's regrown tail usually made of?",
+   "answer": "Cartilage",
+   "choices": [
+    "Bone",
+    "Hair"
+   ]
+  },
+  {
+   "episode": "Why Do Cats Purr?",
+   "date": "2026-01-01",
+   "orig": "What is the name of the part of the throat that includes the voice box?",
+   "prompt": "What is the name of the part of the throat that includes the voice box?",
+   "answer": "The larynx",
+   "choices": [
+    "The tonsils",
+    "The esophagus"
+   ]
+  },
+  {
+   "episode": "Why Do Cats Purr?",
+   "date": "2026-01-01",
+   "orig": "And what do we call the steady shaking feeling that you sometimes feel when an animal purrs?",
+   "prompt": "What do we call the steady shaking feeling you feel when an animal purrs?",
+   "answer": "A vibration",
+   "choices": [
+    "A shiver",
+    "A hiccup"
+   ]
+  },
+  {
+   "episode": "Why Do Cats Purr?",
+   "date": "2026-01-01",
+   "orig": "And if a cat is scared or stressed, one reason it might make a steady sound is to do what to its body?",
+   "prompt": "If a cat is scared or stressed, why might it purr?",
+   "answer": "To calm itself down",
+   "choices": [
+    "To warm itself up",
+    "To look bigger"
+   ]
+  },
+  {
+   "episode": "Why Does a Compass Always Point North?",
+   "date": "2026-01-03",
+   "orig": "What is inside a compass that lets it point north?",
+   "prompt": "What is inside a compass that lets it point north?",
+   "answer": "A tiny magnet",
+   "choices": [
+    "A tiny battery",
+    "A tiny clock"
+   ]
+  },
+  {
+   "episode": "Why Does a Compass Always Point North?",
+   "date": "2026-01-03",
+   "orig": "What invisible force does the Earth have that affects the compass?",
+   "prompt": "What invisible force does the Earth have that affects a compass?",
+   "answer": "A magnetic field",
+   "choices": [
+    "The wind",
+    "Sunlight"
+   ]
+  },
+  {
+   "episode": "When Happens When You Lose Blood?",
+   "date": "2026-01-04",
+   "orig": "What is the soft, spongy place inside some bones where new blood cells are made?",
+   "prompt": "What is the soft, spongy place inside some bones where new blood cells are made?",
+   "answer": "Bone marrow",
+   "choices": [
+    "Cartilage",
+    "Muscle"
+   ]
+  },
+  {
+   "episode": "When Happens When You Lose Blood?",
+   "date": "2026-01-04",
+   "orig": "And what are the tiny helpers that rush to a cut to help stop bleeding?",
+   "prompt": "What are the tiny helpers that rush to a cut to help stop bleeding?",
+   "answer": "Platelets",
+   "choices": [
+    "Red blood cells",
+    "White blood cells"
+   ]
+  },
+  {
+   "episode": "When Happens When You Lose Blood?",
+   "date": "2026-01-04",
+   "orig": "And what is the name of the protein inside red blood cells that holds on to oxygen?",
+   "prompt": "What is the protein inside red blood cells that holds on to oxygen?",
+   "answer": "Hemoglobin",
+   "choices": [
+    "Keratin",
+    "Platelets"
+   ]
+  },
+  {
+   "episode": "When Happens When You Lose Blood?",
+   "date": "2026-01-04",
+   "orig": "And which body part can send a message to help your body make more red blood cells?",
+   "prompt": "Which body part sends a message to help your body make more red blood cells?",
+   "answer": "The kidneys",
+   "choices": [
+    "The lungs",
+    "The ears"
+   ]
+  },
+  {
+   "episode": "Why Are Days Shorter in the Winter?",
+   "date": "2026-01-05",
+   "orig": "What causes day and night on earth?",
+   "prompt": "What causes day and night on Earth?",
+   "answer": "The Earth spinning",
+   "choices": [
+    "The moon blocking the sun",
+    "The sun turning off"
+   ]
+  },
+  {
+   "episode": "Why Are Days Shorter in the Winter?",
+   "date": "2026-01-05",
+   "orig": "And what causes seasons like winter and summer?",
+   "prompt": "What causes seasons like winter and summer?",
+   "answer": "Earth's tilt",
+   "choices": [
+    "The moon",
+    "The clouds"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Brain Freeze When Eating Ice Cream?",
+   "date": "2026-01-06",
+   "orig": "Where does a brain freeze start?",
+   "prompt": "Where does a brain freeze start?",
+   "answer": "The roof of your mouth",
+   "choices": [
+    "Your ears",
+    "Your teeth"
+   ]
+  },
+  {
+   "episode": "Why Do You Get a Brain Freeze When Eating Ice Cream?",
+   "date": "2026-01-06",
+   "orig": "And what does your tongue do that can help a brain freeze go away faster?",
+   "prompt": "What can your tongue do to help a brain freeze go away faster?",
+   "answer": "Press the roof of your mouth",
+   "choices": [
+    "Stick way out",
+    "Wiggle side to side"
+   ],
+   "explain": "It can warm the roof of your mouth."
+  },
+  {
+   "episode": "Why Do You Get a Brain Freeze When Eating Ice Cream?",
+   "date": "2026-01-06",
+   "orig": "What is changing quickly when you get a brain freeze? Your bones, your blood flow or your hair?",
+   "prompt": "What is changing quickly when you get a brain freeze?",
+   "answer": "Your blood flow",
+   "choices": [
+    "Your bones",
+    "Your hair"
+   ]
+  },
+  {
+   "episode": "Why Do You Look Like Your Parents?",
+   "date": "2026-01-07",
+   "orig": "What is the name of the instruction book inside your cells? Three letters. Do you remember them?",
+   "prompt": "What is the name of the instruction book inside your cells?",
+   "answer": "DNA",
+   "choices": [
+    "Keratin",
+    "Hemoglobin"
+   ]
+  },
+  {
+   "episode": "Why Do You Look Like Your Parents?",
+   "date": "2026-01-07",
+   "orig": "What are the DNA folders called?",
+   "prompt": "What are the DNA folders called?",
+   "answer": "Chromosomes",
+   "choices": [
+    "Neurons",
+    "Platelets"
+   ]
+  },
+  {
+   "episode": "Why Do You Look Like Your Parents?",
+   "date": "2026-01-07",
+   "orig": "And if one version of a gene is louder and shows up more often, what is it called?",
+   "prompt": "If one version of a gene is louder and shows up more often, what is it called?",
+   "answer": "Dominant",
+   "choices": [
+    "Recessive",
+    "Mixed"
+   ]
+  },
+  {
+   "episode": "Why Isn't There Air in Outer Space?",
+   "date": "2026-01-09",
+   "orig": "What is the name for the blanket of gases around Earth?",
+   "prompt": "What is the name for the blanket of gases around Earth?",
+   "answer": "The atmosphere",
+   "choices": [
+    "The ocean",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "Why Isn't There Air in Outer Space?",
+   "date": "2026-01-09",
+   "orig": "And what force helps hold those gases near Earth?",
+   "prompt": "What force helps hold the atmosphere near Earth?",
+   "answer": "Gravity",
+   "choices": [
+    "Magnetism",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "Why Isn't There Air in Outer Space?",
+   "date": "2026-01-09",
+   "orig": "What do we call a place with very, very few molecules?",
+   "prompt": "What do we call a place with very, very few molecules?",
+   "answer": "A vacuum",
+   "choices": [
+    "A cloud",
+    "A crater"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Chapped Lips in the Winter?",
+   "date": "2026-01-11",
+   "orig": "What does dry winter air do to your skin?",
+   "prompt": "What does dry winter air do to your skin?",
+   "answer": "Pulls out moisture",
+   "choices": [
+    "Makes it oily",
+    "Makes it grow"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Chapped Lips in the Winter?",
+   "date": "2026-01-11",
+   "orig": "And why can licking your lips make chapped lips worse?",
+   "prompt": "Why can licking your lips make chapped lips worse?",
+   "answer": "Saliva evaporates",
+   "choices": [
+    "Your tongue is rough",
+    "Saliva is too cold"
+   ],
+   "explain": "It takes even more moisture with it."
+  },
+  {
+   "episode": "Why Do People Look Tiny from Far Away?",
+   "date": "2026-01-12",
+   "orig": "If something looks smaller in your eyes, what is your brain usually guessing?",
+   "prompt": "If something looks smaller in your eyes, what is your brain usually guessing?",
+   "answer": "It's farther away",
+   "choices": [
+    "It's shrinking",
+    "It's closer"
+   ]
+  },
+  {
+   "episode": "How Are Cartoons Made?",
+   "date": "2026-01-13",
+   "orig": "What does your brain do when it sees lots of pictures very quickly?",
+   "prompt": "What does your brain do when it sees lots of pictures very quickly?",
+   "answer": "Blends them into motion",
+   "choices": [
+    "Forgets them",
+    "Sees only one"
+   ],
+   "explain": "You see motion instead of separate pictures."
+  },
+  {
+   "episode": "How Are Cartoons Made?",
+   "date": "2026-01-13",
+   "orig": "And what is the word we use for bringing something to life?",
+   "prompt": "What is the word we use for bringing a drawing to life?",
+   "answer": "Animation",
+   "choices": [
+    "Imagination",
+    "Illustration"
+   ]
+  },
+  {
+   "episode": "How Does a Stethoscope Hear Your Heartbeat?",
+   "date": "2026-01-14",
+   "orig": "What part of the stethoscope touches your body?",
+   "prompt": "What part of the stethoscope touches your body?",
+   "answer": "The chest piece",
+   "choices": [
+    "The earpieces",
+    "The tube"
+   ]
+  },
+  {
+   "episode": "How Does a Stethoscope Hear Your Heartbeat?",
+   "date": "2026-01-14",
+   "orig": "And do stethoscopes make sound or carry sound?",
+   "prompt": "Do stethoscopes make sound or carry sound?",
+   "answer": "Carry sound",
+   "choices": [
+    "Make sound",
+    "Stop sound"
+   ]
+  },
+  {
+   "episode": "How Does a Stethoscope Hear Your Heartbeat?",
+   "date": "2026-01-14",
+   "orig": "And why does the tube help doctors hear better?",
+   "prompt": "Why does a stethoscope's tube help doctors hear better?",
+   "answer": "It keeps sound from spreading",
+   "choices": [
+    "It has a battery",
+    "It records the sound"
+   ],
+   "explain": "It focuses it."
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "Why Do Clothes Shrink in the Dryer?",
+   "q": "Is it the washer or the dryer?",
+   "why": "fragment"
+  },
+  {
+   "episode": "When Happens When You Lose Blood?",
+   "q": "Remember I pretended it was screaming?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Are Days Shorter in the Winter?",
+   "q": "And in winter, is your part of the earth tilted toward or away from the sun?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Are Days Shorter in the Winter?",
+   "q": "When you get a little bit colder when you are near a campfire, is that because you got closer or further away from the campfire?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Look Like Your Parents?",
+   "q": "Do you remember them?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do People Look Tiny from Far Away?",
+   "q": "And if something looks really big in your vision, what does your brain guess?",
+   "why": "duplicate"
+  }
+ ]
+}

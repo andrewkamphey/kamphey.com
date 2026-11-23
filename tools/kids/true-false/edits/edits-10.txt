@@ -1,0 +1,17 @@
+1 p=A person who dives underwater holding their breath, without scuba tanks, is called a free diver.
+6 e=It might get a little more wobbly over time, but it would still go around the sun.
+9 a=T
+10 e=
+17 e=
+18 e=It was very expensive, so a lot of people stuck to their black and white TVs.
+22 e=Five pairs of them.
+-36 fragment
+-37 repeated right after (Josh restates it)
+38 p=The colorful part of the M&M is called the candy shell.
+-39 repeated right after (Josh restates it)
+40 p=M&M's grow in the ground like vegetables. ;; e=
+41 e=
+53 e=
+88 e=
+91 e=
+94 e=It's not perfect, but it does get most of the water away from your eyes.

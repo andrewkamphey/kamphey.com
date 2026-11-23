@@ -1,0 +1,809 @@
+{
+ "items": [
+  {
+   "episode": "Why Does the Power Go Out Sometimes?",
+   "date": "2026-01-16",
+   "orig": "What do we call the giant network that moves electricity to homes?",
+   "prompt": "What do we call the giant network that moves electricity to homes?",
+   "answer": "The power grid",
+   "choices": [
+    "The internet",
+    "The water pipes"
+   ]
+  },
+  {
+   "episode": "Why Does the Power Go Out Sometimes?",
+   "date": "2026-01-16",
+   "orig": "And can you name one kind of weather that can cause a power outage?",
+   "prompt": "Which kind of weather can cause a power outage?",
+   "answer": "Lightning",
+   "choices": [
+    "Sunshine",
+    "A light breeze"
+   ],
+   "explain": "It could be wind or lightning or snow or ice."
+  },
+  {
+   "episode": "Why Does the Power Go Out Sometimes?",
+   "date": "2026-01-16",
+   "orig": "Why might the power company turn electricity off on purpose?",
+   "prompt": "Why might the power company turn electricity off on purpose?",
+   "answer": "To fix equipment",
+   "choices": [
+    "To clean the wires",
+    "To save the batteries"
+   ],
+   "explain": "Or to upgrade things."
+  },
+  {
+   "episode": "What Makes Tape Sticky?",
+   "date": "2026-01-18",
+   "orig": "What is the sticky stuff on tape called?",
+   "prompt": "What is the sticky stuff on tape called?",
+   "answer": "Adhesive",
+   "choices": [
+    "Plastic",
+    "Paint"
+   ]
+  },
+  {
+   "episode": "What Makes Tape Sticky?",
+   "date": "2026-01-18",
+   "orig": "And does tape stick best to dusty surfaces or clean ones?",
+   "prompt": "Does tape stick best to dusty surfaces or clean ones?",
+   "answer": "Clean surfaces",
+   "choices": [
+    "Dusty surfaces",
+    "Wet surfaces"
+   ]
+  },
+  {
+   "episode": "How Do Hurricanes Form?",
+   "date": "2026-01-20",
+   "orig": "What temperature does ocean water usually need to be for hurricanes to form?",
+   "prompt": "How warm does ocean water usually need to be for hurricanes to form?",
+   "answer": "80 degrees or warmer",
+   "choices": [
+    "About 30 degrees",
+    "About 50 degrees"
+   ],
+   "explain": "That's in Fahrenheit."
+  },
+  {
+   "episode": "How Do Hurricanes Form?",
+   "date": "2026-01-20",
+   "orig": "And what is the calm center of a hurricane called?",
+   "prompt": "What is the calm center of a hurricane called?",
+   "answer": "The eye",
+   "choices": [
+    "The funnel",
+    "The tail"
+   ]
+  },
+  {
+   "episode": "How Do Hurricanes Form?",
+   "date": "2026-01-20",
+   "orig": "And where are the strongest winds found in a hurricane?",
+   "prompt": "Where are the strongest winds found in a hurricane?",
+   "answer": "The eye wall",
+   "choices": [
+    "The eye",
+    "The far edges"
+   ]
+  },
+  {
+   "episode": "Why Do We Get Pimples?",
+   "date": "2026-01-21",
+   "orig": "What is the tiny opening in your skin called where hair and oil come out?",
+   "prompt": "What is the tiny opening in your skin where hair and oil come out?",
+   "answer": "A pore",
+   "choices": [
+    "A freckle",
+    "A wrinkle"
+   ]
+  },
+  {
+   "episode": "Why Do We Get Pimples?",
+   "date": "2026-01-21",
+   "orig": "And what is the oily substance your skin makes to stay soft?",
+   "prompt": "What is the oily substance your skin makes to stay soft?",
+   "answer": "Sebum",
+   "choices": [
+    "Sweat",
+    "Mucus"
+   ]
+  },
+  {
+   "episode": "How Are Stuffed Animals Made?",
+   "date": "2026-01-23",
+   "orig": "What is the first test version of a stuffed animal called?",
+   "prompt": "What is the first test version of a stuffed animal called?",
+   "answer": "A prototype",
+   "choices": [
+    "A blueprint",
+    "A mascot"
+   ]
+  },
+  {
+   "episode": "How Are Stuffed Animals Made?",
+   "date": "2026-01-23",
+   "orig": "And what material is most stuffing made from? Remember, it was called polyester fiber.",
+   "prompt": "What material is most stuffing made from?",
+   "answer": "Polyester fiber",
+   "choices": [
+    "Popcorn",
+    "Paper"
+   ]
+  },
+  {
+   "episode": "How Are Diamonds Made?",
+   "date": "2026-01-24",
+   "orig": "What material are diamonds made from?",
+   "prompt": "What material are diamonds made from?",
+   "answer": "Carbon",
+   "choices": [
+    "Glass",
+    "Ice"
+   ]
+  },
+  {
+   "episode": "How Are Diamonds Made?",
+   "date": "2026-01-24",
+   "orig": "And what is it called when people dig to find diamonds?",
+   "prompt": "What is it called when people dig to find diamonds?",
+   "answer": "Mining",
+   "choices": [
+    "Farming",
+    "Fishing"
+   ]
+  },
+  {
+   "episode": "What's the Difference Between a Tree and a Bush?",
+   "date": "2026-01-25",
+   "orig": "If a plant has one main trunk, is it most likely a tree or a bush?",
+   "prompt": "If a plant has one main trunk, what is it most likely?",
+   "answer": "A tree",
+   "choices": [
+    "A bush",
+    "A flower"
+   ]
+  },
+  {
+   "episode": "Why Is Water Wet?",
+   "date": "2026-01-26",
+   "orig": "What tiny thing is water made of?",
+   "prompt": "What tiny things is water made of?",
+   "answer": "Molecules",
+   "choices": [
+    "Bubbles",
+    "Crystals"
+   ]
+  },
+  {
+   "episode": "How Do iPhones Work?",
+   "date": "2026-01-27",
+   "orig": "What part of the iPhone acts like its brain?",
+   "prompt": "What part of the iPhone acts like its brain?",
+   "answer": "The processor",
+   "choices": [
+    "The screen",
+    "The camera"
+   ]
+  },
+  {
+   "episode": "How Do iPhones Work?",
+   "date": "2026-01-27",
+   "orig": "And what powers the phone when it's not plugged in?",
+   "prompt": "What powers the phone when it's not plugged in?",
+   "answer": "The battery",
+   "choices": [
+    "Solar panels",
+    "The speaker"
+   ]
+  },
+  {
+   "episode": "Where Does All the Trash Go?",
+   "date": "2026-01-28",
+   "orig": "What is the big place where most trash is taken called?",
+   "prompt": "What is the big place where most trash is taken called?",
+   "answer": "A landfill",
+   "choices": [
+    "A factory",
+    "A farm"
+   ]
+  },
+  {
+   "episode": "Where Does All the Trash Go?",
+   "date": "2026-01-28",
+   "orig": "And where does paper go if you recycle it?",
+   "prompt": "Where does paper go if you recycle it?",
+   "answer": "A recycling center",
+   "choices": [
+    "A landfill",
+    "The ocean"
+   ]
+  },
+  {
+   "episode": "Where Does All the Trash Go?",
+   "date": "2026-01-28",
+   "orig": "And what can food scraps turn into when they are composted?",
+   "prompt": "What can food scraps turn into when they are composted?",
+   "answer": "Soil",
+   "choices": [
+    "Plastic",
+    "Glass"
+   ],
+   "explain": "Soil that helps plants grow."
+  },
+  {
+   "episode": "Why Do Animals Hibernate?",
+   "date": "2026-01-29",
+   "orig": "What is one main reason that animals hibernate?",
+   "prompt": "What is one main reason that animals hibernate?",
+   "answer": "To save energy",
+   "choices": [
+    "To grow taller",
+    "To hide from people"
+   ],
+   "explain": "To save energy when food is hard to find."
+  },
+  {
+   "episode": "Why Do Animals Hibernate?",
+   "date": "2026-01-29",
+   "orig": "What do animals often build up before winter to use as fuel?",
+   "prompt": "What do animals often build up before winter to use as fuel?",
+   "answer": "Body fat",
+   "choices": [
+    "Bigger teeth",
+    "Longer tails"
+   ],
+   "explain": "They eat a bunch to build body fat."
+  },
+  {
+   "episode": "Why Do Animals Hibernate?",
+   "date": "2026-01-29",
+   "orig": "And what happens to an animal's breathing during hibernation?",
+   "prompt": "What happens to an animal's breathing during hibernation?",
+   "answer": "It slows way down",
+   "choices": [
+    "It speeds up",
+    "It gets louder"
+   ]
+  },
+  {
+   "episode": "How Do Snails Move?",
+   "date": "2026-01-31",
+   "orig": "What body part do snails use to move?",
+   "prompt": "What body part do snails use to move?",
+   "answer": "Their foot",
+   "choices": [
+    "Their legs",
+    "Their shell"
+   ]
+  },
+  {
+   "episode": "How Do Snails Move?",
+   "date": "2026-01-31",
+   "orig": "And what kind of motion helps push a snail forward?",
+   "prompt": "What kind of motion helps push a snail forward?",
+   "answer": "Pedal locomotory waves",
+   "choices": [
+    "Little hops",
+    "Rolling spins"
+   ]
+  },
+  {
+   "episode": "How Do Snails Move?",
+   "date": "2026-01-31",
+   "orig": "And what slippery substance do snails make to help them move?",
+   "prompt": "What slippery substance do snails make to help them move?",
+   "answer": "Slime",
+   "choices": [
+    "Oil",
+    "Wax"
+   ],
+   "explain": "Slime or mucus."
+  },
+  {
+   "episode": "Why Can't You See a Clock's Hour Hand Move?",
+   "date": "2026-02-01",
+   "orig": "Which clock hand moves the fastest?",
+   "prompt": "Which clock hand moves the fastest?",
+   "answer": "The second hand",
+   "choices": [
+    "The minute hand",
+    "The hour hand"
+   ]
+  },
+  {
+   "episode": "Why Can't You See a Clock's Hour Hand Move?",
+   "date": "2026-02-01",
+   "orig": "And how long does it take the minute hand to go all the way around the clock?",
+   "prompt": "How long does it take the minute hand to go all the way around the clock?",
+   "answer": "One hour",
+   "choices": [
+    "One minute",
+    "One day"
+   ]
+  },
+  {
+   "episode": "Why Can't You See a Clock's Hour Hand Move?",
+   "date": "2026-02-01",
+   "orig": "And how long does it take the hour hand to go all the way around the clock?",
+   "prompt": "How long does it take the hour hand to go all the way around the clock?",
+   "answer": "12 hours",
+   "choices": [
+    "1 hour",
+    "100 hours"
+   ]
+  },
+  {
+   "episode": "How Do TVs Work?",
+   "date": "2026-02-02",
+   "orig": "Which tiny building blocks make up the picture on a screen?",
+   "prompt": "Which tiny building blocks make up the picture on a screen?",
+   "answer": "Pixels",
+   "choices": [
+    "Atoms",
+    "Bubbles"
+   ]
+  },
+  {
+   "episode": "How Do TVs Work?",
+   "date": "2026-02-02",
+   "orig": "And what are the three main sub-pixel colors, do you remember?",
+   "prompt": "What are the three main colors of the tiny dots on a screen?",
+   "answer": "Red, green, and blue",
+   "choices": [
+    "Red, yellow, and blue",
+    "Pink, orange, and purple"
+   ]
+  },
+  {
+   "episode": "How Do TVs Work?",
+   "date": "2026-02-02",
+   "orig": "And what do we call one single picture in a fast sequence?",
+   "prompt": "What do we call one single picture in a fast sequence?",
+   "answer": "A frame",
+   "choices": [
+    "A pixel",
+    "A channel"
+   ]
+  },
+  {
+   "episode": "Asteroids vs Meteorites: What's the Difference?",
+   "date": "2026-02-04",
+   "orig": "What do we call the bright streak of light in the sky when a space rock heats up in the atmosphere?",
+   "prompt": "What do we call the bright streak of light in the sky when a space rock heats up in the atmosphere?",
+   "answer": "A meteor",
+   "choices": [
+    "A meteorite",
+    "An asteroid"
+   ]
+  },
+  {
+   "episode": "Asteroids vs Meteorites: What's the Difference?",
+   "date": "2026-02-04",
+   "orig": "What is the name of a rock while it is still in space, before it makes a streak in the sky?",
+   "prompt": "What is the name of a small space rock while it is still in space?",
+   "answer": "A meteoroid",
+   "choices": [
+    "A meteor",
+    "A meteorite"
+   ]
+  },
+  {
+   "episode": "Asteroids vs Meteorites: What's the Difference?",
+   "date": "2026-02-04",
+   "orig": "And what force mostly controls the paths of space rocks around the sun?",
+   "prompt": "What force mostly controls the paths of space rocks around the sun?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Magnetism"
+   ]
+  },
+  {
+   "episode": "Asteroids vs Meteorites: What's the Difference?",
+   "date": "2026-02-04",
+   "orig": "And what do we call a space rock that lands on earth?",
+   "prompt": "What do we call a space rock that lands on Earth?",
+   "answer": "A meteorite",
+   "choices": [
+    "A meteor",
+    "A meteoroid"
+   ]
+  },
+  {
+   "episode": "Asteroids vs Meteorites: What's the Difference?",
+   "date": "2026-02-04",
+   "orig": "And what about the space rocks that are between Mars and Jupiter, and they're bigger and they orbit the sun?",
+   "prompt": "What do we call the bigger space rocks between Mars and Jupiter that orbit the sun?",
+   "answer": "Asteroids",
+   "choices": [
+    "Meteors",
+    "Moons"
+   ]
+  },
+  {
+   "episode": "Why Does Your Nose Get Stuffy?",
+   "date": "2026-02-05",
+   "orig": "What is the name of the sticky stuff your nose makes to trap dust and germs?",
+   "prompt": "What is the sticky stuff your nose makes to trap dust and germs?",
+   "answer": "Mucus",
+   "choices": [
+    "Saliva",
+    "Earwax"
+   ],
+   "explain": "Mucus or snot."
+  },
+  {
+   "episode": "Why Does Your Nose Get Stuffy?",
+   "date": "2026-02-05",
+   "orig": "When the tissues inside your nose puff up and take up more space, what is that called?",
+   "prompt": "When the tissues inside your nose puff up and take up more space, what is that called?",
+   "answer": "Inflammation",
+   "choices": [
+    "Evaporation",
+    "Vibration"
+   ],
+   "explain": "That means it's swelling."
+  },
+  {
+   "episode": "Why Do Markers Dry Out?",
+   "date": "2026-02-07",
+   "orig": "What is the name for a liquid slowly turning into a gas and floating away?",
+   "prompt": "What is the name for a liquid slowly turning into a gas and floating away?",
+   "answer": "Evaporation",
+   "choices": [
+    "Condensation",
+    "Precipitation"
+   ]
+  },
+  {
+   "episode": "Why Do Markers Dry Out?",
+   "date": "2026-02-07",
+   "orig": "And what is the liquid part of ink called that helps carry the color?",
+   "prompt": "What is the liquid part of ink called that helps carry the color?",
+   "answer": "The solvent",
+   "choices": [
+    "The pigment",
+    "The powder"
+   ]
+  },
+  {
+   "episode": "Why Do Markers Dry Out?",
+   "date": "2026-02-07",
+   "orig": "And what word describes the tip of the marker, meaning it has tiny holes like a sponge?",
+   "prompt": "What word describes a marker tip that has tiny holes like a sponge?",
+   "answer": "Porous",
+   "choices": [
+    "Smooth",
+    "Shiny"
+   ]
+  },
+  {
+   "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+   "date": "2026-02-08",
+   "orig": "What is the name for hearing sound through the bones in your head?",
+   "prompt": "What is the name for hearing sound through the bones in your head?",
+   "answer": "Bone conduction",
+   "choices": [
+    "Echo hearing",
+    "Lip reading"
+   ]
+  },
+  {
+   "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+   "date": "2026-02-08",
+   "orig": "And what is the name of the effect when blocking your ear makes low sounds get trapped?",
+   "prompt": "What is it called when blocking your ear makes low sounds get trapped?",
+   "answer": "The occlusion effect",
+   "choices": [
+    "The echo effect",
+    "The domino effect"
+   ]
+  },
+  {
+   "episode": "Why Do Some People Snore?",
+   "date": "2026-02-09",
+   "orig": "What makes the snoring sound?",
+   "prompt": "What makes the snoring sound?",
+   "answer": "Vibrations in your throat",
+   "choices": [
+    "Air in your tummy",
+    "Your teeth tapping"
+   ],
+   "explain": "Vibrations in the soft parts of the throat and mouth."
+  },
+  {
+   "episode": "Why Do Some People Snore?",
+   "date": "2026-02-09",
+   "orig": "What's the name of the little dangly thing in the back of your throat?",
+   "prompt": "What's the name of the little dangly thing in the back of your throat?",
+   "answer": "The uvula",
+   "choices": [
+    "The tonsils",
+    "The tongue"
+   ]
+  },
+  {
+   "episode": "Why Do Some People Snore?",
+   "date": "2026-02-09",
+   "orig": "And sleeping in what position can make snoring more likely for some people because of gravity?",
+   "prompt": "Sleeping in what position can make snoring more likely?",
+   "answer": "On your back",
+   "choices": [
+    "On your side",
+    "On your tummy"
+   ]
+  },
+  {
+   "episode": "How Do Muscles Grow Bigger?",
+   "date": "2026-02-10",
+   "orig": "What is one big building material your body uses to repair muscles after exercise?",
+   "prompt": "What building material does your body use to repair muscles after exercise?",
+   "answer": "Protein",
+   "choices": [
+    "Sugar",
+    "Salt"
+   ]
+  },
+  {
+   "episode": "How Do Muscles Grow Bigger?",
+   "date": "2026-02-10",
+   "orig": "Do muscles grow bigger more during lifting or during rest and repair?",
+   "prompt": "Do muscles grow bigger more during lifting or during rest and repair?",
+   "answer": "During rest and repair",
+   "choices": [
+    "During lifting",
+    "During running"
+   ]
+  },
+  {
+   "episode": "How Do Muscles Grow Bigger?",
+   "date": "2026-02-10",
+   "orig": "What is the word for muscle growth that means muscle fibers get bigger? Do you remember that word?",
+   "prompt": "What is the word for muscle growth that means muscle fibers get bigger?",
+   "answer": "Hypertrophy",
+   "choices": [
+    "Photosynthesis",
+    "Hibernation"
+   ]
+  },
+  {
+   "episode": "How Smart Are Baboons?",
+   "date": "2026-02-11",
+   "orig": "What is the name for the big group that baboons live in?",
+   "prompt": "What is the name for the big group that baboons live in?",
+   "answer": "A troop",
+   "choices": [
+    "A herd",
+    "A flock"
+   ]
+  },
+  {
+   "episode": "How Smart Are Baboons?",
+   "date": "2026-02-11",
+   "orig": "And what do we call it when an animal searches for food in lots of different places?",
+   "prompt": "What do we call it when an animal searches for food in lots of different places?",
+   "answer": "Foraging",
+   "choices": [
+    "Hibernating",
+    "Migrating"
+   ]
+  },
+  {
+   "episode": "Why Do You Have a Belly Button?",
+   "date": "2026-02-12",
+   "orig": "What is the organ called that helps pass oxygen and nutrients from a mother to the baby before birth?",
+   "prompt": "What organ passes oxygen and food from a mother to her baby before birth?",
+   "answer": "The placenta",
+   "choices": [
+    "The stomach",
+    "The heart"
+   ]
+  },
+  {
+   "episode": "Why Do You Have a Belly Button?",
+   "date": "2026-02-12",
+   "orig": "And what is the soft bendy connection that links a baby to the placenta? Remember it's a chord. Do you remember what kind of chord it is?",
+   "prompt": "What is the soft bendy connection that links a baby to the placenta?",
+   "answer": "The umbilical cord",
+   "choices": [
+    "The spinal cord",
+    "The vocal cords"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Shocked When You Touch Things?",
+   "date": "2026-02-13",
+   "orig": "What is the tiny particle that can move between objects and helps cause those zaps?",
+   "prompt": "What tiny particle moves between objects and causes those static zaps?",
+   "answer": "Electrons",
+   "choices": [
+    "Molecules",
+    "Pixels"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Shocked When You Touch Things?",
+   "date": "2026-02-13",
+   "orig": "And what kind of material lets electrons move easily, like many metals do? What do we call that kind of material?",
+   "prompt": "What do we call a material that lets electrons move easily, like many metals do?",
+   "answer": "A conductor",
+   "choices": [
+    "An insulator",
+    "A magnet"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Shocked When You Touch Things?",
+   "date": "2026-02-13",
+   "orig": "And what kind of material does not let electrons move easily, like rubber or plastic?",
+   "prompt": "What do we call a material that does not let electrons move easily, like rubber or plastic?",
+   "answer": "An insulator",
+   "choices": [
+    "A conductor",
+    "A battery"
+   ]
+  },
+  {
+   "episode": "How Do Squids Squirt Ink?",
+   "date": "2026-02-14",
+   "orig": "What is the name of the storage bag that holds the dark liquid?",
+   "prompt": "What is the name of the bag that holds a squid's ink?",
+   "answer": "The ink sac",
+   "choices": [
+    "The mantle",
+    "The siphon"
+   ]
+  },
+  {
+   "episode": "How Do Squids Squirt Ink?",
+   "date": "2026-02-14",
+   "orig": "And what is the dark pigment in the ink called? Remember, humans have it too.",
+   "prompt": "What is the dark pigment in squid ink called?",
+   "answer": "Melanin",
+   "choices": [
+    "Keratin",
+    "Chlorophyll"
+   ],
+   "explain": "Humans have it too."
+  },
+  {
+   "episode": "How Do Squids Squirt Ink?",
+   "date": "2026-02-14",
+   "orig": "And what is the tube called that squirts water out like a water rocket?",
+   "prompt": "What is the squid's tube called that squirts water out like a water rocket?",
+   "answer": "The siphon",
+   "choices": [
+    "The mantle",
+    "The ink sac"
+   ]
+  },
+  {
+   "episode": "Why Do Balloons Shrink Over Time?",
+   "date": "2026-02-15",
+   "orig": "What is the biggest reason a helium-filled balloon gets smaller over time?",
+   "prompt": "What is the biggest reason a helium balloon gets smaller over time?",
+   "answer": "Gas slowly escapes",
+   "choices": [
+    "The rubber melts",
+    "The string squeezes it"
+   ],
+   "explain": "Gas particles slowly slip through the stretchy material."
+  },
+  {
+   "episode": "Why Do Balloons Shrink Over Time?",
+   "date": "2026-02-15",
+   "orig": "What do we call it when gas is spread out and mixed from more crowded to less crowded areas?",
+   "prompt": "What do we call it when gas spreads from crowded areas to less crowded areas?",
+   "answer": "Diffusion",
+   "choices": [
+    "Evaporation",
+    "Erosion"
+   ]
+  },
+  {
+   "episode": "Why Do Balloons Shrink Over Time?",
+   "date": "2026-02-15",
+   "orig": "And why does helium escape out of a balloon faster?",
+   "prompt": "Why does helium escape out of a balloon faster?",
+   "answer": "Helium atoms are smaller",
+   "choices": [
+    "Helium atoms are bigger",
+    "Helium is hotter"
+   ],
+   "explain": "They can sneak through tiny gaps more easily."
+  },
+  {
+   "episode": "Why Do Snakes Lose Their Skin?",
+   "date": "2026-02-16",
+   "orig": "Why do snakes need to shed their skin?",
+   "prompt": "Why do snakes need to shed their skin?",
+   "answer": "Their skin doesn't stretch",
+   "choices": [
+    "They get too hot",
+    "They want a new color"
+   ],
+   "explain": "Their skin does not stretch as they grow."
+  },
+  {
+   "episode": "Why Do Snakes Lose Their Skin?",
+   "date": "2026-02-16",
+   "orig": "And do snakes usually shed in one piece or many pieces?",
+   "prompt": "Do snakes usually shed their skin in one piece or many pieces?",
+   "answer": "One long piece",
+   "choices": [
+    "Many tiny pieces",
+    "Two halves"
+   ]
+  },
+  {
+   "episode": "Why Do Bright Lights Hurt Your Eyes?",
+   "date": "2026-02-18",
+   "orig": "What is the name of the dark opening that lets light into your eye?",
+   "prompt": "What is the name of the dark opening that lets light into your eye?",
+   "answer": "The pupil",
+   "choices": [
+    "The iris",
+    "The retina"
+   ]
+  },
+  {
+   "episode": "Why Do Bright Lights Hurt Your Eyes?",
+   "date": "2026-02-18",
+   "orig": "And what is the colorful ring that controls the size of the pupil?",
+   "prompt": "What is the colorful ring that controls the size of the pupil?",
+   "answer": "The iris",
+   "choices": [
+    "The pupil",
+    "The retina"
+   ]
+  },
+  {
+   "episode": "Why Do Bright Lights Hurt Your Eyes?",
+   "date": "2026-02-18",
+   "orig": "And what is the name of the light sensing layer at the back of your eye?",
+   "prompt": "What is the light-sensing layer at the back of your eye called?",
+   "answer": "The retina",
+   "choices": [
+    "The pupil",
+    "The iris"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "What's the Difference Between a Tree and a Bush?",
+   "q": "And if a plant has many woody stems coming out of the ground, is it more likely to be a tree or a bush?",
+   "why": "duplicate"
+  },
+  {
+   "episode": "Why Is Water Wet?",
+   "q": "And does oil feel wet the same way that water does?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Where Does All the Trash Go?",
+   "q": "Isn't that cool?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Muscles Grow Bigger?",
+   "q": "Do you remember that word?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Have a Belly Button?",
+   "q": "Do you remember what kind of chord it is?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do You Get Shocked When You Touch Things?",
+   "q": "What do we call that kind of material?",
+   "why": "fragment"
+  }
+ ]
+}

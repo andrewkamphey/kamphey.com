@@ -1,0 +1,995 @@
+{
+ "items": [
+  {
+   "episode": "How Do X-Rays Work?",
+   "date": "2026-08-23",
+   "orig": "What does an x-ray machine send through your body to make the picture?",
+   "prompt": "What does an x-ray machine send through your body to make the picture?",
+   "answer": "Invisible x-ray light",
+   "choices": [
+    "Sound waves",
+    "Warm air"
+   ]
+  },
+  {
+   "episode": "How Do X-Rays Work?",
+   "date": "2026-08-23",
+   "orig": "And do soft parts of your body usually let more x-rays through, or do they block more x-rays?",
+   "prompt": "What do soft parts of your body usually do with x-rays?",
+   "answer": "Let more of them through",
+   "choices": [
+    "Block more of them",
+    "Turn them into sound"
+   ]
+  },
+  {
+   "episode": "How Do X-Rays Work?",
+   "date": "2026-08-23",
+   "orig": "And what is the special thing on the other side of you that catches the pattern and makes the image when an x-ray image is taken?",
+   "prompt": "What catches the x-ray pattern on the other side of you and makes the image?",
+   "answer": "A detector",
+   "choices": [
+    "A mirror",
+    "A flashlight"
+   ]
+  },
+  {
+   "episode": "How Does Tap Water Get Hot?",
+   "date": "2026-08-24",
+   "orig": "Where is the water heated before it reaches your hot water faucet?",
+   "prompt": "Where is water heated before it reaches your hot water faucet?",
+   "answer": "In a water heater",
+   "choices": [
+    "In the faucet",
+    "In the freezer"
+   ]
+  },
+  {
+   "episode": "How Does Tap Water Get Hot?",
+   "date": "2026-08-24",
+   "orig": "And what helps move water through the pipes when you open a faucet?",
+   "prompt": "What helps move water through the pipes when you open a faucet?",
+   "answer": "Water pressure",
+   "choices": [
+    "Wind",
+    "Magnets"
+   ]
+  },
+  {
+   "episode": "How Does Tap Water Get Hot?",
+   "date": "2026-08-24",
+   "orig": "And why is it that sometimes cold water comes out for a few seconds when you turn on the hot water?",
+   "prompt": "Why does cold water sometimes come out first when you turn on the hot water?",
+   "answer": "Water in the pipe cooled down",
+   "choices": [
+    "The heater is turned off",
+    "The faucet is broken"
+   ],
+   "explain": "That water has to come out before the freshly heated water reaches the faucet."
+  },
+  {
+   "episode": "How Does Tap Water Get Hot?",
+   "date": "2026-08-24",
+   "orig": "And what can a faucet do to give you warm water instead of very hot water?",
+   "prompt": "What can a faucet do to give you warm water instead of very hot water?",
+   "answer": "Mix hot and cold water",
+   "choices": [
+    "Spin the water fast",
+    "Add ice"
+   ]
+  },
+  {
+   "episode": "How Do Ants Carry Heavy Things?",
+   "date": "2026-08-25",
+   "orig": "What body parts does an ant often use to grab and carry food?",
+   "prompt": "What body parts does an ant often use to grab and carry food?",
+   "answer": "Mandibles",
+   "choices": [
+    "Antennae",
+    "Tails"
+   ]
+  },
+  {
+   "episode": "How Do Ants Carry Heavy Things?",
+   "date": "2026-08-25",
+   "orig": "And what is the hard outer covering of an ant called?",
+   "prompt": "What is the hard outer covering of an ant called?",
+   "answer": "The exoskeleton",
+   "choices": [
+    "Fur",
+    "Scales"
+   ]
+  },
+  {
+   "episode": "How Do Ants Carry Heavy Things?",
+   "date": "2026-08-25",
+   "orig": "And what usually happens to a leafcutter ant's walking speed as it carries heavier and heavier things?",
+   "prompt": "What happens to a leafcutter ant's walking speed as it carries heavier things?",
+   "answer": "It slows down",
+   "choices": [
+    "It speeds up",
+    "It stays the same"
+   ]
+  },
+  {
+   "episode": "How Do Ants Carry Heavy Things?",
+   "date": "2026-08-25",
+   "orig": "Do you remember how many legs an ant has?",
+   "prompt": "How many legs does an ant have?",
+   "answer": "Six",
+   "choices": [
+    "Eight",
+    "Four"
+   ]
+  },
+  {
+   "episode": "What Do Worms Eat?",
+   "date": "2026-08-26",
+   "orig": "What do we call dead plant material that is breaking down in soil?",
+   "prompt": "What do we call dead plant material that is breaking down in soil?",
+   "answer": "Organic matter",
+   "choices": [
+    "Sand",
+    "Pebbles"
+   ]
+  },
+  {
+   "episode": "What Do Worms Eat?",
+   "date": "2026-08-26",
+   "orig": "And what organ inside an earthworm grinds its food?",
+   "prompt": "What organ inside an earthworm grinds its food?",
+   "answer": "The gizzard",
+   "choices": [
+    "Its teeth",
+    "Its lungs"
+   ]
+  },
+  {
+   "episode": "What Do Worms Eat?",
+   "date": "2026-08-26",
+   "orig": "And what can help the gizzard grind food into smaller pieces?",
+   "prompt": "What helps an earthworm's gizzard grind food into smaller pieces?",
+   "answer": "Gritty sand or soil",
+   "choices": [
+    "Rainwater",
+    "Soft leaves"
+   ]
+  },
+  {
+   "episode": "What Do Worms Eat?",
+   "date": "2026-08-26",
+   "orig": "And what do we call the processed materials that pass out of an earthworm?",
+   "prompt": "What do we call the material that passes out of an earthworm?",
+   "answer": "Castings",
+   "choices": [
+    "Pellets",
+    "Crumbs"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Earth Crashed into the Sun?",
+   "date": "2026-08-27",
+   "orig": "About how fast is earth moving around the sun?",
+   "prompt": "About how fast is Earth moving around the sun?",
+   "answer": "67,000 miles per hour",
+   "choices": [
+    "60 miles per hour",
+    "600 miles per hour"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Earth Crashed into the Sun?",
+   "date": "2026-08-27",
+   "orig": "If earth were half as far from the sun, about how much solar energy would it receive?",
+   "prompt": "If Earth were half as far from the sun, about how much solar energy would it get?",
+   "answer": "Four times as much",
+   "choices": [
+    "Twice as much",
+    "Half as much"
+   ]
+  },
+  {
+   "episode": "What Would Happen If the Earth Crashed into the Sun?",
+   "date": "2026-08-27",
+   "orig": "And around how hot is the sun's photosphere?",
+   "prompt": "About how hot is the sun's photosphere?",
+   "answer": "10,000 degrees Fahrenheit",
+   "choices": [
+    "100 degrees Fahrenheit",
+    "1,000 degrees Fahrenheit"
+   ]
+  },
+  {
+   "episode": "What Is a Splinter?",
+   "date": "2026-08-28",
+   "orig": "Besides wood, name one other material that can become a splinter.",
+   "prompt": "Besides wood, what else can become a splinter?",
+   "answer": "Glass",
+   "choices": [
+    "Water",
+    "Cotton"
+   ],
+   "explain": "Metal, plastic, or a thorn can too."
+  },
+  {
+   "episode": "What Is a Splinter?",
+   "date": "2026-08-28",
+   "orig": "Why can such a tiny object hurt so much?",
+   "prompt": "Why can a tiny splinter hurt so much?",
+   "answer": "It presses on nerve endings",
+   "choices": [
+    "It is very hot",
+    "It is poisonous"
+   ],
+   "explain": "Nerve endings send pain signals to your brain."
+  },
+  {
+   "episode": "How Do Firefighters Put Out Fires?",
+   "date": "2026-08-29",
+   "orig": "What are the three things a fire needs to keep burning?",
+   "prompt": "What three things does a fire need to keep burning?",
+   "answer": "Heat, fuel, and oxygen",
+   "choices": [
+    "Water, dirt, and wind",
+    "Ice, rocks, and sand"
+   ],
+   "explain": "That's the fire triangle."
+  },
+  {
+   "episode": "How Do Firefighters Put Out Fires?",
+   "date": "2026-08-29",
+   "orig": "What does water mostly remove from a fire?",
+   "prompt": "What does water mostly remove from a fire?",
+   "answer": "Heat",
+   "choices": [
+    "Smoke",
+    "Ash"
+   ]
+  },
+  {
+   "episode": "How Do Firefighters Put Out Fires?",
+   "date": "2026-08-29",
+   "orig": "And what does firefighting foam block from reaching the fire?",
+   "prompt": "What does firefighting foam block from reaching the fire?",
+   "answer": "Oxygen",
+   "choices": [
+    "Water",
+    "Sunlight"
+   ]
+  },
+  {
+   "episode": "Why Does the Sky Change Colors?",
+   "date": "2026-08-30",
+   "orig": "What color of light scatters the most?",
+   "prompt": "What color of light scatters the most?",
+   "answer": "Blue",
+   "choices": [
+    "Red",
+    "Orange"
+   ],
+   "explain": "That's why the sky looks blue."
+  },
+  {
+   "episode": "Why Does the Sky Change Colors?",
+   "date": "2026-08-30",
+   "orig": "What colors have the longest wavelengths?",
+   "prompt": "What colors have the longest wavelengths?",
+   "answer": "Red and orange",
+   "choices": [
+    "Blue and violet",
+    "Green and blue"
+   ]
+  },
+  {
+   "episode": "Why Does the Sky Change Colors?",
+   "date": "2026-08-30",
+   "orig": "And what part of the day makes sunlight pass through the most air?",
+   "prompt": "What parts of the day make sunlight pass through the most air?",
+   "answer": "Sunrise and sunset",
+   "choices": [
+    "Noon",
+    "Mid-morning"
+   ]
+  },
+  {
+   "episode": "Do Bears Eat Honey?",
+   "date": "2026-08-31",
+   "orig": "What word describes a creature that eats both plant and animal foods?",
+   "prompt": "What word describes a creature that eats both plants and animals?",
+   "answer": "Omnivore",
+   "choices": [
+    "Herbivore",
+    "Carnivore"
+   ]
+  },
+  {
+   "episode": "Do Bears Eat Honey?",
+   "date": "2026-08-31",
+   "orig": "And we know that black bears like to eat honey, but when they find a beehive, what's the other thing they're really interested in eating?",
+   "prompt": "Besides honey, what do black bears like to eat from a beehive?",
+   "answer": "Baby bees",
+   "choices": [
+    "The wax",
+    "The flowers"
+   ],
+   "explain": "They eat the bee brood, the developing young bees."
+  },
+  {
+   "episode": "Do Bears Eat Honey?",
+   "date": "2026-08-31",
+   "orig": "And why does a black bear eat different foods at different times of the year?",
+   "prompt": "Why does a black bear eat different foods at different times of the year?",
+   "answer": "Foods change with seasons",
+   "choices": [
+    "It gets bored",
+    "Its teeth change"
+   ]
+  },
+  {
+   "episode": "Do Bears Eat Honey?",
+   "date": "2026-08-31",
+   "orig": "And what is the main food that a polar bear eats?",
+   "prompt": "What is the main food that a polar bear eats?",
+   "answer": "Seals",
+   "choices": [
+    "Berries",
+    "Honey"
+   ]
+  },
+  {
+   "episode": "What Is an Aircraft Carrier?",
+   "date": "2026-09-02",
+   "orig": "What is the large flat area on top of an aircraft carrier called?",
+   "prompt": "What is the large flat area on top of an aircraft carrier called?",
+   "answer": "The flight deck",
+   "choices": [
+    "The hangar bay",
+    "The crow's nest"
+   ]
+  },
+  {
+   "episode": "What Is an Aircraft Carrier?",
+   "date": "2026-09-02",
+   "orig": "And how are airplanes moved between the flight deck and the hangar bay?",
+   "prompt": "How are airplanes moved between the flight deck and the hangar bay?",
+   "answer": "Aircraft elevators",
+   "choices": [
+    "Giant ramps",
+    "Big cranes"
+   ]
+  },
+  {
+   "episode": "Fahrenheit vs Celsius: What's the Difference?",
+   "date": "2026-09-03",
+   "orig": "At what temperature does water freeze on the Celsius scale?",
+   "prompt": "At what temperature does water freeze on the Celsius scale?",
+   "answer": "0 degrees",
+   "choices": [
+    "32 degrees",
+    "100 degrees"
+   ]
+  },
+  {
+   "episode": "Fahrenheit vs Celsius: What's the Difference?",
+   "date": "2026-09-03",
+   "orig": "And at what temperature does water freeze on the Fahrenheit scale?",
+   "prompt": "At what temperature does water freeze on the Fahrenheit scale?",
+   "answer": "32 degrees",
+   "choices": [
+    "0 degrees",
+    "100 degrees"
+   ]
+  },
+  {
+   "episode": "Fahrenheit vs Celsius: What's the Difference?",
+   "date": "2026-09-03",
+   "orig": "And about what temperature does water boil on the Celsius scale under standard air pressure?",
+   "prompt": "At about what temperature does water boil on the Celsius scale?",
+   "answer": "100 degrees",
+   "choices": [
+    "0 degrees",
+    "50 degrees"
+   ]
+  },
+  {
+   "episode": "Why Does the Sun Keep Burning?",
+   "date": "2026-09-04",
+   "orig": "What is the process that makes energy inside the sun?",
+   "prompt": "What is the process that makes energy inside the sun?",
+   "answer": "Nuclear fusion",
+   "choices": [
+    "Photosynthesis",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "Why Does the Sun Keep Burning?",
+   "date": "2026-09-04",
+   "orig": "And what is the center of the sun called?",
+   "prompt": "What is the center of the sun called?",
+   "answer": "The core",
+   "choices": [
+    "The crust",
+    "The surface"
+   ]
+  },
+  {
+   "episode": "Why Does the Sun Keep Burning?",
+   "date": "2026-09-04",
+   "orig": "And about how hot is the sun's core?",
+   "prompt": "About how hot is the sun's core?",
+   "answer": "27 million degrees Fahrenheit",
+   "choices": [
+    "27 degrees Fahrenheit",
+    "2,700 degrees Fahrenheit"
+   ]
+  },
+  {
+   "episode": "How Is Curious Kids Every Day Made?",
+   "date": "2026-09-05",
+   "orig": "What's the first thing every episode of Curious Kids Every Day starts with?",
+   "prompt": "What's the first thing every episode of Curious Kids Every Day starts with?",
+   "answer": "A question",
+   "choices": [
+    "A song",
+    "A joke"
+   ]
+  },
+  {
+   "episode": "How Is Curious Kids Every Day Made?",
+   "date": "2026-09-05",
+   "orig": "And what is the name of the computer document that has all of my episode titles?",
+   "prompt": "What does Josh call the computer document that has all his episode titles?",
+   "answer": "The Master List",
+   "choices": [
+    "The Big Book",
+    "The Idea Box"
+   ]
+  },
+  {
+   "episode": "How Are Crayons Made?",
+   "date": "2026-09-06",
+   "orig": "What is the main ingredient used to make crayons?",
+   "prompt": "What is the main ingredient used to make crayons?",
+   "answer": "Paraffin wax",
+   "choices": [
+    "Ink",
+    "Chalk"
+   ]
+  },
+  {
+   "episode": "How Are Crayons Made?",
+   "date": "2026-09-06",
+   "orig": "What is added to give crayons their color?",
+   "prompt": "What is added to give crayons their color?",
+   "answer": "Pigments",
+   "choices": [
+    "Water",
+    "Glitter"
+   ]
+  },
+  {
+   "episode": "How Are Crayons Made?",
+   "date": "2026-09-06",
+   "orig": "What does the wrapper on a crayon help with?",
+   "prompt": "What does the wrapper on a crayon help with?",
+   "answer": "Keeps it from breaking",
+   "choices": [
+    "Makes colors brighter",
+    "Makes it smell nice"
+   ],
+   "explain": "It also keeps your hands clean."
+  },
+  {
+   "episode": "Why Don't Pets Get Sick When We Get Sick?",
+   "date": "2026-09-07",
+   "orig": "What do we call the group of hosts that a virus is able to infect?",
+   "prompt": "What do we call the group of hosts that a virus is able to infect?",
+   "answer": "Its host range",
+   "choices": [
+    "Its food chain",
+    "Its habitat"
+   ]
+  },
+  {
+   "episode": "Why Don't Pets Get Sick When We Get Sick?",
+   "date": "2026-09-07",
+   "orig": "And what is something on the outside of a cell that many viruses need to attach to?",
+   "prompt": "What is on the outside of a cell that many viruses need to attach to?",
+   "answer": "A receptor",
+   "choices": [
+    "A nucleus",
+    "A bone"
+   ]
+  },
+  {
+   "episode": "Why Don't Pets Get Sick When We Get Sick?",
+   "date": "2026-09-07",
+   "orig": "And what do we call diseases that can spread between people and other creatures?",
+   "prompt": "What do we call diseases that can spread between people and animals?",
+   "answer": "Zoonotic diseases",
+   "choices": [
+    "Allergies",
+    "Sunburns"
+   ]
+  },
+  {
+   "episode": "How Do Suction Cups Stick to Things?",
+   "date": "2026-09-08",
+   "orig": "What pushes against the outside of a suction cup and helps hold it against a surface?",
+   "prompt": "What pushes against the outside of a suction cup and holds it against a surface?",
+   "answer": "Air pressure",
+   "choices": [
+    "Glue",
+    "Magnets"
+   ]
+  },
+  {
+   "episode": "How Do Suction Cups Stick to Things?",
+   "date": "2026-09-08",
+   "orig": "What happens to much of the air underneath a suction cup when you press the cup down?",
+   "prompt": "What happens to the air underneath a suction cup when you press it down?",
+   "answer": "It gets pushed out",
+   "choices": [
+    "It gets hotter",
+    "It turns to water"
+   ]
+  },
+  {
+   "episode": "How Do Suction Cups Stick to Things?",
+   "date": "2026-09-08",
+   "orig": "And why do suction cups usually work better on smooth surfaces?",
+   "prompt": "Why do suction cups work better on smooth surfaces?",
+   "answer": "They make a good seal",
+   "choices": [
+    "Smooth surfaces are colder",
+    "Smooth surfaces are wet"
+   ],
+   "explain": "Air cannot easily get underneath the cup."
+  },
+  {
+   "episode": "How Do Suction Cups Stick to Things?",
+   "date": "2026-09-08",
+   "orig": "And why is peeling up the edge of a suction cup an easy way to remove it?",
+   "prompt": "Why is peeling up the edge an easy way to remove a suction cup?",
+   "answer": "It lets air underneath",
+   "choices": [
+    "It makes the cup melt",
+    "It makes the cup heavier"
+   ],
+   "explain": "Lifting the edge breaks the seal."
+  },
+  {
+   "episode": "How Do Woodpeckers Keep from Hurting Their Heads?",
+   "date": "2026-09-09",
+   "orig": "What is one important reason a woodpecker can withstand such rapid impacts? Remember, something in its body is very small.",
+   "prompt": "What is one important reason a woodpecker can handle such fast pecking?",
+   "answer": "Its small brain",
+   "choices": [
+    "Its soft feathers",
+    "Its big feet"
+   ]
+  },
+  {
+   "episode": "How Do Woodpeckers Keep from Hurting Their Heads?",
+   "date": "2026-09-09",
+   "orig": "And do you remember what a concussion is?",
+   "prompt": "What is a concussion?",
+   "answer": "A brain injury from a hit",
+   "choices": [
+    "A broken bone",
+    "A bad cold"
+   ]
+  },
+  {
+   "episode": "Why Do You Sink in Quicksand?",
+   "date": "2026-09-10",
+   "orig": "What is another name for sinking sand?",
+   "prompt": "What is another name for sinking sand?",
+   "answer": "Quicksand",
+   "choices": [
+    "Beach sand",
+    "Sandstone"
+   ]
+  },
+  {
+   "episode": "Why Do You Sink in Quicksand?",
+   "date": "2026-09-10",
+   "orig": "And what is it that makes it difficult to pull your leg out of quicksand?",
+   "prompt": "What makes it hard to pull your leg out of quicksand?",
+   "answer": "Sand packs tightly around it",
+   "choices": [
+    "The sand is very hot",
+    "The sand is sticky like glue"
+   ],
+   "explain": "The sand grains settle and pack tightly around your leg."
+  },
+  {
+   "episode": "Why Do Beavers Build Dams?",
+   "date": "2026-09-11",
+   "orig": "Why do beavers build dams across streams?",
+   "prompt": "Why do beavers build dams across streams?",
+   "answer": "To make deep ponds",
+   "choices": [
+    "To catch fish",
+    "To dry up the stream"
+   ],
+   "explain": "Deeper ponds are safer places to live."
+  },
+  {
+   "episode": "Why Do Beavers Build Dams?",
+   "date": "2026-09-11",
+   "orig": "What is the difference between a beaver dam and a beaver lodge?",
+   "prompt": "What's the difference between a beaver dam and a beaver lodge?",
+   "answer": "The lodge is their home",
+   "choices": [
+    "The dam is their home",
+    "The lodge holds back water"
+   ],
+   "explain": "The dam slows the water and creates a pond."
+  },
+  {
+   "episode": "Why Do Beavers Build Dams?",
+   "date": "2026-09-11",
+   "orig": "And what do beavers use to cut branches and small trees?",
+   "prompt": "What do beavers use to cut branches and small trees?",
+   "answer": "Their front teeth",
+   "choices": [
+    "Their claws",
+    "Their tails"
+   ],
+   "explain": "They're called incisors."
+  },
+  {
+   "episode": "How Do Bees Make Honey?",
+   "date": "2026-09-12",
+   "orig": "What do bees collect from flowers?",
+   "prompt": "What do bees collect from flowers to make honey?",
+   "answer": "Nectar",
+   "choices": [
+    "Seeds",
+    "Leaves"
+   ]
+  },
+  {
+   "episode": "How Do Bees Make Honey?",
+   "date": "2026-09-12",
+   "orig": "What do bees do with nectar when they get back to the hive?",
+   "prompt": "What do bees do with nectar when they get back to the hive?",
+   "answer": "Pass it to another bee",
+   "choices": [
+    "Bury it",
+    "Throw it away"
+   ],
+   "explain": "They throw it up and give it to another bee."
+  },
+  {
+   "episode": "How Do Bees Make Honey?",
+   "date": "2026-09-12",
+   "orig": "What's the name of the wax rooms where bees store honey?",
+   "prompt": "What's the name of the wax rooms where bees store honey?",
+   "answer": "Honeycombs",
+   "choices": [
+    "Bird nests",
+    "Burrows"
+   ]
+  },
+  {
+   "episode": "How Do Snails Get Their Shells?",
+   "date": "2026-09-16",
+   "orig": "What part of a snail's body releases the materials that build its shell?",
+   "prompt": "What part of a snail's body releases the materials that build its shell?",
+   "answer": "The mantle",
+   "choices": [
+    "The foot",
+    "The tentacles"
+   ]
+  },
+  {
+   "episode": "How Do Snails Get Their Shells?",
+   "date": "2026-09-16",
+   "orig": "And what important material makes up most of a land snail's shell?",
+   "prompt": "What material makes up most of a land snail's shell?",
+   "answer": "Calcium carbonate",
+   "choices": [
+    "Sugar",
+    "Wood"
+   ]
+  },
+  {
+   "episode": "How Do Snails Get Their Shells?",
+   "date": "2026-09-16",
+   "orig": "And where is most of the new shell added as the snail grows?",
+   "prompt": "Where is most of the new shell added as a snail grows?",
+   "answer": "Around the opening",
+   "choices": [
+    "At the tiny tip",
+    "In the middle"
+   ]
+  },
+  {
+   "episode": "How Do Snails Get Their Shells?",
+   "date": "2026-09-16",
+   "orig": "And does a snail begin making its shell before or after it hatches?",
+   "prompt": "When does a snail begin making its shell?",
+   "answer": "Before it hatches",
+   "choices": [
+    "After it hatches",
+    "When it's grown up"
+   ]
+  },
+  {
+   "episode": "Why Is the Ocean Salty?",
+   "date": "2026-09-17",
+   "orig": "What carries small amounts of dissolved minerals from the land toward the ocean?",
+   "prompt": "What carries dissolved minerals from the land toward the ocean?",
+   "answer": "Streams and rivers",
+   "choices": [
+    "Clouds",
+    "Fish"
+   ]
+  },
+  {
+   "episode": "Why Is the Ocean Salty?",
+   "date": "2026-09-17",
+   "orig": "And when ocean water evaporates, what happens to the dissolved salts?",
+   "prompt": "When ocean water evaporates, what happens to the dissolved salts?",
+   "answer": "They stay behind",
+   "choices": [
+    "They rise into clouds",
+    "They disappear"
+   ]
+  },
+  {
+   "episode": "Why Is the Ocean Salty?",
+   "date": "2026-09-17",
+   "orig": "And about what percentage of the weight of seawater comes from dissolved salts?",
+   "prompt": "About how much of the weight of seawater comes from dissolved salts?",
+   "answer": "About 3.5 percent",
+   "choices": [
+    "About 50 percent",
+    "About 90 percent"
+   ]
+  },
+  {
+   "episode": "Why Is the Ocean Salty?",
+   "date": "2026-09-17",
+   "orig": "And what are two of the most common dissolved substances in seawater?",
+   "prompt": "What are two of the most common dissolved substances in seawater?",
+   "answer": "Sodium and chloride",
+   "choices": [
+    "Sugar and iron",
+    "Gold and silver"
+   ]
+  },
+  {
+   "episode": "Why Is the Ocean Salty?",
+   "date": "2026-09-17",
+   "orig": "And sodium chloride is?",
+   "prompt": "What is sodium chloride?",
+   "answer": "Table salt",
+   "choices": [
+    "Sugar",
+    "Baking soda"
+   ]
+  },
+  {
+   "episode": "How Do Clouds Stay Up in the Sky?",
+   "date": "2026-09-18",
+   "orig": "What are clouds made of?",
+   "prompt": "What are clouds made of?",
+   "answer": "Water droplets and ice",
+   "choices": [
+    "Cotton and fluff",
+    "Smoke and dust"
+   ]
+  },
+  {
+   "episode": "How Do Clouds Stay Up in the Sky?",
+   "date": "2026-09-18",
+   "orig": "What force pulls cloud droplets toward the ground?",
+   "prompt": "What force pulls cloud droplets toward the ground?",
+   "answer": "Gravity",
+   "choices": [
+    "Magnetism",
+    "Friction"
+   ]
+  },
+  {
+   "episode": "How Do Clouds Stay Up in the Sky?",
+   "date": "2026-09-18",
+   "orig": "What do we call air that is moving upward?",
+   "prompt": "What do we call air that is moving upward?",
+   "answer": "An updraft",
+   "choices": [
+    "A downdraft",
+    "A breeze"
+   ]
+  },
+  {
+   "episode": "How Do Clouds Stay Up in the Sky?",
+   "date": "2026-09-18",
+   "orig": "And what do we call it when water drops or ice particles fall from a cloud?",
+   "prompt": "What do we call it when water drops or ice fall from a cloud?",
+   "answer": "Precipitation",
+   "choices": [
+    "Evaporation",
+    "Condensation"
+   ]
+  },
+  {
+   "episode": "Which Dinosaur Was the Biggest?",
+   "date": "2026-09-19",
+   "orig": "What is one of the biggest dinosaurs scientists have discovered?",
+   "prompt": "What is one of the biggest dinosaurs scientists have discovered?",
+   "answer": "Argentinosaurus",
+   "choices": [
+    "Tyrannosaurus rex",
+    "Velociraptor"
+   ]
+  },
+  {
+   "episode": "Which Dinosaur Was the Biggest?",
+   "date": "2026-09-19",
+   "orig": "And what kind of dinosaur is Argentinosaurus?",
+   "prompt": "What kind of dinosaur is Argentinosaurus?",
+   "answer": "A sauropod",
+   "choices": [
+    "A raptor",
+    "A pterosaur"
+   ],
+   "explain": "A giant plant eater with a long neck and a long tail."
+  },
+  {
+   "episode": "Which Dinosaur Was the Biggest?",
+   "date": "2026-09-19",
+   "orig": "What did Argentinosaurus eat?",
+   "prompt": "What did Argentinosaurus eat?",
+   "answer": "Plants",
+   "choices": [
+    "Meat",
+    "Fish"
+   ]
+  },
+  {
+   "episode": "Which Dinosaur Was the Biggest?",
+   "date": "2026-09-19",
+   "orig": "And why are scientists not completely sure which dinosaur was the biggest?",
+   "prompt": "Why aren't scientists sure which dinosaur was the biggest?",
+   "answer": "Only parts of skeletons are found",
+   "choices": [
+    "They never measured any",
+    "The bones keep growing"
+   ],
+   "explain": "They have to use fossils to estimate."
+  },
+  {
+   "episode": "What Is a Hurricane?",
+   "date": "2026-09-20",
+   "orig": "What temperature does ocean water usually need to be for hurricanes to form?",
+   "prompt": "How warm does ocean water usually need to be for hurricanes to form?",
+   "answer": "About 80 degrees Fahrenheit",
+   "choices": [
+    "About 32 degrees Fahrenheit",
+    "About 50 degrees Fahrenheit"
+   ]
+  },
+  {
+   "episode": "What Is a Hurricane?",
+   "date": "2026-09-20",
+   "orig": "And what is the calm center of a hurricane called?",
+   "prompt": "What is the calm center of a hurricane called?",
+   "answer": "The eye",
+   "choices": [
+    "The eye wall",
+    "The funnel"
+   ]
+  },
+  {
+   "episode": "What Is a Hurricane?",
+   "date": "2026-09-20",
+   "orig": "And where are the strongest winds found in a hurricane?",
+   "prompt": "Where are the strongest winds found in a hurricane?",
+   "answer": "The eye wall",
+   "choices": [
+    "The eye",
+    "The outer edges"
+   ]
+  },
+  {
+   "episode": "Why Do Cats and Dogs Have Whiskers?",
+   "date": "2026-09-27",
+   "orig": "What sends messages from the base of the whisker to the brain?",
+   "prompt": "What sends messages from the base of a whisker to the brain?",
+   "answer": "Nerves",
+   "choices": [
+    "Muscles",
+    "Bones"
+   ]
+  },
+  {
+   "episode": "Why Do Cats and Dogs Have Whiskers?",
+   "date": "2026-09-27",
+   "orig": "What is the scientific term for an animal's whisker?",
+   "prompt": "What is the scientific word for an animal's whisker?",
+   "answer": "Vibrissa",
+   "choices": [
+    "Antenna",
+    "Tendril"
+   ]
+  },
+  {
+   "episode": "Why Do Traffic Jams Happen?",
+   "date": "2026-09-28",
+   "orig": "What do engineers call the amount of traffic that a road can move through an area in a certain amount of time?",
+   "prompt": "What do engineers call the amount of traffic a road can move in a certain time?",
+   "answer": "Capacity",
+   "choices": [
+    "Speed limit",
+    "Distance"
+   ]
+  },
+  {
+   "episode": "Why Do Traffic Jams Happen?",
+   "date": "2026-09-28",
+   "orig": "And what happens when cars arrive at a bottleneck faster than cars can get through it?",
+   "prompt": "What happens when cars arrive at a bottleneck faster than they can get through?",
+   "answer": "A line of cars grows",
+   "choices": [
+    "Cars go faster",
+    "The road gets wider"
+   ],
+   "explain": "We call it a traffic jam."
+  },
+  {
+   "episode": "Why Do Traffic Jams Happen?",
+   "date": "2026-09-28",
+   "orig": "And why can the same road be clear at one time and crowded at another?",
+   "prompt": "Why can the same road be clear at one time and crowded at another?",
+   "answer": "How many cars there are",
+   "choices": [
+    "The color of the cars",
+    "How loud the cars are"
+   ]
+  },
+  {
+   "episode": "Why Do Traffic Jams Happen?",
+   "date": "2026-09-28",
+   "orig": "And what direction does a wave of traffic move through in a traffic jam? Backward or forward?",
+   "prompt": "Which way does a wave of traffic move through a traffic jam?",
+   "answer": "Backward",
+   "choices": [
+    "Forward",
+    "Sideways"
+   ],
+   "explain": "Even though the cars themselves are traveling forward."
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "What Would Happen If the Earth Crashed into the Sun?",
+   "q": "And would earth leave a crater in the sun?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Does the Sky Change Colors?",
+   "q": "What parts of the day does the sun hit our atmosphere at an angle?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Woodpeckers Keep from Hurting Their Heads?",
+   "q": "Do you remember what it is?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Is a Hurricane?",
+   "q": "About 80 degrees Fahrenheit or warmer?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Traffic Jams Happen?",
+   "q": "Backward or forward?",
+   "why": "fragment"
+  }
+ ]
+}

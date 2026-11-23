@@ -1,0 +1,802 @@
+{
+ "items": [
+  {
+   "episode": "How Do We Predict the Weather?",
+   "date": "2026-04-24",
+   "orig": "What tool helps meteorologists see where rain and storms are moving?",
+   "prompt": "What tool helps meteorologists see where rain and storms are moving?",
+   "answer": "Radar",
+   "choices": [
+    "A thermometer",
+    "A compass"
+   ]
+  },
+  {
+   "episode": "How Do We Predict the Weather?",
+   "date": "2026-04-24",
+   "orig": "What do we call a scientist who studies weather?",
+   "prompt": "What do we call a scientist who studies weather?",
+   "answer": "A meteorologist",
+   "choices": [
+    "A geologist",
+    "A dentist"
+   ]
+  },
+  {
+   "episode": "How Is a Slinky Made?",
+   "date": "2026-04-25",
+   "orig": "What material was the original slinky made from?",
+   "prompt": "What material was the original slinky made from?",
+   "answer": "Steel wire",
+   "choices": [
+    "Plastic",
+    "Rubber"
+   ]
+  },
+  {
+   "episode": "How Is a Slinky Made?",
+   "date": "2026-04-25",
+   "orig": "And what are the loops in a spring called?",
+   "prompt": "What are the loops in a spring called?",
+   "answer": "Coils",
+   "choices": [
+    "Knots",
+    "Bows"
+   ]
+  },
+  {
+   "episode": "How Is a Slinky Made?",
+   "date": "2026-04-25",
+   "orig": "And what force helps pull a slinky down the stairs?",
+   "prompt": "What force helps pull a slinky down the stairs?",
+   "answer": "Gravity",
+   "choices": [
+    "Magnetism",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "Why Are Old Movies in Black & White?",
+   "date": "2026-04-26",
+   "orig": "Did early movie cameras record light and dark or lots of colors?",
+   "prompt": "What did early movie cameras record?",
+   "answer": "Light and dark",
+   "choices": [
+    "Lots of colors",
+    "Only red and blue"
+   ]
+  },
+  {
+   "episode": "Why Are Old Movies in Black & White?",
+   "date": "2026-04-26",
+   "orig": "And what famous color film process helped make color movies more common?",
+   "prompt": "What famous color film process helped make color movies more common?",
+   "answer": "Technicolor",
+   "choices": [
+    "Rainbow Vision",
+    "Color Pop"
+   ]
+  },
+  {
+   "episode": "Why Are Old Movies in Black & White?",
+   "date": "2026-04-26",
+   "orig": "Why didn't every movie switch to color right away?",
+   "prompt": "Why didn't every movie switch to color right away?",
+   "answer": "Color cost a lot more",
+   "choices": [
+    "People didn't like color",
+    "Color made cameras slow"
+   ],
+   "explain": "Color was way more expensive and way more complicated."
+  },
+  {
+   "episode": "What Is a Prime Number?",
+   "date": "2026-04-27",
+   "orig": "What is the only even prime number?",
+   "prompt": "What is the only even prime number?",
+   "answer": "2",
+   "choices": [
+    "4",
+    "10"
+   ]
+  },
+  {
+   "episode": "What Is a Prime Number?",
+   "date": "2026-04-27",
+   "orig": "And what do we call a number that can be divided evenly in more ways than just one and itself?",
+   "prompt": "What do we call a number that can be divided evenly in more ways than just one and itself?",
+   "answer": "A composite number",
+   "choices": [
+    "A prime number",
+    "An odd number"
+   ]
+  },
+  {
+   "episode": "Do Worms Have Hearts or Brains?",
+   "date": "2026-04-29",
+   "orig": "How many hearts does a worm have?",
+   "prompt": "How many hearts does a worm have?",
+   "answer": "10",
+   "choices": [
+    "1",
+    "2"
+   ],
+   "explain": "It's got five pairs."
+  },
+  {
+   "episode": "Do Worms Have Hearts or Brains?",
+   "date": "2026-04-29",
+   "orig": "And how do worms breathe?",
+   "prompt": "How do worms breathe?",
+   "answer": "Through their skin",
+   "choices": [
+    "Through lungs",
+    "Through gills"
+   ]
+  },
+  {
+   "episode": "Do Worms Have Hearts or Brains?",
+   "date": "2026-04-29",
+   "orig": "And what helps worms grip the ground when moving?",
+   "prompt": "What helps worms grip the ground when moving?",
+   "answer": "Tiny bristles",
+   "choices": [
+    "Tiny feet",
+    "Sticky slime cups"
+   ],
+   "explain": "The bristles are called setae."
+  },
+  {
+   "episode": "Why Do Roads Crack?",
+   "date": "2026-05-01",
+   "orig": "What happens to many materials when they get hotter?",
+   "prompt": "What happens to many materials when they get hotter?",
+   "answer": "They expand",
+   "choices": [
+    "They shrink",
+    "They turn to water"
+   ]
+  },
+  {
+   "episode": "Why Do Roads Crack?",
+   "date": "2026-05-01",
+   "orig": "And what happens to water when it freezes inside a small opening?",
+   "prompt": "What happens to water when it freezes inside a small crack?",
+   "answer": "It takes up more space",
+   "choices": [
+    "It takes up less space",
+    "It disappears"
+   ],
+   "explain": "It turns into ice, which can make the opening bigger."
+  },
+  {
+   "episode": "Why Do Roads Crack?",
+   "date": "2026-05-01",
+   "orig": "What kind of vehicle puts extra pressure on pavement?",
+   "prompt": "What kind of vehicle puts extra pressure on pavement?",
+   "answer": "Big, heavy trucks",
+   "choices": [
+    "Bicycles",
+    "Scooters"
+   ]
+  },
+  {
+   "episode": "How Is Paint Made?",
+   "date": "2026-05-02",
+   "orig": "What part of paint gives it color?",
+   "prompt": "What part of paint gives it color?",
+   "answer": "Pigment",
+   "choices": [
+    "Binder",
+    "Water"
+   ]
+  },
+  {
+   "episode": "How Is Paint Made?",
+   "date": "2026-05-02",
+   "orig": "And what part helps the color stick after the paint dries?",
+   "prompt": "What part of paint helps the color stick after it dries?",
+   "answer": "Binder",
+   "choices": [
+    "Pigment",
+    "Glitter"
+   ]
+  },
+  {
+   "episode": "How Is Paint Made?",
+   "date": "2026-05-02",
+   "orig": "And what happens to the liquid in the paint as it dries?",
+   "prompt": "What happens to the liquid in paint as it dries?",
+   "answer": "It evaporates",
+   "choices": [
+    "It turns to ice",
+    "It changes color"
+   ],
+   "explain": "It evaporates into the air."
+  },
+  {
+   "episode": "What's the Difference Between a Mouse and a Rat?",
+   "date": "2026-05-03",
+   "orig": "What are the front teeth of rodents called?",
+   "prompt": "What are the front teeth of rodents called?",
+   "answer": "Incisors",
+   "choices": [
+    "Molars",
+    "Fangs"
+   ]
+  },
+  {
+   "episode": "What's the Difference Between a Mouse and a Rat?",
+   "date": "2026-05-03",
+   "orig": "And what helps rodents keep their teeth from getting too long?",
+   "prompt": "What keeps rodents' teeth from getting too long?",
+   "answer": "All their chewing",
+   "choices": [
+    "Brushing them",
+    "Drinking water"
+   ]
+  },
+  {
+   "episode": "How Are M&M's Made?",
+   "date": "2026-05-04",
+   "orig": "What is usually in the center of a regular M&M?",
+   "prompt": "What is usually in the center of a regular M&M?",
+   "answer": "Chocolate",
+   "choices": [
+    "Peanut butter",
+    "Caramel"
+   ]
+  },
+  {
+   "episode": "How Are M&M's Made?",
+   "date": "2026-05-04",
+   "orig": "What is in the middle of a peanut M&M?",
+   "prompt": "What is in the middle of a peanut M&M?",
+   "answer": "A peanut",
+   "choices": [
+    "A pretzel",
+    "A raisin"
+   ],
+   "explain": "This is not a trick question."
+  },
+  {
+   "episode": "How Are M&M's Made?",
+   "date": "2026-05-04",
+   "orig": "And is the candy shell usually built in one big layer or many thin layers?",
+   "prompt": "How is the candy shell on an M&M built?",
+   "answer": "Many thin layers",
+   "choices": [
+    "One big layer",
+    "Painted on with a brush"
+   ]
+  },
+  {
+   "episode": "How Long Can a Fish Survive Out of Water?",
+   "date": "2026-05-05",
+   "orig": "What body part do fish use to breathe underwater?",
+   "prompt": "What body part do fish use to breathe underwater?",
+   "answer": "Gills",
+   "choices": [
+    "Lungs",
+    "Fins"
+   ]
+  },
+  {
+   "episode": "How Long Can a Fish Survive Out of Water?",
+   "date": "2026-05-05",
+   "orig": "And what do fish pull out of the water so their bodies can use it?",
+   "prompt": "What do fish pull out of the water so their bodies can use it?",
+   "answer": "Oxygen",
+   "choices": [
+    "Salt",
+    "Sand"
+   ]
+  },
+  {
+   "episode": "Why Do Cows Moo?",
+   "date": "2026-05-06",
+   "orig": "Why do cows moo?",
+   "prompt": "Why do cows moo?",
+   "answer": "To communicate",
+   "choices": [
+    "To scare birds",
+    "To help them eat"
+   ]
+  },
+  {
+   "episode": "Why Do Cows Moo?",
+   "date": "2026-05-06",
+   "orig": "And what is a calf?",
+   "prompt": "What is a calf?",
+   "answer": "A baby cow",
+   "choices": [
+    "A baby horse",
+    "A baby sheep"
+   ]
+  },
+  {
+   "episode": "How Does Your Tongue Stay Wet?",
+   "date": "2026-05-07",
+   "orig": "What liquid helps keep your tongue wet?",
+   "prompt": "What liquid helps keep your tongue wet?",
+   "answer": "Saliva",
+   "choices": [
+    "Sweat",
+    "Tears"
+   ]
+  },
+  {
+   "episode": "How Does Your Tongue Stay Wet?",
+   "date": "2026-05-07",
+   "orig": "And what body part makes most of the saliva in your mouth?",
+   "prompt": "What body part makes most of the saliva in your mouth?",
+   "answer": "Salivary glands",
+   "choices": [
+    "Your tongue",
+    "Your teeth"
+   ]
+  },
+  {
+   "episode": "How Does Your Tongue Stay Wet?",
+   "date": "2026-05-07",
+   "orig": "And why does saliva help you swallow food?",
+   "prompt": "Why does saliva help you swallow food?",
+   "answer": "It makes food soft and slippery",
+   "choices": [
+    "It makes food cold",
+    "It makes food crunchy"
+   ]
+  },
+  {
+   "episode": "Why Do Some Chicken Eggs Hatch and Some Don't?",
+   "date": "2026-05-08",
+   "orig": "What is the tiny starting point of a chick inside a fertilized egg called?",
+   "prompt": "What is the tiny starting point of a chick inside a fertilized egg called?",
+   "answer": "An embryo",
+   "choices": [
+    "A yolk",
+    "A feather"
+   ]
+  },
+  {
+   "episode": "How Do Credit Cards Work?",
+   "date": "2026-05-09",
+   "orig": "What is the bill called that shows what was bought with the card?",
+   "prompt": "What is the bill called that shows what was bought with a credit card?",
+   "answer": "A statement",
+   "choices": [
+    "A coupon",
+    "A ticket"
+   ]
+  },
+  {
+   "episode": "Where Did the Statue of Liberty Come From?",
+   "date": "2026-05-10",
+   "orig": "What country gave the Statue of Liberty to the United States?",
+   "prompt": "What country gave the Statue of Liberty to the United States?",
+   "answer": "France",
+   "choices": [
+    "England",
+    "Japan"
+   ]
+  },
+  {
+   "episode": "Where Did the Statue of Liberty Come From?",
+   "date": "2026-05-10",
+   "orig": "And what metal is on the outside of the statue?",
+   "prompt": "What metal is on the outside of the Statue of Liberty?",
+   "answer": "Copper",
+   "choices": [
+    "Gold",
+    "Iron"
+   ]
+  },
+  {
+   "episode": "Where Did the Statue of Liberty Come From?",
+   "date": "2026-05-10",
+   "orig": "And what color was the outside before it slowly turned green?",
+   "prompt": "What color was the Statue of Liberty before it slowly turned green?",
+   "answer": "Reddish-brown",
+   "choices": [
+    "Silver",
+    "White"
+   ]
+  },
+  {
+   "episode": "Where Did the Statue of Liberty Come From?",
+   "date": "2026-05-10",
+   "orig": "And what date is written on the tablet that Lady Liberty is holding?",
+   "prompt": "What date is written on the tablet the Statue of Liberty is holding?",
+   "answer": "July 4th, 1776",
+   "choices": [
+    "December 25th, 1900",
+    "January 1st, 2000"
+   ],
+   "explain": "The date of the Declaration of Independence."
+  },
+  {
+   "episode": "How Do Bar Codes Work?",
+   "date": "2026-05-11",
+   "orig": "What does a grocery store barcode store?",
+   "prompt": "What does a grocery store barcode store?",
+   "answer": "A number",
+   "choices": [
+    "The price",
+    "A picture"
+   ]
+  },
+  {
+   "episode": "How Do Bar Codes Work?",
+   "date": "2026-05-11",
+   "orig": "And why are the numbers printed underneath many barcodes?",
+   "prompt": "Why are numbers printed underneath many barcodes?",
+   "answer": "So people can type them in",
+   "choices": [
+    "To make it look nice",
+    "To show the price"
+   ],
+   "explain": "In case the scanner can't read the bars."
+  },
+  {
+   "episode": "Why Do Bats Sleep Upside Down?",
+   "date": "2026-05-13",
+   "orig": "What part of the body helps a bat hook onto cave ceilings or branches?",
+   "prompt": "What part of the body helps a bat hook onto cave ceilings or branches?",
+   "answer": "Its claws",
+   "choices": [
+    "Its ears",
+    "Its teeth"
+   ]
+  },
+  {
+   "episode": "Why Do Bats Sleep Upside Down?",
+   "date": "2026-05-13",
+   "orig": "And what is a resting place for an animal called?",
+   "prompt": "What is a resting place for an animal like a bat called?",
+   "answer": "A roost",
+   "choices": [
+    "A burrow",
+    "A hive"
+   ]
+  },
+  {
+   "episode": "Why Do Bats Sleep Upside Down?",
+   "date": "2026-05-13",
+   "orig": "And are most bats active during the day or at night?",
+   "prompt": "When are most bats active?",
+   "answer": "At night",
+   "choices": [
+    "During the day",
+    "In the morning"
+   ],
+   "explain": "That means they're nocturnal."
+  },
+  {
+   "episode": "Why Do Your Knuckles Crack and Pop?",
+   "date": "2026-05-14",
+   "orig": "What do we call the place where two bones meet so your body can bend?",
+   "prompt": "What do we call the place where two bones meet so your body can bend?",
+   "answer": "A joint",
+   "choices": [
+    "A muscle",
+    "A vein"
+   ]
+  },
+  {
+   "episode": "Why Do Your Knuckles Crack and Pop?",
+   "date": "2026-05-14",
+   "orig": "And what is the slippery fluid inside many joints called?",
+   "prompt": "What is the slippery fluid inside many joints called?",
+   "answer": "Synovial fluid",
+   "choices": [
+    "Saliva",
+    "Sweat"
+   ]
+  },
+  {
+   "episode": "Why Do Your Knuckles Crack and Pop?",
+   "date": "2026-05-14",
+   "orig": "And what happens inside the joint fluid that helps make the cracking sound?",
+   "prompt": "What happens inside joint fluid that makes the cracking sound?",
+   "answer": "Tiny gas bubbles form",
+   "choices": [
+    "Bones break",
+    "Muscles snap"
+   ]
+  },
+  {
+   "episode": "How Are Goldfish Crackers Made?",
+   "date": "2026-05-15",
+   "orig": "What ingredient helps turn the mixture into dough?",
+   "prompt": "What ingredient helps turn the goldfish cracker mixture into dough?",
+   "answer": "Flour",
+   "choices": [
+    "Sugar",
+    "Salt"
+   ]
+  },
+  {
+   "episode": "How Are Goldfish Crackers Made?",
+   "date": "2026-05-15",
+   "orig": "And what machine heats the shaped dough until it becomes crunchy?",
+   "prompt": "What machine heats the shaped dough until it becomes crunchy?",
+   "answer": "An oven",
+   "choices": [
+    "A freezer",
+    "A blender"
+   ]
+  },
+  {
+   "episode": "How Are Goldfish Crackers Made?",
+   "date": "2026-05-15",
+   "orig": "And why do the crackers need to cool before being packaged?",
+   "prompt": "Why do the crackers need to cool before being packaged?",
+   "answer": "So they stay crisp",
+   "choices": [
+    "So they change color",
+    "So they get bigger"
+   ],
+   "explain": "Trapped heat and steam would make them less crisp."
+  },
+  {
+   "episode": "Why are French Fries Called \"French Fries?\"",
+   "date": "2026-05-16",
+   "orig": "What vegetable are French fries made from?",
+   "prompt": "What vegetable are French fries made from?",
+   "answer": "Potatoes",
+   "choices": [
+    "Carrots",
+    "Onions"
+   ]
+  },
+  {
+   "episode": "Why are French Fries Called \"French Fries?\"",
+   "date": "2026-05-16",
+   "orig": "And what does the word frites mean?",
+   "prompt": "What does the French word frites mean?",
+   "answer": "Fried potatoes",
+   "choices": [
+    "Hot sauce",
+    "Little sticks"
+   ]
+  },
+  {
+   "episode": "Why are French Fries Called \"French Fries?\"",
+   "date": "2026-05-16",
+   "orig": "And what was the longer, older name before French fries became common?",
+   "prompt": "What was the longer, older name for French fries?",
+   "answer": "French fried potatoes",
+   "choices": [
+    "Crispy potato sticks",
+    "Golden potato strips"
+   ]
+  },
+  {
+   "episode": "How Do Astronauts Get Ready to Go to Outer Space?",
+   "date": "2026-05-17",
+   "orig": "About how long do NASA astronaut candidates usually train before they're eligible for a space mission?",
+   "prompt": "About how long do astronaut candidates train before they can go on a space mission?",
+   "answer": "About two years",
+   "choices": [
+    "About two days",
+    "About two weeks"
+   ]
+  },
+  {
+   "episode": "How Do Astronauts Get Ready to Go to Outer Space?",
+   "date": "2026-05-17",
+   "orig": "And what is the name of the huge pool NASA uses to help train for spacewalks?",
+   "prompt": "What is the name of the huge pool NASA uses to train for spacewalks?",
+   "answer": "Neutral Buoyancy Laboratory",
+   "choices": [
+    "Space Splash Center",
+    "Moon Swim Lab"
+   ]
+  },
+  {
+   "episode": "What Are Bruises?",
+   "date": "2026-05-18",
+   "orig": "What are the tiny blood vessels under your skin called?",
+   "prompt": "What are the tiny blood vessels under your skin called?",
+   "answer": "Capillaries",
+   "choices": [
+    "Ligaments",
+    "Neurons"
+   ]
+  },
+  {
+   "episode": "What Are Bruises?",
+   "date": "2026-05-18",
+   "orig": "And what leaks out under the skin when those tiny blood vessels break?",
+   "prompt": "What leaks out under the skin when tiny blood vessels break?",
+   "answer": "Blood",
+   "choices": [
+    "Air",
+    "Sweat"
+   ]
+  },
+  {
+   "episode": "What Are Bruises?",
+   "date": "2026-05-18",
+   "orig": "And why can a sore spot change colors as it heals?",
+   "prompt": "Why can a bruise change colors as it heals?",
+   "answer": "The body cleans up the blood",
+   "choices": [
+    "The skin gets dirty",
+    "The bone grows back"
+   ],
+   "explain": "The body is breaking down and cleaning up the trapped blood."
+  },
+  {
+   "episode": "What Is the Strongest Material in the World?",
+   "date": "2026-05-19",
+   "orig": "What does tensile strength measure?",
+   "prompt": "What does tensile strength measure?",
+   "answer": "How much pulling it can take",
+   "choices": [
+    "How shiny it is",
+    "How heavy it is"
+   ],
+   "explain": "How much pulling a material can handle before it breaks."
+  },
+  {
+   "episode": "What Is the Strongest Material in the World?",
+   "date": "2026-05-19",
+   "orig": "And what material is famous for being very hard and resisting scratches?",
+   "prompt": "What material is famous for being very hard and resisting scratches?",
+   "answer": "Diamond",
+   "choices": [
+    "Chalk",
+    "Gold"
+   ]
+  },
+  {
+   "episode": "How Did People See Before Glasses Were Invented?",
+   "date": "2026-05-20",
+   "orig": "What is the name of the part at the back of the eye that light needs to focus on?",
+   "prompt": "What is the name of the part at the back of the eye that light needs to focus on?",
+   "answer": "The retina",
+   "choices": [
+    "The eyelid",
+    "The eyebrow"
+   ]
+  },
+  {
+   "episode": "How Did People See Before Glasses Were Invented?",
+   "date": "2026-05-20",
+   "orig": "And what kind of early tool could be placed on top of writing to make letters look bigger?",
+   "prompt": "What early tool could be placed on top of writing to make letters look bigger?",
+   "answer": "A reading stone",
+   "choices": [
+    "A reading spoon",
+    "A reading feather"
+   ]
+  },
+  {
+   "episode": "How Did People See Before Glasses Were Invented?",
+   "date": "2026-05-20",
+   "orig": "And what word means nearby things are clear, but far away things look blurry?",
+   "prompt": "What word means nearby things are clear, but far away things look blurry?",
+   "answer": "Nearsighted",
+   "choices": [
+    "Farsighted",
+    "Colorblind"
+   ]
+  },
+  {
+   "episode": "How Do People Talk Using Sign Language?",
+   "date": "2026-05-21",
+   "orig": "What does ASL stand for?",
+   "prompt": "What does ASL stand for?",
+   "answer": "American Sign Language",
+   "choices": [
+    "All Sounds Loud",
+    "Animal Sound Language"
+   ]
+  },
+  {
+   "episode": "How Do People Talk Using Sign Language?",
+   "date": "2026-05-21",
+   "orig": "And besides hands, what is another part of the body that helps show meaning in ASL?",
+   "prompt": "Besides hands, what other part of the body helps show meaning in sign language?",
+   "answer": "Your face",
+   "choices": [
+    "Your knees",
+    "Your toes"
+   ],
+   "explain": "Your mouth and your eyebrows and your eye movement."
+  },
+  {
+   "episode": "How Do People Talk Using Sign Language?",
+   "date": "2026-05-21",
+   "orig": "What country sign language helped influence ASL?",
+   "prompt": "What country's sign language helped influence ASL?",
+   "answer": "France",
+   "choices": [
+    "China",
+    "Brazil"
+   ]
+  },
+  {
+   "episode": "How Do Trampolines Work?",
+   "date": "2026-05-22",
+   "orig": "What part of the trampoline stretches when you land?",
+   "prompt": "What part of the trampoline stretches when you land?",
+   "answer": "The springs",
+   "choices": [
+    "The legs",
+    "The net"
+   ]
+  },
+  {
+   "episode": "How Do Trampolines Work?",
+   "date": "2026-05-22",
+   "orig": "And what kind of energy is stored when something stretchy is pulled or bent?",
+   "prompt": "What kind of energy is stored when something stretchy is pulled or bent?",
+   "answer": "Elastic potential energy",
+   "choices": [
+    "Solar energy",
+    "Heat energy"
+   ]
+  },
+  {
+   "episode": "What Are Eyebrows For?",
+   "date": "2026-05-23",
+   "orig": "What liquid from your forehead can eyebrows help move away from your eyes?",
+   "prompt": "What liquid from your forehead can eyebrows help move away from your eyes?",
+   "answer": "Sweat",
+   "choices": [
+    "Tears",
+    "Milk"
+   ]
+  },
+  {
+   "episode": "How Do You Tell a Good Story?",
+   "date": "2026-05-24",
+   "orig": "Which act of a story introduces us to the main character?",
+   "prompt": "Which act of a story introduces us to the main character?",
+   "answer": "Act one",
+   "choices": [
+    "Act two",
+    "Act three"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "How Do We Predict the Weather?",
+   "q": "And are weather forecasts usually more accurate one day ahead or ten days ahead?",
+   "why": "other-category"
+  },
+  {
+   "episode": "What's the Difference Between a Mouse and a Rat?",
+   "q": "And which one usually has bigger ears compared to its head, a mouse or a rat?",
+   "why": "other-category"
+  },
+  {
+   "episode": "What's the Difference Between a Mouse and a Rat?",
+   "q": "Which one has the bigger ears compared to its head?",
+   "why": "other-category"
+  },
+  {
+   "episode": "What's the Difference Between a Mouse and a Rat?",
+   "q": "And which one usually has a thicker, stronger tail?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Do Some Chicken Eggs Hatch and Some Don't?",
+   "q": "Can a hen lay an egg without a rooster?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "How Do People Talk Using Sign Language?",
+   "q": "We've talked about France a lot lately on Curious Kids Every Day, haven't we?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do You Tell a Good Story?",
+   "q": "And what was the special name I gave to act two of the story?",
+   "why": "audio-context"
+  }
+ ]
+}

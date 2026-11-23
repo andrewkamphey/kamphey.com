@@ -1,0 +1,859 @@
+{
+ "items": [
+  {
+   "episode": "What Is the Strongest Insect in the World?",
+   "date": "2026-09-30",
+   "orig": "What does relative strength compare?",
+   "prompt": "What does relative strength compare?",
+   "answer": "Strength compared to body weight",
+   "choices": [
+    "Strength compared to height",
+    "Speed compared to size"
+   ]
+  },
+  {
+   "episode": "What Is the Strongest Insect in the World?",
+   "date": "2026-09-30",
+   "orig": "And some ants can carry about how many times their own body weight. Do you remember?",
+   "prompt": "Some ants can carry about how many times their own body weight?",
+   "answer": "About 20 times",
+   "choices": [
+    "About 2 times",
+    "About 200 times"
+   ]
+  },
+  {
+   "episode": "What Is the Strongest Insect in the World?",
+   "date": "2026-09-30",
+   "orig": "And how many times its own body weight did the strongest horned dung beetle pull?",
+   "prompt": "How many times its own body weight did the strongest horned dung beetle pull?",
+   "answer": "1,141 times",
+   "choices": [
+    "11 times",
+    "100 times"
+   ]
+  },
+  {
+   "episode": "What Is the Strongest Insect in the World?",
+   "date": "2026-09-30",
+   "orig": "And what do large male onthophagus torus beetles sometimes use their strength to do inside their underground tunnels?",
+   "prompt": "What do big male horned dung beetles use their strength for inside their tunnels?",
+   "answer": "Push rivals out",
+   "choices": [
+    "Lift leaves",
+    "Dig for water"
+   ],
+   "explain": "They push rival males out of the tunnel."
+  },
+  {
+   "episode": "Why Are Flowers Different Colors?",
+   "date": "2026-10-01",
+   "orig": "What are the substances inside petals that help give many flowers their colors?",
+   "prompt": "What are the substances inside petals that give many flowers their colors?",
+   "answer": "Pigments",
+   "choices": [
+    "Pollen",
+    "Seeds"
+   ]
+  },
+  {
+   "episode": "Why Are Flowers Different Colors?",
+   "date": "2026-10-01",
+   "orig": "And what group of pigments can make flowers yellow or orange?",
+   "prompt": "What group of pigments can make flowers yellow or orange?",
+   "answer": "Carotenoids",
+   "choices": [
+    "Chlorophyll",
+    "Melanin"
+   ],
+   "explain": "Orange like carrots."
+  },
+  {
+   "episode": "Why Are Flowers Different Colors?",
+   "date": "2026-10-01",
+   "orig": "And what instructions inside a plant help control which pigments it makes?",
+   "prompt": "What instructions inside a plant help control which pigments it makes?",
+   "answer": "Genes",
+   "choices": [
+    "Roots",
+    "Seeds"
+   ]
+  },
+  {
+   "episode": "Why Are Flowers Different Colors?",
+   "date": "2026-10-01",
+   "orig": "And what kind of light can bees see that humans cannot?",
+   "prompt": "What kind of light can bees see that humans cannot?",
+   "answer": "Ultraviolet light",
+   "choices": [
+    "Infrared light",
+    "X-ray light"
+   ]
+  },
+  {
+   "episode": "Can You Fly through the Sun? (Captain Curious)",
+   "date": "2026-10-02",
+   "orig": "It says, what is the layer of the sun that we can see?",
+   "prompt": "What is the layer of the sun that we can see?",
+   "answer": "The photosphere",
+   "choices": [
+    "The core",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "Why Do We Sneeze?",
+   "date": "2026-10-03",
+   "orig": "What part of your body senses when there's something irritating in the air?",
+   "prompt": "What part of your body senses when there's something irritating in the air?",
+   "answer": "Your nose",
+   "choices": [
+    "Your ears",
+    "Your tummy"
+   ]
+  },
+  {
+   "episode": "Why Do We Sneeze?",
+   "date": "2026-10-03",
+   "orig": "And do you remember what the tiny hairs are called?",
+   "prompt": "What are the tiny hairs in your nose called?",
+   "answer": "Cilia",
+   "choices": [
+    "Eyelashes",
+    "Freckles"
+   ]
+  },
+  {
+   "episode": "Why Do We Sneeze?",
+   "date": "2026-10-03",
+   "orig": "How fast can a sneeze travel?",
+   "prompt": "How fast can a sneeze travel?",
+   "answer": "Over 100 miles per hour",
+   "choices": [
+    "About 1 mile per hour",
+    "About 10 miles per hour"
+   ]
+  },
+  {
+   "episode": "Why Do We Sneeze?",
+   "date": "2026-10-03",
+   "orig": "And do you remember what it's called when sunlight makes someone sneeze?",
+   "prompt": "What is it called when sunlight makes someone sneeze?",
+   "answer": "The photic sneeze reflex",
+   "choices": [
+    "The sunburn reflex",
+    "The bright light cough"
+   ]
+  },
+  {
+   "episode": "Why Do Your Muscles Get Sore?",
+   "date": "2026-10-04",
+   "orig": "What are muscles made of?",
+   "prompt": "What are muscles made of?",
+   "answer": "Thousands of tiny fibers",
+   "choices": [
+    "Thousands of tiny bones",
+    "Thousands of tiny bubbles"
+   ]
+  },
+  {
+   "episode": "Why Is a Cactus So Sharp?",
+   "date": "2026-10-10",
+   "orig": "What are cactus needles really called?",
+   "prompt": "What are cactus needles really called?",
+   "answer": "Spines",
+   "choices": [
+    "Petals",
+    "Whiskers"
+   ]
+  },
+  {
+   "episode": "Why Is a Cactus So Sharp?",
+   "date": "2026-10-10",
+   "orig": "And what do spines help save?",
+   "prompt": "What do cactus spines help save?",
+   "answer": "Water",
+   "choices": [
+    "Seeds",
+    "Sunlight"
+   ]
+  },
+  {
+   "episode": "Why Is a Cactus So Sharp?",
+   "date": "2026-10-10",
+   "orig": "And where do cacti usually live?",
+   "prompt": "Where do cacti usually live?",
+   "answer": "Deserts",
+   "choices": [
+    "Rainforests",
+    "Swamps"
+   ]
+  },
+  {
+   "episode": "How Do Airplanes Fly?",
+   "date": "2026-10-11",
+   "orig": "What gives an airplane the power to move forward?",
+   "prompt": "What gives an airplane the power to move forward?",
+   "answer": "Thrust",
+   "choices": [
+    "Lift",
+    "Gravity"
+   ],
+   "explain": "Thrust comes from the engines."
+  },
+  {
+   "episode": "How Do Airplanes Fly?",
+   "date": "2026-10-11",
+   "orig": "What force gets the plane into the sky? Do you remember that word?",
+   "prompt": "What force gets a plane into the sky?",
+   "answer": "Lift",
+   "choices": [
+    "Thrust",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "How Do Airplanes Fly?",
+   "date": "2026-10-11",
+   "orig": "Why are airplane wings curved on top?",
+   "prompt": "Why are airplane wings curved on top?",
+   "answer": "To make lower pressure",
+   "choices": [
+    "To catch rain",
+    "To look like birds"
+   ],
+   "explain": "Lower pressure lets the plane rise into the air."
+  },
+  {
+   "episode": "Why Are Armpits So Ticklish?",
+   "date": "2026-10-12",
+   "orig": "What is the anatomical name for your armpit?",
+   "prompt": "What is the scientific name for your armpit?",
+   "answer": "The axilla",
+   "choices": [
+    "The patella",
+    "The tibia"
+   ]
+  },
+  {
+   "episode": "Why Are Armpits So Ticklish?",
+   "date": "2026-10-12",
+   "orig": "And what carries information about touch from your skin towards your spinal cord and brain?",
+   "prompt": "What carries touch messages from your skin to your spinal cord and brain?",
+   "answer": "Nerves",
+   "choices": [
+    "Bones",
+    "Veins"
+   ]
+  },
+  {
+   "episode": "Why Are Armpits So Ticklish?",
+   "date": "2026-10-12",
+   "orig": "And why is it usually difficult to tickle yourself?",
+   "prompt": "Why is it usually hard to tickle yourself?",
+   "answer": "Your brain predicts the touch",
+   "choices": [
+    "Your hands are too cold",
+    "Your skin is too thick"
+   ]
+  },
+  {
+   "episode": "Why Are Armpits So Ticklish?",
+   "date": "2026-10-12",
+   "orig": "Do you remember the part of your brain that helps predict the results of your own movements?",
+   "prompt": "What part of your brain helps predict the results of your own movements?",
+   "answer": "The cerebellum",
+   "choices": [
+    "The hippocampus",
+    "The frontal lobe"
+   ]
+  },
+  {
+   "episode": "Why Does Cutting Onions Make You Cry?",
+   "date": "2026-10-15",
+   "orig": "What has to happen to an onion before it starts releasing lots of its chemical that causes crying?",
+   "prompt": "What has to happen to an onion before it releases lots of its crying chemical?",
+   "answer": "It gets cut or crushed",
+   "choices": [
+    "It gets washed",
+    "It gets cold"
+   ],
+   "explain": "Its cells have to be damaged."
+  },
+  {
+   "episode": "Why Does Cutting Onions Make You Cry?",
+   "date": "2026-10-15",
+   "orig": "And after an onion is cut, how does the irritating chemical reach your eyes?",
+   "prompt": "After an onion is cut, how does the irritating chemical reach your eyes?",
+   "answer": "It floats through the air",
+   "choices": [
+    "It travels up your fingers",
+    "It splashes like juice"
+   ],
+   "explain": "It becomes a vapor."
+  },
+  {
+   "episode": "Why Does Cutting Onions Make You Cry?",
+   "date": "2026-10-15",
+   "orig": "And what do your eyes produce to help wash away the irritant?",
+   "prompt": "What do your eyes make to help wash away the irritant?",
+   "answer": "Tears",
+   "choices": [
+    "Sweat",
+    "Saliva"
+   ]
+  },
+  {
+   "episode": "Why Do Oceans Have Waves?",
+   "date": "2026-10-17",
+   "orig": "What causes most of the waves we see at the beach?",
+   "prompt": "What causes most of the waves we see at the beach?",
+   "answer": "Wind",
+   "choices": [
+    "Boats",
+    "Whales"
+   ],
+   "explain": "Wind blowing across the surface of the ocean."
+  },
+  {
+   "episode": "Why Do Oceans Have Waves?",
+   "date": "2026-10-17",
+   "orig": "What pulls on Earth's oceans to make tidal waves?",
+   "prompt": "What pulls on Earth's oceans to make tides?",
+   "answer": "The moon and sun's gravity",
+   "choices": [
+    "The wind",
+    "Big ships"
+   ]
+  },
+  {
+   "episode": "Why Do Oceans Have Waves?",
+   "date": "2026-10-17",
+   "orig": "And what kind of wave is caused by an underwater earthquake or a volcano?",
+   "prompt": "What kind of wave is caused by an underwater earthquake or volcano?",
+   "answer": "A tsunami",
+   "choices": [
+    "A tide",
+    "A ripple"
+   ]
+  },
+  {
+   "episode": "How Do Tall Buildings Not Fall Down?",
+   "date": "2026-10-18",
+   "orig": "What part of a tall building is underground and helps spread out its weight?",
+   "prompt": "What part of a tall building is underground and helps spread out its weight?",
+   "answer": "The foundation",
+   "choices": [
+    "The roof",
+    "The windows"
+   ]
+  },
+  {
+   "episode": "How Do Tall Buildings Not Fall Down?",
+   "date": "2026-10-18",
+   "orig": "And what material is often used to make the strong skeleton inside tall buildings?",
+   "prompt": "What material makes the strong skeleton inside tall buildings?",
+   "answer": "Steel",
+   "choices": [
+    "Wood",
+    "Glass"
+   ],
+   "explain": "Often combined with concrete."
+  },
+  {
+   "episode": "How Do We Know If Food Is Safe to Eat?",
+   "date": "2026-10-19",
+   "orig": "What are the four main food safety steps we learned today?",
+   "prompt": "What are the four main food safety steps?",
+   "answer": "Clean, separate, cook, chill",
+   "choices": [
+    "Wash, peel, slice, eat",
+    "Buy, open, heat, serve"
+   ]
+  },
+  {
+   "episode": "How Do We Know If Food Is Safe to Eat?",
+   "date": "2026-10-19",
+   "orig": "And what is it called when germs accidentally move from one food or surface on to another food?",
+   "prompt": "What is it called when germs move from one food or surface onto another food?",
+   "answer": "Cross-contamination",
+   "choices": [
+    "Fermentation",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do We Know If Food Is Safe to Eat?",
+   "date": "2026-10-19",
+   "orig": "And what tool can tell you the temperature inside a food?",
+   "prompt": "What tool can tell you the temperature inside a food?",
+   "answer": "A food thermometer",
+   "choices": [
+    "A measuring cup",
+    "A timer"
+   ]
+  },
+  {
+   "episode": "How Do We Know If Food Is Safe to Eat?",
+   "date": "2026-10-19",
+   "orig": "And what could make a food safe for one person but unsafe for another person?",
+   "prompt": "What could make a food safe for one person but unsafe for another?",
+   "answer": "A food allergy",
+   "choices": [
+    "Food coloring",
+    "A sweet tooth"
+   ]
+  },
+  {
+   "episode": "How Does a Washing Machine Clean Clothes?",
+   "date": "2026-10-20",
+   "orig": "What special cleaning ingredients in laundry detergent help loosen oily dirt from the clothes?",
+   "prompt": "What special ingredients in laundry detergent help loosen oily dirt?",
+   "answer": "Surfactants",
+   "choices": [
+    "Sugars",
+    "Pigments"
+   ]
+  },
+  {
+   "episode": "How Does a Washing Machine Clean Clothes?",
+   "date": "2026-10-20",
+   "orig": "And what is the name of the disc at the bottom of some washing machines that moves the water and the clothes around?",
+   "prompt": "What is the disc at the bottom of some washing machines that moves the water and clothes?",
+   "answer": "The impeller",
+   "choices": [
+    "The agitator",
+    "The filter"
+   ]
+  },
+  {
+   "episode": "How Does a Washing Machine Clean Clothes?",
+   "date": "2026-10-20",
+   "orig": "Okay, and where does the dirty water go after the washing machine finishes washing your clothes?",
+   "prompt": "Where does the dirty water go after the washing machine finishes?",
+   "answer": "Down the drain",
+   "choices": [
+    "Back into the clothes",
+    "Into the dryer"
+   ]
+  },
+  {
+   "episode": "How Does a Washing Machine Clean Clothes?",
+   "date": "2026-10-20",
+   "orig": "And, what is the name of the part of the wash where the drum spins really fast to remove water from the clothes?",
+   "prompt": "What part of the wash spins the drum really fast to remove water?",
+   "answer": "The spin cycle",
+   "choices": [
+    "The rinse cycle",
+    "The soak cycle"
+   ]
+  },
+  {
+   "episode": "How Did People Make Maps Before Satellites?",
+   "date": "2026-10-22",
+   "orig": "And what shape do those three points make when you connect them? What's a three-sided shape?",
+   "prompt": "What shape do you make when you connect three points?",
+   "answer": "A triangle",
+   "choices": [
+    "A square",
+    "A circle"
+   ],
+   "explain": "That's where the name triangulation comes from."
+  },
+  {
+   "episode": "How Did People Make Maps Before Satellites?",
+   "date": "2026-10-22",
+   "orig": "Do you have a guess as to what sailors look at in order to measure distance?",
+   "prompt": "What did sailors look at to figure out where they were on the ocean?",
+   "answer": "The sky",
+   "choices": [
+    "The waves",
+    "The fish"
+   ],
+   "explain": "They measured where the sun or certain stars appear in the sky."
+  },
+  {
+   "episode": "Why Do Turtles Have Shells?",
+   "date": "2026-10-24",
+   "orig": "What is the top part of a turtle's shell called?",
+   "prompt": "What is the top part of a turtle's shell called?",
+   "answer": "The carapace",
+   "choices": [
+    "The plastron",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "Why Do Turtles Have Shells?",
+   "date": "2026-10-24",
+   "orig": "Oh, and what's the bottom part called?",
+   "prompt": "What is the bottom part of a turtle's shell called?",
+   "answer": "The plastron",
+   "choices": [
+    "The carapace",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "What are Fingerprints?",
+   "date": "2026-10-25",
+   "orig": "What do fingerprints help us do?",
+   "prompt": "What do fingerprints help us do?",
+   "answer": "Grip and hold things",
+   "choices": [
+    "Hear better",
+    "Stay warm"
+   ]
+  },
+  {
+   "episode": "Why Don't Tattoos Go Away?",
+   "date": "2026-10-28",
+   "orig": "What does a tattoo artist use to put ink underneath someone's skin?",
+   "prompt": "What does a tattoo artist use to put ink under someone's skin?",
+   "answer": "Tiny needles",
+   "choices": [
+    "Paintbrushes",
+    "Stamps"
+   ]
+  },
+  {
+   "episode": "Why Don't Tattoos Go Away?",
+   "date": "2026-10-28",
+   "orig": "And what is the layer of skin where permanent tattoo ink stays?",
+   "prompt": "What is the layer of skin where tattoo ink stays?",
+   "answer": "The dermis",
+   "choices": [
+    "The epidermis",
+    "The muscle"
+   ],
+   "explain": "It's the layer under the epidermis."
+  },
+  {
+   "episode": "Why Don't Tattoos Go Away?",
+   "date": "2026-10-28",
+   "orig": "And what happens to the old cells on the outside of your skin?",
+   "prompt": "What happens to the old cells on the outside of your skin?",
+   "answer": "They fall off",
+   "choices": [
+    "They turn into ink",
+    "They get thicker"
+   ],
+   "explain": "They are replaced by new skin cells."
+  },
+  {
+   "episode": "Why Don't Tattoos Go Away?",
+   "date": "2026-10-28",
+   "orig": "Do you remember what it is that tries to get rid of the tattoo ink?",
+   "prompt": "What tries to get rid of tattoo ink in your skin?",
+   "answer": "Macrophages",
+   "choices": [
+    "Red blood cells",
+    "Neurons"
+   ]
+  },
+  {
+   "episode": "Why Do Trees Have Bark?",
+   "date": "2026-10-29",
+   "orig": "What's one of the most important jobs of a tree's outer bark?",
+   "prompt": "What's one of the most important jobs of a tree's outer bark?",
+   "answer": "Protecting the tree",
+   "choices": [
+    "Making food",
+    "Drinking water"
+   ]
+  },
+  {
+   "episode": "Why Do Trees Have Bark?",
+   "date": "2026-10-29",
+   "orig": "And what part of a tree makes food using energy from sunlight?",
+   "prompt": "What part of a tree makes food using energy from sunlight?",
+   "answer": "The leaves",
+   "choices": [
+    "The bark",
+    "The roots"
+   ]
+  },
+  {
+   "episode": "Why Do Trees Have Bark?",
+   "date": "2026-10-29",
+   "orig": "And why does the bark on many trees develop deep cracks as the tree gets older?",
+   "prompt": "Why does bark get deep cracks as a tree gets older?",
+   "answer": "The trunk grows wider",
+   "choices": [
+    "Bugs chew it",
+    "Rain washes it"
+   ]
+  },
+  {
+   "episode": "Why Do Trees Have Bark?",
+   "date": "2026-10-29",
+   "orig": "Inside the inner bark, there's a layer called what that helps carry the sugar? What was that layer called?",
+   "prompt": "What layer in the inner bark carries sugar?",
+   "answer": "The phloem",
+   "choices": [
+    "The xylem",
+    "The heartwood"
+   ]
+  },
+  {
+   "episode": "How Does the Moon Change the Earth? (Captain Curious)",
+   "date": "2026-10-30",
+   "orig": "What does the moon's gravity do to Earth's oceans?",
+   "prompt": "What does the moon's gravity do to Earth's oceans?",
+   "answer": "Makes high and low tides",
+   "choices": [
+    "Makes them salty",
+    "Makes them blue"
+   ]
+  },
+  {
+   "episode": "How Does the Moon Change the Earth? (Captain Curious)",
+   "date": "2026-10-30",
+   "orig": "Why do astronauts' footprints stay on the moon for so long?",
+   "prompt": "Why do astronauts' footprints stay on the moon for so long?",
+   "answer": "No wind or weather",
+   "choices": [
+    "The ground is frozen",
+    "Astronauts are heavy"
+   ]
+  },
+  {
+   "episode": "How Does the Moon Change the Earth? (Captain Curious)",
+   "date": "2026-10-30",
+   "orig": "If the Earth were a basketball, what size is the moon?",
+   "prompt": "If the Earth were a basketball, what size would the moon be?",
+   "answer": "A tennis ball",
+   "choices": [
+    "A beach ball",
+    "A marble"
+   ]
+  },
+  {
+   "episode": "How Does the Moon Change the Earth? (Captain Curious)",
+   "date": "2026-10-30",
+   "orig": "What's the far side of the moon?",
+   "prompt": "What is the far side of the moon?",
+   "answer": "The side facing away from Earth",
+   "choices": [
+    "The side facing Earth",
+    "The moon's north pole"
+   ]
+  },
+  {
+   "episode": "Why Do Our Teeth Fall Out?",
+   "date": "2026-10-31",
+   "orig": "What do you call the teeth you get when your baby teeth fall out?",
+   "prompt": "What do you call the teeth you get when your baby teeth fall out?",
+   "answer": "Permanent teeth",
+   "choices": [
+    "Milk teeth",
+    "False teeth"
+   ],
+   "explain": "Permanent means forever."
+  },
+  {
+   "episode": "Why Do Our Teeth Fall Out?",
+   "date": "2026-10-31",
+   "orig": "Why do your baby teeth fall out?",
+   "prompt": "Why do your baby teeth fall out?",
+   "answer": "To make room for bigger teeth",
+   "choices": [
+    "Because they break",
+    "Because they get dirty"
+   ],
+   "explain": "Your mouth is growing."
+  },
+  {
+   "episode": "Why Do Our Teeth Fall Out?",
+   "date": "2026-10-31",
+   "orig": "Do you remember how many adult teeth you're going to have as a grown up?",
+   "prompt": "How many adult teeth will you have as a grown up?",
+   "answer": "32",
+   "choices": [
+    "20",
+    "50"
+   ]
+  },
+  {
+   "episode": "What Is Poison Ivy?",
+   "date": "2026-11-01",
+   "orig": "How many leaves does poison ivy usually have together?",
+   "prompt": "How many leaves does poison ivy usually have together?",
+   "answer": "Three",
+   "choices": [
+    "Two",
+    "Five"
+   ],
+   "explain": "Leaves of three, let it be."
+  },
+  {
+   "episode": "Why Does Metal Rust?",
+   "date": "2026-11-03",
+   "orig": "What gas reacts with iron as it rusts?",
+   "prompt": "What gas reacts with iron as it rusts?",
+   "answer": "Oxygen",
+   "choices": [
+    "Helium",
+    "Carbon dioxide"
+   ]
+  },
+  {
+   "episode": "Why Does Metal Rust?",
+   "date": "2026-11-03",
+   "orig": "And what liquid was helping the reaction happen in the bowl with my putty knife?",
+   "prompt": "What liquid helps iron rust?",
+   "answer": "Water",
+   "choices": [
+    "Milk",
+    "Oil"
+   ]
+  },
+  {
+   "episode": "Why Does Metal Rust?",
+   "date": "2026-11-03",
+   "orig": "And what ingredient in stainless steel helps it form a protective surface layer?",
+   "prompt": "What ingredient in stainless steel helps protect it from rust?",
+   "answer": "Chromium",
+   "choices": [
+    "Gold",
+    "Plastic"
+   ]
+  },
+  {
+   "episode": "How Do Your Lungs Help You Breathe?",
+   "date": "2026-11-04",
+   "orig": "What gas from the air helps your body release energy from food? What's the gas that your body breathes in?",
+   "prompt": "What gas from the air helps your body get energy from food?",
+   "answer": "Oxygen",
+   "choices": [
+    "Helium",
+    "Carbon dioxide"
+   ]
+  },
+  {
+   "episode": "How Do Your Lungs Help You Breathe?",
+   "date": "2026-11-04",
+   "orig": "And what is the waste gas that your blood brings back to be breathed out?",
+   "prompt": "What is the waste gas that your blood brings back to be breathed out?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Helium"
+   ]
+  },
+  {
+   "episode": "How Do Your Lungs Help You Breathe?",
+   "date": "2026-11-04",
+   "orig": "And what picks up oxygen in your blood and carries it around your body?",
+   "prompt": "What picks up oxygen in your blood and carries it around your body?",
+   "answer": "Red blood cells",
+   "choices": [
+    "White blood cells",
+    "Bones"
+   ]
+  },
+  {
+   "episode": "How Do Your Lungs Help You Breathe?",
+   "date": "2026-11-04",
+   "orig": "And which direction does your diaphragm move when you breathe in?",
+   "prompt": "Which way does your diaphragm move when you breathe in?",
+   "answer": "Downward",
+   "choices": [
+    "Upward",
+    "Sideways"
+   ],
+   "explain": "That makes more space for your lungs to get bigger."
+  },
+  {
+   "episode": "How Do Your Lungs Help You Breathe?",
+   "date": "2026-11-04",
+   "orig": "Inside your lungs, tiny air sacs, let oxygen enter your blood and carbon dioxide leave it. Do you remember what they're called?",
+   "prompt": "What are the tiny air sacs in your lungs called?",
+   "answer": "Alveoli",
+   "choices": [
+    "Cilia",
+    "Neurons"
+   ]
+  },
+  {
+   "episode": "How Does a Record Player Work?",
+   "date": "2026-11-05",
+   "orig": "What shape does the long groove make as it winds toward the middle of a record?",
+   "prompt": "What shape does the long groove make as it winds toward the middle of a record?",
+   "answer": "A spiral",
+   "choices": [
+    "A straight line",
+    "A zigzag"
+   ]
+  },
+  {
+   "episode": "How Does a Record Player Work?",
+   "date": "2026-11-05",
+   "orig": "And what very hard, very tough, material is often used for the needle's tip?",
+   "prompt": "What very hard material is often used for a record needle's tip?",
+   "answer": "Diamond",
+   "choices": [
+    "Plastic",
+    "Wood"
+   ]
+  },
+  {
+   "episode": "How Does a Record Player Work?",
+   "date": "2026-11-05",
+   "orig": "And what part turns the needle's movement into an electrical signal?",
+   "prompt": "What part of a record player turns the needle's movement into an electrical signal?",
+   "answer": "The cartridge",
+   "choices": [
+    "The speaker",
+    "The record"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "What Is the Strongest Insect in the World?",
+   "q": "Do you remember?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Is the Strongest Insect in the World?",
+   "q": "Isn't that amazing?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Your Muscles Get Sore?",
+   "q": "What does DOMS stand for?",
+   "why": "too-hard-to-shorten"
+  },
+  {
+   "episode": "Why Are Armpits So Ticklish?",
+   "q": "Do you remember what we called that part of your brain?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What are Fingerprints?",
+   "q": "Do identical twins have the same fingerprints?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Don't Tattoos Go Away?",
+   "q": "What's the one underneath it called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What Is Poison Ivy?",
+   "q": "What is the oil in poison ivy called that makes people itchy?",
+   "why": "no-answer"
+  },
+  {
+   "episode": "What Is Poison Ivy?",
+   "q": "And is the rash from poison ivy contagious to other people?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "How Do Your Lungs Help You Breathe?",
+   "q": "What's the gas that your body breathes in?",
+   "why": "fragment"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+0 e=Even though you might barely notice them in deep water.
+12 a=T ;; e=Mercury is first, Venus is second, and Earth is number three.
+15 a=T ;; p=The magnetic field comes from the center of the Earth and helps protect us from solar wind. ;; e=It's made in the outer core by spinning liquid metal.
+16 a=F ;; e=No air means no wind, and no wind means no kite flying.
+19 e=
+24 e=Much of that ink stays in your skin.
+26 e=
+27 e=But those cells still help protect the tree.
+28 e=A layer in the inner bark called the phloem helps carry the sugar.
+36 e=If you get the oil off before it rubs into your skin, you're good.
+53 p=Eating slowly can help prevent brain freeze.
+56 e=The 2017 journey took just under 41 days.
+58 e=It can act like a bridge until it collapses, and that's when you get sinkholes.
+61 e=
+63 e=
+64 e=
+69 e=
+75 p=Limestone helps finished glass resist damage from water.
+77 e=That careful cooling is called annealing.
+-81 fragment
+84 e=
+-62 rerun duplicate of "Jupiter only has one moon."

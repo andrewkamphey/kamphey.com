@@ -1,0 +1,648 @@
+{
+ "items": [
+  {
+   "episode": "How Do Fish Breathe Underwater?",
+   "date": "2025-06-04",
+   "orig": "What do fish use to breathe?",
+   "prompt": "What do fish use to breathe?",
+   "answer": "Gills",
+   "choices": [
+    "Lungs",
+    "Fins"
+   ]
+  },
+  {
+   "episode": "How Do Fish Breathe Underwater?",
+   "date": "2025-06-04",
+   "orig": "What gas do they get from the water?",
+   "prompt": "What gas do fish get from the water?",
+   "answer": "Oxygen",
+   "choices": [
+    "Helium",
+    "Smoke"
+   ],
+   "explain": "The same stuff that's in our air."
+  },
+  {
+   "episode": "How Do Fish Breathe Underwater?",
+   "date": "2025-06-04",
+   "orig": "What kind of fish has gills and a lung?",
+   "prompt": "What kind of fish has gills and a lung?",
+   "answer": "Lungfish",
+   "choices": [
+    "Goldfish",
+    "Catfish"
+   ]
+  },
+  {
+   "episode": "How Do Computers Work?",
+   "date": "2025-06-06",
+   "orig": "What two numbers do computers use to send messages?",
+   "prompt": "What two numbers do computers use to send messages?",
+   "answer": "0 and 1",
+   "choices": [
+    "1 and 2",
+    "5 and 10"
+   ]
+  },
+  {
+   "episode": "How Do Computers Work?",
+   "date": "2025-06-06",
+   "orig": "Then, what is a computer's brain called? ... Was it the refrigerator or the processor?",
+   "prompt": "What is a computer's brain called?",
+   "answer": "The processor",
+   "choices": [
+    "The refrigerator",
+    "The keyboard"
+   ],
+   "explain": "Its job is to follow billions of tiny instructions every second."
+  },
+  {
+   "episode": "How Does Your Body Heal a Cut?",
+   "date": "2025-06-07",
+   "orig": "What's the very first thing your body does when you get a cut?",
+   "prompt": "What's the very first thing your body does when you get a cut?",
+   "answer": "It bleeds and makes a clot",
+   "choices": [
+    "It gets itchy",
+    "It turns blue"
+   ]
+  },
+  {
+   "episode": "How Does Your Body Heal a Cut?",
+   "date": "2025-06-07",
+   "orig": "What forms on top of the cut like a natural bandage?",
+   "prompt": "What forms on top of a cut like a natural bandage?",
+   "answer": "A scab",
+   "choices": [
+    "A freckle",
+    "A blister"
+   ]
+  },
+  {
+   "episode": "How Does a Seed Turn Into a Plant?",
+   "date": "2025-06-09",
+   "orig": "What's the first part of the plant that comes out of the seed?",
+   "prompt": "What's the first part of the plant that comes out of the seed?",
+   "answer": "The root",
+   "choices": [
+    "The flower",
+    "The leaf"
+   ]
+  },
+  {
+   "episode": "How Does a Seed Turn Into a Plant?",
+   "date": "2025-06-09",
+   "orig": "What do leaves use to make food?",
+   "prompt": "What do leaves use to make food?",
+   "answer": "Sunlight",
+   "choices": [
+    "Moonlight",
+    "Rocks"
+   ],
+   "explain": "It's called photosynthesis."
+  },
+  {
+   "episode": "How Does a Seed Turn Into a Plant?",
+   "date": "2025-06-09",
+   "orig": "And what do we call the baby plant inside a seed?",
+   "prompt": "What do we call the baby plant inside a seed?",
+   "answer": "An embryo",
+   "choices": [
+    "A petal",
+    "A thorn"
+   ]
+  },
+  {
+   "episode": "What Makes Lightning and Thunder?",
+   "date": "2025-06-10",
+   "orig": "What sound comes from lightning hitting the air so fast that it makes a loud boom?",
+   "prompt": "What sound comes from lightning hitting the air so fast that it makes a loud boom?",
+   "answer": "Thunder",
+   "choices": [
+    "Rain",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "What Makes Lightning and Thunder?",
+   "date": "2025-06-10",
+   "orig": "What makes lightning inside a cloud? Tiny bits of ice or tiny bits of ice cream?",
+   "prompt": "What makes lightning inside a cloud?",
+   "answer": "Tiny bits of ice",
+   "choices": [
+    "Tiny bits of ice cream",
+    "Tiny bits of sand"
+   ],
+   "explain": "They bump around and build up static electricity."
+  },
+  {
+   "episode": "How Do Birds Fly?",
+   "date": "2025-06-13",
+   "orig": "What helps birds stay light so they can fly?",
+   "prompt": "What helps birds stay light so they can fly?",
+   "answer": "Hollow bones",
+   "choices": [
+    "Long legs",
+    "Big beaks"
+   ]
+  },
+  {
+   "episode": "How Do Birds Fly?",
+   "date": "2025-06-13",
+   "orig": "What do birds use to steer in the air?",
+   "prompt": "What do birds use to steer in the air?",
+   "answer": "Their tails",
+   "choices": [
+    "Their beaks",
+    "Their eyes"
+   ]
+  },
+  {
+   "episode": "How Do Birds Fly?",
+   "date": "2025-06-13",
+   "orig": "What part of a bird's body gives the bird the power to flap?",
+   "prompt": "What part of a bird's body gives it the power to flap?",
+   "answer": "Chest muscles",
+   "choices": [
+    "Leg muscles",
+    "Neck muscles"
+   ]
+  },
+  {
+   "episode": "Why Does It Rain?",
+   "date": "2025-06-14",
+   "orig": "Which of these is not part of the water cycle? Evaporation, condensation, radiation, or precipitation?",
+   "prompt": "Which of these is not part of the water cycle?",
+   "answer": "Radiation",
+   "choices": [
+    "Evaporation",
+    "Condensation"
+   ]
+  },
+  {
+   "episode": "Why Does It Rain?",
+   "date": "2025-06-14",
+   "orig": "What do we call it when water turns into a gas and rises into the sky? Is that condensation, precipitation, evaporation, or irrigation?",
+   "prompt": "What do we call it when water turns into a gas and rises into the sky?",
+   "answer": "Evaporation",
+   "choices": [
+    "Condensation",
+    "Precipitation"
+   ]
+  },
+  {
+   "episode": "Why Do Bubbles Pop?",
+   "date": "2025-06-17",
+   "orig": "What makes the skin of a bubble strong?",
+   "prompt": "What makes the skin of a bubble strong?",
+   "answer": "Soap",
+   "choices": [
+    "Sugar",
+    "Salt"
+   ]
+  },
+  {
+   "episode": "Why Do Bubbles Pop?",
+   "date": "2025-06-17",
+   "orig": "What makes bubbles pop in dry air?",
+   "prompt": "What makes bubbles pop in dry air?",
+   "answer": "Evaporation",
+   "choices": [
+    "Gravity",
+    "Sunlight"
+   ]
+  },
+  {
+   "episode": "Why Do Some Balloons Float (and Others Fall)?",
+   "date": "2025-06-18",
+   "orig": "What gas is lighter than air and helps balloons float?",
+   "prompt": "What gas is lighter than air and helps balloons float?",
+   "answer": "Helium",
+   "choices": [
+    "Oxygen",
+    "Carbon dioxide"
+   ]
+  },
+  {
+   "episode": "Why Do Some Balloons Float (and Others Fall)?",
+   "date": "2025-06-18",
+   "orig": "What happens when you fill a balloon with just your breath?",
+   "prompt": "What happens when you fill a balloon with just your breath?",
+   "answer": "It falls to the ground",
+   "choices": [
+    "It floats up high",
+    "It changes color"
+   ]
+  },
+  {
+   "episode": "Why Do Some Balloons Float (and Others Fall)?",
+   "date": "2025-06-18",
+   "orig": "What do hot air balloons use to rise?",
+   "prompt": "What do hot air balloons use to rise?",
+   "answer": "Hot air",
+   "choices": [
+    "Cold air",
+    "Rockets"
+   ],
+   "explain": "The answer is in the name."
+  },
+  {
+   "episode": "Captain Curious: The Color Red",
+   "date": "2025-06-05",
+   "orig": "How many letters are in the word red?",
+   "prompt": "How many letters are in the word red?",
+   "answer": "Three",
+   "choices": [
+    "Two",
+    "Four"
+   ],
+   "explain": "R-E-D."
+  },
+  {
+   "episode": "Captain Curious: The Color Yellow",
+   "date": "2025-06-19",
+   "orig": "There's a beach, there's a cave, and there's a mountain. Which one is a place where we can't see the sun?",
+   "prompt": "Which one is a place where we can't see the sun?",
+   "answer": "A cave",
+   "choices": [
+    "A beach",
+    "A mountain"
+   ]
+  },
+  {
+   "episode": "Captain Curious: The Color Yellow",
+   "date": "2025-06-19",
+   "orig": "Which yellow fruit can you use to make a smiley face?",
+   "prompt": "Which yellow fruit can you use to make a smiley face?",
+   "answer": "A banana",
+   "choices": [
+    "A lemon",
+    "A pineapple"
+   ]
+  },
+  {
+   "episode": "Why Do the Seasons Change?",
+   "date": "2025-06-20",
+   "orig": "Which of these is not something that happens in the fall? A. Leaves turn red and orange. B. Flowers start to bloom everywhere. C. Pumpkins are harvested. D. Animals start getting ready for winter.",
+   "prompt": "Which of these does not happen in the fall?",
+   "answer": "Flowers bloom everywhere",
+   "choices": [
+    "Leaves turn red and orange",
+    "Pumpkins are harvested"
+   ],
+   "explain": "Flowers bloom in the spring."
+  },
+  {
+   "episode": "Why Do the Seasons Change?",
+   "date": "2025-06-20",
+   "orig": "What's the name of the imaginary line that goes around earth's middle?",
+   "prompt": "What's the name of the imaginary line that goes around Earth's middle?",
+   "answer": "The equator",
+   "choices": [
+    "The North Pole",
+    "The horizon"
+   ]
+  },
+  {
+   "episode": "Why Do the Seasons Change?",
+   "date": "2025-06-20",
+   "orig": "How many seasons do most places have?",
+   "prompt": "How many seasons do most places have?",
+   "answer": "Four",
+   "choices": [
+    "Two",
+    "Six"
+   ],
+   "explain": "Spring, summer, fall, and winter."
+  },
+  {
+   "episode": "Why Do the Seasons Change?",
+   "date": "2025-06-20",
+   "orig": "What causes the seasons to change?",
+   "prompt": "What causes the seasons to change?",
+   "answer": "Earth's tilt",
+   "choices": [
+    "The moon",
+    "The clouds"
+   ]
+  },
+  {
+   "episode": "Why Do the Seasons Change?",
+   "date": "2025-06-20",
+   "orig": "Last one, which season comes after winter?",
+   "prompt": "Which season comes after winter?",
+   "answer": "Spring",
+   "choices": [
+    "Summer",
+    "Fall"
+   ]
+  },
+  {
+   "episode": "Why Do Stars Twinkle?",
+   "date": "2025-06-21",
+   "orig": "Do you know how many stars are in our solar system?",
+   "prompt": "How many stars are in our solar system?",
+   "answer": "Just one",
+   "choices": [
+    "Ten",
+    "A hundred"
+   ],
+   "explain": "It's the sun."
+  },
+  {
+   "episode": "Why Do You Get Goosebumps?",
+   "date": "2025-06-23",
+   "orig": "Okay, what are goosebumps?",
+   "prompt": "What are goosebumps?",
+   "answer": "Tiny bumps on your skin",
+   "choices": [
+    "Tiny bug bites",
+    "Little bruises"
+   ],
+   "explain": "They're caused by muscles pulling hair upright."
+  },
+  {
+   "episode": "Why Do You Get Goosebumps?",
+   "date": "2025-06-23",
+   "orig": "Why does your body give you goosebumps?",
+   "prompt": "Why does your body give you goosebumps?",
+   "answer": "To help you stay warm",
+   "choices": [
+    "To help you sleep",
+    "To help you see"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Goosebumps?",
+   "date": "2025-06-23",
+   "orig": "What are the little muscles in your skin called that cause goosebumps?",
+   "prompt": "What are the little muscles in your skin called that cause goosebumps?",
+   "answer": "Erector pili",
+   "choices": [
+    "Biceps",
+    "Cerebellum"
+   ]
+  },
+  {
+   "episode": "What Do Owls Do at Night?",
+   "date": "2025-06-25",
+   "orig": "What does it mean when an animal is nocturnal?",
+   "prompt": "What does it mean when an animal is nocturnal?",
+   "answer": "It's active at night",
+   "choices": [
+    "It lives in water",
+    "It sleeps all winter"
+   ],
+   "explain": "They rest during the day."
+  },
+  {
+   "episode": "What Do Owls Do at Night?",
+   "date": "2025-06-25",
+   "orig": "What helps owls fly silently?",
+   "prompt": "What helps owls fly silently?",
+   "answer": "Special feathers",
+   "choices": [
+    "Tiny wings",
+    "Soft feet"
+   ],
+   "explain": "The feathers muffle the sound."
+  },
+  {
+   "episode": "What Do Owls Do at Night?",
+   "date": "2025-06-25",
+   "orig": "And what do owls eat?",
+   "prompt": "What do owls eat?",
+   "answer": "Mice and insects",
+   "choices": [
+    "Grass and leaves",
+    "Berries and seeds"
+   ],
+   "explain": "Sometimes even snakes."
+  },
+  {
+   "episode": "What Is Gravity?",
+   "date": "2025-06-27",
+   "orig": "What is gravity?",
+   "prompt": "What is gravity?",
+   "answer": "A force that pulls",
+   "choices": [
+    "A kind of wind",
+    "A kind of light"
+   ],
+   "explain": "It pulls things toward each other."
+  },
+  {
+   "episode": "What Is Gravity?",
+   "date": "2025-06-27",
+   "orig": "What keeps the moon circling around the earth?",
+   "prompt": "What keeps the moon circling around the Earth?",
+   "answer": "Gravity",
+   "choices": [
+    "Wind",
+    "Magnets"
+   ]
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "date": "2025-06-28",
+   "orig": "Why can't you tickle yourself?",
+   "prompt": "Why can't you tickle yourself?",
+   "answer": "Your brain knows it's coming",
+   "choices": [
+    "Your hands are too cold",
+    "Your skin is too thick"
+   ]
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "date": "2025-06-28",
+   "orig": "What does your cerebellum help you do? Does it help you tell the difference between your movements and outside ones? Does it help you smell? Or does it help you see?",
+   "prompt": "What does your cerebellum help you do?",
+   "answer": "Tell your moves from others",
+   "choices": [
+    "Help you smell",
+    "Help you see"
+   ],
+   "explain": "It tells the difference between your movements and outside ones."
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "date": "2025-06-28",
+   "orig": "And what makes a tickle feel ticklish?",
+   "prompt": "What makes a tickle feel ticklish?",
+   "answer": "Surprise",
+   "choices": [
+    "Cold hands",
+    "Itchy clothes"
+   ],
+   "explain": "Your brain doesn't know it's coming."
+  },
+  {
+   "episode": "How Does a Toilet Work?",
+   "date": "2025-06-29",
+   "orig": "What is the tank of a toilet filled with?",
+   "prompt": "What is the tank of a toilet filled with?",
+   "answer": "Water",
+   "choices": [
+    "Air",
+    "Sand"
+   ]
+  },
+  {
+   "episode": "How Does a Toilet Work?",
+   "date": "2025-06-29",
+   "orig": "What is the name of the part that seals and unseals the tank?",
+   "prompt": "What is the name of the toilet part that seals and unseals the tank?",
+   "answer": "The flapper",
+   "choices": [
+    "The handle",
+    "The seat"
+   ]
+  },
+  {
+   "episode": "How Does a Toilet Work?",
+   "date": "2025-06-29",
+   "orig": "What shape helps create suction to pull everything down?",
+   "prompt": "What shape helps a toilet create suction to pull everything down?",
+   "answer": "An S shape",
+   "choices": [
+    "A square",
+    "A star"
+   ],
+   "explain": "It's the S-shaped trapway."
+  },
+  {
+   "episode": "How Does Your Brain Think?",
+   "date": "2025-06-30",
+   "orig": "What are the brain's tiny message senders called?",
+   "prompt": "What are the brain's tiny message senders called?",
+   "answer": "Neurons",
+   "choices": [
+    "Bones",
+    "Muscles"
+   ],
+   "explain": "You have 86 billion of them."
+  },
+  {
+   "episode": "How Does Your Brain Think?",
+   "date": "2025-06-30",
+   "orig": "What part of your brain helps you remember things?",
+   "prompt": "What part of your brain helps you remember things?",
+   "answer": "The hippocampus",
+   "choices": [
+    "The frontal lobe",
+    "The occipital lobe"
+   ]
+  },
+  {
+   "episode": "Why Does Your Stomach Growl?",
+   "date": "2025-07-01",
+   "orig": "What is the scientific name for a stomach growl? I'll give you two options. Is it Borborygmus or is it Peristalsis?",
+   "prompt": "What is the scientific name for a stomach growl?",
+   "answer": "Borborygmus",
+   "choices": [
+    "Peristalsis",
+    "Photosynthesis"
+   ]
+  },
+  {
+   "episode": "Why Does Your Stomach Growl?",
+   "date": "2025-07-01",
+   "orig": "Okay, and then what's the squeezing movement in your belly called?",
+   "prompt": "What's the squeezing movement in your belly called?",
+   "answer": "Peristalsis",
+   "choices": [
+    "Borborygmus",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "Why Does Your Stomach Growl?",
+   "date": "2025-07-01",
+   "orig": "Why do we hear growling more when we're hungry?",
+   "prompt": "Why do we hear growling more when we're hungry?",
+   "answer": "Your stomach is emptier",
+   "choices": [
+    "Your stomach is cold",
+    "Your stomach is full"
+   ],
+   "explain": "There's more air."
+  },
+  {
+   "episode": "Why Do Shadows Follow You?",
+   "date": "2025-07-02",
+   "orig": "What causes a shadow?",
+   "prompt": "What causes a shadow?",
+   "answer": "Something blocking light",
+   "choices": [
+    "Something making noise",
+    "Something getting wet"
+   ]
+  },
+  {
+   "episode": "Why Do Shadows Follow You?",
+   "date": "2025-07-02",
+   "orig": "Why does your shadow move when you move?",
+   "prompt": "Why does your shadow move when you move?",
+   "answer": "You block light in a new place",
+   "choices": [
+    "The wind pushes it",
+    "The ground moves it"
+   ]
+  },
+  {
+   "episode": "Why Do Shadows Follow You?",
+   "date": "2025-07-02",
+   "orig": "What part of the day are shadows the longest?",
+   "prompt": "What part of the day are shadows the longest?",
+   "answer": "Early morning and evening",
+   "choices": [
+    "The middle of the day",
+    "Lunchtime"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "What Is Gravity?",
+   "q": "What has more gravity, the earth or a balloon?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "q": "Does it help you tell the difference between your movements and outside ones?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "q": "Does it help you smell?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "q": "Or does it help you see?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Can't You Tickle Yourself?",
+   "q": "What am I?",
+   "why": "other-category"
+  },
+  {
+   "episode": "How Does Your Brain Think?",
+   "q": "Are you ready?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does Your Brain Think?",
+   "q": "Does your brain turn off when you sleep?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Does Your Stomach Growl?",
+   "q": "Is it Borborygmus or is it Peristalsis?",
+   "why": "fragment"
+  }
+ ]
+}

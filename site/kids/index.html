@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#1F7A4D">
+<title>Curious Kids Questions</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: light;
+  --cat: #1F7A4D; --on-cat: #ffffff; --on-cat-soft: rgba(255,255,255,.82);
+  --surface: #ffffff; --ink: #141414; --muted: #5b5b60; --line: #e3e3e6; --sheet: #ffffff; --scrim: rgba(0,0,0,.45);
+  --good: #1F7A4D; --bad: #C2255C;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { color-scheme: dark; --sheet: #27272a; --ink: #ececec; --muted: #a8a8ad; --line: #3a3a3e; }
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--cat); color: var(--on-cat); font: 400 20px/1.35 "Source Sans 3", system-ui, sans-serif; transition: background-color .25s; overscroll-behavior: none; }
+button { font: inherit; color: inherit; cursor: pointer; border: 0; background: none; }
+.app { min-height: 100%; display: flex; flex-direction: column; max-width: 720px; margin: 0 auto; padding: env(safe-area-inset-top) 16px calc(16px + env(safe-area-inset-bottom)); }
+
+/* Top bar */
+.top { display: flex; align-items: center; gap: 8px; padding: 10px 0 6px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; flex: 1; padding: 2px; }
+.chip { flex: none; display: inline-flex; align-items: center; gap: 6px; min-height: 38px; padding: 0 10px; border-radius: 999px; font-size: 15px; font-weight: 700; background: #fff; color: #141414; }
+.chip i { width: 12px; height: 12px; border-radius: 50%; background: var(--c); }
+.chip[aria-pressed="false"] { background: rgba(0,0,0,.16); color: var(--on-cat-soft); text-decoration: line-through; }
+.chip[aria-pressed="false"] i { background: transparent; box-shadow: inset 0 0 0 2px currentColor; }
+.icon-btn { flex: none; width: 48px; height: 48px; border-radius: 50%; display: grid; place-items: center; background: rgba(0,0,0,.18); color: var(--on-cat); }
+.icon-btn svg { width: 24px; height: 24px; }
+.score { flex: none; margin-left: auto; min-height: 40px; padding: 0 14px; border-radius: 999px; background: rgba(0,0,0,.18); font-weight: 800; font-size: 20px; display: inline-flex; align-items: center; gap: 6px; }
+.score svg { width: 20px; height: 20px; }
+
+/* Stage */
+.stage { flex: 1; display: flex; flex-direction: column; padding-top: 10px; touch-action: pan-y; }
+.stage.swipe-out { animation: out .18s ease-in forwards; }
+.stage.swipe-in { animation: in .2s ease-out; }
+@keyframes out { to { transform: translateX(-40px); opacity: 0; } }
+@keyframes in { from { transform: translateX(40px); opacity: 0; } }
+.label-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.cat-label { font-weight: 800; font-size: 22px; letter-spacing: .02em; text-transform: uppercase; color: var(--on-cat-soft); }
+.prompt { font-weight: 700; font-size: clamp(30px, 8vw, 44px); line-height: 1.15; margin: 14px 0 18px; overflow-wrap: anywhere; }
+.clues { list-style: none; margin: 14px 0 18px; padding: 0; display: grid; gap: 10px; }
+.clues li { font-weight: 700; font-size: clamp(26px, 7vw, 38px); line-height: 1.2; }
+.clues li.old { opacity: .6; font-size: clamp(20px, 5vw, 26px); font-weight: 600; }
+.clue-count { font-size: 18px; color: var(--on-cat-soft); font-weight: 600; }
+.speak { align-self: flex-start; display: inline-flex; align-items: center; gap: 10px; min-height: 64px; padding: 0 22px 0 18px; border-radius: 999px; background: rgba(0,0,0,.2); font-weight: 700; font-size: 20px; }
+.speak svg { width: 30px; height: 30px; }
+.speak.on { background: rgba(0,0,0,.35); }
+.stage.done .prompt { font-size: clamp(24px, 6.4vw, 34px); margin: 8px 0 12px; }
+.stage.done .speak { min-height: 52px; font-size: 18px; }
+.stage.done .speak svg { width: 24px; height: 24px; }
+
+.answers { display: grid; gap: 12px; margin-top: auto; padding-top: 22px; }
+.answers.two { grid-template-columns: 1fr 1fr; }
+.ans { min-height: 88px; padding: 12px 16px; border-radius: 22px; background: var(--surface); color: #141414; font-weight: 800; font-size: clamp(24px, 6.5vw, 32px); line-height: 1.1; box-shadow: 0 4px 0 rgba(0,0,0,.22); transition: transform .08s; }
+.ans:active { transform: translateY(3px); box-shadow: 0 1px 0 rgba(0,0,0,.22); }
+.ans svg { width: 34px; height: 34px; display: block; margin: 0 auto 4px; }
+.ans.right { background: #fff; outline: 5px solid #141414; outline-offset: -5px; }
+.ans.wrong { background: #fde2ea; color: #9b1c4a; text-decoration: line-through; }
+.ans.picked { outline: 5px solid #141414; }
+.ans.dim { opacity: .4; }
+.ans:disabled { cursor: default; }
+.ans.small { min-height: 64px; font-size: 22px; }
+.answers.done .ans { min-height: 56px; font-size: 20px; padding: 8px 12px; border-radius: 16px; }
+.answers.done .ans svg { width: 22px; height: 22px; display: inline-block; vertical-align: -4px; margin: 0 6px 0 0; }
+.answers.done { gap: 8px; }
+.ans.ghost { background: rgba(0,0,0,.2); color: var(--on-cat); box-shadow: none; }
+
+.type-row { display: flex; gap: 8px; }
+.type-row input { flex: 1; min-width: 0; min-height: 64px; border-radius: 18px; border: 0; padding: 0 16px; font: 700 24px "Source Sans 3", system-ui, sans-serif; color: #141414; }
+.type-row .ans { min-height: 64px; flex: none; padding: 0 20px; font-size: 22px; }
+.hint { min-height: 26px; font-weight: 700; font-size: 20px; text-align: center; }
+
+/* Reveal */
+.reveal { margin-top: 12px; padding: 16px; border-radius: 22px; background: var(--surface); color: #141414; }
+.reveal .verdict { font-weight: 800; font-size: 34px; line-height: 1.1; display: flex; align-items: center; gap: 10px; }
+.reveal .verdict svg { width: 36px; height: 36px; flex: none; }
+.reveal .verdict.good { color: #1F7A4D; } .reveal .verdict.bad { color: #C2255C; }
+.reveal .the-answer { font-weight: 800; font-size: 28px; margin-top: 6px; }
+.reveal .explain { font-size: 20px; margin-top: 6px; }
+.reveal .from { font-size: 14px; color: #5b5b60; margin-top: 12px; }
+.reveal .tag { display: inline-block; font-size: 12px; font-weight: 700; padding: 1px 7px; border-radius: 6px; background: #f1e7c4; color: #6b5300; margin-left: 6px; vertical-align: 1px; }
+
+.bottom { display: flex; gap: 10px; align-items: center; padding-top: 14px; }
+.next { flex: 1; min-height: 72px; border-radius: 22px; background: #141414; color: #fff; font-weight: 800; font-size: 28px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
+.next svg { width: 30px; height: 30px; }
+.skip { flex: 1; min-height: 64px; color: var(--on-cat-soft); font-weight: 700; font-size: 20px; text-align: left; padding-left: 4px; }
+.flag-btn { width: 64px; height: 64px; border-radius: 50%; background: rgba(0,0,0,.2); display: grid; place-items: center; color: var(--on-cat); flex: none; position: relative; }
+.flag-btn svg { width: 28px; height: 28px; }
+.flag-btn.has::after { content: ""; position: absolute; top: 12px; right: 12px; width: 12px; height: 12px; border-radius: 50%; background: #fff; box-shadow: 0 0 0 2px var(--cat); }
+
+/* Sheets */
+.scrim { position: fixed; inset: 0; background: var(--scrim); display: none; align-items: flex-end; justify-content: center; z-index: 10; }
+.scrim.open { display: flex; }
+.sheet { width: 100%; max-width: 720px; max-height: 88vh; overflow: auto; background: var(--sheet); color: var(--ink); border-radius: 22px 22px 0 0; padding: 20px 16px calc(20px + env(safe-area-inset-bottom)); font-size: 18px; }
+.sheet h2 { margin: 0 0 12px; font-size: 24px; }
+.sheet h3 { margin: 20px 0 6px; font-size: 18px; }
+.sheet p { margin: 6px 0; color: var(--muted); }
+.flag-opts { display: grid; gap: 10px; }
+.flag-opt { min-height: 64px; border-radius: 16px; border: 2px solid var(--line); font-weight: 700; font-size: 22px; text-align: left; padding: 0 18px; display: flex; align-items: center; gap: 12px; color: var(--ink); }
+.flag-opt[aria-pressed="true"] { border-color: var(--ink); background: color-mix(in srgb, var(--ink) 8%, transparent); }
+.flag-opt .box { width: 26px; height: 26px; border-radius: 7px; border: 2px solid var(--muted); display: grid; place-items: center; flex: none; }
+.flag-opt[aria-pressed="true"] .box { background: var(--ink); border-color: var(--ink); color: var(--sheet); }
+.flag-opt .box svg { width: 18px; height: 18px; }
+.sheet-btn { min-height: 56px; border-radius: 14px; font-weight: 700; font-size: 18px; padding: 0 18px; border: 2px solid var(--line); color: var(--ink); }
+.sheet-btn.primary { background: var(--ink); color: var(--sheet); border-color: var(--ink); }
+.sheet-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+.stat-table { width: 100%; border-collapse: collapse; font-size: 18px; }
+.stat-table td { padding: 8px 4px; border-bottom: 1px solid var(--line); }
+.stat-table td:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+.dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px; vertical-align: 0; }
+.toggle { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 56px; border-bottom: 1px solid var(--line); font-weight: 600; }
+.toggle input { width: 28px; height: 28px; accent-color: #1F7A4D; }
+.picks { margin: 6px 0 0; padding-left: 20px; color: var(--muted); font-size: 16px; }
+
+/* Start */
+.start { flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 18px; padding-bottom: 40px; }
+.start h1 { font-size: clamp(40px, 11vw, 64px); line-height: 1; margin: 0; font-weight: 800; }
+.start p { margin: 0; font-size: 20px; color: var(--on-cat-soft); }
+.start .next { flex: none; min-height: 96px; font-size: 36px; }
+.empty { margin: auto 0; font-size: 26px; font-weight: 700; text-align: center; }
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <div class="start" id="start">
+    <h1>Curious Kids<br>Questions</h1>
+    <p id="loadNote">Loading questions...</p>
+    <button class="next" id="startBtn" disabled>Play</button>
+  </div>
+</div>
+
+<div class="scrim" id="scrim"><div class="sheet" id="sheet" role="dialog" aria-modal="true"></div></div>
+
+<script src="app.js"></script>
+</body>
+</html>

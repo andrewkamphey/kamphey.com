@@ -1,0 +1,14 @@
+-0 intro line, not a statement
+6 a=T ;; r
+14 e=
+20 e=Tall buildings often get hit more than once.
+24 e=
+28 e=
+30 e=
+65 a=T ;; e=The frontal lobe helps you make decisions, solve problems, and plan what to do next.
+71 e=
+75 e=If a virus gets onto your hands, soap can help break it up.
+77 e=
+83 e=
+84 e=
+103 e=

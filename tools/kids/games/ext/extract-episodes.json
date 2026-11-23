@@ -1,0 +1,3962 @@
+[
+ {
+  "order": 0,
+  "title": "Why Is the Ocean Blue?",
+  "date": "2025-04-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 494
+ },
+ {
+  "order": 1,
+  "title": "New Episodes Every Day Starting June 1!",
+  "date": "2025-05-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 493
+ },
+ {
+  "order": 2,
+  "title": "How Old Are the Trees?",
+  "date": "2025-06-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 492
+ },
+ {
+  "order": 3,
+  "title": "Why Can\u2019t We See Air?",
+  "date": "2025-06-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 491
+ },
+ {
+  "order": 4,
+  "title": "Why Do You Need to Sleep?",
+  "date": "2025-06-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 490
+ },
+ {
+  "order": 5,
+  "title": "What\u2019s Inside a Volcano?",
+  "date": "2025-06-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 489
+ },
+ {
+  "order": 6,
+  "title": "How Do Fish Breathe Underwater?",
+  "date": "2025-06-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 488
+ },
+ {
+  "order": 7,
+  "title": "Captain Curious: The Color Red",
+  "date": "2025-06-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 487
+ },
+ {
+  "order": 8,
+  "title": "How Do Computers Work?",
+  "date": "2025-06-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 486
+ },
+ {
+  "order": 9,
+  "title": "How Does Your Body Heal a Cut?",
+  "date": "2025-06-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 485
+ },
+ {
+  "order": 10,
+  "title": "How Does a Seed Turn Into a Plant?",
+  "date": "2025-06-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 484
+ },
+ {
+  "order": 11,
+  "title": "What Makes Lightning and Thunder?",
+  "date": "2025-06-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 483
+ },
+ {
+  "order": 12,
+  "title": "Captain Curious: The Color Blue",
+  "date": "2025-06-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 482
+ },
+ {
+  "order": 13,
+  "title": "How Do Birds Fly?",
+  "date": "2025-06-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 481
+ },
+ {
+  "order": 14,
+  "title": "Why Does It Rain?",
+  "date": "2025-06-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 480
+ },
+ {
+  "order": 15,
+  "title": "What Makes Your Hair Grow?",
+  "date": "2025-06-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 479
+ },
+ {
+  "order": 16,
+  "title": "Why Do Bubbles Pop?",
+  "date": "2025-06-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 478
+ },
+ {
+  "order": 17,
+  "title": "Why Do Some Balloons Float (and Others Fall)?",
+  "date": "2025-06-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 477
+ },
+ {
+  "order": 18,
+  "title": "Captain Curious: The Color Yellow",
+  "date": "2025-06-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 476
+ },
+ {
+  "order": 19,
+  "title": "Why Do the Seasons Change?",
+  "date": "2025-06-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 475
+ },
+ {
+  "order": 20,
+  "title": "Why Do Stars Twinkle?",
+  "date": "2025-06-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 474
+ },
+ {
+  "order": 21,
+  "title": "Why Do You Get Goosebumps?",
+  "date": "2025-06-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 473
+ },
+ {
+  "order": 22,
+  "title": "What Do Owls Do at Night?",
+  "date": "2025-06-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 472
+ },
+ {
+  "order": 23,
+  "title": "Captain Curious: What Are Odd & Even Numbers?",
+  "date": "2025-06-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 471
+ },
+ {
+  "order": 24,
+  "title": "What Is Gravity?",
+  "date": "2025-06-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 470
+ },
+ {
+  "order": 25,
+  "title": "Why Can't You Tickle Yourself?",
+  "date": "2025-06-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 469
+ },
+ {
+  "order": 26,
+  "title": "How Does a Toilet Work?",
+  "date": "2025-06-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 468
+ },
+ {
+  "order": 27,
+  "title": "How Does Your Brain Think?",
+  "date": "2025-06-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 467
+ },
+ {
+  "order": 28,
+  "title": "Why Does Your Stomach Growl?",
+  "date": "2025-07-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 466
+ },
+ {
+  "order": 29,
+  "title": "Why Do Shadows Follow You?",
+  "date": "2025-07-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 465
+ },
+ {
+  "order": 30,
+  "title": "Captain Curious: What Are Your Five Senses?",
+  "date": "2025-07-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 464
+ },
+ {
+  "order": 31,
+  "title": "How Does Soap Clean Our Hands?",
+  "date": "2025-07-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 463
+ },
+ {
+  "order": 32,
+  "title": "How Do Snakes Move without Legs?",
+  "date": "2025-07-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 462
+ },
+ {
+  "order": 33,
+  "title": "How Do Ants Find Food?",
+  "date": "2025-07-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 461
+ },
+ {
+  "order": 34,
+  "title": "Why Does Your Heart Beat?",
+  "date": "2025-07-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 460
+ },
+ {
+  "order": 35,
+  "title": "How Does Your Voice Work?",
+  "date": "2025-07-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 459
+ },
+ {
+  "order": 36,
+  "title": "Captain Curious: Why Is 10 the Most Important Number?",
+  "date": "2025-07-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 458
+ },
+ {
+  "order": 37,
+  "title": "Why Does the Moon Change Shapes?",
+  "date": "2025-07-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 457
+ },
+ {
+  "order": 38,
+  "title": "Why Do We Hiccup?",
+  "date": "2025-07-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 456
+ },
+ {
+  "order": 39,
+  "title": "What Makes the Wind Blow?",
+  "date": "2025-07-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 455
+ },
+ {
+  "order": 40,
+  "title": "How Do Glasses Help You See?",
+  "date": "2025-07-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 454
+ },
+ {
+  "order": 41,
+  "title": "Captain Curious: Can You Fly through the Sun?",
+  "date": "2025-07-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 453
+ },
+ {
+  "order": 42,
+  "title": "Why Do Your Ears Pop?",
+  "date": "2025-07-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 452
+ },
+ {
+  "order": 43,
+  "title": "How Do You Draw a Perfect Circle?",
+  "date": "2025-07-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 451
+ },
+ {
+  "order": 44,
+  "title": "What Are Molecules?",
+  "date": "2025-07-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 450
+ },
+ {
+  "order": 45,
+  "title": "Why Do Roller Coasters Make You Feel Weird?",
+  "date": "2025-07-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 449
+ },
+ {
+  "order": 46,
+  "title": "Vegetables vs Fruits: What&#x27;s the difference?",
+  "date": "2025-07-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 448
+ },
+ {
+  "order": 47,
+  "title": "How Do Time Zones Work?",
+  "date": "2025-07-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 447
+ },
+ {
+  "order": 48,
+  "title": "Captain Curious: Why is a Day on Mercury Longer than a Year?",
+  "date": "2025-07-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 446
+ },
+ {
+  "order": 49,
+  "title": "What Is an Echo?",
+  "date": "2025-07-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 445
+ },
+ {
+  "order": 50,
+  "title": "How Are Cars Built?",
+  "date": "2025-07-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 444
+ },
+ {
+  "order": 51,
+  "title": "How Does Music Change the Way We Feel?",
+  "date": "2025-07-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 443
+ },
+ {
+  "order": 52,
+  "title": "Captain Curious: Why Is Venus the Hottest Planet?",
+  "date": "2025-07-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 442
+ },
+ {
+  "order": 53,
+  "title": "What If Everyone in the World Shared One Giant Pizza?",
+  "date": "2025-08-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 441
+ },
+ {
+  "order": 54,
+  "title": "Who Invented the Alphabet?",
+  "date": "2025-08-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 440
+ },
+ {
+  "order": 55,
+  "title": "How Do We Get Electricity?",
+  "date": "2025-08-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 439
+ },
+ {
+  "order": 56,
+  "title": "How Is Paper Made?",
+  "date": "2025-08-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 438
+ },
+ {
+  "order": 57,
+  "title": "Captain Curious: Why Is Earth the Only Planet We Can Live On?",
+  "date": "2025-08-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 437
+ },
+ {
+  "order": 58,
+  "title": "How Long Would It Take to Walk across the United States?",
+  "date": "2025-08-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 436
+ },
+ {
+  "order": 59,
+  "title": "How Do Escalators Work?",
+  "date": "2025-08-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 435
+ },
+ {
+  "order": 60,
+  "title": "Why Do We Have to Blink?",
+  "date": "2025-08-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 434
+ },
+ {
+  "order": 61,
+  "title": "Where Do Rocks Come From?",
+  "date": "2025-08-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 433
+ },
+ {
+  "order": 62,
+  "title": "Do Rainbows Touch the Ground?",
+  "date": "2025-08-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 432
+ },
+ {
+  "order": 63,
+  "title": "Why Do Mosquito Bites Itch?",
+  "date": "2025-08-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 431
+ },
+ {
+  "order": 64,
+  "title": "Captain Curious: How Does the Moon Change the Earth?",
+  "date": "2025-08-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 430
+ },
+ {
+  "order": 65,
+  "title": "Are Dogs Colorblind?",
+  "date": "2025-08-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 429
+ },
+ {
+  "order": 66,
+  "title": "How Are Video Games Made?",
+  "date": "2025-08-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 428
+ },
+ {
+  "order": 67,
+  "title": "How Do Big Boats Float?",
+  "date": "2025-08-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 427
+ },
+ {
+  "order": 68,
+  "title": "How Are Houses Made?",
+  "date": "2025-08-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 426
+ },
+ {
+  "order": 69,
+  "title": "How Do Trash Trucks Work?",
+  "date": "2025-08-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 425
+ },
+ {
+  "order": 70,
+  "title": "What Is Daylight Savings Time?",
+  "date": "2025-08-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 424
+ },
+ {
+  "order": 71,
+  "title": "Captain Curious: Will Humans Really Go to Mars?",
+  "date": "2025-08-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 423
+ },
+ {
+  "order": 72,
+  "title": "How Do Fish See Underwater?",
+  "date": "2025-08-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 422
+ },
+ {
+  "order": 73,
+  "title": "Where Do Groceries Come From?",
+  "date": "2025-08-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 421
+ },
+ {
+  "order": 74,
+  "title": "How Does Money Work?",
+  "date": "2025-08-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 420
+ },
+ {
+  "order": 75,
+  "title": "Why Is Blood Red?",
+  "date": "2025-08-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 419
+ },
+ {
+  "order": 76,
+  "title": "Can You Make Your Own Water?",
+  "date": "2025-08-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 418
+ },
+ {
+  "order": 77,
+  "title": "Why Are Some Months Longer Than Others?",
+  "date": "2025-08-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 417
+ },
+ {
+  "order": 78,
+  "title": "Captain Curious: How Does Jupiter Protect the Earth?",
+  "date": "2025-08-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 416
+ },
+ {
+  "order": 79,
+  "title": "How Do Babies Grow in Mom's Womb?",
+  "date": "2025-08-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 415
+ },
+ {
+  "order": 80,
+  "title": "Why Do We Shiver When We Are Cold?",
+  "date": "2025-08-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 414
+ },
+ {
+  "order": 81,
+  "title": "Why Do Some People Have Freckles?",
+  "date": "2025-09-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 413
+ },
+ {
+  "order": 82,
+  "title": "How Much Do Clouds Weigh?",
+  "date": "2025-09-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 412
+ },
+ {
+  "order": 83,
+  "title": "How Fast Do Hummingbird Wings Flap?",
+  "date": "2025-09-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 411
+ },
+ {
+  "order": 84,
+  "title": "Captain Curious: What Are Saturn's Rings Made Of?",
+  "date": "2025-09-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 410
+ },
+ {
+  "order": 85,
+  "title": "How Does a Caterpillar Become a Butterfly?",
+  "date": "2025-09-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 409
+ },
+ {
+  "order": 86,
+  "title": "How Does a Light Switch Turn on the Light?",
+  "date": "2025-09-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 408
+ },
+ {
+  "order": 87,
+  "title": "When Were Board Games Invented?",
+  "date": "2025-09-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 407
+ },
+ {
+  "order": 88,
+  "title": "Why Do We Need to Brush Our Teeth?",
+  "date": "2025-09-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 406
+ },
+ {
+  "order": 89,
+  "title": "Why Do People Have Allergies?",
+  "date": "2025-09-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 405
+ },
+ {
+  "order": 90,
+  "title": "How Do Bones Heal After They're Broken?",
+  "date": "2025-09-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 404
+ },
+ {
+  "order": 91,
+  "title": "Captain Curious: Why Is Uranus Sideways?",
+  "date": "2025-09-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 403
+ },
+ {
+  "order": 92,
+  "title": "What Would Happen If You Stopped Drinking Water?",
+  "date": "2025-09-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 402
+ },
+ {
+  "order": 93,
+  "title": "Why Do Birds Sing?",
+  "date": "2025-09-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 401
+ },
+ {
+  "order": 94,
+  "title": "How Do We Keep Track of All the Animals?",
+  "date": "2025-09-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 400
+ },
+ {
+  "order": 95,
+  "title": "Can We Travel through Time?",
+  "date": "2025-09-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 399
+ },
+ {
+  "order": 96,
+  "title": "How Did People Get Food before Grocery Stores?",
+  "date": "2025-09-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 398
+ },
+ {
+  "order": 97,
+  "title": "Captain Curious: How Was Neptune Discovered with Math?",
+  "date": "2025-09-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 397
+ },
+ {
+  "order": 98,
+  "title": "How Does a Key Lock a Door?",
+  "date": "2025-09-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 396
+ },
+ {
+  "order": 99,
+  "title": "How Does a Radio Work?",
+  "date": "2025-09-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 395
+ },
+ {
+  "order": 100,
+  "title": "Why Can You See Yourself in the Mirror?",
+  "date": "2025-09-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 394
+ },
+ {
+  "order": 101,
+  "title": "Why Do We Dream?",
+  "date": "2025-09-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 393
+ },
+ {
+  "order": 102,
+  "title": "What Is Fire?",
+  "date": "2025-09-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 392
+ },
+ {
+  "order": 103,
+  "title": "Captain Curious: Why Isn't Pluto a Planet Anymore?",
+  "date": "2025-09-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 391
+ },
+ {
+  "order": 104,
+  "title": "Why Does Your House Get Dusty?",
+  "date": "2025-09-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 390
+ },
+ {
+  "order": 105,
+  "title": "How Do Dishwashers Clean Dishes?",
+  "date": "2025-09-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 389
+ },
+ {
+  "order": 106,
+  "title": "Why Do Camels Have Humps?",
+  "date": "2025-09-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 388
+ },
+ {
+  "order": 107,
+  "title": "Why Do Light Bulbs Burn Out?",
+  "date": "2025-09-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 387
+ },
+ {
+  "order": 108,
+  "title": "How Do Microwaves Heat Food So Fast?",
+  "date": "2025-09-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 386
+ },
+ {
+  "order": 109,
+  "title": "Why Do We Yawn?",
+  "date": "2025-10-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 385
+ },
+ {
+  "order": 110,
+  "title": "Detective Curious: What Are Onomatopoeias?",
+  "date": "2025-10-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 384
+ },
+ {
+  "order": 111,
+  "title": "Why Do Turtles Live So Long?",
+  "date": "2025-10-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 383
+ },
+ {
+  "order": 112,
+  "title": "How Do Your Ears Hear Sound?",
+  "date": "2025-10-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 382
+ },
+ {
+  "order": 113,
+  "title": "Why Do We Forget Things?",
+  "date": "2025-10-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 381
+ },
+ {
+  "order": 114,
+  "title": "Why Do Leaves Change Colors in the Fall?",
+  "date": "2025-10-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 380
+ },
+ {
+  "order": 115,
+  "title": "Why Do Giraffes Have Such Long Necks?",
+  "date": "2025-10-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 379
+ },
+ {
+  "order": 116,
+  "title": "Detective Curious: What Are Palindromes?",
+  "date": "2025-10-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 378
+ },
+ {
+  "order": 117,
+  "title": "How Do Elevators Work?",
+  "date": "2025-10-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 377
+ },
+ {
+  "order": 118,
+  "title": "What Is the International Space Station?",
+  "date": "2025-10-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 376
+ },
+ {
+  "order": 119,
+  "title": "Why Do We Burp?",
+  "date": "2025-10-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 375
+ },
+ {
+  "order": 120,
+  "title": "When Were Phones Invented?",
+  "date": "2025-10-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 374
+ },
+ {
+  "order": 121,
+  "title": "Why Do We Get Dizzy When We Spin Around?",
+  "date": "2025-10-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 373
+ },
+ {
+  "order": 122,
+  "title": "Why Do Your Muscles Get Sore after Playing Hard?",
+  "date": "2025-10-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 372
+ },
+ {
+  "order": 123,
+  "title": "Detective Curious: What Are Homophones?",
+  "date": "2025-10-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 371
+ },
+ {
+  "order": 124,
+  "title": "Why Are Some Teeth Pointy and Others Flat?",
+  "date": "2025-10-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 370
+ },
+ {
+  "order": 125,
+  "title": "What Are Fingerprints?",
+  "date": "2025-10-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 369
+ },
+ {
+  "order": 126,
+  "title": "How Does Wi-Fi Work?",
+  "date": "2025-10-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 368
+ },
+ {
+  "order": 127,
+  "title": "Why Do Earthquakes Happen?",
+  "date": "2025-10-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 367
+ },
+ {
+  "order": 128,
+  "title": "How Do Satellites Stay in Space?",
+  "date": "2025-10-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 366
+ },
+ {
+  "order": 129,
+  "title": "How Do Cameras Take Pictures?",
+  "date": "2025-10-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 365
+ },
+ {
+  "order": 130,
+  "title": "Detective Curious: What Are Rhymes?",
+  "date": "2025-10-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 364
+ },
+ {
+  "order": 131,
+  "title": "Why Does Food Go Bad?",
+  "date": "2025-10-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 363
+ },
+ {
+  "order": 132,
+  "title": "Why Do You Get Sunburns?",
+  "date": "2025-10-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 362
+ },
+ {
+  "order": 133,
+  "title": "How Does a Zipper Work?",
+  "date": "2025-10-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 361
+ },
+ {
+  "order": 134,
+  "title": "How Does a Vacuum Cleaner Suck Up Dirt?",
+  "date": "2025-10-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 360
+ },
+ {
+  "order": 135,
+  "title": "Why Can You Erase Pencil Writing?",
+  "date": "2025-10-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 359
+ },
+ {
+  "order": 136,
+  "title": "How Can You Guess a Dice Roll?",
+  "date": "2025-10-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 358
+ },
+ {
+  "order": 137,
+  "title": "Detective Curious: What Are Anagrams?",
+  "date": "2025-10-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 357
+ },
+ {
+  "order": 138,
+  "title": "Why Do Fire Ants Sting?",
+  "date": "2025-10-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 356
+ },
+ {
+  "order": 139,
+  "title": "What Is the Fastest Bird?",
+  "date": "2025-11-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 355
+ },
+ {
+  "order": 140,
+  "title": "Why Do We Feel Pain?",
+  "date": "2025-11-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 354
+ },
+ {
+  "order": 141,
+  "title": "How Does a Bicycle Stay Balanced?",
+  "date": "2025-11-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 353
+ },
+ {
+  "order": 142,
+  "title": "Why Do Cars Need Gas?",
+  "date": "2025-11-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 352
+ },
+ {
+  "order": 143,
+  "title": "How Do Babies Learn to Talk?",
+  "date": "2025-11-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 351
+ },
+ {
+  "order": 144,
+  "title": "How Do You Make a Movie?",
+  "date": "2025-11-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 350
+ },
+ {
+  "order": 145,
+  "title": "Why Do Your Legs Fall Asleep Sometimes?",
+  "date": "2025-11-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 349
+ },
+ {
+  "order": 146,
+  "title": "Why Do Sticks Make Different Sounds When You Swing Them?",
+  "date": "2025-11-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 348
+ },
+ {
+  "order": 147,
+  "title": "Why Is It Bad to Look at the Sun?",
+  "date": "2025-11-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 347
+ },
+ {
+  "order": 148,
+  "title": "Why Is Chocolate Good for You?",
+  "date": "2025-11-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 346
+ },
+ {
+  "order": 149,
+  "title": "Why Do Fans Make You Cold?",
+  "date": "2025-11-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 345
+ },
+ {
+  "order": 150,
+  "title": "How Do You Make a Podcast?",
+  "date": "2025-11-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 344
+ },
+ {
+  "order": 151,
+  "title": "Why Do Horses Sleep Standing Up?",
+  "date": "2025-11-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 343
+ },
+ {
+  "order": 152,
+  "title": "What Is a Paradox?",
+  "date": "2025-11-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 342
+ },
+ {
+  "order": 153,
+  "title": "How Do Telescopes See So Far Away?",
+  "date": "2025-11-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 341
+ },
+ {
+  "order": 154,
+  "title": "How Do Traffic Lights Know When to Change Colors?",
+  "date": "2025-11-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 340
+ },
+ {
+  "order": 155,
+  "title": "Why Do Dolphins Jump Out of the Water?",
+  "date": "2025-11-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 339
+ },
+ {
+  "order": 156,
+  "title": "Why Do You Have Wax in Your Ears?",
+  "date": "2025-11-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 338
+ },
+ {
+  "order": 157,
+  "title": "Why Do You Get a Sore Throat?",
+  "date": "2025-11-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 337
+ },
+ {
+  "order": 158,
+  "title": "Why Do Dollar Bills Look So Weird?",
+  "date": "2025-11-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 336
+ },
+ {
+  "order": 159,
+  "title": "Why Do Elephants Have Big Trunks?",
+  "date": "2025-11-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 335
+ },
+ {
+  "order": 160,
+  "title": "What If You Never Cut Your Fingernails?",
+  "date": "2025-11-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 334
+ },
+ {
+  "order": 161,
+  "title": "How Do Fire Extinguishers Work?",
+  "date": "2025-11-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 333
+ },
+ {
+  "order": 162,
+  "title": "Why Does the Sky Change Colors at Sunrise & Sunset?",
+  "date": "2025-11-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 332
+ },
+ {
+  "order": 163,
+  "title": "How Do Doctors Make You Sleep During Surgery?",
+  "date": "2025-11-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 331
+ },
+ {
+  "order": 164,
+  "title": "Why Are Skunks So Smelly?",
+  "date": "2025-11-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 330
+ },
+ {
+  "order": 165,
+  "title": "Why Does Play-Doh Dry Out?",
+  "date": "2025-11-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 329
+ },
+ {
+  "order": 166,
+  "title": "How Many People Does It Take to Make a Pencil?",
+  "date": "2025-11-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 328
+ },
+ {
+  "order": 167,
+  "title": "How Deep Is the Ocean? (Curious Kids Club)",
+  "date": "2025-12-01",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 327
+ },
+ {
+  "order": 168,
+  "title": "What Is Outside of Outer Space?",
+  "date": "2025-12-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 326
+ },
+ {
+  "order": 169,
+  "title": "How Are Mountains Made?",
+  "date": "2025-12-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 325
+ },
+ {
+  "order": 170,
+  "title": "What Happens in Your Mouth When You Eat? (Captain Curious)",
+  "date": "2025-12-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 324
+ },
+ {
+  "order": 171,
+  "title": "How Does Glue Make Things Stick Together?",
+  "date": "2025-12-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 323
+ },
+ {
+  "order": 172,
+  "title": "How Do We Know What Dinosaurs Looked Like?",
+  "date": "2025-12-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 322
+ },
+ {
+  "order": 173,
+  "title": "Why Do We Sweat?",
+  "date": "2025-12-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 321
+ },
+ {
+  "order": 174,
+  "title": "Why Do Some People Sleepwalk?",
+  "date": "2025-12-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 320
+ },
+ {
+  "order": 175,
+  "title": "What Would Happen If the Earth Stopped Spinning?",
+  "date": "2025-12-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 319
+ },
+ {
+  "order": 176,
+  "title": "How Fast Does the Esophagus Move Food? (Captain Curious)",
+  "date": "2025-12-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 318
+ },
+ {
+  "order": 177,
+  "title": "Why Do We Cry When We Are Sad?",
+  "date": "2025-12-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 317
+ },
+ {
+  "order": 178,
+  "title": "Can You Make Your Own Board Game?",
+  "date": "2025-12-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 316
+ },
+ {
+  "order": 179,
+  "title": "How Are Snowflakes Made?",
+  "date": "2025-12-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 315
+ },
+ {
+  "order": 180,
+  "title": "Why Do You Get Carsick?",
+  "date": "2025-12-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 314
+ },
+ {
+  "order": 181,
+  "title": "Why Do We Get Fevers?",
+  "date": "2025-12-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 313
+ },
+ {
+  "order": 182,
+  "title": "What Really Happens Inside Your Stomach? (Captain Curious)",
+  "date": "2025-12-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 312
+ },
+ {
+  "order": 183,
+  "title": "How Do Calculators Know Every Math Problem?",
+  "date": "2025-12-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 311
+ },
+ {
+  "order": 184,
+  "title": "How Many Babies Are Born Every Second?",
+  "date": "2025-12-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 310
+ },
+ {
+  "order": 185,
+  "title": "Why Can't You Just Eat Candy All the Time?",
+  "date": "2025-12-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 309
+ },
+ {
+  "order": 186,
+  "title": "Why Do Dogs Lick You?",
+  "date": "2025-12-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 308
+ },
+ {
+  "order": 187,
+  "title": "How Does a Piano Make Music?",
+  "date": "2025-12-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 307
+ },
+ {
+  "order": 188,
+  "title": "Why Are Vitamins Good for You?",
+  "date": "2025-12-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 306
+ },
+ {
+  "order": 189,
+  "title": "Why Do Some Trees Stay Green All Year Long?",
+  "date": "2025-12-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 305
+ },
+ {
+  "order": 190,
+  "title": "How Do Large Fish Get to the Aquarium?",
+  "date": "2025-12-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 304
+ },
+ {
+  "order": 191,
+  "title": "Why Do Your Fingers Get Wrinkled in the Bath Tub?",
+  "date": "2025-12-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 303
+ },
+ {
+  "order": 192,
+  "title": "Why Do Clothes Shrink in the Dryer?",
+  "date": "2025-12-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 302
+ },
+ {
+  "order": 193,
+  "title": "Why Do You Get a Headache?",
+  "date": "2025-12-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 301
+ },
+ {
+  "order": 194,
+  "title": "Why Do Batteries in Your Toys Die?",
+  "date": "2025-12-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 300
+ },
+ {
+  "order": 195,
+  "title": "Why Does a Lizard's Tail Fall Off?",
+  "date": "2025-12-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 299
+ },
+ {
+  "order": 196,
+  "title": "Why Do Cats Purr?",
+  "date": "2026-01-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 298
+ },
+ {
+  "order": 197,
+  "title": "What Happens When You Throw Up? (Curious Kids Club)",
+  "date": "2026-01-02",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 297
+ },
+ {
+  "order": 198,
+  "title": "Why Does a Compass Always Point North?",
+  "date": "2026-01-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 296
+ },
+ {
+  "order": 199,
+  "title": "When Happens When You Lose Blood?",
+  "date": "2026-01-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 295
+ },
+ {
+  "order": 200,
+  "title": "Why Are Days Shorter in the Winter?",
+  "date": "2026-01-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 294
+ },
+ {
+  "order": 201,
+  "title": "Why Do You Get a Brain Freeze When Eating Ice Cream?",
+  "date": "2026-01-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 293
+ },
+ {
+  "order": 202,
+  "title": "Why Do You Look Like Your Parents?",
+  "date": "2026-01-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 292
+ },
+ {
+  "order": 203,
+  "title": "What Does the Small Intestine Do? (Captain Curious)",
+  "date": "2026-01-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 291
+ },
+ {
+  "order": 204,
+  "title": "Why Isn't There Air in Outer Space?",
+  "date": "2026-01-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 290
+ },
+ {
+  "order": 205,
+  "title": "Why Do You Get Chapped Lips in the Winter?",
+  "date": "2026-01-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 289
+ },
+ {
+  "order": 206,
+  "title": "Why Do People Look Tiny from Far Away?",
+  "date": "2026-01-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 288
+ },
+ {
+  "order": 207,
+  "title": "How Are Cartoons Made?",
+  "date": "2026-01-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 287
+ },
+ {
+  "order": 208,
+  "title": "How Does a Stethoscope Hear Your Heartbeat?",
+  "date": "2026-01-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 286
+ },
+ {
+  "order": 209,
+  "title": "Why Do You Need to Go to the Bathroom? (Captain Curious)",
+  "date": "2026-01-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 285
+ },
+ {
+  "order": 210,
+  "title": "Why Does the Power Go Out Sometimes?",
+  "date": "2026-01-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 284
+ },
+ {
+  "order": 211,
+  "title": "What Makes Tape Sticky?",
+  "date": "2026-01-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 283
+ },
+ {
+  "order": 212,
+  "title": "How Do Hurricanes Form?",
+  "date": "2026-01-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 282
+ },
+ {
+  "order": 213,
+  "title": "Why Do We Get Pimples?",
+  "date": "2026-01-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 281
+ },
+ {
+  "order": 214,
+  "title": "How Do Birds Build Their Nests?",
+  "date": "2026-01-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 280
+ },
+ {
+  "order": 215,
+  "title": "How Are Stuffed Animals Made?",
+  "date": "2026-01-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 279
+ },
+ {
+  "order": 216,
+  "title": "How Are Diamonds Made?",
+  "date": "2026-01-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 278
+ },
+ {
+  "order": 217,
+  "title": "What's the Difference Between a Tree and a Bush?",
+  "date": "2026-01-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 277
+ },
+ {
+  "order": 218,
+  "title": "Why Is Water Wet?",
+  "date": "2026-01-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 276
+ },
+ {
+  "order": 219,
+  "title": "How Do iPhones Work?",
+  "date": "2026-01-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 275
+ },
+ {
+  "order": 220,
+  "title": "Where Does All the Trash Go?",
+  "date": "2026-01-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 274
+ },
+ {
+  "order": 221,
+  "title": "Why Do Animals Hibernate?",
+  "date": "2026-01-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 273
+ },
+ {
+  "order": 222,
+  "title": "How Do Snails Move?",
+  "date": "2026-01-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 272
+ },
+ {
+  "order": 223,
+  "title": "Why Can't You See a Clock's Hour Hand Move?",
+  "date": "2026-02-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 271
+ },
+ {
+  "order": 224,
+  "title": "How Do TVs Work?",
+  "date": "2026-02-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 270
+ },
+ {
+  "order": 225,
+  "title": "Why Are Dogs' Noses Wet? (Curious Kids Club)",
+  "date": "2026-02-03",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 269
+ },
+ {
+  "order": 226,
+  "title": "Asteroids vs Meteorites: What's the Difference?",
+  "date": "2026-02-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 268
+ },
+ {
+  "order": 227,
+  "title": "Why Does Your Nose Get Stuffy?",
+  "date": "2026-02-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 267
+ },
+ {
+  "order": 228,
+  "title": "Why Do Markers Dry Out?",
+  "date": "2026-02-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 266
+ },
+ {
+  "order": 229,
+  "title": "Why Is Your Voice Louder When You Cover Your Ears?",
+  "date": "2026-02-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 265
+ },
+ {
+  "order": 230,
+  "title": "Why Do Some People Snore?",
+  "date": "2026-02-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 264
+ },
+ {
+  "order": 231,
+  "title": "How Do Muscles Grow Bigger?",
+  "date": "2026-02-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 263
+ },
+ {
+  "order": 232,
+  "title": "How Smart Are Baboons?",
+  "date": "2026-02-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 262
+ },
+ {
+  "order": 233,
+  "title": "Why Do You Have a Belly Button?",
+  "date": "2026-02-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 261
+ },
+ {
+  "order": 234,
+  "title": "Why Do You Get Shocked When You Touch Things?",
+  "date": "2026-02-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 260
+ },
+ {
+  "order": 235,
+  "title": "How Do Squids Squirt Ink?",
+  "date": "2026-02-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 259
+ },
+ {
+  "order": 236,
+  "title": "Why Do Balloons Shrink Over Time?",
+  "date": "2026-02-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 258
+ },
+ {
+  "order": 237,
+  "title": "Why Do Snakes Lose Their Skin?",
+  "date": "2026-02-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 257
+ },
+ {
+  "order": 238,
+  "title": "How Are Legos Made? (Curious Kids Club)",
+  "date": "2026-02-17",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 256
+ },
+ {
+  "order": 239,
+  "title": "Why Do Bright Lights Hurt Your Eyes?",
+  "date": "2026-02-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 255
+ },
+ {
+  "order": 240,
+  "title": "Why Do We Blush?",
+  "date": "2026-02-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 254
+ },
+ {
+  "order": 241,
+  "title": "Why Do You Hear Ringing When It's Very Quiet?",
+  "date": "2026-02-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 253
+ },
+ {
+  "order": 242,
+  "title": "Why Do Grown Ups Get Gray Hair?",
+  "date": "2026-02-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 252
+ },
+ {
+  "order": 243,
+  "title": "How Is Cardboard Made?",
+  "date": "2026-02-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 251
+ },
+ {
+  "order": 244,
+  "title": "Why Are Some Stars Brighter than Others?",
+  "date": "2026-02-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 250
+ },
+ {
+  "order": 245,
+  "title": "What Happens When You Bite Your Tongue?",
+  "date": "2026-02-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 249
+ },
+ {
+  "order": 246,
+  "title": "Why Does Glass Look Invisible?",
+  "date": "2026-02-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 248
+ },
+ {
+  "order": 247,
+  "title": "How Do You Know When You Fall Asleep?",
+  "date": "2026-02-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 247
+ },
+ {
+  "order": 248,
+  "title": "Why Does Exercise Make You Feel Good?",
+  "date": "2026-02-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 246
+ },
+ {
+  "order": 249,
+  "title": "Why Do Your Fingers Go Numb When It's Cold?",
+  "date": "2026-03-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 245
+ },
+ {
+  "order": 250,
+  "title": "How Do Thermometers Check Your Temperature?",
+  "date": "2026-03-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 244
+ },
+ {
+  "order": 251,
+  "title": "Why Do Babies Spit Up So Much? (Curious Kids Club)",
+  "date": "2026-03-03",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 243
+ },
+ {
+  "order": 252,
+  "title": "How Do You Make Ice Cream?",
+  "date": "2026-03-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 242
+ },
+ {
+  "order": 253,
+  "title": "Why Do Flamingos Stand on One Leg?",
+  "date": "2026-03-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 241
+ },
+ {
+  "order": 254,
+  "title": "How Do Automatic Doors Know You're There?",
+  "date": "2026-03-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 240
+ },
+ {
+  "order": 255,
+  "title": "How Does a Refrigerator Keep Food Cold?",
+  "date": "2026-03-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 239
+ },
+ {
+  "order": 256,
+  "title": "How Do Ceiling Fans Work?",
+  "date": "2026-03-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 238
+ },
+ {
+  "order": 257,
+  "title": "How Do Dogs Bark?",
+  "date": "2026-03-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 237
+ },
+ {
+  "order": 258,
+  "title": "Why Do Ice Cubes Crack in Your Drink?",
+  "date": "2026-03-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 236
+ },
+ {
+  "order": 259,
+  "title": "How Do Printers Work?",
+  "date": "2026-03-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 235
+ },
+ {
+  "order": 260,
+  "title": "How Long Do Crocodiles Live?",
+  "date": "2026-03-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 234
+ },
+ {
+  "order": 261,
+  "title": "What Would Happen If the Sun Exploded?",
+  "date": "2026-03-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 233
+ },
+ {
+  "order": 262,
+  "title": "Why Does Liquid Stay in a Straw?",
+  "date": "2026-03-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 232
+ },
+ {
+  "order": 263,
+  "title": "Why Do Penguins Waddle?",
+  "date": "2026-03-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 231
+ },
+ {
+  "order": 264,
+  "title": "What Is Physics and How Do Things Move? (Curious Kids Club)",
+  "date": "2026-03-17",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 230
+ },
+ {
+  "order": 265,
+  "title": "Why Do You Get Butterflies in Your Stomach?",
+  "date": "2026-03-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 229
+ },
+ {
+  "order": 266,
+  "title": "Why Do You Cough?",
+  "date": "2026-03-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 228
+ },
+ {
+  "order": 267,
+  "title": "Why Does Soda Explode When You Shake It?",
+  "date": "2026-03-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 227
+ },
+ {
+  "order": 268,
+  "title": "Why Do We Sleep Talk?",
+  "date": "2026-03-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 226
+ },
+ {
+  "order": 269,
+  "title": "Why Do Cakes Rise in the Oven?",
+  "date": "2026-03-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 225
+ },
+ {
+  "order": 270,
+  "title": "Why Do Frogs Croak at Night?",
+  "date": "2026-03-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 224
+ },
+ {
+  "order": 271,
+  "title": "What Is a Galaxy?",
+  "date": "2026-03-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 223
+ },
+ {
+  "order": 272,
+  "title": "How Did Nintendo Get Its Name?",
+  "date": "2026-03-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 222
+ },
+ {
+  "order": 273,
+  "title": "How Cold Is Antarctica?",
+  "date": "2026-03-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 221
+ },
+ {
+  "order": 274,
+  "title": "What Is TNT?",
+  "date": "2026-03-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 220
+ },
+ {
+  "order": 275,
+  "title": "How Is Cotton Candy Made?",
+  "date": "2026-03-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 219
+ },
+ {
+  "order": 276,
+  "title": "What Is Fog?",
+  "date": "2026-03-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 218
+ },
+ {
+  "order": 277,
+  "title": "How Far Can Sea Turtles Swim? (Curious Kids Club)",
+  "date": "2026-03-31",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 217
+ },
+ {
+  "order": 278,
+  "title": "What Was the Biggest Dinosaur?",
+  "date": "2026-04-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 216
+ },
+ {
+  "order": 279,
+  "title": "What Happens When You Sprain Your Ankle?",
+  "date": "2026-04-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 215
+ },
+ {
+  "order": 280,
+  "title": "How Are Marbles Made?",
+  "date": "2026-04-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 214
+ },
+ {
+  "order": 281,
+  "title": "Why Don't You Remember Being a Baby?",
+  "date": "2026-04-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 213
+ },
+ {
+  "order": 282,
+  "title": "How Does the Internet Work?",
+  "date": "2026-04-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 212
+ },
+ {
+  "order": 283,
+  "title": "Why Do Birds Migrate?",
+  "date": "2026-04-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 211
+ },
+ {
+  "order": 284,
+  "title": "Why Are Apples Green or Red?",
+  "date": "2026-04-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 210
+ },
+ {
+  "order": 285,
+  "title": "How Do Grapes Become Raisins?",
+  "date": "2026-04-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 209
+ },
+ {
+  "order": 286,
+  "title": "How Does Your Mail Get Delivered?",
+  "date": "2026-04-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 208
+ },
+ {
+  "order": 287,
+  "title": "How Are Drums Made at a Factory?",
+  "date": "2026-04-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 207
+ },
+ {
+  "order": 288,
+  "title": "How Are Bridges Built Over Water?",
+  "date": "2026-04-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 206
+ },
+ {
+  "order": 289,
+  "title": "How Long Does It Take to Become a Doctor?",
+  "date": "2026-04-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 205
+ },
+ {
+  "order": 290,
+  "title": "What's the Difference Between Frogs and Toads? (Curious Kids Club)",
+  "date": "2026-04-14",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 204
+ },
+ {
+  "order": 291,
+  "title": "What Is the Smallest Animal on Earth?",
+  "date": "2026-04-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 203
+ },
+ {
+  "order": 292,
+  "title": "How Do Hot Air Balloons Fly?",
+  "date": "2026-04-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 202
+ },
+ {
+  "order": 293,
+  "title": "What Are Blisters?",
+  "date": "2026-04-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 201
+ },
+ {
+  "order": 294,
+  "title": "Why Do Bugs Bite Us?",
+  "date": "2026-04-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 200
+ },
+ {
+  "order": 295,
+  "title": "How Do Electric Eels Shock You?",
+  "date": "2026-04-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 199
+ },
+ {
+  "order": 296,
+  "title": "Where Did the Happy Birthday Song Come From?",
+  "date": "2026-04-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 198
+ },
+ {
+  "order": 297,
+  "title": "How Long Can Humans Hold Their Breath?",
+  "date": "2026-04-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 197
+ },
+ {
+  "order": 298,
+  "title": "How Do Rubber Bands Work?",
+  "date": "2026-04-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 196
+ },
+ {
+  "order": 299,
+  "title": "What Would Happen If the Moon Disappeared?",
+  "date": "2026-04-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 195
+ },
+ {
+  "order": 300,
+  "title": "How Do We Predict the Weather?",
+  "date": "2026-04-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 194
+ },
+ {
+  "order": 301,
+  "title": "How Is a Slinky Made?",
+  "date": "2026-04-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 193
+ },
+ {
+  "order": 302,
+  "title": "Why Are Old Movies in Black & White?",
+  "date": "2026-04-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 192
+ },
+ {
+  "order": 303,
+  "title": "What Is a Prime Number?",
+  "date": "2026-04-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 191
+ },
+ {
+  "order": 304,
+  "title": "Why Is Peanut Butter So Sticky? (Curious Kids Club)",
+  "date": "2026-04-28",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 190
+ },
+ {
+  "order": 305,
+  "title": "Do Worms Have Hearts or Brains?",
+  "date": "2026-04-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 189
+ },
+ {
+  "order": 306,
+  "title": "Why Do Roads Crack?",
+  "date": "2026-05-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 188
+ },
+ {
+  "order": 307,
+  "title": "How Is Paint Made?",
+  "date": "2026-05-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 187
+ },
+ {
+  "order": 308,
+  "title": "What's the Difference Between a Mouse and a Rat?",
+  "date": "2026-05-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 186
+ },
+ {
+  "order": 309,
+  "title": "How Are M&M's Made?",
+  "date": "2026-05-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 185
+ },
+ {
+  "order": 310,
+  "title": "How Long Can a Fish Survive Out of Water?",
+  "date": "2026-05-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 184
+ },
+ {
+  "order": 311,
+  "title": "Why Do Cows Moo?",
+  "date": "2026-05-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 183
+ },
+ {
+  "order": 312,
+  "title": "How Does Your Tongue Stay Wet?",
+  "date": "2026-05-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 182
+ },
+ {
+  "order": 313,
+  "title": "Why Do Some Chicken Eggs Hatch and Some Don't?",
+  "date": "2026-05-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 181
+ },
+ {
+  "order": 314,
+  "title": "How Do Credit Cards Work?",
+  "date": "2026-05-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 180
+ },
+ {
+  "order": 315,
+  "title": "Where Did the Statue of Liberty Come From?",
+  "date": "2026-05-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 179
+ },
+ {
+  "order": 316,
+  "title": "How Do Bar Codes Work?",
+  "date": "2026-05-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 178
+ },
+ {
+  "order": 317,
+  "title": "How Do Forest Fires Start? (Curious Kids Club)",
+  "date": "2026-05-12",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 177
+ },
+ {
+  "order": 318,
+  "title": "Why Do Bats Sleep Upside Down?",
+  "date": "2026-05-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 176
+ },
+ {
+  "order": 319,
+  "title": "Why Do Your Knuckles Crack and Pop?",
+  "date": "2026-05-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 175
+ },
+ {
+  "order": 320,
+  "title": "How Are Goldfish Crackers Made?",
+  "date": "2026-05-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 174
+ },
+ {
+  "order": 321,
+  "title": "Why are French Fries Called \"French Fries?\"",
+  "date": "2026-05-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 173
+ },
+ {
+  "order": 322,
+  "title": "How Do Astronauts Get Ready to Go to Outer Space?",
+  "date": "2026-05-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 172
+ },
+ {
+  "order": 323,
+  "title": "What Are Bruises?",
+  "date": "2026-05-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 171
+ },
+ {
+  "order": 324,
+  "title": "What Is the Strongest Material in the World?",
+  "date": "2026-05-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 170
+ },
+ {
+  "order": 325,
+  "title": "How Did People See Before Glasses Were Invented?",
+  "date": "2026-05-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 169
+ },
+ {
+  "order": 326,
+  "title": "How Do People Talk Using Sign Language?",
+  "date": "2026-05-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 168
+ },
+ {
+  "order": 327,
+  "title": "How Do Trampolines Work?",
+  "date": "2026-05-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 167
+ },
+ {
+  "order": 328,
+  "title": "What Are Eyebrows For?",
+  "date": "2026-05-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 166
+ },
+ {
+  "order": 329,
+  "title": "How Do You Tell a Good Story?",
+  "date": "2026-05-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 165
+ },
+ {
+  "order": 330,
+  "title": "Why Do Kids Grow Taller?",
+  "date": "2026-05-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 164
+ },
+ {
+  "order": 331,
+  "title": "Why Do We Get Bloody Noses? (Curious Kids Club)",
+  "date": "2026-05-26",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 163
+ },
+ {
+  "order": 332,
+  "title": "How Are Potato Chips Made?",
+  "date": "2026-05-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 162
+ },
+ {
+  "order": 333,
+  "title": "Why Do Kangaroos Have Pouches?",
+  "date": "2026-05-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 161
+ },
+ {
+  "order": 334,
+  "title": "How Do Boomerangs Work?",
+  "date": "2026-05-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 160
+ },
+ {
+  "order": 335,
+  "title": "What Is Infinity?",
+  "date": "2026-05-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 159
+ },
+ {
+  "order": 336,
+  "title": "Why Do Humans Love Puzzles?",
+  "date": "2026-05-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 158
+ },
+ {
+  "order": 337,
+  "title": "How Is Maple Syrup Made?",
+  "date": "2026-06-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 157
+ },
+ {
+  "order": 338,
+  "title": "How Do Animals Use Camouflage?",
+  "date": "2026-06-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 156
+ },
+ {
+  "order": 339,
+  "title": "How Fast Is the Fastest Car?",
+  "date": "2026-06-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 155
+ },
+ {
+  "order": 340,
+  "title": "Why Does Soap Hurt Your Eyes?",
+  "date": "2026-06-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 154
+ },
+ {
+  "order": 341,
+  "title": "Why Do You Get Cramps?",
+  "date": "2026-06-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 153
+ },
+ {
+  "order": 342,
+  "title": "How Do Spiders Make Webs?",
+  "date": "2026-06-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 152
+ },
+ {
+  "order": 343,
+  "title": "How Do Horses Sleep Standing Up?",
+  "date": "2026-06-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 151
+ },
+ {
+  "order": 344,
+  "title": "Why Do Sheep Baa?",
+  "date": "2026-06-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 150
+ },
+ {
+  "order": 345,
+  "title": "What Are Boogers? (Curious Kids Club)",
+  "date": "2026-06-09",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 149
+ },
+ {
+  "order": 346,
+  "title": "How Do Dandelions Work?",
+  "date": "2026-06-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 148
+ },
+ {
+  "order": 347,
+  "title": "How Do Cucumbers Become Pickles?",
+  "date": "2026-06-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 147
+ },
+ {
+  "order": 348,
+  "title": "What Makes Something Random?",
+  "date": "2026-06-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 146
+ },
+ {
+  "order": 349,
+  "title": "How Do Vacuum Cleaners Work?",
+  "date": "2026-06-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 145
+ },
+ {
+  "order": 350,
+  "title": "What Makes Popcorn Pop?",
+  "date": "2026-06-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 144
+ },
+ {
+  "order": 351,
+  "title": "Why Can't We Feel the Earth Spinning?",
+  "date": "2026-06-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 143
+ },
+ {
+  "order": 352,
+  "title": "How Do Bowling Alleys Work?",
+  "date": "2026-06-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 142
+ },
+ {
+  "order": 353,
+  "title": "Why Are Sloths So Slow?",
+  "date": "2026-06-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 141
+ },
+ {
+  "order": 354,
+  "title": "Why Do We Have Hair in Our Noses?",
+  "date": "2026-06-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 140
+ },
+ {
+  "order": 355,
+  "title": "How Do Walkie Talkies Work?",
+  "date": "2026-06-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 139
+ },
+ {
+  "order": 356,
+  "title": "Why Do Volcanoes Erupt?",
+  "date": "2026-06-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 138
+ },
+ {
+  "order": 357,
+  "title": "How Do Magnets Work?",
+  "date": "2026-06-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 137
+ },
+ {
+  "order": 358,
+  "title": "Why Does Salty Food Make You Thirsty?",
+  "date": "2026-06-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 136
+ },
+ {
+  "order": 359,
+  "title": "How Many Trees Are There on Earth? (Curious Kids Club)",
+  "date": "2026-06-23",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 135
+ },
+ {
+  "order": 360,
+  "title": "How Do Things Glow in the Dark?",
+  "date": "2026-06-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 134
+ },
+ {
+  "order": 361,
+  "title": "Why Are Some Babies Twins?",
+  "date": "2026-06-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 133
+ },
+ {
+  "order": 362,
+  "title": "Why Are Some Berries Poisonous?",
+  "date": "2026-06-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 132
+ },
+ {
+  "order": 363,
+  "title": "Where Does Waste Go After You Flush the Toilet?",
+  "date": "2026-06-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 131
+ },
+ {
+  "order": 364,
+  "title": "Why Does Your Hair Grow?",
+  "date": "2026-06-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 130
+ },
+ {
+  "order": 365,
+  "title": "How Do Fireworks Work?",
+  "date": "2026-06-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 129
+ },
+ {
+  "order": 366,
+  "title": "Why Are Pretzels Shaped Like That?",
+  "date": "2026-06-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 128
+ },
+ {
+  "order": 367,
+  "title": "Why Do We Pass Gas?",
+  "date": "2026-07-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 127
+ },
+ {
+  "order": 368,
+  "title": "Who Invented Basketball?",
+  "date": "2026-07-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 126
+ },
+ {
+  "order": 369,
+  "title": "What Is at the Center of the Earth?",
+  "date": "2026-07-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 125
+ },
+ {
+  "order": 370,
+  "title": "How Does a Seed Turn into a Plant?",
+  "date": "2026-07-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 124
+ },
+ {
+  "order": 371,
+  "title": "How Do Trains Move?",
+  "date": "2026-07-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 123
+ },
+ {
+  "order": 372,
+  "title": "How Do Antibiotics Work?",
+  "date": "2026-07-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 122
+ },
+ {
+  "order": 373,
+  "title": "Why Do Things Cost Money? (Curious Kid Club)",
+  "date": "2026-07-07",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 121
+ },
+ {
+  "order": 374,
+  "title": "How Can Parrots Talk?",
+  "date": "2026-07-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 120
+ },
+ {
+  "order": 375,
+  "title": "What Makes a Flood Happen?",
+  "date": "2026-07-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 119
+ },
+ {
+  "order": 376,
+  "title": "How Long Would It Take to Dig through the Earth?",
+  "date": "2026-07-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 118
+ },
+ {
+  "order": 377,
+  "title": "How Are Roller Coasters Safe?",
+  "date": "2026-07-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 117
+ },
+ {
+  "order": 378,
+  "title": "What Is a Black Hole?",
+  "date": "2026-07-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 116
+ },
+ {
+  "order": 379,
+  "title": "Why Do Zebras Have Stripes?",
+  "date": "2026-07-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 115
+ },
+ {
+  "order": 380,
+  "title": "How Does Cheese Get Made?",
+  "date": "2026-07-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 114
+ },
+ {
+  "order": 381,
+  "title": "What's the Difference Between a Jet and an Airplane?",
+  "date": "2026-07-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 113
+ },
+ {
+  "order": 382,
+  "title": "Why Do Fruits Get Bruises?",
+  "date": "2026-07-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 112
+ },
+ {
+  "order": 383,
+  "title": "iPhone vs Android & Mac vs PC: What's the Difference?",
+  "date": "2026-07-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 111
+ },
+ {
+  "order": 384,
+  "title": "Why Do Crabs Walk Sideways?",
+  "date": "2026-07-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 110
+ },
+ {
+  "order": 385,
+  "title": "Why Can Music Make You Happy or Sad?",
+  "date": "2026-07-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 109
+ },
+ {
+  "order": 386,
+  "title": "How Do Rattlesnakes Rattle Their Tails?",
+  "date": "2026-07-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 108
+ },
+ {
+  "order": 387,
+  "title": "Why Do We Yawn? (Curious Kids Club)",
+  "date": "2026-07-21",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 107
+ },
+ {
+  "order": 388,
+  "title": "Why Does the Sun Go Down?",
+  "date": "2026-07-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 106
+ },
+ {
+  "order": 389,
+  "title": "How Do Sharks Sleep While Swimming?",
+  "date": "2026-07-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 105
+ },
+ {
+  "order": 390,
+  "title": "How Do Microphones Record Your Voice?",
+  "date": "2026-07-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 104
+ },
+ {
+  "order": 391,
+  "title": "How Do Toilets Work?",
+  "date": "2026-07-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 103
+ },
+ {
+  "order": 392,
+  "title": "Why Do We Laugh?",
+  "date": "2026-07-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 102
+ },
+ {
+  "order": 393,
+  "title": "What Do Astronauts Eat in Outer Space?",
+  "date": "2026-07-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 101
+ },
+ {
+  "order": 394,
+  "title": "How Do Tsunamis Form?",
+  "date": "2026-07-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 100
+ },
+ {
+  "order": 395,
+  "title": "How Is Yogurt Made?",
+  "date": "2026-07-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 99
+ },
+ {
+  "order": 396,
+  "title": "How Does Sunscreen Protect Your Skin?",
+  "date": "2026-07-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 98
+ },
+ {
+  "order": 397,
+  "title": "Why Do You Have Gums in Your Mouth?",
+  "date": "2026-07-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 97
+ },
+ {
+  "order": 398,
+  "title": "What Would Happen If the Moon Crashed into the Earth?",
+  "date": "2026-08-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 96
+ },
+ {
+  "order": 399,
+  "title": "Why Do People Snore?",
+  "date": "2026-08-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 95
+ },
+ {
+  "order": 400,
+  "title": "Why Are Cheetahs So Fast?",
+  "date": "2026-08-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 94
+ },
+ {
+  "order": 401,
+  "title": "Why Does Mold Grow on Food? (Curious Kids Club)",
+  "date": "2026-08-04",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 93
+ },
+ {
+  "order": 402,
+  "title": "How Do Electric Guitars Work?",
+  "date": "2026-08-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 92
+ },
+ {
+  "order": 403,
+  "title": "How Does Grass Grow?",
+  "date": "2026-08-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 91
+ },
+ {
+  "order": 404,
+  "title": "How Deep Is the Sand at the Beach?",
+  "date": "2026-08-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 90
+ },
+ {
+  "order": 405,
+  "title": "How Do Our Eyes See?",
+  "date": "2026-08-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 89
+ },
+ {
+  "order": 406,
+  "title": "How Long Would It Take to Walk Around the World?",
+  "date": "2026-08-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 88
+ },
+ {
+  "order": 407,
+  "title": "How Does AI (Artificial Intelligence) Know So Much?",
+  "date": "2026-08-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 87
+ },
+ {
+  "order": 408,
+  "title": "What Are the Northern Lights (Aurora Borealis)?",
+  "date": "2026-08-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 86
+ },
+ {
+  "order": 409,
+  "title": "What Makes Food Spicy?",
+  "date": "2026-08-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 85
+ },
+ {
+  "order": 410,
+  "title": "What Was the World's First Video Game?",
+  "date": "2026-08-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 84
+ },
+ {
+  "order": 411,
+  "title": "How Are Monster Trucks Built?",
+  "date": "2026-08-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 83
+ },
+ {
+  "order": 412,
+  "title": "How Do Solar Panels Work?",
+  "date": "2026-08-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 82
+ },
+ {
+  "order": 413,
+  "title": "How Do Calculators Work?",
+  "date": "2026-08-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 81
+ },
+ {
+  "order": 414,
+  "title": "Why Does the Temperature Change?",
+  "date": "2026-08-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 80
+ },
+ {
+  "order": 415,
+  "title": "How Do Light Bulbs Work? (Curious Kids Club)",
+  "date": "2026-08-18",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 79
+ },
+ {
+  "order": 416,
+  "title": "How Are Books Made?",
+  "date": "2026-08-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 78
+ },
+ {
+  "order": 417,
+  "title": "What Is the World's Longest Snake?",
+  "date": "2026-08-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 77
+ },
+ {
+  "order": 418,
+  "title": "How Do Fire Hydrants Work?",
+  "date": "2026-08-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 76
+ },
+ {
+  "order": 419,
+  "title": "Why Can't You Eat Candy All the Time?",
+  "date": "2026-08-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 75
+ },
+ {
+  "order": 420,
+  "title": "How Do X-Rays Work?",
+  "date": "2026-08-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 74
+ },
+ {
+  "order": 421,
+  "title": "How Does Tap Water Get Hot?",
+  "date": "2026-08-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 73
+ },
+ {
+  "order": 422,
+  "title": "How Do Ants Carry Heavy Things?",
+  "date": "2026-08-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 72
+ },
+ {
+  "order": 423,
+  "title": "What Do Worms Eat?",
+  "date": "2026-08-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 71
+ },
+ {
+  "order": 424,
+  "title": "What Would Happen If the Earth Crashed into the Sun?",
+  "date": "2026-08-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 70
+ },
+ {
+  "order": 425,
+  "title": "What Is a Splinter?",
+  "date": "2026-08-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 69
+ },
+ {
+  "order": 426,
+  "title": "How Do Firefighters Put Out Fires?",
+  "date": "2026-08-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 68
+ },
+ {
+  "order": 427,
+  "title": "Why Does the Sky Change Colors?",
+  "date": "2026-08-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 67
+ },
+ {
+  "order": 428,
+  "title": "Do Bears Eat Honey?",
+  "date": "2026-08-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 66
+ },
+ {
+  "order": 429,
+  "title": "How Does a Caterpillar Turn into a Butterfly? (Curious Kids Club)",
+  "date": "2026-09-01",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 65
+ },
+ {
+  "order": 430,
+  "title": "What Is an Aircraft Carrier?",
+  "date": "2026-09-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 64
+ },
+ {
+  "order": 431,
+  "title": "Fahrenheit vs Celsius: What's the Difference?",
+  "date": "2026-09-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 63
+ },
+ {
+  "order": 432,
+  "title": "Why Does the Sun Keep Burning?",
+  "date": "2026-09-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 62
+ },
+ {
+  "order": 433,
+  "title": "How Is Curious Kids Every Day Made?",
+  "date": "2026-09-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 61
+ },
+ {
+  "order": 434,
+  "title": "How Are Crayons Made?",
+  "date": "2026-09-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 60
+ },
+ {
+  "order": 435,
+  "title": "Why Don't Pets Get Sick When We Get Sick?",
+  "date": "2026-09-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 59
+ },
+ {
+  "order": 436,
+  "title": "How Do Suction Cups Stick to Things?",
+  "date": "2026-09-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 58
+ },
+ {
+  "order": 437,
+  "title": "How Do Woodpeckers Keep from Hurting Their Heads?",
+  "date": "2026-09-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 57
+ },
+ {
+  "order": 438,
+  "title": "Why Do You Sink in Quicksand?",
+  "date": "2026-09-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 56
+ },
+ {
+  "order": 439,
+  "title": "Why Do Beavers Build Dams?",
+  "date": "2026-09-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 55
+ },
+ {
+  "order": 440,
+  "title": "How Do Bees Make Honey?",
+  "date": "2026-09-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 54
+ },
+ {
+  "order": 441,
+  "title": "What Causes Cavities in Your Teeth? (Curious Kids Club)",
+  "date": "2026-09-15",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 53
+ },
+ {
+  "order": 442,
+  "title": "How Do Snails Get Their Shells?",
+  "date": "2026-09-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 52
+ },
+ {
+  "order": 443,
+  "title": "Why Is the Ocean Salty?",
+  "date": "2026-09-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 51
+ },
+ {
+  "order": 444,
+  "title": "How Do Clouds Stay Up in the Sky?",
+  "date": "2026-09-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 50
+ },
+ {
+  "order": 445,
+  "title": "Which Dinosaur Was the Biggest?",
+  "date": "2026-09-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 49
+ },
+ {
+  "order": 446,
+  "title": "What Is a Hurricane?",
+  "date": "2026-09-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 48
+ },
+ {
+  "order": 447,
+  "title": "Why Do Cats and Dogs Have Whiskers?",
+  "date": "2026-09-27",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 47
+ },
+ {
+  "order": 448,
+  "title": "Why Do Traffic Jams Happen?",
+  "date": "2026-09-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 46
+ },
+ {
+  "order": 449,
+  "title": "Why Are Apples Different Colors? (Curious Kids Club)",
+  "date": "2026-09-29",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 45
+ },
+ {
+  "order": 450,
+  "title": "What Is the Strongest Insect in the World?",
+  "date": "2026-09-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 44
+ },
+ {
+  "order": 451,
+  "title": "Why Are Flowers Different Colors?",
+  "date": "2026-10-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 43
+ },
+ {
+  "order": 452,
+  "title": "Can You Fly through the Sun? (Captain Curious)",
+  "date": "2026-10-02",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 42
+ },
+ {
+  "order": 453,
+  "title": "Why Do We Sneeze?",
+  "date": "2026-10-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 41
+ },
+ {
+  "order": 454,
+  "title": "Why Do Your Muscles Get Sore?",
+  "date": "2026-10-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 40
+ },
+ {
+  "order": 455,
+  "title": "Why is a Day on Mercury Longer than a Year? (Captain Curious)",
+  "date": "2026-10-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 28
+ },
+ {
+  "order": 456,
+  "title": "Why Is a Cactus So Sharp?",
+  "date": "2026-10-10",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 27
+ },
+ {
+  "order": 457,
+  "title": "How Do Airplanes Fly?",
+  "date": "2026-10-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 26
+ },
+ {
+  "order": 458,
+  "title": "Why Are Armpits So Ticklish?",
+  "date": "2026-10-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 25
+ },
+ {
+  "order": 459,
+  "title": "Why Does Cutting Onions Make You Cry?",
+  "date": "2026-10-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 39
+ },
+ {
+  "order": 460,
+  "title": "Why Is Venus the Hottest Planet? (Captain Curious)",
+  "date": "2026-10-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 38
+ },
+ {
+  "order": 461,
+  "title": "Why Do Oceans Have Waves?",
+  "date": "2026-10-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 37
+ },
+ {
+  "order": 462,
+  "title": "How Do Tall Buildings Not Fall Down?",
+  "date": "2026-10-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 36
+ },
+ {
+  "order": 463,
+  "title": "How Do We Know If Food Is Safe to Eat?",
+  "date": "2026-10-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 35
+ },
+ {
+  "order": 464,
+  "title": "How Does a Washing Machine Clean Clothes?",
+  "date": "2026-10-20",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 34
+ },
+ {
+  "order": 465,
+  "title": "How Did People Make Maps Before Satellites?",
+  "date": "2026-10-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 33
+ },
+ {
+  "order": 466,
+  "title": "Why Is Earth the Only Planet We Can Live On? (Captain Curious)",
+  "date": "2026-10-23",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 32
+ },
+ {
+  "order": 467,
+  "title": "Why Do Turtles Have Shells?",
+  "date": "2026-10-24",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 31
+ },
+ {
+  "order": 468,
+  "title": "What are Fingerprints?",
+  "date": "2026-10-25",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 30
+ },
+ {
+  "order": 469,
+  "title": "Why Can't You Put Metal in the Microwave?",
+  "date": "2026-10-26",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 24
+ },
+ {
+  "order": 470,
+  "title": "What Causes an Earthquake? (Curious Kids Club)",
+  "date": "2026-10-27",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 23
+ },
+ {
+  "order": 471,
+  "title": "Why Don't Tattoos Go Away?",
+  "date": "2026-10-28",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 22
+ },
+ {
+  "order": 472,
+  "title": "Why Do Trees Have Bark?",
+  "date": "2026-10-29",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 21
+ },
+ {
+  "order": 473,
+  "title": "How Does the Moon Change the Earth? (Captain Curious)",
+  "date": "2026-10-30",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 20
+ },
+ {
+  "order": 474,
+  "title": "Why Do Our Teeth Fall Out?",
+  "date": "2026-10-31",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 19
+ },
+ {
+  "order": 475,
+  "title": "What Is Poison Ivy?",
+  "date": "2026-11-01",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 29
+ },
+ {
+  "order": 476,
+  "title": "Why Does Metal Rust?",
+  "date": "2026-11-03",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 18
+ },
+ {
+  "order": 477,
+  "title": "How Do Your Lungs Help You Breathe?",
+  "date": "2026-11-04",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 17
+ },
+ {
+  "order": 478,
+  "title": "How Does a Record Player Work?",
+  "date": "2026-11-05",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 16
+ },
+ {
+  "order": 479,
+  "title": "Will Humans Really Go to Mars? (Captain Curious)",
+  "date": "2026-11-06",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 15
+ },
+ {
+  "order": 480,
+  "title": "How Do Mountains Form?",
+  "date": "2026-11-07",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 14
+ },
+ {
+  "order": 481,
+  "title": "Why Do You Get a Brain Freeze?",
+  "date": "2026-11-08",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 13
+ },
+ {
+  "order": 482,
+  "title": "How Long Would it Take to Sail around the World?",
+  "date": "2026-11-09",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 12
+ },
+ {
+  "order": 483,
+  "title": "How Do TVs Work? (Curious Kids Club)",
+  "date": "2026-11-10",
+  "source": "rephonic",
+  "club": true,
+  "file_index": 11
+ },
+ {
+  "order": 484,
+  "title": "What Causes Sinkholes?",
+  "date": "2026-11-11",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 10
+ },
+ {
+  "order": 485,
+  "title": "How Do Astronauts Sleep in Space?",
+  "date": "2026-11-12",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 9
+ },
+ {
+  "order": 486,
+  "title": "How Does Jupiter Protect the Earth? (Captain Curious)",
+  "date": "2026-11-13",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 8
+ },
+ {
+  "order": 487,
+  "title": "How Fast Do Hummingbirds Flap Their Wings?",
+  "date": "2026-11-14",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 7
+ },
+ {
+  "order": 488,
+  "title": "How Do Jellyfish Sting?",
+  "date": "2026-11-15",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 6
+ },
+ {
+  "order": 489,
+  "title": "How Strong Are Gorillas?",
+  "date": "2026-11-16",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 5
+ },
+ {
+  "order": 490,
+  "title": "Why Do Hammerhead Sharks Have Eyes on the Sides of Their Heads?",
+  "date": "2026-11-17",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 4
+ },
+ {
+  "order": 491,
+  "title": "How Is Glass Made?",
+  "date": "2026-11-18",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 3
+ },
+ {
+  "order": 492,
+  "title": "How Do Rockets Launch?",
+  "date": "2026-11-19",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 2
+ },
+ {
+  "order": 493,
+  "title": "How Fast Does Light Travel?",
+  "date": "2026-11-21",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 1
+ },
+ {
+  "order": 494,
+  "title": "How Do Tornadoes Form?",
+  "date": "2026-11-22",
+  "source": "rephonic",
+  "club": false,
+  "file_index": 0
+ }
+]

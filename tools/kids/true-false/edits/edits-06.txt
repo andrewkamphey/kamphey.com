@@ -1,0 +1,20 @@
+8 e=
+13 e=Some animals have eyes on the front of their head, and some have them on the side.
+-16 intro line, not a statement
+17 e=Mostly water and then a few other minerals and salt.
+21 e=It happens during the third stage of sleep.
+24 e=Sleepwalking happens during the third stage of sleep, deep non-REM sleep.
+26 e=As long as you're going a steady speed in a car, you don't really feel the movement.
+30 e=When you swallow, the epiglottis closes your airway for a moment.
+32 e=Every time you blink, they put a little bit of moisture on your eyes.
+54 e=
+58 e=It gives your body quick energy, and that's about it.
+60 e=
+61 e=Licking is part of their communication.
+71 e=
+72 e=
+73 e=It's another way they protect themselves.
+75 e=
+76 e=They need a little bit of time to get used to their new environment.
+92 e=That's just what we call it when they're no longer working.
+110 e=The earth spins at a very consistent speed.

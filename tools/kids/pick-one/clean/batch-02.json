@@ -1,0 +1,960 @@
+{
+ "items": [
+  {
+   "episode": "Captain Curious: What Are Your Five Senses?",
+   "date": "2025-07-03",
+   "orig": "What about the eyes? What sense do you use with your eyes?",
+   "prompt": "What sense do you use with your eyes?",
+   "answer": "Sight",
+   "choices": [
+    "Taste",
+    "Hearing"
+   ]
+  },
+  {
+   "episode": "Captain Curious: What Are Your Five Senses?",
+   "date": "2025-07-03",
+   "orig": "What about your mouth? What sense do you use with your mouth?",
+   "prompt": "What sense do you use with your mouth?",
+   "answer": "Taste",
+   "choices": [
+    "Smell",
+    "Touch"
+   ]
+  },
+  {
+   "episode": "Captain Curious: What Are Your Five Senses?",
+   "date": "2025-07-03",
+   "orig": "What about your nose?",
+   "prompt": "What sense do you use with your nose?",
+   "answer": "Smell",
+   "choices": [
+    "Sight",
+    "Hearing"
+   ]
+  },
+  {
+   "episode": "Captain Curious: What Are Your Five Senses?",
+   "date": "2025-07-03",
+   "orig": "What about your ears? What do you do with your ears?",
+   "prompt": "What sense do you use with your ears?",
+   "answer": "Hearing",
+   "choices": [
+    "Taste",
+    "Touch"
+   ]
+  },
+  {
+   "episode": "How Does Soap Clean Our Hands?",
+   "date": "2025-07-04",
+   "orig": "Why doesn't water alone clean your hands well?",
+   "prompt": "Why doesn't water alone clean your hands well?",
+   "answer": "It can't remove oil and germs",
+   "choices": [
+    "It is too cold",
+    "It is too slippery"
+   ],
+   "explain": "It needs help. It needs soap."
+  },
+  {
+   "episode": "How Does Soap Clean Our Hands?",
+   "date": "2025-07-04",
+   "orig": "What are the two sides of a soap molecule for?",
+   "prompt": "What are the two sides of a soap molecule for?",
+   "answer": "Grabbing water and oil",
+   "choices": [
+    "Making colors and foam",
+    "Smelling nice and sweet"
+   ],
+   "explain": "One side grabs the water, and one grabs oil and dirt."
+  },
+  {
+   "episode": "How Does Soap Clean Our Hands?",
+   "date": "2025-07-04",
+   "orig": "Why should you wash your hands for 20 seconds?",
+   "prompt": "Why should you wash your hands for 20 seconds?",
+   "answer": "To give soap time to work",
+   "choices": [
+    "To warm up your hands",
+    "To make the sink full"
+   ],
+   "explain": "It gives the soap time to break up and wash away germs."
+  },
+  {
+   "episode": "How Does Soap Clean Our Hands?",
+   "date": "2025-07-04",
+   "orig": "What do you call the tiny organisms that make you sick and live on your skin until you wash them away?",
+   "prompt": "What do you call the tiny things that make you sick and live on your skin until you wash them away?",
+   "answer": "Germs",
+   "choices": [
+    "Freckles",
+    "Bubbles"
+   ]
+  },
+  {
+   "episode": "How Do Snakes Move without Legs?",
+   "date": "2025-07-06",
+   "orig": "What kind of movement do most snakes use? Remember the hand and arm movement we did in the S shape? Do you remember what that was called?",
+   "prompt": "What kind of movement do most snakes use?",
+   "answer": "Lateral undulation",
+   "choices": [
+    "Rectilinear movement",
+    "Tail bouncing"
+   ],
+   "explain": "It's the S-shaped movement."
+  },
+  {
+   "episode": "How Do Snakes Move without Legs?",
+   "date": "2025-07-06",
+   "orig": "What do snakes push against to move?",
+   "prompt": "What do snakes push against to move?",
+   "answer": "The ground and rocks",
+   "choices": [
+    "The air",
+    "Their own skin"
+   ]
+  },
+  {
+   "episode": "How Do Snakes Move without Legs?",
+   "date": "2025-07-06",
+   "orig": "What helps snakes grip the ground?",
+   "prompt": "What helps snakes grip the ground?",
+   "answer": "Special belly scales",
+   "choices": [
+    "Tiny claws",
+    "Sticky slime"
+   ]
+  },
+  {
+   "episode": "How Do Ants Find Food?",
+   "date": "2025-07-07",
+   "orig": "What do ants use to leave a trail for others to follow?",
+   "prompt": "What do ants use to leave a trail for others to follow?",
+   "answer": "Pheromones",
+   "choices": [
+    "Footprints",
+    "Crumbs"
+   ],
+   "explain": "That's the scent trail that they leave."
+  },
+  {
+   "episode": "How Do Ants Find Food?",
+   "date": "2025-07-07",
+   "orig": "How do ants smell these trails? Do you remember what part of their body they use?",
+   "prompt": "What part of their body do ants use to smell trails?",
+   "answer": "Their antennae",
+   "choices": [
+    "Their eyes",
+    "Their legs"
+   ]
+  },
+  {
+   "episode": "How Do Ants Find Food?",
+   "date": "2025-07-07",
+   "orig": "What happens to the trail when the food is gone?",
+   "prompt": "What happens to an ant trail when the food is gone?",
+   "answer": "It fades away",
+   "choices": [
+    "It gets stronger",
+    "It changes color"
+   ],
+   "explain": "All the ants leave."
+  },
+  {
+   "episode": "Why Does Your Heart Beat?",
+   "date": "2025-07-08",
+   "orig": "What does your heart do?",
+   "prompt": "What does your heart do?",
+   "answer": "Pumps blood",
+   "choices": [
+    "Digests food",
+    "Helps you think"
+   ],
+   "explain": "It pumps blood around your body."
+  },
+  {
+   "episode": "Why Does Your Heart Beat?",
+   "date": "2025-07-08",
+   "orig": "What happens when your body needs more oxygen quickly?",
+   "prompt": "What happens when your body needs more oxygen quickly?",
+   "answer": "Your heart beats faster",
+   "choices": [
+    "Your heart stops",
+    "Your heart gets smaller"
+   ]
+  },
+  {
+   "episode": "Why Does Your Heart Beat?",
+   "date": "2025-07-08",
+   "orig": "And what do blood vessels do?",
+   "prompt": "What do blood vessels do?",
+   "answer": "Carry blood",
+   "choices": [
+    "Make sounds",
+    "Grow hair"
+   ],
+   "explain": "They carry blood to and from parts of your body."
+  },
+  {
+   "episode": "How Does Your Voice Work?",
+   "date": "2025-07-09",
+   "orig": "What part of your body holds the vocal cords?",
+   "prompt": "What part of your body holds the vocal cords?",
+   "answer": "The voice box",
+   "choices": [
+    "The stomach",
+    "The nose"
+   ],
+   "explain": "That would be the larynx or voice box."
+  },
+  {
+   "episode": "How Does Your Voice Work?",
+   "date": "2025-07-09",
+   "orig": "What makes your vocal cords create sound?",
+   "prompt": "What makes your vocal cords create sound?",
+   "answer": "Air from your lungs",
+   "choices": [
+    "Blood from your heart",
+    "Food in your tummy"
+   ],
+   "explain": "The air passes through and vibrates them."
+  },
+  {
+   "episode": "How Does Your Voice Work?",
+   "date": "2025-07-09",
+   "orig": "And then what helps shape sounds into words?",
+   "prompt": "What helps shape sounds into words?",
+   "answer": "Tongue, lips, and teeth",
+   "choices": [
+    "Eyes, ears, and nose",
+    "Hands, arms, and fingers"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Why Is 10 the Most Important Number?",
+   "date": "2025-07-10",
+   "orig": "What is seven plus four?",
+   "prompt": "What is seven plus four?",
+   "answer": "Eleven",
+   "choices": [
+    "Ten",
+    "Twelve"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Why Is 10 the Most Important Number?",
+   "date": "2025-07-10",
+   "orig": "What is six plus four?",
+   "prompt": "What is six plus four?",
+   "answer": "Ten",
+   "choices": [
+    "Nine",
+    "Eleven"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Why Is 10 the Most Important Number?",
+   "date": "2025-07-10",
+   "orig": "This number has one ten and three ones. Huh, do you know what number that is?",
+   "prompt": "What number has one ten and three ones?",
+   "answer": "13",
+   "choices": [
+    "31",
+    "4"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Why Is 10 the Most Important Number?",
+   "date": "2025-07-10",
+   "orig": "This number has five tens and zero ones.",
+   "prompt": "What number has five tens and zero ones?",
+   "answer": "50",
+   "choices": [
+    "5",
+    "15"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Why Is 10 the Most Important Number?",
+   "date": "2025-07-10",
+   "orig": "This number has two tens and one one.",
+   "prompt": "What number has two tens and one one?",
+   "answer": "21",
+   "choices": [
+    "12",
+    "3"
+   ]
+  },
+  {
+   "episode": "Why Does the Moon Change Shapes?",
+   "date": "2025-07-11",
+   "orig": "What is it called when we can't see the moon at all?",
+   "prompt": "What is it called when we can't see the moon at all?",
+   "answer": "A new moon",
+   "choices": [
+    "A full moon",
+    "A half moon"
+   ]
+  },
+  {
+   "episode": "Why Does the Moon Change Shapes?",
+   "date": "2025-07-11",
+   "orig": "And do you remember how many days it takes for the moon to go through all of its phases?",
+   "prompt": "How many days does it take for the moon to go through all of its phases?",
+   "answer": "About 29 days",
+   "choices": [
+    "About 7 days",
+    "About 100 days"
+   ]
+  },
+  {
+   "episode": "Why Does the Moon Change Shapes?",
+   "date": "2025-07-11",
+   "orig": "And what does the earth revolve around?",
+   "prompt": "What does the Earth revolve around?",
+   "answer": "The sun",
+   "choices": [
+    "The moon",
+    "Mars"
+   ]
+  },
+  {
+   "episode": "Why Does the Moon Change Shapes?",
+   "date": "2025-07-11",
+   "orig": "Do you remember what we call the different looks of the moon over a month?",
+   "prompt": "What do we call the different looks of the moon over a month?",
+   "answer": "Phases",
+   "choices": [
+    "Seasons",
+    "Orbits"
+   ]
+  },
+  {
+   "episode": "Why Do We Hiccup?",
+   "date": "2025-07-14",
+   "orig": "What muscle causes hiccups?",
+   "prompt": "What muscle causes hiccups?",
+   "answer": "The diaphragm",
+   "choices": [
+    "The biceps",
+    "The heart"
+   ]
+  },
+  {
+   "episode": "Why Do We Hiccup?",
+   "date": "2025-07-14",
+   "orig": "What snaps shut to make the hiccup sound?",
+   "prompt": "What snaps shut to make the hiccup sound?",
+   "answer": "Your vocal cords",
+   "choices": [
+    "Your teeth",
+    "Your eyelids"
+   ]
+  },
+  {
+   "episode": "Why Do We Hiccup?",
+   "date": "2025-07-14",
+   "orig": "Name one thing that can cause hiccups.",
+   "prompt": "Which of these can cause hiccups?",
+   "answer": "Eating too fast",
+   "choices": [
+    "Reading a book",
+    "Brushing your hair"
+   ],
+   "explain": "Drinking fizzy drinks and getting excited can too."
+  },
+  {
+   "episode": "How Do Glasses Help You See?",
+   "date": "2025-07-16",
+   "orig": "What part of your eye focuses light?",
+   "prompt": "What part of your eye focuses light?",
+   "answer": "The lens",
+   "choices": [
+    "The eyelid",
+    "The eyelash"
+   ]
+  },
+  {
+   "episode": "How Do Glasses Help You See?",
+   "date": "2025-07-16",
+   "orig": "And what do glasses help correct?",
+   "prompt": "What do glasses help correct?",
+   "answer": "How your eye focuses light",
+   "choices": [
+    "The color of your eyes",
+    "How loud things sound"
+   ],
+   "explain": "They help correct how your eye bends and focuses light."
+  },
+  {
+   "episode": "How Do Glasses Help You See?",
+   "date": "2025-07-16",
+   "orig": "And where should the image land for clear vision?",
+   "prompt": "Where in your eye should the image land for clear vision?",
+   "answer": "On the retina",
+   "choices": [
+    "On the eyelid",
+    "On the eyebrow"
+   ],
+   "explain": "The retina is in the back of the eye."
+  },
+  {
+   "episode": "Captain Curious: Can You Fly through the Sun?",
+   "date": "2025-07-17",
+   "orig": "What is the layer of the sun that we can see?",
+   "prompt": "What is the layer of the sun that we can see?",
+   "answer": "The photosphere",
+   "choices": [
+    "The core",
+    "The crust"
+   ]
+  },
+  {
+   "episode": "Why Do Your Ears Pop?",
+   "date": "2025-07-18",
+   "orig": "What tiny tube helps your ears adjust to pressure?",
+   "prompt": "What tiny tube helps your ears adjust to pressure?",
+   "answer": "The Eustachian tube",
+   "choices": [
+    "The windpipe",
+    "The food pipe"
+   ]
+  },
+  {
+   "episode": "Why Do Your Ears Pop?",
+   "date": "2025-07-18",
+   "orig": "What are two things you can do to help your ears pop?",
+   "prompt": "What are two things you can do to help your ears pop?",
+   "answer": "Swallow and yawn",
+   "choices": [
+    "Blink and clap",
+    "Hop and wave"
+   ]
+  },
+  {
+   "episode": "Why Do Your Ears Pop?",
+   "date": "2025-07-18",
+   "orig": "Why do babies cry during takeoff and landing on airplanes?",
+   "prompt": "Why do babies cry during takeoff and landing on airplanes?",
+   "answer": "Their ears hurt",
+   "choices": [
+    "They're hungry",
+    "They're sleepy"
+   ],
+   "explain": "They can't pop them on purpose, they don't know how yet."
+  },
+  {
+   "episode": "How Do You Draw a Perfect Circle?",
+   "date": "2025-07-19",
+   "orig": "A square has four corners, and a circle has how many corners?",
+   "prompt": "How many corners does a circle have?",
+   "answer": "Zero",
+   "choices": [
+    "One",
+    "Four"
+   ]
+  },
+  {
+   "episode": "What Are Molecules?",
+   "date": "2025-07-20",
+   "orig": "And do you remember what atoms make up a water molecule?",
+   "prompt": "What atoms make up a water molecule?",
+   "answer": "Two hydrogen, one oxygen",
+   "choices": [
+    "Two oxygen, one carbon",
+    "Two carbon, one nitrogen"
+   ],
+   "explain": "We can call it H2O."
+  },
+  {
+   "episode": "Why Do Roller Coasters Make You Feel Weird?",
+   "date": "2025-07-21",
+   "orig": "What do we call the feeling of being pushed into your seat?",
+   "prompt": "What do we call the feeling of being pushed into your seat?",
+   "answer": "Positive G-force",
+   "choices": [
+    "Negative G-force",
+    "Centrifugal force"
+   ]
+  },
+  {
+   "episode": "Why Do Roller Coasters Make You Feel Weird?",
+   "date": "2025-07-21",
+   "orig": "What do we call the floaty feeling like you're coming out of your seat?",
+   "prompt": "What do we call the floaty feeling like you're coming out of your seat?",
+   "answer": "Negative G-force",
+   "choices": [
+    "Positive G-force",
+    "Centrifugal force"
+   ]
+  },
+  {
+   "episode": "Why Do Roller Coasters Make You Feel Weird?",
+   "date": "2025-07-21",
+   "orig": "And what's the name of the force that makes you feel pushed outward on a spinning ride?",
+   "prompt": "What's the name of the force that makes you feel pushed outward on a spinning ride?",
+   "answer": "Centrifugal force",
+   "choices": [
+    "Positive G-force",
+    "Negative G-force"
+   ]
+  },
+  {
+   "episode": "Vegetables vs Fruits: What&#x27;s the difference?",
+   "date": "2025-07-22",
+   "orig": "Which part of the plant do fruits grow from?",
+   "prompt": "Which part of the plant do fruits grow from?",
+   "answer": "The flower",
+   "choices": [
+    "The root",
+    "The leaf"
+   ]
+  },
+  {
+   "episode": "Vegetables vs Fruits: What&#x27;s the difference?",
+   "date": "2025-07-22",
+   "orig": "Which part of the plant is a carrot?",
+   "prompt": "Which part of the plant is a carrot?",
+   "answer": "The root",
+   "choices": [
+    "The flower",
+    "The stem"
+   ]
+  },
+  {
+   "episode": "How Do Time Zones Work?",
+   "date": "2025-07-23",
+   "orig": "What do we call the slices of the earth that help keep track of time in different parts of the world?",
+   "prompt": "What do we call the slices of the Earth that help keep track of time in different parts of the world?",
+   "answer": "Time zones",
+   "choices": [
+    "Seasons",
+    "Continents"
+   ]
+  },
+  {
+   "episode": "How Do Time Zones Work?",
+   "date": "2025-07-23",
+   "orig": "And how many main time zones are there around the world?",
+   "prompt": "How many main time zones are there around the world?",
+   "answer": "24",
+   "choices": [
+    "12",
+    "100"
+   ],
+   "explain": "There are 24 hours in a day."
+  },
+  {
+   "episode": "How Do Time Zones Work?",
+   "date": "2025-07-23",
+   "orig": "Why don't all places on earth have the same time at once?",
+   "prompt": "Why don't all places on Earth have the same time at once?",
+   "answer": "The Earth spins",
+   "choices": [
+    "Clocks break",
+    "The moon moves"
+   ],
+   "explain": "Different places face the sun at different times."
+  },
+  {
+   "episode": "What Is an Echo?",
+   "date": "2025-07-25",
+   "orig": "What does a sound wave do when it hits a hard surface?",
+   "prompt": "What does a sound wave do when it hits a hard surface?",
+   "answer": "It bounces back",
+   "choices": [
+    "It disappears",
+    "It turns into light"
+   ]
+  },
+  {
+   "episode": "What Is an Echo?",
+   "date": "2025-07-25",
+   "orig": "What is it called when animals use echoes to understand their surroundings?",
+   "prompt": "What is it called when animals use echoes to understand their surroundings?",
+   "answer": "Echolocation",
+   "choices": [
+    "Hibernation",
+    "Migration"
+   ]
+  },
+  {
+   "episode": "What Is an Echo?",
+   "date": "2025-07-25",
+   "orig": "Where are you most likely to hear an echo? On a soft couch or in a big cave?",
+   "prompt": "Where are you most likely to hear an echo?",
+   "answer": "In a big cave",
+   "choices": [
+    "On a soft couch",
+    "In a pillow fort"
+   ]
+  },
+  {
+   "episode": "How Are Cars Built?",
+   "date": "2025-07-29",
+   "orig": "What is the skeleton of the car called?",
+   "prompt": "What is the skeleton of a car called?",
+   "answer": "The frame",
+   "choices": [
+    "The engine",
+    "The wheels"
+   ]
+  },
+  {
+   "episode": "How Are Cars Built?",
+   "date": "2025-07-29",
+   "orig": "What's the name of the process where cars move along while parts are added?",
+   "prompt": "What's the name of the process where cars move along while parts are added?",
+   "answer": "The assembly line",
+   "choices": [
+    "The car wash",
+    "The parking lot"
+   ]
+  },
+  {
+   "episode": "How Are Cars Built?",
+   "date": "2025-07-29",
+   "orig": "What's one big difference between gas and electric cars?",
+   "prompt": "What's one big difference between gas and electric cars?",
+   "answer": "Electric cars use batteries",
+   "choices": [
+    "Electric cars have no wheels",
+    "Electric cars run on water"
+   ],
+   "explain": "Electric cars have batteries instead of gas engines."
+  },
+  {
+   "episode": "How Are Cars Built?",
+   "date": "2025-07-29",
+   "orig": "Who made cars popular with the assembly line? Do you remember his name?",
+   "prompt": "Who made cars popular with the assembly line?",
+   "answer": "Henry Ford",
+   "choices": [
+    "Thomas Edison",
+    "Albert Einstein"
+   ]
+  },
+  {
+   "episode": "How Does Music Change the Way We Feel?",
+   "date": "2025-07-30",
+   "orig": "What part of the brain lights up when you hear music you like? Do you remember what that was called?",
+   "prompt": "What part of the brain lights up when you hear music you like?",
+   "answer": "The reward center",
+   "choices": [
+    "The sleep center",
+    "The hunger center"
+   ]
+  },
+  {
+   "episode": "How Does Music Change the Way We Feel?",
+   "date": "2025-07-30",
+   "orig": "And do you remember the special machine that scientists use to take a picture of your brain reacting to things like music?",
+   "prompt": "What special machine do scientists use to take a picture of your brain reacting to music?",
+   "answer": "An fMRI machine",
+   "choices": [
+    "A telescope",
+    "A microscope"
+   ]
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "date": "2025-08-02",
+   "orig": "How many people live on earth today?",
+   "prompt": "How many people live on Earth today?",
+   "answer": "Over 8 billion",
+   "choices": [
+    "About 1 million",
+    "About 1 thousand"
+   ]
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "date": "2025-08-02",
+   "orig": "What is the distance around a circle called?",
+   "prompt": "What is the distance around a circle called?",
+   "answer": "Circumference",
+   "choices": [
+    "Diameter",
+    "Radius"
+   ]
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "date": "2025-08-02",
+   "orig": "About how big would the pizza need to be to feed everybody if we were going to feed everybody in the whole world? Would it need to be the size of a car? The size of a football field? Or the size of a city?",
+   "prompt": "About how big would a pizza need to be to feed everybody in the whole world?",
+   "answer": "The size of a city",
+   "choices": [
+    "The size of a car",
+    "The size of a football field"
+   ],
+   "explain": "It would probably be a little bigger than a city."
+  },
+  {
+   "episode": "Who Invented the Alphabet?",
+   "date": "2025-08-03",
+   "orig": "Who were the first people to create an alphabet that used symbols for sounds?",
+   "prompt": "Who were the first people to create an alphabet that used symbols for sounds?",
+   "answer": "The Phoenicians",
+   "choices": [
+    "The Greeks",
+    "The Romans"
+   ]
+  },
+  {
+   "episode": "Who Invented the Alphabet?",
+   "date": "2025-08-03",
+   "orig": "What group added vowels to the alphabet?",
+   "prompt": "What group added vowels to the alphabet?",
+   "answer": "The Greeks",
+   "choices": [
+    "The Phoenicians",
+    "The Egyptians"
+   ]
+  },
+  {
+   "episode": "Who Invented the Alphabet?",
+   "date": "2025-08-03",
+   "orig": "What is the name of the alphabet we use today?",
+   "prompt": "What is the name of the alphabet we use today?",
+   "answer": "The Latin alphabet",
+   "choices": [
+    "The Greek alphabet",
+    "The Egyptian alphabet"
+   ]
+  },
+  {
+   "episode": "Who Invented the Alphabet?",
+   "date": "2025-08-03",
+   "orig": "The word alphabet comes from the first two Greek letters. Do you remember what those letters were called?",
+   "prompt": "The word alphabet comes from the first two Greek letters. What are they called?",
+   "answer": "Alpha and beta",
+   "choices": [
+    "Gamma and delta",
+    "Pi and omega"
+   ]
+  },
+  {
+   "episode": "How Do We Get Electricity?",
+   "date": "2025-08-04",
+   "orig": "What kind of power uses the energy of the sun to make electricity?",
+   "prompt": "What kind of power uses the energy of the sun to make electricity?",
+   "answer": "Solar power",
+   "choices": [
+    "Wind power",
+    "Water power"
+   ]
+  },
+  {
+   "episode": "How Do We Get Electricity?",
+   "date": "2025-08-04",
+   "orig": "What do turbines do at a power plant?",
+   "prompt": "What do turbines do at a power plant?",
+   "answer": "They spin",
+   "choices": [
+    "They melt",
+    "They float"
+   ],
+   "explain": "They spin to help create electricity."
+  },
+  {
+   "episode": "How Do We Get Electricity?",
+   "date": "2025-08-04",
+   "orig": "How is electricity created at a coal or gas power plant?",
+   "prompt": "How is electricity created at a coal or gas power plant?",
+   "answer": "Boiling water makes steam",
+   "choices": [
+    "Rubbing balloons together",
+    "Catching lightning"
+   ],
+   "explain": "The steam turns a turbine."
+  },
+  {
+   "episode": "How Is Paper Made?",
+   "date": "2025-08-06",
+   "orig": "What kind of plant is most paper made from?",
+   "prompt": "What kind of plant is most paper made from?",
+   "answer": "Trees",
+   "choices": [
+    "Grass",
+    "Flowers"
+   ]
+  },
+  {
+   "episode": "How Is Paper Made?",
+   "date": "2025-08-06",
+   "orig": "What is the mushy stuff made from wood chips called?",
+   "prompt": "What is the mushy stuff made from wood chips called?",
+   "answer": "Pulp",
+   "choices": [
+    "Sap",
+    "Mud"
+   ]
+  },
+  {
+   "episode": "How Is Paper Made?",
+   "date": "2025-08-06",
+   "orig": "What do paper companies do after cutting down trees?",
+   "prompt": "What do paper companies do after cutting down trees?",
+   "answer": "Plant more trees",
+   "choices": [
+    "Build houses",
+    "Leave the land empty"
+   ]
+  },
+  {
+   "episode": "How Is Paper Made?",
+   "date": "2025-08-06",
+   "orig": "What do they do to get water out of the pulp?",
+   "prompt": "What do paper makers do to get water out of the pulp?",
+   "answer": "Squeeze and roll it",
+   "choices": [
+    "Freeze it",
+    "Blow on it"
+   ]
+  },
+  {
+   "episode": "How Long Would It Take to Walk across the United States?",
+   "date": "2025-08-08",
+   "orig": "How many miles is it from coast to coast in the United States?",
+   "prompt": "How many miles is it from coast to coast in the United States?",
+   "answer": "About 3,000 miles",
+   "choices": [
+    "About 30 miles",
+    "About 300 miles"
+   ]
+  },
+  {
+   "episode": "How Long Would It Take to Walk across the United States?",
+   "date": "2025-08-08",
+   "orig": "And how many miles can a person walk in one hour on average?",
+   "prompt": "How many miles can a person walk in one hour?",
+   "answer": "About 3 miles",
+   "choices": [
+    "About 30 miles",
+    "About 100 miles"
+   ]
+  },
+  {
+   "episode": "How Long Would It Take to Walk across the United States?",
+   "date": "2025-08-08",
+   "orig": "How long might it take to walk across the United States if you walked 3 miles per hour for 8 hours every day?",
+   "prompt": "How long would it take to walk across the United States if you walked 8 hours every day?",
+   "answer": "125 days",
+   "choices": [
+    "5 days",
+    "10 years"
+   ]
+  },
+  {
+   "episode": "How Do Escalators Work?",
+   "date": "2025-08-09",
+   "orig": "What is the strong metal frame that holds an escalator together called?",
+   "prompt": "What is the strong metal frame that holds an escalator together called?",
+   "answer": "A truss",
+   "choices": [
+    "A ramp",
+    "A pole"
+   ]
+  },
+  {
+   "episode": "How Do Escalators Work?",
+   "date": "2025-08-09",
+   "orig": "What helps each escalator step stay in the right shape while it moves?",
+   "prompt": "What helps each escalator step stay in the right shape while it moves?",
+   "answer": "Tracks and wheels",
+   "choices": [
+    "Springs and glue",
+    "Ropes and pulleys"
+   ]
+  },
+  {
+   "episode": "How Do Escalators Work?",
+   "date": "2025-08-09",
+   "orig": "What do we call the piece where the steps slide into the floor at the top and bottom?",
+   "prompt": "What do we call the piece where escalator steps slide into the floor?",
+   "answer": "A comb plate",
+   "choices": [
+    "A door mat",
+    "A floor tile"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "How Do Snakes Move without Legs?",
+   "q": "Remember the hand and arm movement we did in the S shape?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Snakes Move without Legs?",
+   "q": "Do you remember what that was called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Ants Find Food?",
+   "q": "Do you remember what that word was?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Ants Find Food?",
+   "q": "Do you remember what part of their body they use?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does Your Voice Work?",
+   "q": "Have you ever noticed that the different words you say make your mouth move in different ways?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does Your Voice Work?",
+   "q": "Like if you say, hello, do you notice that your tongue has to move a different way?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Glasses Help You See?",
+   "q": "So when the light comes into your eye, where is it supposed to hit just right so that you can see things clearly?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Vegetables vs Fruits: What&#x27;s the difference?",
+   "q": "Do all fruits taste sweet?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "What Is an Echo?",
+   "q": "On a soft couch or in a big cave?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Are Cars Built?",
+   "q": "Do you remember his name?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Are Cars Built?",
+   "q": "If you've ever seen a car that says Ford on it?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "q": "If you walked around the entire crust of our pizza, what is that distance around called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "q": "Would it need to be the size of a car?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "q": "The size of a football field?",
+   "why": "fragment"
+  },
+  {
+   "episode": "What If Everyone in the World Shared One Giant Pizza?",
+   "q": "Or the size of a city?",
+   "why": "fragment"
+  }
+ ]
+}

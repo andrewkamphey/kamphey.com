@@ -1,0 +1,1109 @@
+{
+ "items": [
+  {
+   "episode": "Why Do We Have to Blink?",
+   "date": "2025-08-10",
+   "orig": "What do our eyelids spread over our eyes when we blink?",
+   "prompt": "What do our eyelids spread over our eyes when we blink?",
+   "answer": "Tears",
+   "choices": [
+    "Sweat",
+    "Dust"
+   ]
+  },
+  {
+   "episode": "Why Do We Have to Blink?",
+   "date": "2025-08-10",
+   "orig": "About how many times do we blink each day?",
+   "prompt": "About how many times do we blink each day?",
+   "answer": "More than 20,000 times",
+   "choices": [
+    "About 10 times",
+    "About 100 times"
+   ]
+  },
+  {
+   "episode": "Why Do We Have to Blink?",
+   "date": "2025-08-10",
+   "orig": "What's the name for when your eyes blink to protect themselves without you having to think about it?",
+   "prompt": "What's the name for when your eyes blink to protect themselves without you having to think about it?",
+   "answer": "A reflex",
+   "choices": [
+    "A sneeze",
+    "A yawn"
+   ]
+  },
+  {
+   "episode": "Where Do Rocks Come From?",
+   "date": "2025-08-11",
+   "orig": "What kind of rock forms when lava cools down?",
+   "prompt": "What kind of rock forms when lava cools down?",
+   "answer": "Igneous rock",
+   "choices": [
+    "Sedimentary rock",
+    "Metamorphic rock"
+   ]
+  },
+  {
+   "episode": "Where Do Rocks Come From?",
+   "date": "2025-08-11",
+   "orig": "What kind of rock is made from layers of sediment?",
+   "prompt": "What kind of rock is made from layers of sediment?",
+   "answer": "Sedimentary rock",
+   "choices": [
+    "Igneous rock",
+    "Metamorphic rock"
+   ]
+  },
+  {
+   "episode": "Where Do Rocks Come From?",
+   "date": "2025-08-11",
+   "orig": "And what kind of rock forms when another rock changes from heat and pressure?",
+   "prompt": "What kind of rock forms when another rock changes from heat and pressure?",
+   "answer": "Metamorphic rock",
+   "choices": [
+    "Igneous rock",
+    "Sedimentary rock"
+   ]
+  },
+  {
+   "episode": "Do Rainbows Touch the Ground?",
+   "date": "2025-08-12",
+   "orig": "How many colors are in a rainbow?",
+   "prompt": "How many colors are in a rainbow?",
+   "answer": "Seven",
+   "choices": [
+    "Five",
+    "Ten"
+   ]
+  },
+  {
+   "episode": "Do Rainbows Touch the Ground?",
+   "date": "2025-08-12",
+   "orig": "What causes a rainbow to form?",
+   "prompt": "What causes a rainbow to form?",
+   "answer": "Sunlight shining through raindrops",
+   "choices": [
+    "Moonlight shining on clouds",
+    "Wind blowing dust"
+   ]
+  },
+  {
+   "episode": "Do Rainbows Touch the Ground?",
+   "date": "2025-08-12",
+   "orig": "What do we call the way light bends in water?",
+   "prompt": "What do we call the way light bends in water?",
+   "answer": "Refraction",
+   "choices": [
+    "Evaporation",
+    "Condensation"
+   ]
+  },
+  {
+   "episode": "Do Rainbows Touch the Ground?",
+   "date": "2025-08-12",
+   "orig": "What color do red and yellow make when they mix together?",
+   "prompt": "What color do red and yellow make when they mix together?",
+   "answer": "Orange",
+   "choices": [
+    "Green",
+    "Purple"
+   ]
+  },
+  {
+   "episode": "Do Rainbows Touch the Ground?",
+   "date": "2025-08-12",
+   "orig": "What color do blue and yellow make when they mix together?",
+   "prompt": "What color do blue and yellow make when they mix together?",
+   "answer": "Green",
+   "choices": [
+    "Orange",
+    "Purple"
+   ]
+  },
+  {
+   "episode": "Do Rainbows Touch the Ground?",
+   "date": "2025-08-12",
+   "orig": "And what color do red and blue make when they mix together?",
+   "prompt": "What color do red and blue make when they mix together?",
+   "answer": "Purple",
+   "choices": [
+    "Orange",
+    "Green"
+   ],
+   "explain": "They make violet, which is like a purple."
+  },
+  {
+   "episode": "Captain Curious: How Does the Moon Change the Earth?",
+   "date": "2025-08-14",
+   "orig": "What does the moon's gravity do to Earth's oceans?",
+   "prompt": "What does the moon's gravity do to Earth's oceans?",
+   "answer": "Creates high and low tides",
+   "choices": [
+    "Makes the water salty",
+    "Freezes the waves"
+   ]
+  },
+  {
+   "episode": "Captain Curious: How Does the Moon Change the Earth?",
+   "date": "2025-08-14",
+   "orig": "Why do astronauts' footprints stay on the moon for so long?",
+   "prompt": "Why do astronauts' footprints stay on the moon for so long?",
+   "answer": "No wind or weather",
+   "choices": [
+    "The dirt is sticky",
+    "The moon is too cold"
+   ]
+  },
+  {
+   "episode": "Captain Curious: How Does the Moon Change the Earth?",
+   "date": "2025-08-14",
+   "orig": "If the Earth were a basketball, what size is the moon?",
+   "prompt": "If the Earth were a basketball, what size would the moon be?",
+   "answer": "A tennis ball",
+   "choices": [
+    "A beach ball",
+    "A soccer ball"
+   ]
+  },
+  {
+   "episode": "Captain Curious: How Does the Moon Change the Earth?",
+   "date": "2025-08-14",
+   "orig": "What's the far side of the moon?",
+   "prompt": "What's the far side of the moon?",
+   "answer": "The side facing away from Earth",
+   "choices": [
+    "The side facing the sun",
+    "The side with no craters"
+   ],
+   "explain": "It's the side that always faces away from Earth."
+  },
+  {
+   "episode": "Are Dogs Colorblind?",
+   "date": "2025-08-15",
+   "orig": "How many types of cones do most humans have in their eyes?",
+   "prompt": "How many types of cones do most humans have in their eyes?",
+   "answer": "Three",
+   "choices": [
+    "Two",
+    "Ten"
+   ],
+   "explain": "Red, green, and blue."
+  },
+  {
+   "episode": "Are Dogs Colorblind?",
+   "date": "2025-08-15",
+   "orig": "Which two colors can dogs see best?",
+   "prompt": "Which two colors can dogs see best?",
+   "answer": "Blue and yellow",
+   "choices": [
+    "Red and green",
+    "Pink and orange"
+   ]
+  },
+  {
+   "episode": "Are Dogs Colorblind?",
+   "date": "2025-08-15",
+   "orig": "And what colors do red and green look like to dogs?",
+   "prompt": "What do red and green look like to dogs?",
+   "answer": "Gray or brown",
+   "choices": [
+    "Bright pink",
+    "Bright purple"
+   ]
+  },
+  {
+   "episode": "Are Dogs Colorblind?",
+   "date": "2025-08-15",
+   "orig": "And finally, what kind of vision are dogs really good at, even better than humans?",
+   "prompt": "What kind of vision are dogs really good at, even better than humans?",
+   "answer": "Seeing in the dark",
+   "choices": [
+    "Seeing underwater",
+    "Seeing colors"
+   ]
+  },
+  {
+   "episode": "How Are Video Games Made?",
+   "date": "2025-08-16",
+   "orig": "What's the word we use for coding a video game?",
+   "prompt": "What's the word we use for coding a video game?",
+   "answer": "Programming",
+   "choices": [
+    "Painting",
+    "Sculpting"
+   ]
+  },
+  {
+   "episode": "How Are Video Games Made?",
+   "date": "2025-08-16",
+   "orig": "Which one of these is not a programming language we talked about today? C Sharp, Python, or Game Build X?",
+   "prompt": "Which one of these is not a programming language?",
+   "answer": "Game Build X",
+   "choices": [
+    "C Sharp",
+    "Python"
+   ],
+   "explain": "I just made that one up."
+  },
+  {
+   "episode": "How Are Video Games Made?",
+   "date": "2025-08-16",
+   "orig": "What is the name of the special tool that can be used to create a video game?",
+   "prompt": "What is the special tool that helps you build a video game so you don't start from scratch?",
+   "answer": "A game engine",
+   "choices": [
+    "A game controller",
+    "A game console"
+   ]
+  },
+  {
+   "episode": "How Do Big Boats Float?",
+   "date": "2025-08-17",
+   "orig": "What's the name of the force that pushes up on things in the water?",
+   "prompt": "What's the name of the force that pushes up on things in the water?",
+   "answer": "Buoyancy",
+   "choices": [
+    "Gravity",
+    "Friction"
+   ]
+  },
+  {
+   "episode": "How Do Big Boats Float?",
+   "date": "2025-08-17",
+   "orig": "What happens when something displaces more water than it weighs?",
+   "prompt": "What happens when something pushes away more water than it weighs?",
+   "answer": "It floats",
+   "choices": [
+    "It sinks",
+    "It spins"
+   ]
+  },
+  {
+   "episode": "How Do Big Boats Float?",
+   "date": "2025-08-17",
+   "orig": "What helps a boat displace a lot of water?",
+   "prompt": "What helps a boat push away a lot of water?",
+   "answer": "Its wide, hollow shape",
+   "choices": [
+    "Its bright paint",
+    "Its tall flag"
+   ]
+  },
+  {
+   "episode": "How Are Houses Made?",
+   "date": "2025-08-18",
+   "orig": "What is the first part of the house that's built?",
+   "prompt": "What is the first part of a house that's built?",
+   "answer": "The foundation",
+   "choices": [
+    "The roof",
+    "The walls"
+   ]
+  },
+  {
+   "episode": "How Are Houses Made?",
+   "date": "2025-08-18",
+   "orig": "What do we call the wooden skeleton of the house?",
+   "prompt": "What do we call the wooden skeleton of a house?",
+   "answer": "The framing",
+   "choices": [
+    "The plumbing",
+    "The roof"
+   ]
+  },
+  {
+   "episode": "How Are Houses Made?",
+   "date": "2025-08-18",
+   "orig": "And what keeps a house warm in winter and cool in summer?",
+   "prompt": "What keeps a house warm in winter and cool in summer?",
+   "answer": "Insulation",
+   "choices": [
+    "Plumbing",
+    "Paint"
+   ]
+  },
+  {
+   "episode": "How Do Trash Trucks Work?",
+   "date": "2025-08-19",
+   "orig": "What part of the trash truck squishes the garbage down?",
+   "prompt": "What part of the trash truck squishes the garbage down?",
+   "answer": "The compactor",
+   "choices": [
+    "The steering wheel",
+    "The mirror"
+   ]
+  },
+  {
+   "episode": "How Do Trash Trucks Work?",
+   "date": "2025-08-19",
+   "orig": "What's the name of the truck with a robotic arm on the side?",
+   "prompt": "What's the name of the trash truck with a robotic arm on the side?",
+   "answer": "Automated side loader",
+   "choices": [
+    "Fire truck",
+    "Dump truck"
+   ]
+  },
+  {
+   "episode": "How Do Trash Trucks Work?",
+   "date": "2025-08-19",
+   "orig": "Where does most of the trash go after it leaves the truck?",
+   "prompt": "Where does most of the trash go after it leaves the truck?",
+   "answer": "A landfill",
+   "choices": [
+    "A farm",
+    "The ocean"
+   ]
+  },
+  {
+   "episode": "What Is Daylight Savings Time?",
+   "date": "2025-08-20",
+   "orig": "What happens in spring during daylight savings time?",
+   "prompt": "What happens to clocks in spring during daylight savings time?",
+   "answer": "Spring forward one hour",
+   "choices": [
+    "Fall back one hour",
+    "Skip a whole day"
+   ]
+  },
+  {
+   "episode": "What Is Daylight Savings Time?",
+   "date": "2025-08-20",
+   "orig": "Why do some people want more sunlight in the evening?",
+   "prompt": "Why do some people want more sunlight in the evening?",
+   "answer": "To do more while it's light",
+   "choices": [
+    "To sleep longer",
+    "To see the stars"
+   ],
+   "explain": "Like playing or working, or using less electricity."
+  },
+  {
+   "episode": "Captain Curious: Will Humans Really Go to Mars?",
+   "date": "2025-08-21",
+   "orig": "What color is the sky on Mars during the day? Blue, yellowish, orange or purple?",
+   "prompt": "What color is the sky on Mars during the day?",
+   "answer": "Yellowish orange",
+   "choices": [
+    "Blue",
+    "Purple"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Will Humans Really Go to Mars?",
+   "date": "2025-08-21",
+   "orig": "What is Mars' atmosphere mostly made of? Oxygen, nitrogen or carbon dioxide?",
+   "prompt": "What is Mars' atmosphere mostly made of?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Nitrogen"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Will Humans Really Go to Mars?",
+   "date": "2025-08-21",
+   "orig": "What is the name of the tallest volcano in the solar system, which is found here on Mars? Is it Mount Mars, Olympus Mons or Red Rock?",
+   "prompt": "What is the name of the tallest volcano in the solar system, found on Mars?",
+   "answer": "Olympus Mons",
+   "choices": [
+    "Mount Mars",
+    "Red Rock"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Will Humans Really Go to Mars?",
+   "date": "2025-08-21",
+   "orig": "How often can we launch a rocket to Mars during the best launch window? Every six months, every year or every 26 months?",
+   "prompt": "How often can we launch a rocket to Mars during the best launch window?",
+   "answer": "Every 26 months",
+   "choices": [
+    "Every six months",
+    "Every year"
+   ]
+  },
+  {
+   "episode": "Captain Curious: Will Humans Really Go to Mars?",
+   "date": "2025-08-21",
+   "orig": "What kind of fuel might astronauts make on Mars to return home? Gasoline, methane or rocket soda?",
+   "prompt": "What kind of fuel might astronauts make on Mars to return home?",
+   "answer": "Methane",
+   "choices": [
+    "Gasoline",
+    "Rocket soda"
+   ]
+  },
+  {
+   "episode": "How Do Fish See Underwater?",
+   "date": "2025-08-22",
+   "orig": "What shape are fish lenses?",
+   "prompt": "What shape are fish lenses?",
+   "answer": "Round like marbles",
+   "choices": [
+    "Flat like paper",
+    "Square like a box"
+   ]
+  },
+  {
+   "episode": "How Do Fish See Underwater?",
+   "date": "2025-08-22",
+   "orig": "What kind of cells let fish see colors?",
+   "prompt": "What kind of cells let fish see colors?",
+   "answer": "Cones",
+   "choices": [
+    "Scales",
+    "Gills"
+   ],
+   "explain": "Same as the kind that we have."
+  },
+  {
+   "episode": "How Do Fish See Underwater?",
+   "date": "2025-08-22",
+   "orig": "Where are most fish eyes located?",
+   "prompt": "Where are most fish eyes located?",
+   "answer": "On the sides of their heads",
+   "choices": [
+    "On top of their heads",
+    "On their tails"
+   ]
+  },
+  {
+   "episode": "Where Do Groceries Come From?",
+   "date": "2025-08-23",
+   "orig": "Where do eggs come from before they go to the grocery store?",
+   "prompt": "Where do eggs come from before they go to the grocery store?",
+   "answer": "Chickens on farms",
+   "choices": [
+    "Cows on farms",
+    "Ducks in ponds"
+   ]
+  },
+  {
+   "episode": "Where Do Groceries Come From?",
+   "date": "2025-08-23",
+   "orig": "What happens when you scan an item at the grocery store and that item is running low?",
+   "prompt": "What happens when you scan an item at the grocery store and that item is running low?",
+   "answer": "The store orders more",
+   "choices": [
+    "The lights flash",
+    "The item disappears"
+   ],
+   "explain": "The grocery store computer tells the store it's time to order more."
+  },
+  {
+   "episode": "Where Do Groceries Come From?",
+   "date": "2025-08-23",
+   "orig": "Alright, and do you remember what we just said was the most popular fruit in the United States?",
+   "prompt": "What is the most popular fruit in the United States?",
+   "answer": "Bananas",
+   "choices": [
+    "Apples",
+    "Grapes"
+   ],
+   "explain": "People eat 27 pounds of them per year."
+  },
+  {
+   "episode": "How Does Money Work?",
+   "date": "2025-08-24",
+   "orig": "What do we call it when you trade one item for another without using money?",
+   "prompt": "What do we call it when you trade one item for another without using money?",
+   "answer": "Bartering",
+   "choices": [
+    "Shopping",
+    "Saving"
+   ]
+  },
+  {
+   "episode": "How Does Money Work?",
+   "date": "2025-08-24",
+   "orig": "What do we call how many people want something and how much of it is available?",
+   "prompt": "What do we call how many people want something and how much of it is available?",
+   "answer": "Supply and demand",
+   "choices": [
+    "Buy and sell",
+    "Save and spend"
+   ]
+  },
+  {
+   "episode": "How Does Money Work?",
+   "date": "2025-08-24",
+   "orig": "If nobody is buying a toy, what might happen to its price?",
+   "prompt": "If nobody is buying a toy, what might happen to its price?",
+   "answer": "The store lowers it",
+   "choices": [
+    "It goes way up",
+    "It stays the same forever"
+   ]
+  },
+  {
+   "episode": "How Does Money Work?",
+   "date": "2025-08-24",
+   "orig": "And when you buy one toy instead of another toy, what does that tell the store?",
+   "prompt": "When you buy one toy instead of another toy, what does that tell the store?",
+   "answer": "You liked it more",
+   "choices": [
+    "The toy was broken",
+    "You don't like toys"
+   ]
+  },
+  {
+   "episode": "Why Is Blood Red?",
+   "date": "2025-08-25",
+   "orig": "What protein in your red blood cells carries oxygen?",
+   "prompt": "What protein in your red blood cells carries oxygen?",
+   "answer": "Hemoglobin",
+   "choices": [
+    "Melanin",
+    "Keratin"
+   ]
+  },
+  {
+   "episode": "Why Is Blood Red?",
+   "date": "2025-08-25",
+   "orig": "What color is blood when it is carrying oxygen?",
+   "prompt": "What color is blood when it is carrying oxygen?",
+   "answer": "Bright red",
+   "choices": [
+    "Blue",
+    "Green"
+   ]
+  },
+  {
+   "episode": "Why Is Blood Red?",
+   "date": "2025-08-25",
+   "orig": "And what color is blood when it's not carrying oxygen, when it's heading back up to your lungs and your heart?",
+   "prompt": "What color is blood when it's not carrying oxygen?",
+   "answer": "Dark red",
+   "choices": [
+    "Blue",
+    "Green"
+   ],
+   "explain": "Your blood is always red, just lighter or darker."
+  },
+  {
+   "episode": "Why Is Blood Red?",
+   "date": "2025-08-25",
+   "orig": "What do red blood cells do?",
+   "prompt": "What do red blood cells do?",
+   "answer": "Carry oxygen",
+   "choices": [
+    "Make bones",
+    "Digest food"
+   ]
+  },
+  {
+   "episode": "Can You Make Your Own Water?",
+   "date": "2025-08-26",
+   "orig": "What is water made of? Do you remember the three atoms that make up a water molecule?",
+   "prompt": "What three atoms make up a water molecule?",
+   "answer": "Two hydrogen, one oxygen",
+   "choices": [
+    "Two oxygen, one carbon",
+    "Two carbon, one nitrogen"
+   ]
+  },
+  {
+   "episode": "Can You Make Your Own Water?",
+   "date": "2025-08-26",
+   "orig": "What's the name of the process where water evaporates, forms clouds, and falls as rain?",
+   "prompt": "What's the name of the process where water evaporates, forms clouds, and falls as rain?",
+   "answer": "The water cycle",
+   "choices": [
+    "The food chain",
+    "The life cycle"
+   ]
+  },
+  {
+   "episode": "Why Are Some Months Longer Than Others?",
+   "date": "2025-08-27",
+   "orig": "Who changed the Roman calendar to make it more accurate?",
+   "prompt": "Who changed the Roman calendar to make it more accurate?",
+   "answer": "Julius Caesar",
+   "choices": [
+    "George Washington",
+    "King Arthur"
+   ]
+  },
+  {
+   "episode": "Why Are Some Months Longer Than Others?",
+   "date": "2025-08-27",
+   "orig": "How many months are in a year?",
+   "prompt": "How many months are in a year?",
+   "answer": "12",
+   "choices": [
+    "10",
+    "24"
+   ]
+  },
+  {
+   "episode": "Why Are Some Months Longer Than Others?",
+   "date": "2025-08-27",
+   "orig": "And how many days are in February during a leap year?",
+   "prompt": "How many days are in February during a leap year?",
+   "answer": "29",
+   "choices": [
+    "28",
+    "30"
+   ]
+  },
+  {
+   "episode": "Why Are Some Months Longer Than Others?",
+   "date": "2025-08-27",
+   "orig": "How many days does November have?",
+   "prompt": "How many days does November have?",
+   "answer": "30",
+   "choices": [
+    "28",
+    "31"
+   ],
+   "explain": "30 days has September, April, June, and November."
+  },
+  {
+   "episode": "How Do Babies Grow in Mom's Womb?",
+   "date": "2025-08-29",
+   "orig": "Around how many weeks does it usually take for a baby to grow before being born?",
+   "prompt": "About how many weeks does it take for a baby to grow before being born?",
+   "answer": "About 40 weeks",
+   "choices": [
+    "About 4 weeks",
+    "About 100 weeks"
+   ]
+  },
+  {
+   "episode": "How Do Babies Grow in Mom's Womb?",
+   "date": "2025-08-29",
+   "orig": "What starts beating around five or six weeks?",
+   "prompt": "What part of a growing baby starts beating around five or six weeks?",
+   "answer": "The heart",
+   "choices": [
+    "The lungs",
+    "The ears"
+   ]
+  },
+  {
+   "episode": "How Do Babies Grow in Mom's Womb?",
+   "date": "2025-08-29",
+   "orig": "And what do babies sometimes do in the second trimester that parents can feel?",
+   "prompt": "What do babies sometimes do in mom's tummy that parents can feel?",
+   "answer": "Kick and move around",
+   "choices": [
+    "Talk and sing",
+    "Clap and wave"
+   ]
+  },
+  {
+   "episode": "Why Do We Shiver When We Are Cold?",
+   "date": "2025-08-30",
+   "orig": "What part of the brain helps control your body temperature?",
+   "prompt": "What part of the brain helps control your body temperature?",
+   "answer": "The hypothalamus",
+   "choices": [
+    "The hippocampus",
+    "The cerebellum"
+   ]
+  },
+  {
+   "episode": "Why Do We Shiver When We Are Cold?",
+   "date": "2025-08-30",
+   "orig": "Why do you shiver when you're cold?",
+   "prompt": "Why do you shiver when you're cold?",
+   "answer": "To create heat",
+   "choices": [
+    "To cool down",
+    "To get sleepy"
+   ],
+   "explain": "Your body is trying to create heat."
+  },
+  {
+   "episode": "Why Do We Shiver When We Are Cold?",
+   "date": "2025-08-30",
+   "orig": "What hormone makes you feel jumpy or shaky when you're scared?",
+   "prompt": "What makes you feel jumpy or shaky when you're scared?",
+   "answer": "Adrenaline",
+   "choices": [
+    "Melanin",
+    "Histamine"
+   ]
+  },
+  {
+   "episode": "Why Do We Shiver When We Are Cold?",
+   "date": "2025-08-30",
+   "orig": "And what do we call the tiny bumps on your skin when you're cold?",
+   "prompt": "What do we call the tiny bumps on your skin when you're cold?",
+   "answer": "Goosebumps",
+   "choices": [
+    "Freckles",
+    "Blisters"
+   ]
+  },
+  {
+   "episode": "Why Do Some People Have Freckles?",
+   "date": "2025-09-01",
+   "orig": "What are freckles made of?",
+   "prompt": "What are freckles made of?",
+   "answer": "Melanin",
+   "choices": [
+    "Keratin",
+    "Hemoglobin"
+   ]
+  },
+  {
+   "episode": "Why Do Some People Have Freckles?",
+   "date": "2025-09-01",
+   "orig": "What gene is connected to having freckles?",
+   "prompt": "What gene is connected to having freckles?",
+   "answer": "The MC1R gene",
+   "choices": [
+    "The ABC2 gene",
+    "The XY7 gene"
+   ],
+   "explain": "It's three letters and a number."
+  },
+  {
+   "episode": "How Much Do Clouds Weigh?",
+   "date": "2025-09-02",
+   "orig": "What are clouds made of?",
+   "prompt": "What are clouds made of?",
+   "answer": "Water droplets or ice",
+   "choices": [
+    "Smoke",
+    "Dust"
+   ],
+   "explain": "Tiny water droplets or ice crystals."
+  },
+  {
+   "episode": "How Much Do Clouds Weigh?",
+   "date": "2025-09-02",
+   "orig": "What type of cloud is fluffy and can grow really tall?",
+   "prompt": "What type of cloud is fluffy and can grow really tall?",
+   "answer": "Cumulus",
+   "choices": [
+    "Stratus",
+    "Cirrus"
+   ]
+  },
+  {
+   "episode": "How Much Do Clouds Weigh?",
+   "date": "2025-09-02",
+   "orig": "What cloud type is flat and gray, often covering the whole sky?",
+   "prompt": "What type of cloud is flat and gray, often covering the whole sky?",
+   "answer": "Stratus",
+   "choices": [
+    "Cumulus",
+    "Cirrus"
+   ]
+  },
+  {
+   "episode": "How Much Do Clouds Weigh?",
+   "date": "2025-09-02",
+   "orig": "And what's the name of a thunderstorm cloud that can grow up to 10 miles tall?",
+   "prompt": "What's the name of a thunderstorm cloud that can grow up to 10 miles tall?",
+   "answer": "Cumulonimbus",
+   "choices": [
+    "Stratus",
+    "Cirrus"
+   ]
+  },
+  {
+   "episode": "How Much Do Clouds Weigh?",
+   "date": "2025-09-02",
+   "orig": "And which cloud is wispy and very high in the sky?",
+   "prompt": "Which cloud is wispy and very high in the sky?",
+   "answer": "Cirrus",
+   "choices": [
+    "Cumulus",
+    "Stratus"
+   ]
+  },
+  {
+   "episode": "How Fast Do Hummingbird Wings Flap?",
+   "date": "2025-09-03",
+   "orig": "What shape do a hummingbird's wings move in?",
+   "prompt": "What shape do a hummingbird's wings move in?",
+   "answer": "A figure eight",
+   "choices": [
+    "A circle",
+    "A square"
+   ]
+  },
+  {
+   "episode": "How Fast Do Hummingbird Wings Flap?",
+   "date": "2025-09-03",
+   "orig": "What was that thing they get from the flowers?",
+   "prompt": "What do hummingbirds love to get from flowers?",
+   "answer": "Nectar",
+   "choices": [
+    "Seeds",
+    "Leaves"
+   ],
+   "explain": "They also like to eat tiny insects."
+  },
+  {
+   "episode": "How Fast Do Hummingbird Wings Flap?",
+   "date": "2025-09-03",
+   "orig": "And, how fast can some hummingbirds flap their wings during a dive? Ten times per second? A hundred times per second? Or two hundred times per second?",
+   "prompt": "How fast can some hummingbirds flap their wings during a dive?",
+   "answer": "200 times per second",
+   "choices": [
+    "10 times per second",
+    "100 times per second"
+   ]
+  },
+  {
+   "episode": "How Does a Caterpillar Become a Butterfly?",
+   "date": "2025-09-05",
+   "orig": "What's the first stage of a butterfly's life?",
+   "prompt": "What's the first stage of a butterfly's life?",
+   "answer": "An egg",
+   "choices": [
+    "A chrysalis",
+    "A butterfly"
+   ]
+  },
+  {
+   "episode": "How Does a Caterpillar Become a Butterfly?",
+   "date": "2025-09-05",
+   "orig": "What does a caterpillar do a lot before turning into a butterfly?",
+   "prompt": "What does a caterpillar do a lot before turning into a butterfly?",
+   "answer": "Eat",
+   "choices": [
+    "Swim",
+    "Sing"
+   ]
+  },
+  {
+   "episode": "How Does a Caterpillar Become a Butterfly?",
+   "date": "2025-09-05",
+   "orig": "What's the hard outer shell called that forms around the caterpillar?",
+   "prompt": "What's the hard outer shell called that forms around the caterpillar?",
+   "answer": "A chrysalis",
+   "choices": [
+    "A nest",
+    "A web"
+   ]
+  },
+  {
+   "episode": "How Does a Caterpillar Become a Butterfly?",
+   "date": "2025-09-05",
+   "orig": "What's the word for the whole transformation process?",
+   "prompt": "What's the word for the whole change from caterpillar to butterfly?",
+   "answer": "Metamorphosis",
+   "choices": [
+    "Hibernation",
+    "Migration"
+   ]
+  },
+  {
+   "episode": "How Does a Caterpillar Become a Butterfly?",
+   "date": "2025-09-05",
+   "orig": "Oh, and do you remember the special cells inside the caterpillar that help it change into a butterfly?",
+   "prompt": "What are the special cells inside the caterpillar that help it change into a butterfly?",
+   "answer": "Imaginal disks",
+   "choices": [
+    "Red blood cells",
+    "Neurons"
+   ]
+  },
+  {
+   "episode": "How Does a Light Switch Turn on the Light?",
+   "date": "2025-09-06",
+   "orig": "What flows through wires like water through pipes?",
+   "prompt": "What flows through wires like water through pipes?",
+   "answer": "Electricity",
+   "choices": [
+    "Sound",
+    "Wind"
+   ]
+  },
+  {
+   "episode": "How Does a Light Switch Turn on the Light?",
+   "date": "2025-09-06",
+   "orig": "What do we call the little metal pieces inside a light switch?",
+   "prompt": "What do we call the little metal pieces inside a light switch?",
+   "answer": "Contacts",
+   "choices": [
+    "Batteries",
+    "Buttons"
+   ]
+  },
+  {
+   "episode": "How Does a Light Switch Turn on the Light?",
+   "date": "2025-09-06",
+   "orig": "What kind of switch lets you control how bright the light is?",
+   "prompt": "What kind of switch lets you control how bright the light is?",
+   "answer": "A dimmer switch",
+   "choices": [
+    "A toggle switch",
+    "An off switch"
+   ]
+  },
+  {
+   "episode": "How Does a Light Switch Turn on the Light?",
+   "date": "2025-09-06",
+   "orig": "And what do we call the complete path electricity follows?",
+   "prompt": "What do we call the complete path electricity follows?",
+   "answer": "A circuit",
+   "choices": [
+    "A plug",
+    "A socket"
+   ]
+  },
+  {
+   "episode": "When Were Board Games Invented?",
+   "date": "2025-09-07",
+   "orig": "What ancient game from Mesopotamia is about 4600 years old?",
+   "prompt": "What ancient game from Mesopotamia is about 4,600 years old?",
+   "answer": "The Royal Game of Ur",
+   "choices": [
+    "Senet",
+    "Chess"
+   ]
+  },
+  {
+   "episode": "When Were Board Games Invented?",
+   "date": "2025-09-07",
+   "orig": "And do you remember the name of the ancient Egyptian game that is, as far as we know, the oldest game ever?",
+   "prompt": "What is the name of the ancient Egyptian game that is the oldest game we know of?",
+   "answer": "Senet",
+   "choices": [
+    "The Royal Game of Ur",
+    "Monopoly"
+   ]
+  },
+  {
+   "episode": "When Were Board Games Invented?",
+   "date": "2025-09-07",
+   "orig": "Which modern game evolved from the Indian game Chaturanga?",
+   "prompt": "Which modern game came from the Indian game Chaturanga?",
+   "answer": "Chess",
+   "choices": [
+    "Checkers",
+    "Monopoly"
+   ]
+  },
+  {
+   "episode": "Why Do We Need to Brush Our Teeth?",
+   "date": "2025-09-08",
+   "orig": "What is the hard outer layer of your teeth called?",
+   "prompt": "What is the hard outer layer of your teeth called?",
+   "answer": "Enamel",
+   "choices": [
+    "Gums",
+    "Plaque"
+   ]
+  },
+  {
+   "episode": "Why Do We Need to Brush Our Teeth?",
+   "date": "2025-09-08",
+   "orig": "What sticky film forms on teeth if they're not brushed?",
+   "prompt": "What sticky film forms on teeth if they're not brushed?",
+   "answer": "Plaque",
+   "choices": [
+    "Enamel",
+    "Floss"
+   ]
+  },
+  {
+   "episode": "Why Do We Need to Brush Our Teeth?",
+   "date": "2025-09-08",
+   "orig": "What is the soft pink tissue that holds your teeth in place?",
+   "prompt": "What is the soft pink tissue that holds your teeth in place?",
+   "answer": "Your gums",
+   "choices": [
+    "Your enamel",
+    "Your tongue"
+   ]
+  },
+  {
+   "episode": "Why Do People Have Allergies?",
+   "date": "2025-09-09",
+   "orig": "What system in your body reacts when you have allergies?",
+   "prompt": "What system in your body reacts when you have allergies?",
+   "answer": "The immune system",
+   "choices": [
+    "The digestive system",
+    "The skeleton"
+   ]
+  },
+  {
+   "episode": "Why Do People Have Allergies?",
+   "date": "2025-09-09",
+   "orig": "What powdery substance from plants triggers seasonal allergies?",
+   "prompt": "What powdery stuff from plants triggers seasonal allergies?",
+   "answer": "Pollen",
+   "choices": [
+    "Sugar",
+    "Sand"
+   ]
+  },
+  {
+   "episode": "Why Do People Have Allergies?",
+   "date": "2025-09-09",
+   "orig": "What chemical causes allergy symptoms like sneezing and runny noses?",
+   "prompt": "What chemical causes allergy symptoms like sneezing and runny noses?",
+   "answer": "Histamine",
+   "choices": [
+    "Melanin",
+    "Adrenaline"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "How Are Video Games Made?",
+   "q": "C Sharp, Python, or Game Build X?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Are Video Games Made?",
+   "q": "Are all Nintendo Switch systems built the same way?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "What Is Daylight Savings Time?",
+   "q": "Do all places in the world use daylight savings time?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Where Do Groceries Come From?",
+   "q": "The one that people eat 27 pounds of per year?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does Money Work?",
+   "q": "Do you remember that term blank and blank?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Can You Make Your Own Water?",
+   "q": "Is it safe to try to make water by combining hydrogen and oxygen at home?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "Why Are Some Months Longer Than Others?",
+   "q": "Do you know anyone who was born on February 29th during a leap year?",
+   "why": "open-ended"
+  },
+  {
+   "episode": "Why Are Some Months Longer Than Others?",
+   "q": "But that would be crazy if that's actually how it worked, wouldn't it be?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Some People Have Freckles?",
+   "q": "Okay, do you remember the name of that gene that we talked about?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Some People Have Freckles?",
+   "q": "Do you remember what it was called?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Some People Have Freckles?",
+   "q": "Do freckles usually get darker or lighter when you go out in the sun?",
+   "why": "other-category"
+  }
+ ]
+}

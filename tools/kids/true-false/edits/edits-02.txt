@@ -1,0 +1,24 @@
+0 a=T
++0 F | You can land on the sun. |
+5 e=Not all circles have the same radius.
+7 a=F ;; e=A square has four corners, and a circle has zero corners.
+-19 answer confusing: says 6 time zones then lists 7
+23 e=
+35 e=
+37 e=
+38 e=
+39 e=It gets over 900 degrees Fahrenheit.
+40 e=
+44 e=Those letters were called Alpha and Beta.
+53 e=
+55 a=T ;; e=Mercury is first, Venus is second, and Earth is number three.
+58 a=T ;; p=The magnetic field comes from the center of the Earth and helps protect us from solar wind. ;; e=It's made in the outer core by spinning liquid metal.
+59 a=F ;; e=No air means no wind, and no wind means no kite flying.
+62 e=3 plus 3 is 6, so 6 miles.
+71 e=Those are sedimentary rocks.
+73 a=F
+-77 duplicate of the next line (Josh restates it)
+85 e=
+91 e=If water gets in, the boat weighs a lot more and starts to sink.
+92 p=Buoyancy is the force that pushes things up in water.
+107 e=But some fish are built to do just that.

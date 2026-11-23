@@ -1,0 +1,29 @@
+# whisper episodes (segs/wseg-01.txt, extracted with --tail 10)
+-2 garbled: same statement read twice, first answer belongs to a misheard statement
+4 p=The light from a firefly is very hot. ;; a=F ;; e=It's cold light.
+-5 fragment
+-6 fragment
+-7 about the game itself, not a fact
+11 e=
+14 p=A helicopter has to race down a runway before its rotor blades can create lift.
+16 p=Helicopters use a tail rotor to help keep the body from spinning in the opposite direction of the main rotor.
+17 e=
+21 p=Kittens are born with a fully developed righting reflex. ;; e=It takes a few weeks to develop.
+22 e=That's why a flashlight in a dark room lights up more than just the direction you point it.
+25 a=F
+26 e=
+35 e=Your own time would feel normal to you.
+36 e=
+40 p=A bird sitting with both feet close together on one wire has very little voltage difference across its body.
+41 e=
+45 e=
+51 p=Changing the order of DNA's chemical letters can change the information that they carry.
+52 p=A skin cell and a muscle cell use all of their genes in exactly the same way.
+53 p=Your body keeps using DNA's instructions after you're born.
+56 a=F ;; e=Titan's rivers and lakes are filled with liquid methane and ethane, not water.
+57 a=T ;; e=That's faster than a jet airplane.
+-58 fragment, answer belongs to previous item
+59 p=At Saturn's North Pole, there's a giant storm shaped like a hexagon. ;; e=It's so big you could fit four Earths inside.
+12 p=Florence Griffith Joyner holds the women's 100 meter world record. ;; e=
+13 e=
+61 p=A stink bug's defensive liquid can discourage some predators.

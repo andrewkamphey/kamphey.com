@@ -1,0 +1,895 @@
+{
+ "items": [
+  {
+   "episode": "Why Do Kids Grow Taller?",
+   "date": "2026-05-25",
+   "orig": "What are the growing areas near the ends of your bones called?",
+   "prompt": "What are the growing areas near the ends of your bones called?",
+   "answer": "Growth plates",
+   "choices": [
+    "Growth spots",
+    "Bone caps"
+   ]
+  },
+  {
+   "episode": "Why Do Kids Grow Taller?",
+   "date": "2026-05-25",
+   "orig": "And what kind of tissue are growth plates made of before they turn into bone?",
+   "prompt": "What are growth plates made of before they turn into bone?",
+   "answer": "Cartilage",
+   "choices": [
+    "Muscle",
+    "Fat"
+   ]
+  },
+  {
+   "episode": "Why Do Kids Grow Taller?",
+   "date": "2026-05-25",
+   "orig": "And what small gland near the bottom of the brain makes growth hormone?",
+   "prompt": "What small gland near the bottom of the brain makes growth hormone?",
+   "answer": "The pituitary gland",
+   "choices": [
+    "The salivary gland",
+    "The sweat gland"
+   ]
+  },
+  {
+   "episode": "Why Do Kids Grow Taller?",
+   "date": "2026-05-25",
+   "orig": "And what happens to growth plates when a person is done growing taller?",
+   "prompt": "What happens to growth plates when a person is done growing taller?",
+   "answer": "They turn into solid bone",
+   "choices": [
+    "They fall out",
+    "They keep growing"
+   ],
+   "explain": "They close and turn into solid bone."
+  },
+  {
+   "episode": "How Are Potato Chips Made?",
+   "date": "2026-05-27",
+   "orig": "What is usually the first thing done to potatoes at a chip factory?",
+   "prompt": "What is usually the first thing done to potatoes at a chip factory?",
+   "answer": "They get washed",
+   "choices": [
+    "They get salted",
+    "They get fried"
+   ],
+   "explain": "They are washed to get all the dirt off."
+  },
+  {
+   "episode": "How Are Potato Chips Made?",
+   "date": "2026-05-27",
+   "orig": "And why are potatoes sliced so thin for chips?",
+   "prompt": "Why are potatoes sliced so thin for chips?",
+   "answer": "To cook fast and get crispy",
+   "choices": [
+    "To save potatoes",
+    "To make them softer"
+   ]
+  },
+  {
+   "episode": "How Are Potato Chips Made?",
+   "date": "2026-05-27",
+   "orig": "And what is it that leaves the potato slice while it's frying?",
+   "prompt": "What leaves the potato slice while it's frying?",
+   "answer": "Water",
+   "choices": [
+    "Salt",
+    "Color"
+   ]
+  },
+  {
+   "episode": "How Are Potato Chips Made?",
+   "date": "2026-05-27",
+   "orig": "And what is added after many chips come out of the oil?",
+   "prompt": "What is added after chips come out of the oil?",
+   "answer": "Salt or seasoning",
+   "choices": [
+    "Sugar or syrup",
+    "Water or milk"
+   ],
+   "explain": "They add it while the chip is still warm so it sticks better."
+  },
+  {
+   "episode": "Why Do Kangaroos Have Pouches?",
+   "date": "2026-05-28",
+   "orig": "What is a baby kangaroo called?",
+   "prompt": "What is a baby kangaroo called?",
+   "answer": "A joey",
+   "choices": [
+    "A cub",
+    "A calf"
+   ]
+  },
+  {
+   "episode": "Why Do Kangaroos Have Pouches?",
+   "date": "2026-05-28",
+   "orig": "And what does the joey drink while it's in the pouch?",
+   "prompt": "What does a joey drink while it's in the pouch?",
+   "answer": "Milk",
+   "choices": [
+    "Water",
+    "Juice"
+   ]
+  },
+  {
+   "episode": "Why Do Kangaroos Have Pouches?",
+   "date": "2026-05-28",
+   "orig": "And what is the name for animals like kangaroos and koalas that give birth to very small undeveloped youth that continue to grow in the pouch?",
+   "prompt": "What do we call animals like kangaroos and koalas whose tiny babies keep growing in a pouch?",
+   "answer": "Marsupials",
+   "choices": [
+    "Reptiles",
+    "Amphibians"
+   ]
+  },
+  {
+   "episode": "How Do Boomerangs Work?",
+   "date": "2026-05-29",
+   "orig": "What is the wing-like shape on a boomerang's arms called?",
+   "prompt": "What is the wing-like shape on a boomerang's arms called?",
+   "answer": "An airfoil",
+   "choices": [
+    "A propeller",
+    "A fin"
+   ]
+  },
+  {
+   "episode": "How Do Boomerangs Work?",
+   "date": "2026-05-29",
+   "orig": "And what force helps an airplane wing or boomerang arm rise through the air?",
+   "prompt": "What force helps an airplane wing or boomerang arm rise through the air?",
+   "answer": "Lift",
+   "choices": [
+    "Drag",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "How Do Boomerangs Work?",
+   "date": "2026-05-29",
+   "orig": "And what does a returning boomerang need a lot of when it's thrown?",
+   "prompt": "What does a returning boomerang need a lot of when it's thrown?",
+   "answer": "Spin",
+   "choices": [
+    "Weight",
+    "Color"
+   ]
+  },
+  {
+   "episode": "How Do Boomerangs Work?",
+   "date": "2026-05-29",
+   "orig": "And what kind of path does a returning boomerang make through the air?",
+   "prompt": "What kind of path does a returning boomerang make through the air?",
+   "answer": "A curve or loop",
+   "choices": [
+    "A straight line",
+    "A zigzag"
+   ]
+  },
+  {
+   "episode": "What Is Infinity?",
+   "date": "2026-05-30",
+   "orig": "What is the part of the universe that we can detect from Earth called?",
+   "prompt": "What is the part of the universe that we can detect from Earth called?",
+   "answer": "The observable universe",
+   "choices": [
+    "The whole universe",
+    "The solar system"
+   ]
+  },
+  {
+   "episode": "What Is Infinity?",
+   "date": "2026-05-30",
+   "orig": "And why can't we see every part of the universe?",
+   "prompt": "Why can't we see every part of the universe?",
+   "answer": "Its light hasn't reached us",
+   "choices": [
+    "It's too dark at night",
+    "Clouds are in the way"
+   ],
+   "explain": "Some light has not had enough time to reach us."
+  },
+  {
+   "episode": "Why Do Humans Love Puzzles?",
+   "date": "2026-05-31",
+   "orig": "What brain chemical can be involved in motivation and learning and attention and reward?",
+   "prompt": "What brain chemical can be involved in motivation and learning and attention and reward?",
+   "answer": "Dopamine",
+   "choices": [
+    "Saliva",
+    "Caffeine"
+   ]
+  },
+  {
+   "episode": "How Is Maple Syrup Made?",
+   "date": "2026-06-01",
+   "orig": "What liquid comes out of a maple tree before it is boiled?",
+   "prompt": "What liquid comes out of a maple tree before it is boiled?",
+   "answer": "Sap",
+   "choices": [
+    "Honey",
+    "Juice"
+   ]
+  },
+  {
+   "episode": "How Is Maple Syrup Made?",
+   "date": "2026-06-01",
+   "orig": "And what is the small spout called that helps collect sap from the tree? Remember it rhymes with sap.",
+   "prompt": "What is the small spout called that helps collect sap from the tree?",
+   "answer": "A tap",
+   "choices": [
+    "A straw",
+    "A cork"
+   ]
+  },
+  {
+   "episode": "How Is Maple Syrup Made?",
+   "date": "2026-06-01",
+   "orig": "And what leaves the sap as steam when it boils?",
+   "prompt": "What leaves the sap as steam when it boils?",
+   "answer": "Water",
+   "choices": [
+    "Sugar",
+    "Color"
+   ]
+  },
+  {
+   "episode": "How Is Maple Syrup Made?",
+   "date": "2026-06-01",
+   "orig": "And what kind of machine can boil lots of sap at once? Remember what we called that machine?",
+   "prompt": "What kind of machine can boil lots of sap at once?",
+   "answer": "An evaporator",
+   "choices": [
+    "A refrigerator",
+    "A blender"
+   ]
+  },
+  {
+   "episode": "How Do Animals Use Camouflage?",
+   "date": "2026-06-02",
+   "orig": "What do we call it when an animal's body looks like the place where it lives?",
+   "prompt": "What do we call it when an animal's body looks like the place where it lives?",
+   "answer": "Background matching",
+   "choices": [
+    "Counter-shading",
+    "Color copying"
+   ]
+  },
+  {
+   "episode": "How Do Animals Use Camouflage?",
+   "date": "2026-06-02",
+   "orig": "And what is the word for when a fish is darker on top and lighter underneath?",
+   "prompt": "What is the word for when a fish is darker on top and lighter underneath?",
+   "answer": "Counter-shading",
+   "choices": [
+    "Background matching",
+    "Sun spotting"
+   ]
+  },
+  {
+   "episode": "How Fast Is the Fastest Car?",
+   "date": "2026-06-03",
+   "orig": "What is the name of the vehicle that set the official land speed record in 1997?",
+   "prompt": "What is the name of the vehicle that set the official land speed record in 1997?",
+   "answer": "ThrustSSC",
+   "choices": [
+    "Bluebird",
+    "Thunderbolt"
+   ]
+  },
+  {
+   "episode": "How Fast Is the Fastest Car?",
+   "date": "2026-06-03",
+   "orig": "And about how fast did it go?",
+   "prompt": "About how fast did ThrustSSC go?",
+   "answer": "763 miles per hour",
+   "choices": [
+    "76 miles per hour",
+    "7,630 miles per hour"
+   ]
+  },
+  {
+   "episode": "How Fast Is the Fastest Car?",
+   "date": "2026-06-03",
+   "orig": "And what kind of engines helped push it forward?",
+   "prompt": "What kind of engines pushed ThrustSSC forward?",
+   "answer": "Jet engines",
+   "choices": [
+    "Pedals",
+    "Steam engines"
+   ],
+   "explain": "Like on an airplane."
+  },
+  {
+   "episode": "How Fast Is the Fastest Car?",
+   "date": "2026-06-03",
+   "orig": "What is the force called when air pushes back against a moving vehicle?",
+   "prompt": "What is the force called when air pushes back against a moving vehicle?",
+   "answer": "Drag",
+   "choices": [
+    "Lift",
+    "Thrust"
+   ]
+  },
+  {
+   "episode": "Why Does Soap Hurt Your Eyes?",
+   "date": "2026-06-04",
+   "orig": "What is the clear front part of your eye called?",
+   "prompt": "What is the clear front part of your eye called?",
+   "answer": "The cornea",
+   "choices": [
+    "The retina",
+    "The eyebrow"
+   ]
+  },
+  {
+   "episode": "Why Does Soap Hurt Your Eyes?",
+   "date": "2026-06-04",
+   "orig": "And what do your eyelids spread across your eyes when you blink?",
+   "prompt": "What do your eyelids spread across your eyes when you blink?",
+   "answer": "Tears",
+   "choices": [
+    "Oil",
+    "Soap"
+   ]
+  },
+  {
+   "episode": "Why Does Soap Hurt Your Eyes?",
+   "date": "2026-06-04",
+   "orig": "And what scale helps measure whether something is acidic or alkaline?",
+   "prompt": "What scale helps measure whether something is acidic or alkaline?",
+   "answer": "The pH scale",
+   "choices": [
+    "The Richter scale",
+    "The bathroom scale"
+   ]
+  },
+  {
+   "episode": "Why Does Soap Hurt Your Eyes?",
+   "date": "2026-06-04",
+   "orig": "And what should you use to gently rinse soap out of your eye?",
+   "prompt": "What should you use to gently rinse soap out of your eye?",
+   "answer": "Clean water",
+   "choices": [
+    "Juice",
+    "More soap"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Cramps?",
+   "date": "2026-06-05",
+   "orig": "What part of your body sends messages that tell muscles when to tighten and relax?",
+   "prompt": "What part of your body sends messages that tell muscles when to tighten and relax?",
+   "answer": "Your nerves",
+   "choices": [
+    "Your bones",
+    "Your hair"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Cramps?",
+   "date": "2026-06-05",
+   "orig": "And what is the muscle on the back of your lower leg called?",
+   "prompt": "What is the muscle on the back of your lower leg called?",
+   "answer": "The calf",
+   "choices": [
+    "The bicep",
+    "The thumb"
+   ]
+  },
+  {
+   "episode": "Why Do You Get Cramps?",
+   "date": "2026-06-05",
+   "orig": "And besides water, what is something important that your body can lose when you sweat a lot?",
+   "prompt": "Besides water, what is something important your body can lose when you sweat a lot?",
+   "answer": "Electrolytes",
+   "choices": [
+    "Bones",
+    "Hair"
+   ]
+  },
+  {
+   "episode": "How Do Spiders Make Webs?",
+   "date": "2026-06-06",
+   "orig": "What part of a spider's body produces silk?",
+   "prompt": "What part of a spider's body produces silk?",
+   "answer": "Spinnerets",
+   "choices": [
+    "Fangs",
+    "Eyes"
+   ]
+  },
+  {
+   "episode": "How Do Spiders Make Webs?",
+   "date": "2026-06-06",
+   "orig": "Is the silk liquid or solid when it comes out?",
+   "prompt": "What is spider silk like when it first comes out?",
+   "answer": "A liquid",
+   "choices": [
+    "A solid",
+    "A powder"
+   ],
+   "explain": "It's a liquid that turns into a thread."
+  },
+  {
+   "episode": "How Do Spiders Make Webs?",
+   "date": "2026-06-06",
+   "orig": "Why do spiders make webs?",
+   "prompt": "Why do spiders make webs?",
+   "answer": "To catch food",
+   "choices": [
+    "To keep warm",
+    "To play games"
+   ],
+   "explain": "They catch bugs."
+  },
+  {
+   "episode": "How Do Horses Sleep Standing Up?",
+   "date": "2026-06-07",
+   "orig": "What is the special system in a horse's legs that helps them stand while resting?",
+   "prompt": "What is the special system in a horse's legs that helps them stand while resting?",
+   "answer": "The stay apparatus",
+   "choices": [
+    "The hoof hook",
+    "The knee lock"
+   ]
+  },
+  {
+   "episode": "How Do Horses Sleep Standing Up?",
+   "date": "2026-06-07",
+   "orig": "Why do horses prefer to sleep lightly while standing?",
+   "prompt": "Why do horses prefer to sleep lightly while standing?",
+   "answer": "To stay alert for danger",
+   "choices": [
+    "Because grass is cold",
+    "Because they like the view"
+   ]
+  },
+  {
+   "episode": "How Do Horses Sleep Standing Up?",
+   "date": "2026-06-07",
+   "orig": "And what kind of sleep do horses get only when lying down?",
+   "prompt": "What kind of sleep do horses get only when lying down?",
+   "answer": "Deep sleep",
+   "choices": [
+    "Light sleep",
+    "No sleep"
+   ]
+  },
+  {
+   "episode": "Why Do Sheep Baa?",
+   "date": "2026-06-08",
+   "orig": "What is the special name for the sound a sheep makes?",
+   "prompt": "What is the special name for the sound a sheep makes?",
+   "answer": "A bleat",
+   "choices": [
+    "A bark",
+    "A neigh"
+   ]
+  },
+  {
+   "episode": "Why Do Sheep Baa?",
+   "date": "2026-06-08",
+   "orig": "And what is a baby sheep called?",
+   "prompt": "What is a baby sheep called?",
+   "answer": "A lamb",
+   "choices": [
+    "A kid",
+    "A foal"
+   ]
+  },
+  {
+   "episode": "Why Do Sheep Baa?",
+   "date": "2026-06-08",
+   "orig": "And what is a mother sheep called?",
+   "prompt": "What is a mother sheep called?",
+   "answer": "A ewe",
+   "choices": [
+    "A mare",
+    "A hen"
+   ]
+  },
+  {
+   "episode": "How Do Dandelions Work?",
+   "date": "2026-06-10",
+   "orig": "What color is a dandelion before it becomes a little white puffball?",
+   "prompt": "What color is a dandelion before it becomes a little white puffball?",
+   "answer": "Yellow",
+   "choices": [
+    "Purple",
+    "Blue"
+   ]
+  },
+  {
+   "episode": "How Do Dandelions Work?",
+   "date": "2026-06-10",
+   "orig": "And what is the fluffy white part attached to a seed called?",
+   "prompt": "What is the fluffy white part attached to a dandelion seed called?",
+   "answer": "A pappus",
+   "choices": [
+    "A petal",
+    "A pollen puff"
+   ]
+  },
+  {
+   "episode": "How Do Cucumbers Become Pickles?",
+   "date": "2026-06-11",
+   "orig": "What is the special liquid used to make pickles? Do you remember what we called it?",
+   "prompt": "What is the special salty liquid used to make pickles?",
+   "answer": "Brine",
+   "choices": [
+    "Syrup",
+    "Milk"
+   ]
+  },
+  {
+   "episode": "How Do Cucumbers Become Pickles?",
+   "date": "2026-06-11",
+   "orig": "And what sour ingredient is used in many pickle recipes?",
+   "prompt": "What sour ingredient is used in many pickle recipes?",
+   "answer": "Vinegar",
+   "choices": [
+    "Honey",
+    "Butter"
+   ]
+  },
+  {
+   "episode": "How Do Cucumbers Become Pickles?",
+   "date": "2026-06-11",
+   "orig": "And what process uses helpful bacteria to make food sour?",
+   "prompt": "What process uses helpful bacteria to make food sour?",
+   "answer": "Fermentation",
+   "choices": [
+    "Evaporation",
+    "Freezing"
+   ]
+  },
+  {
+   "episode": "What Makes Something Random?",
+   "date": "2026-06-12",
+   "orig": "What is the name for a number that a computer program uses as a starting point when it's creating pseudo-random numbers? Here's a hint, it's something you put into the ground to grow things.",
+   "prompt": "What is the name for the starting number a computer uses to make random-looking numbers?",
+   "answer": "A seed",
+   "choices": [
+    "A root",
+    "A leaf"
+   ]
+  },
+  {
+   "episode": "What Makes Something Random?",
+   "date": "2026-06-12",
+   "orig": "And I already used the word in the last question, but what word do scientists use for numbers that look random but are created by a computer following instructions?",
+   "prompt": "What word do scientists use for numbers that look random but are made by a computer following instructions?",
+   "answer": "Pseudo-random",
+   "choices": [
+    "Super-random",
+    "Extra-random"
+   ]
+  },
+  {
+   "episode": "What Makes Something Random?",
+   "date": "2026-06-12",
+   "orig": "And what is the name of the process where an unstable atom changes into a different kind of atom?",
+   "prompt": "What is the process called when an unstable atom changes into a different kind of atom?",
+   "answer": "Radioactive decay",
+   "choices": [
+    "Photosynthesis",
+    "Evaporation"
+   ]
+  },
+  {
+   "episode": "How Do Vacuum Cleaners Work?",
+   "date": "2026-06-13",
+   "orig": "Why does air rush into the hose?",
+   "prompt": "Why does air rush into a vacuum cleaner's hose?",
+   "answer": "Low air pressure inside",
+   "choices": [
+    "A magnet pulls it",
+    "The hose is cold"
+   ]
+  },
+  {
+   "episode": "How Do Vacuum Cleaners Work?",
+   "date": "2026-06-13",
+   "orig": "What happens to the dirt when it gets sucked up?",
+   "prompt": "What happens to the dirt when a vacuum sucks it up?",
+   "answer": "It's trapped in a bag",
+   "choices": [
+    "It disappears",
+    "It gets blown outside"
+   ],
+   "explain": "It gets trapped in a bag or dust container."
+  },
+  {
+   "episode": "How Do Vacuum Cleaners Work?",
+   "date": "2026-06-13",
+   "orig": "And why are vacuums so loud?",
+   "prompt": "Why are vacuums so loud?",
+   "answer": "A fast-spinning motor and fan",
+   "choices": [
+    "A tiny speaker inside",
+    "Wind outside the house"
+   ]
+  },
+  {
+   "episode": "Why Can't We Feel the Earth Spinning?",
+   "date": "2026-06-15",
+   "orig": "How long does it take the earth to make one complete rotation?",
+   "prompt": "How long does it take the Earth to spin around one time?",
+   "answer": "24 hours",
+   "choices": [
+    "One hour",
+    "One week"
+   ]
+  },
+  {
+   "episode": "Why Can't We Feel the Earth Spinning?",
+   "date": "2026-06-15",
+   "orig": "And why don't we notice the earth moving beneath our feet?",
+   "prompt": "Why don't we notice the Earth moving beneath our feet?",
+   "answer": "Everything moves together",
+   "choices": [
+    "The Earth isn't moving",
+    "Our shoes are too thick"
+   ],
+   "explain": "Everything around us moves with the Earth, and the spin is steady."
+  },
+  {
+   "episode": "Why Can't We Feel the Earth Spinning?",
+   "date": "2026-06-15",
+   "orig": "And what appears to move across the sky because the earth is rotating?",
+   "prompt": "What seems to move across the sky because the Earth is spinning?",
+   "answer": "The sun",
+   "choices": [
+    "Airplanes",
+    "Birds"
+   ]
+  },
+  {
+   "episode": "How Do Bowling Alleys Work?",
+   "date": "2026-06-16",
+   "orig": "What is it called when you knock down all 10 pins in one roll?",
+   "prompt": "What is it called when you knock down all 10 pins in one roll?",
+   "answer": "A strike",
+   "choices": [
+    "A spare",
+    "A gutter"
+   ]
+  },
+  {
+   "episode": "How Do Bowling Alleys Work?",
+   "date": "2026-06-16",
+   "orig": "And what is the machine at the end of the lane called?",
+   "prompt": "What is the machine at the end of a bowling lane called?",
+   "answer": "A pinsetter",
+   "choices": [
+    "A ball blaster",
+    "A lane mower"
+   ]
+  },
+  {
+   "episode": "How Do Bowling Alleys Work?",
+   "date": "2026-06-16",
+   "orig": "What part of the machine pushes fallen pins off the lane?",
+   "prompt": "What part of the machine pushes fallen pins off the lane?",
+   "answer": "The sweep",
+   "choices": [
+    "The mop",
+    "The scoop"
+   ]
+  },
+  {
+   "episode": "Why Are Sloths So Slow?",
+   "date": "2026-06-17",
+   "orig": "What do sloths eat most of the time?",
+   "prompt": "What do sloths eat most of the time?",
+   "answer": "Leaves",
+   "choices": [
+    "Fish",
+    "Bugs"
+   ]
+  },
+  {
+   "episode": "Why Are Sloths So Slow?",
+   "date": "2026-06-17",
+   "orig": "And what can grow in a sloth's fur that helps it blend in?",
+   "prompt": "What can grow in a sloth's fur that helps it blend in?",
+   "answer": "Algae",
+   "choices": [
+    "Flowers",
+    "Mushrooms"
+   ]
+  },
+  {
+   "episode": "Why Are Sloths So Slow?",
+   "date": "2026-06-17",
+   "orig": "And where do sloths spend most of their lives?",
+   "prompt": "Where do sloths spend most of their lives?",
+   "answer": "In the trees",
+   "choices": [
+    "In caves",
+    "In the water"
+   ]
+  },
+  {
+   "episode": "Why Do We Have Hair in Our Noses?",
+   "date": "2026-06-18",
+   "orig": "What are two things that nose hairs can catch?",
+   "prompt": "What are two things that nose hairs can catch?",
+   "answer": "Dust and pollen",
+   "choices": [
+    "Sounds and smells",
+    "Heat and cold"
+   ],
+   "explain": "Also dirt and other tiny little particles."
+  },
+  {
+   "episode": "Why Do We Have Hair in Our Noses?",
+   "date": "2026-06-18",
+   "orig": "What sticky substance helps trap particles that get past your nose hairs?",
+   "prompt": "What sticky substance helps trap particles that get past your nose hairs?",
+   "answer": "Mucus",
+   "choices": [
+    "Saliva",
+    "Tears"
+   ]
+  },
+  {
+   "episode": "Why Do We Have Hair in Our Noses?",
+   "date": "2026-06-18",
+   "orig": "And what part of your body are nose hairs helping protect?",
+   "prompt": "What part of your body are nose hairs helping protect?",
+   "answer": "Your lungs",
+   "choices": [
+    "Your stomach",
+    "Your ears"
+   ],
+   "explain": "They keep little particles from getting down into your lungs."
+  },
+  {
+   "episode": "How Do Walkie Talkies Work?",
+   "date": "2026-06-19",
+   "orig": "What kind of waves do walkie-talkies use to send messages?",
+   "prompt": "What kind of waves do walkie-talkies use to send messages?",
+   "answer": "Radio waves",
+   "choices": [
+    "Ocean waves",
+    "Microwaves"
+   ]
+  },
+  {
+   "episode": "How Do Walkie Talkies Work?",
+   "date": "2026-06-19",
+   "orig": "And what part of a walkie-talkie picks up your voice?",
+   "prompt": "What part of a walkie-talkie picks up your voice?",
+   "answer": "The microphone",
+   "choices": [
+    "The antenna",
+    "The battery"
+   ]
+  },
+  {
+   "episode": "How Do Walkie Talkies Work?",
+   "date": "2026-06-19",
+   "orig": "And what is a channel?",
+   "prompt": "What is a channel on a walkie-talkie?",
+   "answer": "A special radio frequency",
+   "choices": [
+    "A volume button",
+    "A kind of battery"
+   ]
+  },
+  {
+   "episode": "How Do Walkie Talkies Work?",
+   "date": "2026-06-19",
+   "orig": "And what happens when you press the push-to-talk button?",
+   "prompt": "What happens when you press the push-to-talk button?",
+   "answer": "It switches to sending mode",
+   "choices": [
+    "It turns off",
+    "It plays music"
+   ]
+  },
+  {
+   "episode": "How Do Magnets Work?",
+   "date": "2026-06-21",
+   "orig": "What are the ends of a magnet called? Are they the left and right poles, the north and south poles, or the hot and cold poles?",
+   "prompt": "What are the ends of a magnet called?",
+   "answer": "North and south poles",
+   "choices": [
+    "Left and right poles",
+    "Hot and cold poles"
+   ]
+  },
+  {
+   "episode": "How Do Magnets Work?",
+   "date": "2026-06-21",
+   "orig": "What happens when you put two of the same poles together? Do they disappear? Do they stick together? Or do they push away?",
+   "prompt": "What happens when you put two of the same magnet poles together?",
+   "answer": "They push away",
+   "choices": [
+    "They disappear",
+    "They stick together"
+   ]
+  },
+  {
+   "episode": "Why Does Salty Food Make You Thirsty?",
+   "date": "2026-06-22",
+   "orig": "What feeling does your brain create when your body needs more water?",
+   "prompt": "What feeling does your brain create when your body needs more water?",
+   "answer": "Thirst",
+   "choices": [
+    "Sleepiness",
+    "Hunger"
+   ]
+  },
+  {
+   "episode": "Why Does Salty Food Make You Thirsty?",
+   "date": "2026-06-22",
+   "orig": "And which organs help remove extra salt from your body?",
+   "prompt": "Which organs help remove extra salt from your body?",
+   "answer": "The kidneys",
+   "choices": [
+    "The lungs",
+    "The eyes"
+   ]
+  },
+  {
+   "episode": "What Makes Popcorn Pop?",
+   "date": "2026-06-14",
+   "orig": "Let's have a quick quiz. What's inside popcorn that makes it pop?",
+   "prompt": "What's inside popcorn that makes it pop?",
+   "answer": "Water",
+   "choices": [
+    "Air",
+    "Butter"
+   ]
+  },
+  {
+   "episode": "What Makes Popcorn Pop?",
+   "date": "2026-06-14",
+   "orig": "How hot does popcorn need to get before it pops? 100 degrees Fahrenheit, 250 degrees Fahrenheit, or 356 degrees Fahrenheit?",
+   "prompt": "How hot does popcorn need to get before it pops?",
+   "answer": "356 degrees Fahrenheit",
+   "choices": [
+    "100 degrees Fahrenheit",
+    "250 degrees Fahrenheit"
+   ]
+  },
+  {
+   "episode": "What Makes Popcorn Pop?",
+   "date": "2026-06-14",
+   "orig": "In what country did archaeologists find popcorn from over 5,000 years ago? Ireland, Mexico, or America?",
+   "prompt": "In what country did scientists find popcorn from over 5,000 years ago?",
+   "answer": "Mexico",
+   "choices": [
+    "Ireland",
+    "America"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "Why Do Humans Love Puzzles?",
+   "q": "Would you rather solve a giant maze, the size of a playground or a giant jigsaw puzzle, the size of a grocery store?",
+   "why": "other-category"
+  },
+  {
+   "episode": "Why Do Humans Love Puzzles?",
+   "q": "Oh, can you imagine doing a maze that was the size of a playground, just like walking through a maze all the way through a playground?",
+   "why": "other-category"
+  },
+  {
+   "episode": "How Is Maple Syrup Made?",
+   "q": "Remember what we called that machine?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do Cucumbers Become Pickles?",
+   "q": "Do you remember what we called it?",
+   "why": "fragment"
+  }
+ ]
+}

@@ -1,0 +1,875 @@
+{
+ "items": [
+  {
+   "episode": "How Do Bones Heal After They're Broken?",
+   "date": "2025-09-10",
+   "orig": "What forms first at the site of a broken bone?",
+   "prompt": "What forms first at the site of a broken bone?",
+   "answer": "A blood clot",
+   "choices": [
+    "A cast",
+    "A new bone"
+   ],
+   "explain": "The blood rushes in and creates a blood clot."
+  },
+  {
+   "episode": "How Do Bones Heal After They're Broken?",
+   "date": "2025-09-10",
+   "orig": "And when we talk about the soft callus, what is that made of?",
+   "prompt": "What is the soft callus on a healing bone made of?",
+   "answer": "Cartilage",
+   "choices": [
+    "Metal",
+    "Hair"
+   ]
+  },
+  {
+   "episode": "How Do Bones Heal After They're Broken?",
+   "date": "2025-09-10",
+   "orig": "And which cells build new bone tissue?",
+   "prompt": "Which cells build new bone?",
+   "answer": "Osteoblasts",
+   "choices": [
+    "Neurons",
+    "Red blood cells"
+   ]
+  },
+  {
+   "episode": "What Would Happen If You Stopped Drinking Water?",
+   "date": "2025-09-12",
+   "orig": "What percentage of your body is made of water?",
+   "prompt": "How much of your body is made of water?",
+   "answer": "60 to 70 percent",
+   "choices": [
+    "About 10 percent",
+    "About 99 percent"
+   ]
+  },
+  {
+   "episode": "What Would Happen If You Stopped Drinking Water?",
+   "date": "2025-09-12",
+   "orig": "What does sweat do for your body?",
+   "prompt": "What does sweat do for your body?",
+   "answer": "Cools it down",
+   "choices": [
+    "Makes it strong",
+    "Helps it see"
+   ]
+  },
+  {
+   "episode": "What Would Happen If You Stopped Drinking Water?",
+   "date": "2025-09-12",
+   "orig": "What part of your body gets a watery pillow for protection?",
+   "prompt": "What part of your body gets a watery pillow for protection?",
+   "answer": "Brain and spinal cord",
+   "choices": [
+    "Hands and feet",
+    "Hair and nails"
+   ]
+  },
+  {
+   "episode": "Why Do Birds Sing?",
+   "date": "2025-09-13",
+   "orig": "Do birds sing only because they're happy?",
+   "prompt": "Why do birds mostly sing?",
+   "answer": "To communicate",
+   "choices": [
+    "Because they're hungry",
+    "To make it rain"
+   ],
+   "explain": "They sing to communicate, defend their territory, or attract a mate."
+  },
+  {
+   "episode": "Why Do Birds Sing?",
+   "date": "2025-09-13",
+   "orig": "What is it called when young birds learn songs by practicing? Is it wing flapping or vocal learning?",
+   "prompt": "What is it called when young birds learn songs by practicing?",
+   "answer": "Vocal learning",
+   "choices": [
+    "Wing flapping",
+    "Nest building"
+   ]
+  },
+  {
+   "episode": "How Do We Keep Track of All the Animals?",
+   "date": "2025-09-14",
+   "orig": "What kingdom do all animals belong to?",
+   "prompt": "What kingdom do all animals belong to?",
+   "answer": "The animal kingdom",
+   "choices": [
+    "The plant kingdom",
+    "The rock kingdom"
+   ]
+  },
+  {
+   "episode": "How Do We Keep Track of All the Animals?",
+   "date": "2025-09-14",
+   "orig": "What's the difference between insects and arachnids?",
+   "prompt": "What's the difference between insects and arachnids?",
+   "answer": "The number of legs",
+   "choices": [
+    "Their color",
+    "Their size"
+   ],
+   "explain": "Insects have six legs and arachnids have eight."
+  },
+  {
+   "episode": "How Do We Keep Track of All the Animals?",
+   "date": "2025-09-14",
+   "orig": "What is the smallest unit of animal classification?",
+   "prompt": "What is the smallest group in animal classification?",
+   "answer": "Species",
+   "choices": [
+    "Kingdom",
+    "Family"
+   ]
+  },
+  {
+   "episode": "How Do We Keep Track of All the Animals?",
+   "date": "2025-09-14",
+   "orig": "What order are dogs in?",
+   "prompt": "What order are dogs in?",
+   "answer": "Carnivora",
+   "choices": [
+    "Primates",
+    "Rodentia"
+   ],
+   "explain": "The meat eaters."
+  },
+  {
+   "episode": "Can We Travel through Time?",
+   "date": "2025-09-16",
+   "orig": "What's the name of the paradox where meeting your past self creates problems?",
+   "prompt": "What's the name of the paradox about going back in time and meeting your grandparents?",
+   "answer": "The grandfather paradox",
+   "choices": [
+    "The predestination paradox",
+    "The butterfly paradox"
+   ]
+  },
+  {
+   "episode": "Can We Travel through Time?",
+   "date": "2025-09-16",
+   "orig": "What's the name of the effect that says small actions can lead to big changes over time?",
+   "prompt": "What's the name of the effect that says small actions can lead to big changes over time?",
+   "answer": "The butterfly effect",
+   "choices": [
+    "The grandfather effect",
+    "The rainbow effect"
+   ]
+  },
+  {
+   "episode": "Can We Travel through Time?",
+   "date": "2025-09-16",
+   "orig": "And who ages just a little bit slower because they're moving so fast?",
+   "prompt": "Who ages just a little bit slower because they're moving so fast?",
+   "answer": "Astronauts",
+   "choices": [
+    "Grandparents",
+    "Babies"
+   ],
+   "explain": "The ones in the International Space Station."
+  },
+  {
+   "episode": "How Did People Get Food before Grocery Stores?",
+   "date": "2025-09-17",
+   "orig": "Before grocery stores, where did most families get their food?",
+   "prompt": "Before grocery stores, where did most families get their food?",
+   "answer": "They grew it themselves",
+   "choices": [
+    "Vending machines",
+    "Online orders"
+   ],
+   "explain": "They grew it, raised it, or traded for it."
+  },
+  {
+   "episode": "How Did People Get Food before Grocery Stores?",
+   "date": "2025-09-17",
+   "orig": "What was the name of the first self-service grocery store?",
+   "prompt": "What was the name of the first self-service grocery store?",
+   "answer": "Piggly Wiggly",
+   "choices": [
+    "Walmart",
+    "Target"
+   ],
+   "explain": "They still exist today."
+  },
+  {
+   "episode": "How Did People Get Food before Grocery Stores?",
+   "date": "2025-09-17",
+   "orig": "What is the modern example of an old-fashioned market where people sell fresh food directly?",
+   "prompt": "What is a modern market where people sell fresh food directly?",
+   "answer": "A farmer's market",
+   "choices": [
+    "A gas station",
+    "A shopping mall"
+   ]
+  },
+  {
+   "episode": "How Does a Key Lock a Door?",
+   "date": "2025-09-20",
+   "orig": "What do we call the part of the lock where you put the key?",
+   "prompt": "What do we call the part of the lock where you put the key?",
+   "answer": "The cylinder",
+   "choices": [
+    "The handle",
+    "The hinge"
+   ]
+  },
+  {
+   "episode": "How Does a Key Lock a Door?",
+   "date": "2025-09-20",
+   "orig": "And what do the teeth on the key push up inside the lock?",
+   "prompt": "What do the teeth on a key push up inside the lock?",
+   "answer": "The pins",
+   "choices": [
+    "The nails",
+    "The buttons"
+   ]
+  },
+  {
+   "episode": "How Does a Key Lock a Door?",
+   "date": "2025-09-20",
+   "orig": "And what's the special straight line called where all the pins must line up?",
+   "prompt": "What's the special straight line called where all the pins must line up?",
+   "answer": "The shear line",
+   "choices": [
+    "The key line",
+    "The finish line"
+   ]
+  },
+  {
+   "episode": "How Does a Radio Work?",
+   "date": "2025-09-21",
+   "orig": "What kind of waves do radios use to send sound?",
+   "prompt": "What kind of waves do radios use to send sound?",
+   "answer": "Radio waves",
+   "choices": [
+    "Ocean waves",
+    "Heat waves"
+   ],
+   "explain": "The answer was in the question."
+  },
+  {
+   "episode": "How Does a Radio Work?",
+   "date": "2025-09-21",
+   "orig": "What part of the radio grabs the signals out of the air?",
+   "prompt": "What part of the radio grabs the signals out of the air?",
+   "answer": "The antenna",
+   "choices": [
+    "The speaker",
+    "The dial"
+   ]
+  },
+  {
+   "episode": "Why Can You See Yourself in the Mirror?",
+   "date": "2025-09-22",
+   "orig": "What's the part of the mirror that actually reflects light? The glass or the shiny metal?",
+   "prompt": "What's the part of the mirror that actually reflects light?",
+   "answer": "The shiny metal layer",
+   "choices": [
+    "The glass",
+    "The frame"
+   ],
+   "explain": "It's the shiny metal layer behind the glass."
+  },
+  {
+   "episode": "Why Can You See Yourself in the Mirror?",
+   "date": "2025-09-22",
+   "orig": "And what kind of shiny metal is used for the mirror?",
+   "prompt": "What kind of shiny metal is used for a mirror?",
+   "answer": "Aluminum or silver",
+   "choices": [
+    "Gold",
+    "Iron"
+   ]
+  },
+  {
+   "episode": "Why Can You See Yourself in the Mirror?",
+   "date": "2025-09-22",
+   "orig": "And do you remember what scientists call the kind of image a mirror shows you?",
+   "prompt": "What do scientists call the kind of image a mirror shows you?",
+   "answer": "A virtual image",
+   "choices": [
+    "A shadow image",
+    "A photo image"
+   ],
+   "explain": "It tricks your brain, but it's not really there."
+  },
+  {
+   "episode": "Why Do We Dream?",
+   "date": "2025-09-23",
+   "orig": "What part of sleep do the most vivid dreams happen in?",
+   "prompt": "What part of sleep do the most vivid dreams happen in?",
+   "answer": "REM sleep",
+   "choices": [
+    "Light sleep",
+    "Snoring sleep"
+   ]
+  },
+  {
+   "episode": "Why Do We Dream?",
+   "date": "2025-09-23",
+   "orig": "And what does REM stand for, do you remember?",
+   "prompt": "What does REM stand for?",
+   "answer": "Rapid eye movement",
+   "choices": [
+    "Really easy mornings",
+    "Resting every minute"
+   ]
+  },
+  {
+   "episode": "What Is Fire?",
+   "date": "2025-09-24",
+   "orig": "What are the three parts of the fire triangle?",
+   "prompt": "What are the three parts of the fire triangle?",
+   "answer": "Fuel, heat, and oxygen",
+   "choices": [
+    "Wood, water, and wind",
+    "Smoke, ash, and sparks"
+   ]
+  },
+  {
+   "episode": "What Is Fire?",
+   "date": "2025-09-24",
+   "orig": "What color does copper make a flame?",
+   "prompt": "What color does copper make a flame?",
+   "answer": "Green",
+   "choices": [
+    "Yellow",
+    "Red"
+   ],
+   "explain": "Sodium burns yellow, and lithium burns red."
+  },
+  {
+   "episode": "What Is Fire?",
+   "date": "2025-09-24",
+   "orig": "What do humans usually use fire for?",
+   "prompt": "What do humans usually use fire for?",
+   "answer": "Warmth, light, and cooking",
+   "choices": [
+    "Making rain",
+    "Freezing food"
+   ]
+  },
+  {
+   "episode": "Why Does Your House Get Dusty?",
+   "date": "2025-09-26",
+   "orig": "Name a place that dust comes from.",
+   "prompt": "Which of these does dust come from?",
+   "answer": "Your skin and hair",
+   "choices": [
+    "Ice cubes",
+    "Clean water"
+   ],
+   "explain": "It can come from your skin, hair, clothes, outside, or pets."
+  },
+  {
+   "episode": "Why Does Your House Get Dusty?",
+   "date": "2025-09-26",
+   "orig": "What is one way dust sneaks into your house from outdoors?",
+   "prompt": "What is one way dust sneaks into your house from outdoors?",
+   "answer": "Gaps in windows and doors",
+   "choices": [
+    "Through the TV screen",
+    "Inside the fridge"
+   ]
+  },
+  {
+   "episode": "How Do Dishwashers Clean Dishes?",
+   "date": "2025-09-27",
+   "orig": "What do dishwashers use to spray dishes clean?",
+   "prompt": "What do dishwashers use to spray dishes clean?",
+   "answer": "Spinning spray arms",
+   "choices": [
+    "Sponges",
+    "Brushes"
+   ]
+  },
+  {
+   "episode": "How Do Dishwashers Clean Dishes?",
+   "date": "2025-09-27",
+   "orig": "Why is the water heated up?",
+   "prompt": "Why is the water in a dishwasher heated up?",
+   "answer": "Hot water cleans better",
+   "choices": [
+    "To save soap",
+    "To make it quieter"
+   ],
+   "explain": "Hot water cleans food and grease better than cold water."
+  },
+  {
+   "episode": "How Do Dishwashers Clean Dishes?",
+   "date": "2025-09-27",
+   "orig": "What's the name of the soap used in dishwashers?",
+   "prompt": "What's the name of the soap used in dishwashers?",
+   "answer": "Detergent",
+   "choices": [
+    "Shampoo",
+    "Toothpaste"
+   ]
+  },
+  {
+   "episode": "Why Do Camels Have Humps?",
+   "date": "2025-09-28",
+   "orig": "What is stored inside a camel's hump?",
+   "prompt": "What is stored inside a camel's hump?",
+   "answer": "Fat",
+   "choices": [
+    "Water",
+    "Sand"
+   ]
+  },
+  {
+   "episode": "Why Do Camels Have Humps?",
+   "date": "2025-09-28",
+   "orig": "Do you remember what kind of camel has two humps?",
+   "prompt": "What kind of camel has two humps?",
+   "answer": "Bactrian camel",
+   "choices": [
+    "Dromedary camel",
+    "Desert camel"
+   ],
+   "explain": "The one hump camels are called dromedary camels."
+  },
+  {
+   "episode": "Why Do Camels Have Humps?",
+   "date": "2025-09-28",
+   "orig": "How many gallons of water can a camel drink at once?",
+   "prompt": "How many gallons of water can a camel drink at once?",
+   "answer": "Up to 40 gallons",
+   "choices": [
+    "About 1 gallon",
+    "About 5 gallons"
+   ]
+  },
+  {
+   "episode": "How Do Microwaves Heat Food So Fast?",
+   "date": "2025-09-30",
+   "orig": "What device inside a microwave creates the microwaves?",
+   "prompt": "What device inside a microwave creates the microwaves?",
+   "answer": "The magnetron",
+   "choices": [
+    "The turntable",
+    "The light bulb"
+   ]
+  },
+  {
+   "episode": "How Do Microwaves Heat Food So Fast?",
+   "date": "2025-09-30",
+   "orig": "What do microwaves make water molecules do?",
+   "prompt": "What do microwaves make water molecules do?",
+   "answer": "Vibrate really fast",
+   "choices": [
+    "Freeze solid",
+    "Shrink"
+   ]
+  },
+  {
+   "episode": "How Do Microwaves Heat Food So Fast?",
+   "date": "2025-09-30",
+   "orig": "Why is there a spinning turntable inside many microwaves?",
+   "prompt": "Why is there a spinning turntable inside many microwaves?",
+   "answer": "To heat food evenly",
+   "choices": [
+    "To make music",
+    "To keep food cold"
+   ]
+  },
+  {
+   "episode": "Why Do Light Bulbs Burn Out?",
+   "date": "2025-09-29",
+   "orig": "What is the wire inside an incandescent bulb called?",
+   "prompt": "What is the glowing wire inside an old-style light bulb called?",
+   "answer": "The filament",
+   "choices": [
+    "The switch",
+    "The socket"
+   ]
+  },
+  {
+   "episode": "Why Do Light Bulbs Burn Out?",
+   "date": "2025-09-29",
+   "orig": "And what metal are most filaments made of?",
+   "prompt": "What metal are most light bulb filaments made of?",
+   "answer": "Tungsten",
+   "choices": [
+    "Gold",
+    "Iron"
+   ]
+  },
+  {
+   "episode": "Why Do Light Bulbs Burn Out?",
+   "date": "2025-09-29",
+   "orig": "And why doesn't the filament burn up right away?",
+   "prompt": "Why doesn't the filament burn up right away?",
+   "answer": "No air inside the bulb",
+   "choices": [
+    "It's made of ice",
+    "It's always wet"
+   ],
+   "explain": "The bulb has no air inside, or is filled with safe gasses like argon."
+  },
+  {
+   "episode": "Why Do We Yawn?",
+   "date": "2025-10-01",
+   "orig": "What happens to your mouth when you yawn?",
+   "prompt": "What happens to your mouth when you yawn?",
+   "answer": "It opens really wide",
+   "choices": [
+    "It closes tight",
+    "It whistles"
+   ]
+  },
+  {
+   "episode": "Why Do We Yawn?",
+   "date": "2025-10-01",
+   "orig": "What gas do we bring in more of when we yawn?",
+   "prompt": "What gas do we bring in more of when we yawn?",
+   "answer": "Oxygen",
+   "choices": [
+    "Helium",
+    "Smoke"
+   ]
+  },
+  {
+   "episode": "Why Do We Yawn?",
+   "date": "2025-10-01",
+   "orig": "And what do scientists think yawning might help us cool down?",
+   "prompt": "What do scientists think yawning might help cool down?",
+   "answer": "The brain",
+   "choices": [
+    "The toes",
+    "The stomach"
+   ]
+  },
+  {
+   "episode": "Why Do Turtles Live So Long?",
+   "date": "2025-10-03",
+   "orig": "What do turtles carry on their backs that keep them safe?",
+   "prompt": "What do turtles carry on their backs that keeps them safe?",
+   "answer": "A shell",
+   "choices": [
+    "Feathers",
+    "Spikes"
+   ]
+  },
+  {
+   "episode": "Why Do Turtles Live So Long?",
+   "date": "2025-10-03",
+   "orig": "What word describes turtles' very slow use of energy?",
+   "prompt": "What word describes a turtle's very slow use of energy?",
+   "answer": "Metabolism",
+   "choices": [
+    "Photosynthesis",
+    "Gravity"
+   ]
+  },
+  {
+   "episode": "Why Do Turtles Live So Long?",
+   "date": "2025-10-03",
+   "orig": "What part of the cell do turtles repair well to stay young?",
+   "prompt": "What part of their cells do turtles repair well to stay young?",
+   "answer": "DNA",
+   "choices": [
+    "Hair",
+    "Shell"
+   ]
+  },
+  {
+   "episode": "How Do Your Ears Hear Sound?",
+   "date": "2025-10-04",
+   "orig": "What do sound waves travel through on their way to your ear?",
+   "prompt": "What do sound waves travel through on their way to your ear?",
+   "answer": "The air",
+   "choices": [
+    "Wires",
+    "Light"
+   ]
+  },
+  {
+   "episode": "How Do Your Ears Hear Sound?",
+   "date": "2025-10-04",
+   "orig": "What part of your ear looks like a snail?",
+   "prompt": "What part of your ear looks like a snail?",
+   "answer": "The cochlea",
+   "choices": [
+    "The eardrum",
+    "The earlobe"
+   ]
+  },
+  {
+   "episode": "How Do Your Ears Hear Sound?",
+   "date": "2025-10-04",
+   "orig": "And what carries signals from the ear all the way to the brain? Remember, there's a nerve. Do you remember what it's called?",
+   "prompt": "What nerve carries signals from the ear all the way to the brain?",
+   "answer": "The auditory nerve",
+   "choices": [
+    "The optic nerve",
+    "The spinal cord"
+   ],
+   "explain": "Auditory kind of sounds like audio, and audio is about sound."
+  },
+  {
+   "episode": "Why Do We Forget Things?",
+   "date": "2025-10-05",
+   "orig": "What do we call it when old and new memories compete?",
+   "prompt": "What do we call it when old and new memories compete?",
+   "answer": "Interference",
+   "choices": [
+    "Retrieval failure",
+    "Daydreaming"
+   ]
+  },
+  {
+   "episode": "Why Do We Forget Things?",
+   "date": "2025-10-05",
+   "orig": "And what do we call it when the memory is stored in your brain, but you can't pull it out in the moment?",
+   "prompt": "What do we call it when a memory is stored in your brain, but you can't pull it out in the moment?",
+   "answer": "Retrieval failure",
+   "choices": [
+    "Interference",
+    "Sleepwalking"
+   ]
+  },
+  {
+   "episode": "Why Do We Forget Things?",
+   "date": "2025-10-05",
+   "orig": "And what part of the brain is important for making new memories?",
+   "prompt": "What part of the brain is important for making new memories?",
+   "answer": "The hippocampus",
+   "choices": [
+    "The cerebellum",
+    "The occipital lobe"
+   ],
+   "explain": "Kind of sounds like hippopotamus."
+  },
+  {
+   "episode": "Why Do Leaves Change Colors in the Fall?",
+   "date": "2025-10-06",
+   "orig": "What pigment makes leaves green?",
+   "prompt": "What pigment makes leaves green?",
+   "answer": "Chlorophyll",
+   "choices": [
+    "Carotenoids",
+    "Melanin"
+   ]
+  },
+  {
+   "episode": "Why Do Leaves Change Colors in the Fall?",
+   "date": "2025-10-06",
+   "orig": "And what pigment makes leaves look yellow or orange?",
+   "prompt": "What pigment makes leaves look yellow or orange?",
+   "answer": "Carotenoids",
+   "choices": [
+    "Chlorophyll",
+    "Anthocyanins"
+   ],
+   "explain": "It kind of sounds like carrot."
+  },
+  {
+   "episode": "Why Do Leaves Change Colors in the Fall?",
+   "date": "2025-10-06",
+   "orig": "What do trees use leaves to make during the summer?",
+   "prompt": "What do trees use leaves to make during the summer?",
+   "answer": "Food from sunlight",
+   "choices": [
+    "Rain",
+    "Rocks"
+   ],
+   "explain": "It's called photosynthesis."
+  },
+  {
+   "episode": "Why Do Giraffes Have Such Long Necks?",
+   "date": "2025-10-08",
+   "orig": "What kind of trees do giraffes love to eat from?",
+   "prompt": "What kind of trees do giraffes love to eat from?",
+   "answer": "Acacia trees",
+   "choices": [
+    "Pine trees",
+    "Apple trees"
+   ]
+  },
+  {
+   "episode": "Why Do Giraffes Have Such Long Necks?",
+   "date": "2025-10-08",
+   "orig": "What are giraffes' little horn-like bumps on their heads called?",
+   "prompt": "What are giraffes' little horn-like bumps on their heads called?",
+   "answer": "Ossicones",
+   "choices": [
+    "Antlers",
+    "Tusks"
+   ]
+  },
+  {
+   "episode": "Why Do Giraffes Have Such Long Necks?",
+   "date": "2025-10-08",
+   "orig": "And how many bones do giraffes have in their necks?",
+   "prompt": "How many bones do giraffes have in their necks?",
+   "answer": "Seven",
+   "choices": [
+    "Two",
+    "Twenty"
+   ],
+   "explain": "Just like humans."
+  },
+  {
+   "episode": "How Do Elevators Work?",
+   "date": "2025-10-10",
+   "orig": "What helps balance the elevator so it's easier to lift?",
+   "prompt": "What helps balance an elevator so it's easier to lift?",
+   "answer": "A counterweight",
+   "choices": [
+    "A seatbelt",
+    "A spring"
+   ]
+  },
+  {
+   "episode": "How Do Elevators Work?",
+   "date": "2025-10-10",
+   "orig": "What type of elevator uses oil and a piston to move up and down?",
+   "prompt": "What type of elevator uses oil and a piston to move up and down?",
+   "answer": "Hydraulic elevator",
+   "choices": [
+    "Traction elevator",
+    "Rope elevator"
+   ]
+  },
+  {
+   "episode": "How Do Elevators Work?",
+   "date": "2025-10-10",
+   "orig": "And what do traction elevators use to move? Do you remember?",
+   "prompt": "What do traction elevators use to move?",
+   "answer": "Cables and motors",
+   "choices": [
+    "Oil and a piston",
+    "Balloons and fans"
+   ],
+   "explain": "Cables, counterweights, and motors."
+  },
+  {
+   "episode": "What Is the International Space Station?",
+   "date": "2025-10-11",
+   "orig": "About how many miles above Earth does the ISS orbit?",
+   "prompt": "About how many miles above Earth does the space station orbit?",
+   "answer": "About 250 miles",
+   "choices": [
+    "About 5 miles",
+    "About 25,000 miles"
+   ]
+  },
+  {
+   "episode": "What Is the International Space Station?",
+   "date": "2025-10-11",
+   "orig": "What do astronauts experience on the ISS that they don't on Earth?",
+   "prompt": "What do astronauts feel on the space station that they don't on Earth?",
+   "answer": "Weightlessness",
+   "choices": [
+    "Rainstorms",
+    "Extra heavy gravity"
+   ],
+   "explain": "They experience microgravity or weightlessness."
+  },
+  {
+   "episode": "What Is the International Space Station?",
+   "date": "2025-10-11",
+   "orig": "How often does the ISS orbit Earth?",
+   "prompt": "How often does the space station go around Earth?",
+   "answer": "Every 90 minutes",
+   "choices": [
+    "Once a week",
+    "Once a year"
+   ]
+  },
+  {
+   "episode": "Why Do We Burp?",
+   "date": "2025-10-12",
+   "orig": "What kind of gas makes soda fizzy and can cause burps?",
+   "prompt": "What kind of gas makes soda fizzy and can cause burps?",
+   "answer": "Carbon dioxide",
+   "choices": [
+    "Oxygen",
+    "Helium"
+   ]
+  },
+  {
+   "episode": "Why Do We Burp?",
+   "date": "2025-10-12",
+   "orig": "What is the tube called that connects your mouth to your stomach?",
+   "prompt": "What is the tube called that connects your mouth to your stomach?",
+   "answer": "The esophagus",
+   "choices": [
+    "The windpipe",
+    "The intestine"
+   ]
+  },
+  {
+   "episode": "Why Do We Burp?",
+   "date": "2025-10-12",
+   "orig": "And what do people often say after burping to be polite?",
+   "prompt": "What do people often say after burping to be polite?",
+   "answer": "Excuse me",
+   "choices": [
+    "Thank you",
+    "Goodbye"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "episode": "What Would Happen If You Stopped Drinking Water?",
+   "q": "Do you remember that number we talked about?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Birds Sing?",
+   "q": "Is it wing flapping or vocal learning?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do Birds Sing?",
+   "q": "Do all animals learn new sounds just like birds?",
+   "why": "yes-no"
+  },
+  {
+   "episode": "How Do We Keep Track of All the Animals?",
+   "q": "What was the order underneath that?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Do We Keep Track of All the Animals?",
+   "q": "That was a, you know what?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does a Radio Work?",
+   "q": "Which usually has clearer sound?",
+   "why": "other-category"
+  },
+  {
+   "episode": "How Does a Radio Work?",
+   "q": "AM radio or FM radio?",
+   "why": "fragment"
+  },
+  {
+   "episode": "How Does a Radio Work?",
+   "q": "And which travels farther?",
+   "why": "other-category"
+  },
+  {
+   "episode": "How Does a Radio Work?",
+   "q": "AM or FM?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Can You See Yourself in the Mirror?",
+   "q": "The glass or the shiny metal?",
+   "why": "fragment"
+  },
+  {
+   "episode": "Why Do We Forget Things?",
+   "q": "It's the word I just mentioned a minute ago, do you remember?",
+   "why": "fragment"
+  }
+ ]
+}

@@ -1,0 +1,5350 @@
+[
+  {
+    "id": "tot-0001",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to breathe under water like a fish, or be able to talk to dolphins and whales?",
+    "options": [
+      "Breathe underwater",
+      "Talk to dolphins"
+    ],
+    "joshPick": 1,
+    "joshSays": "Imagine the cool stories they could tell.",
+    "episode": "Why Is the Ocean Blue?",
+    "date": "2025-04-16"
+  },
+  {
+    "id": "tot-0002",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep in a tree like a koala or upside down like a bat?",
+    "options": [
+      "Like a koala",
+      "Like a bat"
+    ],
+    "joshPick": 0,
+    "joshSays": "They always look so comfy in the trees.",
+    "episode": "Why Do You Need to Sleep?",
+    "date": "2025-06-02"
+  },
+  {
+    "id": "tot-0003",
+    "category": "this-or-that",
+    "prompt": "Would you rather never need sleep again, but feel a little cranky, or always feel great, but you have to sleep 12 hours a day?",
+    "options": [
+      "Never sleep",
+      "Sleep 12 hours"
+    ],
+    "episode": "Why Do You Need to Sleep?",
+    "date": "2025-06-02"
+  },
+  {
+    "id": "tot-0004",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit the inside of a volcano, with safety gear of course, or swim through an underwater cave?",
+    "options": [
+      "Inside a volcano",
+      "Underwater cave"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'd check out the volcano as long as I had the proper safety gear.",
+    "episode": "What’s Inside a Volcano?",
+    "date": "2025-06-03"
+  },
+  {
+    "id": "tot-0005",
+    "category": "this-or-that",
+    "prompt": "Would you rather be made of lava or ice?",
+    "options": [
+      "Lava",
+      "Ice"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I were ice, I'd always have to worry about melting.",
+    "episode": "What’s Inside a Volcano?",
+    "date": "2025-06-03"
+  },
+  {
+    "id": "tot-0006",
+    "category": "this-or-that",
+    "prompt": "Would you rather breathe underwater like a fish or fly through the sky like a bird?",
+    "options": [
+      "Swim like a fish",
+      "Fly like a bird"
+    ],
+    "joshPick": 1,
+    "joshSays": "Flying through the air just sounds amazing.",
+    "episode": "How Do Fish Breathe Underwater?",
+    "date": "2025-06-04"
+  },
+  {
+    "id": "tot-0007",
+    "category": "this-or-that",
+    "prompt": "Would you rather grow as tall as a tree or spread out like a vine?",
+    "options": [
+      "Tall like a tree",
+      "Spread like a vine"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think trees are amazing.",
+    "episode": "How Does a Seed Turn Into a Plant?",
+    "date": "2025-06-07"
+  },
+  {
+    "id": "tot-0008",
+    "category": "this-or-that",
+    "prompt": "Which do you like more, watching the lightning or listening to the thunder?",
+    "options": [
+      "Watch lightning",
+      "Listen to thunder"
+    ],
+    "joshSays": "I actually like both.",
+    "episode": "What Makes Lightning and Thunder?",
+    "date": "2025-06-10"
+  },
+  {
+    "id": "tot-0009",
+    "category": "this-or-that",
+    "prompt": "Would you rather splash in puddles during a warm summer rain or watch a thunderstorm from your cozy window seat?",
+    "options": [
+      "Splash in puddles",
+      "Watch a storm"
+    ],
+    "joshPick": 1,
+    "joshSays": "That sounds very nice.",
+    "episode": "Why Does It Rain?",
+    "date": "2025-06-14"
+  },
+  {
+    "id": "tot-0010",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride in a hot air balloon or a spaceship?",
+    "options": [
+      "Hot air balloon",
+      "Spaceship"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think maybe a hot air balloon, but I'd only want to do it once.",
+    "episode": "Why Do Some Balloons Float (and Others Fall)?",
+    "date": "2025-06-18"
+  },
+  {
+    "id": "tot-0011",
+    "category": "this-or-that",
+    "prompt": "Would you rather have summer all year long or winter all year long?",
+    "options": [
+      "Summer",
+      "Winter"
+    ],
+    "joshPick": 0,
+    "joshSays": "My wife says she would rather it be cold outside than hot.",
+    "episode": "Why Do the Seasons Change?",
+    "date": "2025-06-20"
+  },
+  {
+    "id": "tot-0012",
+    "category": "this-or-that",
+    "prompt": "Would you rather float in space and see Earth from above, or stay up late watching the night sky through a telescope?",
+    "options": [
+      "Float in space",
+      "Use a telescope"
+    ],
+    "joshPick": 0,
+    "joshSays": "Only a few people in the history of the world have ever gotten that view.",
+    "episode": "Why Do Stars Twinkle?",
+    "date": "2025-06-21"
+  },
+  {
+    "id": "tot-0013",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to see well in the dark like an owl, or be able to move without making a sound?",
+    "options": [
+      "See in the dark",
+      "Move silently"
+    ],
+    "joshPick": 0,
+    "joshSays": "I have to wear really strong glasses, so seeing at night sounds amazing.",
+    "episode": "What Do Owls Do at Night?",
+    "date": "2025-06-25"
+  },
+  {
+    "id": "tot-0014",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to read other people's thoughts, or be able to remember everything you ever learned?",
+    "options": [
+      "Read thoughts",
+      "Remember everything"
+    ],
+    "joshPick": 1,
+    "joshSays": "I don't think I want to know what everybody is thinking all the time.",
+    "episode": "How Does Your Brain Think?",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "tot-0015",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a talking belly that politely says, I'm hungry, or a belly that sings a song every time you need a snack?",
+    "options": [
+      "Talking belly",
+      "Singing belly"
+    ],
+    "joshPick": 0,
+    "joshSays": "Snack, snack, give me a snack. I'm about to have a snack attack.",
+    "episode": "Why Does Your Stomach Growl?",
+    "date": "2025-07-01"
+  },
+  {
+    "id": "tot-0016",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a shadow that could dance on its own, or have a shadow that changes color every day?",
+    "options": [
+      "Dancing shadow",
+      "Color shadow"
+    ],
+    "joshPick": 1,
+    "joshSays": "Today I want my shadow to be blue.",
+    "episode": "Why Do Shadows Follow You?",
+    "date": "2025-07-02"
+  },
+  {
+    "id": "tot-0017",
+    "category": "this-or-that",
+    "prompt": "Would you rather have soap that smells like cookies, or soap that changes colors while you scrub?",
+    "options": [
+      "Cookie soap",
+      "Color soap"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'm gonna go with snickerdoodle cookies. But you definitely should not eat soap.",
+    "episode": "How Does Soap Clean Our Hands?",
+    "date": "2025-07-04"
+  },
+  {
+    "id": "tot-0018",
+    "category": "this-or-that",
+    "prompt": "If you were a snake, would you rather move in an S shape, or straighten up and shrink yourself in to scoot forward?",
+    "options": [
+      "S shape",
+      "Straight scoot"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think I'd like to move in that S shape. That sounds pretty fun.",
+    "episode": "How Do Snakes Move without Legs?",
+    "date": "2025-07-06"
+  },
+  {
+    "id": "tot-0019",
+    "category": "this-or-that",
+    "prompt": "Would you rather be super small like an ant, but super strong, or be regular sized, but you can't pick up anything?",
+    "options": [
+      "Tiny and strong",
+      "Regular size"
+    ],
+    "joshPick": 1,
+    "joshSays": "Boy, I'm not sure which one I would pick.",
+    "episode": "How Do Ants Find Food?",
+    "date": "2025-07-07"
+  },
+  {
+    "id": "tot-0020",
+    "category": "this-or-that",
+    "prompt": "Would you rather travel to the moon or travel to the sun? Pretend it's safe to travel to the sun.",
+    "options": [
+      "The moon",
+      "The sun"
+    ],
+    "joshPick": 1,
+    "joshSays": "The sun is so big. It would be cool to see it up close.",
+    "episode": "Why Does the Moon Change Shapes?",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "tot-0021",
+    "category": "this-or-that",
+    "prompt": "Would you rather get the hiccups every time you laugh or sneeze every time someone says your name?",
+    "options": [
+      "Hiccup when laughing",
+      "Sneeze at your name"
+    ],
+    "joshPick": 0,
+    "joshSays": "That at least sounds more pleasant than sneezing a bunch.",
+    "episode": "Why Do We Hiccup?",
+    "date": "2025-07-14"
+  },
+  {
+    "id": "tot-0022",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to fly like a leaf in the wind or control the wind with your breath?",
+    "options": [
+      "Fly like a leaf",
+      "Control the wind"
+    ],
+    "joshPick": 1,
+    "joshSays": "You just breathe out and make it a windy day.",
+    "episode": "What Makes the Wind Blow?",
+    "date": "2025-07-15"
+  },
+  {
+    "id": "tot-0023",
+    "category": "this-or-that",
+    "prompt": "Would you rather have glasses that can zoom in like binoculars, or glasses that let you see in the dark?",
+    "options": [
+      "Zoom glasses",
+      "Night glasses"
+    ],
+    "joshSays": "Both of these sound really cool to me.",
+    "episode": "How Do Glasses Help You See?",
+    "date": "2025-07-16"
+  },
+  {
+    "id": "tot-0024",
+    "category": "this-or-that",
+    "prompt": "Would you rather have superhuman hearing and hear things really far away, or superhuman vision and see things really far away?",
+    "options": [
+      "Super hearing",
+      "Super vision"
+    ],
+    "joshPick": 1,
+    "joshSays": "It might get a little stressful if I could hear so many things.",
+    "episode": "Why Do Your Ears Pop?",
+    "date": "2025-07-18"
+  },
+  {
+    "id": "tot-0025",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to draw a perfect circle every time you wanted to eat a snack, or only be able to eat foods that are shaped like circles?",
+    "options": [
+      "Draw a circle",
+      "Only round food"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would give me practice and cut down on how many snacks I eat.",
+    "episode": "How Do You Draw a Perfect Circle?",
+    "date": "2025-07-19"
+  },
+  {
+    "id": "tot-0026",
+    "category": "this-or-that",
+    "prompt": "Would you rather shrink down to the size of a molecule or grow as tall as a mountain?",
+    "options": [
+      "Tiny as a molecule",
+      "Tall as a mountain"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be like seeing our world in a completely different way.",
+    "episode": "What Are Molecules?",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "tot-0027",
+    "category": "this-or-that",
+    "prompt": "Would you rather feel like you're floating or feel like your body weighs a thousand pounds?",
+    "options": [
+      "Floating",
+      "A thousand pounds"
+    ],
+    "joshPick": 0,
+    "joshSays": "That would be fun to fly.",
+    "episode": "Why Do Roller Coasters Make You Feel Weird?",
+    "date": "2025-07-21"
+  },
+  {
+    "id": "tot-0028",
+    "category": "this-or-that",
+    "prompt": "Would you rather only eat fruits for a week, or only eat vegetables for a week?",
+    "options": [
+      "Only fruits",
+      "Only vegetables"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would rather eat my delicious salads every day and my fried potatoes.",
+    "episode": "Vegetables vs Fruits: What&#x27;s the difference?",
+    "date": "2025-07-22"
+  },
+  {
+    "id": "tot-0029",
+    "category": "this-or-that",
+    "prompt": "Would you rather live in a place where it's always daytime, or always nighttime?",
+    "options": [
+      "Always day",
+      "Always night"
+    ],
+    "joshPick": 0,
+    "joshSays": "The sun is just a very powerful light source.",
+    "episode": "How Do Time Zones Work?",
+    "date": "2025-07-23"
+  },
+  {
+    "id": "tot-0030",
+    "category": "this-or-that",
+    "prompt": "Would you rather fly around the world so fast you could visit every time zone in one day, or freeze time for 10 minutes every day?",
+    "options": [
+      "Fly around the world",
+      "Freeze time"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would give me a little extra time to think.",
+    "episode": "How Do Time Zones Work?",
+    "date": "2025-07-23"
+  },
+  {
+    "id": "tot-0031",
+    "category": "this-or-that",
+    "prompt": "Would you rather shout into a canyon and hear your echo ten times, or whisper into a cave and hear it whisper back?",
+    "options": [
+      "Shout in a canyon",
+      "Whisper in a cave"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love visiting big canyons.",
+    "episode": "What Is an Echo?",
+    "date": "2025-07-25"
+  },
+  {
+    "id": "tot-0032",
+    "category": "this-or-that",
+    "prompt": "Would you rather drive a super tiny car that can zip through traffic, or have a car that can fly for short distances?",
+    "options": [
+      "Tiny zippy car",
+      "Flying car"
+    ],
+    "joshPick": 1,
+    "joshSays": "You would look up and see traffic up in the sky instead of on the road.",
+    "episode": "How Are Cars Built?",
+    "date": "2025-07-29"
+  },
+  {
+    "id": "tot-0033",
+    "category": "this-or-that",
+    "prompt": "Would you rather hear the same song forever or never hear your favorite song again?",
+    "options": [
+      "Same song forever",
+      "Never hear favorite"
+    ],
+    "joshPick": 1,
+    "joshSays": "That's a toughie. I could pick another favorite song, I suppose.",
+    "episode": "How Does Music Change the Way We Feel?",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "tot-0034",
+    "category": "this-or-that",
+    "prompt": "Would you rather share a pizza with 100 of your friends, or have a whole pizza all to yourself every day for a year?",
+    "options": [
+      "Share with 100 friends",
+      "Pizza every day"
+    ],
+    "joshPick": 0,
+    "joshSays": "Do you have a hundred friends?",
+    "episode": "What If Everyone in the World Shared One Giant Pizza?",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "tot-0035",
+    "category": "this-or-that",
+    "prompt": "Would you rather write using only pictures like the ancient Egyptians, or create your very own brand new alphabet?",
+    "options": [
+      "Picture writing",
+      "My own alphabet"
+    ],
+    "joshPick": 1,
+    "joshSays": "Then I would have to try to teach everybody that new set of letters.",
+    "episode": "Who Invented the Alphabet?",
+    "date": "2025-08-03"
+  },
+  {
+    "id": "tot-0036",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent a brand new kind of electricity, or build a super battery that never runs out?",
+    "options": [
+      "New electricity",
+      "Super battery"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would never need to plug anything in.",
+    "episode": "How Do We Get Electricity?",
+    "date": "2025-08-04"
+  },
+  {
+    "id": "tot-0037",
+    "category": "this-or-that",
+    "prompt": "Would you rather write a book using 1,000 pieces of paper or build the tallest paper tower in the world?",
+    "options": [
+      "Write a big book",
+      "Tallest paper tower"
+    ],
+    "joshPick": 1,
+    "joshSays": "Building a tall paper tower, man, that sounds really fun.",
+    "episode": "How Is Paper Made?",
+    "date": "2025-08-06"
+  },
+  {
+    "id": "tot-0038",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride a bike across the country or ride a horse across the country?",
+    "options": [
+      "Bike",
+      "Horse"
+    ],
+    "joshPick": 1,
+    "joshSays": "What better way to get comfortable on a horse than riding across the country on one?",
+    "episode": "How Long Would It Take to Walk across the United States?",
+    "date": "2025-08-08"
+  },
+  {
+    "id": "tot-0039",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride an escalator that goes super slowly for a very long time, or one that zips you to the top in just three seconds?",
+    "options": [
+      "Super slow",
+      "Three seconds"
+    ],
+    "joshPick": 1,
+    "joshSays": "If I'm on an escalator, it's because I'm trying to get somewhere quickly.",
+    "episode": "How Do Escalators Work?",
+    "date": "2025-08-09"
+  },
+  {
+    "id": "tot-0040",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to blink every three seconds or only be able to blink once every ten minutes?",
+    "options": [
+      "Every 3 seconds",
+      "Every 10 minutes"
+    ],
+    "joshPick": 0,
+    "joshSays": "That's a lot of blinking, but you know what?",
+    "episode": "Why Do We Have to Blink?",
+    "date": "2025-08-10"
+  },
+  {
+    "id": "tot-0041",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit a volcano and watch lava turn into rock, or go deep underground and see a rock changing under pressure?",
+    "options": [
+      "Visit a volcano",
+      "Go underground"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be really fun to watch a volcano erupting.",
+    "episode": "Where Do Rocks Come From?",
+    "date": "2025-08-11"
+  },
+  {
+    "id": "tot-0042",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to create your own rainbow whenever you wanted or be able to touch a rainbow?",
+    "options": [
+      "Make rainbows",
+      "Touch a rainbow"
+    ],
+    "joshPick": 0,
+    "joshSays": "Now, that sounds like a cool superpower.",
+    "episode": "Do Rainbows Touch the Ground?",
+    "date": "2025-08-12"
+  },
+  {
+    "id": "tot-0043",
+    "category": "this-or-that",
+    "prompt": "Would you rather have super skin that never itches, or a super power that makes mosquitoes go away?",
+    "options": [
+      "Skin that never itches",
+      "Make mosquitoes go away"
+    ],
+    "joshPick": 0,
+    "joshSays": "Mosquitoes are an important part of the ecosystem, so I'll go with the super skin.",
+    "episode": "Why Do Mosquito Bites Itch?",
+    "date": "2025-08-13"
+  },
+  {
+    "id": "tot-0044",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a really big dog that's the size of a house, or a really small dog that's the size of a mouse?",
+    "options": [
+      "House-sized dog",
+      "Mouse-sized dog"
+    ],
+    "joshPick": 0,
+    "joshSays": "Think about all the places that dog could take you.",
+    "episode": "Are Dogs Colorblind?",
+    "date": "2025-08-15"
+  },
+  {
+    "id": "tot-0045",
+    "category": "this-or-that",
+    "prompt": "Would you rather design all the characters for a video game or write all the code?",
+    "options": [
+      "Design characters",
+      "Write the code"
+    ],
+    "joshSays": "I don't think there's a wrong answer here.",
+    "episode": "How Are Video Games Made?",
+    "date": "2025-08-16"
+  },
+  {
+    "id": "tot-0046",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride in a glass bottom boat and watch fish swim underneath you, or ride in a giant cruise ship with a waterslide?",
+    "options": [
+      "Glass bottom boat",
+      "Cruise ship"
+    ],
+    "joshPick": 0,
+    "joshSays": "Watching all the fish underneath me? Man, that sounds fun.",
+    "episode": "How Do Big Boats Float?",
+    "date": "2025-08-17"
+  },
+  {
+    "id": "tot-0047",
+    "category": "this-or-that",
+    "prompt": "Would you rather build a house out of Legos or out of giant marshmallows?",
+    "options": [
+      "Lego house",
+      "Marshmallow house"
+    ],
+    "joshSays": "A marshmallow house would be way too delicious just to leave standing.",
+    "episode": "How Are Houses Made?",
+    "date": "2025-08-18"
+  },
+  {
+    "id": "tot-0048",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride on the back of a trash truck like a worker or drive one with a robot arm?",
+    "options": [
+      "Ride on the back",
+      "Drive the robot arm"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would love to be in charge of one of those robot arms.",
+    "episode": "How Do Trash Trucks Work?",
+    "date": "2025-08-19"
+  },
+  {
+    "id": "tot-0049",
+    "category": "this-or-that",
+    "prompt": "Would you rather stay up late playing outside during long summer evenings or wake up super early to see the sunrise?",
+    "options": [
+      "Stay up late",
+      "Watch the sunrise"
+    ],
+    "joshPick": 1,
+    "joshSays": "I am a very early riser.",
+    "episode": "What Is Daylight Savings Time?",
+    "date": "2025-08-20"
+  },
+  {
+    "id": "tot-0050",
+    "category": "this-or-that",
+    "prompt": "Would you rather have eyes on the sides of your head like a fish so you could see almost all the way around you, or have night vision like a deep sea fish so you can see in the dark?",
+    "options": [
+      "Eyes on the sides",
+      "Night vision"
+    ],
+    "joshPick": 1,
+    "joshSays": "It sure would be nice to be able to see in the dark.",
+    "episode": "How Do Fish See Underwater?",
+    "date": "2025-08-22"
+  },
+  {
+    "id": "tot-0051",
+    "category": "this-or-that",
+    "prompt": "Would you rather work in the fruit and veggie section of a grocery store or the bakery section?",
+    "options": [
+      "Fruits and veggies",
+      "Bakery"
+    ],
+    "joshSays": "Hmm, this is a tough call.",
+    "episode": "Where Do Groceries Come From?",
+    "date": "2025-08-23"
+  },
+  {
+    "id": "tot-0052",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent your own kind of money or be in charge of your own store?",
+    "options": [
+      "Invent money",
+      "Run a store"
+    ],
+    "joshSays": "I would pick popcorn as money. But it'd be really easy to just pop more.",
+    "episode": "How Does Money Work?",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "tot-0053",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to see inside your body like an x-ray or see through walls?",
+    "options": [
+      "X-ray body",
+      "See through walls"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I wanna see what's on the other side of a wall, I will walk to the other side.",
+    "episode": "Why Is Blood Red?",
+    "date": "2025-08-25"
+  },
+  {
+    "id": "tot-0054",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to create your own water or be able to create your own clouds?",
+    "options": [
+      "Make water",
+      "Make clouds"
+    ],
+    "joshSays": "What if you could create rain clouds that sat right over your house?",
+    "episode": "Can You Make Your Own Water?",
+    "date": "2025-08-26"
+  },
+  {
+    "id": "tot-0055",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent a brand new month or take away an old one?",
+    "options": [
+      "Invent a month",
+      "Take one away"
+    ],
+    "episode": "Why Are Some Months Longer Than Others?",
+    "date": "2025-08-27"
+  },
+  {
+    "id": "tot-0056",
+    "category": "this-or-that",
+    "prompt": "Would you rather grow as fast as a baby and double your size every week, or stay the same size forever, never getting any bigger?",
+    "options": [
+      "Double every week",
+      "Same size forever"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would get so big, I would probably stretch out into space.",
+    "episode": "How Do Babies Grow in Mom's Womb?",
+    "date": "2025-08-29"
+  },
+  {
+    "id": "tot-0057",
+    "category": "this-or-that",
+    "prompt": "Would you rather warm up with hot chocolate or a pile of blankets?",
+    "options": [
+      "Hot chocolate",
+      "Pile of blankets"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love hot chocolate.",
+    "episode": "Why Do We Shiver When We Are Cold?",
+    "date": "2025-08-30"
+  },
+  {
+    "id": "tot-0058",
+    "category": "this-or-that",
+    "prompt": "Would you rather have one big freckle shaped like a star or a hundred tiny freckles shaped like hearts?",
+    "options": [
+      "One star freckle",
+      "100 heart freckles"
+    ],
+    "joshPick": 1,
+    "joshSays": "100 tiny freckles shaped like hearts, that sounds cool too.",
+    "episode": "Why Do Some People Have Freckles?",
+    "date": "2025-09-01"
+  },
+  {
+    "id": "tot-0059",
+    "category": "this-or-that",
+    "prompt": "Would you rather float on a fluffy cumulus cloud or ride through a thunderstorm in a big storm cloud, with safety gear of course?",
+    "options": [
+      "Fluffy cloud",
+      "Thunderstorm cloud"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds really fun.",
+    "episode": "How Much Do Clouds Weigh?",
+    "date": "2025-09-02"
+  },
+  {
+    "id": "tot-0060",
+    "category": "this-or-that",
+    "prompt": "Would you rather be super tiny and fast like a hummingbird, or really big and super slow like an elephant?",
+    "options": [
+      "Hummingbird",
+      "Elephant"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be cool to be able to hover in the air.",
+    "episode": "How Fast Do Hummingbird Wings Flap?",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "tot-0061",
+    "category": "this-or-that",
+    "prompt": "Would you rather fly through a field of flowers or crawl through tall grass?",
+    "options": [
+      "Fly over flowers",
+      "Crawl through grass"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would always love to learn to fly.",
+    "episode": "How Does a Caterpillar Become a Butterfly?",
+    "date": "2025-09-05"
+  },
+  {
+    "id": "tot-0062",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to turn on every light just by clapping your hands or have light bulbs that change color based on your mood?",
+    "options": [
+      "Clap for lights",
+      "Mood light bulbs"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'm pretty sure that already exists.",
+    "episode": "How Does a Light Switch Turn on the Light?",
+    "date": "2025-09-06"
+  },
+  {
+    "id": "tot-0063",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent your own board game or play a board game where you get a prize when you win?",
+    "options": [
+      "Invent a game",
+      "Win a prize"
+    ],
+    "joshPick": 0,
+    "joshSays": "In fact, I've got some rule books that I'm still working on.",
+    "episode": "When Were Board Games Invented?",
+    "date": "2025-09-07"
+  },
+  {
+    "id": "tot-0064",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a toothbrush that plays music while you brush your teeth or one that lights up like a flashlight?",
+    "options": [
+      "Music toothbrush",
+      "Light-up toothbrush"
+    ],
+    "joshPick": 1,
+    "joshSays": "I wouldn't want my toothbrush to play music and wake people up.",
+    "episode": "Why Do We Need to Brush Our Teeth?",
+    "date": "2025-09-08"
+  },
+  {
+    "id": "tot-0065",
+    "category": "this-or-that",
+    "prompt": "Would you rather sneeze once every minute for a whole day or have itchy eyes for just one hour straight?",
+    "options": [
+      "Sneeze all day",
+      "Itchy eyes, 1 hour"
+    ],
+    "joshPick": 0,
+    "joshSays": "I am definitely gonna sneeze once a minute for a whole day. Achoo!",
+    "episode": "Why Do People Have Allergies?",
+    "date": "2025-09-09"
+  },
+  {
+    "id": "tot-0066",
+    "category": "this-or-that",
+    "prompt": "Would you rather have huge bones that make you ten feet tall, or extra bones that stick out of your arms and give you wings so you can fly?",
+    "options": [
+      "Ten feet tall",
+      "Wings to fly"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would love to be able to fly.",
+    "episode": "How Do Bones Heal After They're Broken?",
+    "date": "2025-09-10"
+  },
+  {
+    "id": "tot-0067",
+    "category": "this-or-that",
+    "prompt": "Would you rather fill your entire house with water or your entire car with water?",
+    "options": [
+      "Fill the house",
+      "Fill the car"
+    ],
+    "joshSays": "It'd be really funny to open the door and watch all this water rush out.",
+    "episode": "What Would Happen If You Stopped Drinking Water?",
+    "date": "2025-09-12"
+  },
+  {
+    "id": "tot-0068",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a bird follow you around all day repeating everything you say like a parrot, or have your own voice sound like a bird song every time you talked?",
+    "options": [
+      "Copycat bird",
+      "Bird song voice"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would be very beautiful to have a bird voice.",
+    "episode": "Why Do Birds Sing?",
+    "date": "2025-09-13"
+  },
+  {
+    "id": "tot-0069",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to fly like a bird or swim underwater like a fish without needing air?",
+    "options": [
+      "Fly like a bird",
+      "Swim like a fish"
+    ],
+    "joshPick": 0,
+    "joshSays": "Being able to fly anywhere, that would be so cool.",
+    "episode": "How Do We Keep Track of All the Animals?",
+    "date": "2025-09-14"
+  },
+  {
+    "id": "tot-0070",
+    "category": "this-or-that",
+    "prompt": "Would you rather travel 100 years into the future to see all the new inventions, or 100 years into the past to see how people lived back then?",
+    "options": [
+      "The future",
+      "The past"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would rather go back to a simpler time without all these screens.",
+    "episode": "Can We Travel through Time?",
+    "date": "2025-09-16"
+  },
+  {
+    "id": "tot-0071",
+    "category": "this-or-that",
+    "prompt": "You're in a time machine. Would you rather go back to when dinosaurs walked the earth, or forward to when humans live on Mars?",
+    "options": [
+      "Dinosaur times",
+      "Humans on Mars"
+    ],
+    "episode": "Can We Travel through Time?",
+    "date": "2025-09-16"
+  },
+  {
+    "id": "tot-0072",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit your great great grandparents or meet your great great grandchildren?",
+    "options": [
+      "Great great grandparents",
+      "Great great grandchildren"
+    ],
+    "episode": "Can We Travel through Time?",
+    "date": "2025-09-16"
+  },
+  {
+    "id": "tot-0073",
+    "category": "this-or-that",
+    "prompt": "Would you rather see your own birthday party from when you turned one, or jump forward to your 100th birthday party?",
+    "options": [
+      "1st birthday",
+      "100th birthday"
+    ],
+    "episode": "Can We Travel through Time?",
+    "date": "2025-09-16"
+  },
+  {
+    "id": "tot-0074",
+    "category": "this-or-that",
+    "prompt": "Would you rather raise chickens for eggs or cows for milk?",
+    "options": [
+      "Chickens",
+      "Cows"
+    ],
+    "joshPick": 0,
+    "joshSays": "I really hope that one day I can get some chickens.",
+    "episode": "How Did People Get Food before Grocery Stores?",
+    "date": "2025-09-17"
+  },
+  {
+    "id": "tot-0075",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a master key that unlocks everything, or a key that can turn into your favorite food anytime you want it?",
+    "options": [
+      "Master key",
+      "Food key"
+    ],
+    "joshPick": 1,
+    "joshSays": "That sounds delicious. I could go for some potatoes.",
+    "episode": "How Does a Key Lock a Door?",
+    "date": "2025-09-20"
+  },
+  {
+    "id": "tot-0076",
+    "category": "this-or-that",
+    "prompt": "Would you rather listen to only music on the radio, or only stories on the radio?",
+    "options": [
+      "Only music",
+      "Only stories"
+    ],
+    "joshPick": 1,
+    "joshSays": "When I was growing up, I loved listening to audio dramas on the radio.",
+    "episode": "How Does a Radio Work?",
+    "date": "2025-09-21"
+  },
+  {
+    "id": "tot-0077",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a mirror that was the size of your house, or a mirror in your house that was the size of an entire wall?",
+    "options": [
+      "House-sized mirror",
+      "Wall mirror"
+    ],
+    "joshSays": "My grandparents had a house where the walls were mirrors.",
+    "episode": "Why Can You See Yourself in the Mirror?",
+    "date": "2025-09-22"
+  },
+  {
+    "id": "tot-0078",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to fly in your dreams every night, or always be able to control what happens in your dreams?",
+    "options": [
+      "Fly in dreams",
+      "Control dreams"
+    ],
+    "joshPick": 0,
+    "joshSays": "I kind of like that my dreams surprise me.",
+    "episode": "Why Do We Dream?",
+    "date": "2025-09-23"
+  },
+  {
+    "id": "tot-0079",
+    "category": "this-or-that",
+    "prompt": "Would you rather sit around a cozy campfire telling stories or watch a giant fireworks show light up the night sky?",
+    "options": [
+      "Cozy campfire",
+      "Fireworks show"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love sitting around a campfire, just talking to the people I love.",
+    "episode": "What Is Fire?",
+    "date": "2025-09-24"
+  },
+  {
+    "id": "tot-0080",
+    "category": "this-or-that",
+    "prompt": "Would you rather shrink down small enough to float on a dust particle, or be able to see all the microscopic dust up close with special vision?",
+    "options": [
+      "Ride on dust",
+      "Dust vision"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would probably make the whole world look like a colorful outer space.",
+    "episode": "Why Does Your House Get Dusty?",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "tot-0081",
+    "category": "this-or-that",
+    "prompt": "Would you rather wash a giant stack of dirty dishes all by hand, or unload a dishwasher full of clean ones every day for a week?",
+    "options": [
+      "Wash by hand",
+      "Unload every day"
+    ],
+    "joshSays": "Next time your parents unload the dishwasher, ask if you can help.",
+    "episode": "How Do Dishwashers Clean Dishes?",
+    "date": "2025-09-27"
+  },
+  {
+    "id": "tot-0082",
+    "category": "this-or-that",
+    "prompt": "Would you rather drink 40 gallons of water in one sitting like a camel, or eat food saved up in a backpack on your back for 40 days?",
+    "options": [
+      "Drink 40 gallons",
+      "Backpack food"
+    ],
+    "joshPick": 1,
+    "joshSays": "Hopefully, it's a really big backpack.",
+    "episode": "Why Do Camels Have Humps?",
+    "date": "2025-09-28"
+  },
+  {
+    "id": "tot-0083",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a room lit by thousands of tiny fireflies, or by millions of tiny light bulbs?",
+    "options": [
+      "Fireflies",
+      "Tiny light bulbs"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love going outside in the summertime and watching the fireflies.",
+    "episode": "Why Do Light Bulbs Burn Out?",
+    "date": "2025-09-29"
+  },
+  {
+    "id": "tot-0084",
+    "category": "this-or-that",
+    "prompt": "Would you rather only be able to eat food that's been microwaved, or only food that's been cooked in an oven?",
+    "options": [
+      "Microwave food",
+      "Oven food"
+    ],
+    "joshPick": 1,
+    "joshSays": "Food cooked in an oven definitely tastes better.",
+    "episode": "How Do Microwaves Heat Food So Fast?",
+    "date": "2025-09-29"
+  },
+  {
+    "id": "tot-0085",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to yawn every single time you blink, or sneeze every single time you laugh?",
+    "options": [
+      "Yawn when blinking",
+      "Sneeze when laughing"
+    ],
+    "joshPick": 1,
+    "joshSays": "Neither of these sound very fun to me.",
+    "episode": "Why Do We Yawn?",
+    "date": "2025-10-01"
+  },
+  {
+    "id": "tot-0086",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a turtle's protective shell or the speed of a cheetah?",
+    "options": [
+      "Turtle shell",
+      "Cheetah speed"
+    ],
+    "joshPick": 1,
+    "joshSays": "I could get places so quick without having to use a car.",
+    "episode": "Why Do Turtles Live So Long?",
+    "date": "2025-10-03"
+  },
+  {
+    "id": "tot-0087",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to hear whispers from far away, or block out any noise you don't want to hear?",
+    "options": [
+      "Hear whispers",
+      "Block out noise"
+    ],
+    "joshPick": 0,
+    "joshSays": "I don't really like blocking out outside noise.",
+    "episode": "How Do Your Ears Hear Sound?",
+    "date": "2025-10-04"
+  },
+  {
+    "id": "tot-0088",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to remember every single thing forever, or be able to choose what you remember and what you forget?",
+    "options": [
+      "Remember everything",
+      "Choose what to forget"
+    ],
+    "joshSays": "Hard things I might have chosen to forget have helped shape me into a better person.",
+    "episode": "Why Do We Forget Things?",
+    "date": "2025-10-05"
+  },
+  {
+    "id": "tot-0089",
+    "category": "this-or-that",
+    "prompt": "Would you rather rake a giant pile of crunchy leaves, or be the one to jump on top of that pile?",
+    "options": [
+      "Rake the pile",
+      "Jump in the pile"
+    ],
+    "joshPick": 0,
+    "joshSays": "There's something very satisfying about raking a bunch of leaves into a big pile.",
+    "episode": "Why Do Leaves Change Colors in the Fall?",
+    "date": "2025-10-06"
+  },
+  {
+    "id": "tot-0090",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a neck as long as a giraffe's or legs as long as a giraffe's?",
+    "options": [
+      "Giraffe neck",
+      "Giraffe legs"
+    ],
+    "joshPick": 1,
+    "joshSays": "I can see the use of having longer legs.",
+    "episode": "Why Do Giraffes Have Such Long Necks?",
+    "date": "2025-10-08"
+  },
+  {
+    "id": "tot-0091",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride the fastest elevator in the world or the tallest one in the world?",
+    "options": [
+      "Fastest elevator",
+      "Tallest elevator"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love a good thrill ride. Sounds almost like a roller coaster.",
+    "episode": "How Do Elevators Work?",
+    "date": "2025-10-10"
+  },
+  {
+    "id": "tot-0092",
+    "category": "this-or-that",
+    "prompt": "Would you rather float around weightless on the space station, or ride the fastest roller coaster on Earth?",
+    "options": [
+      "Float on the ISS",
+      "Fastest roller coaster"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be so fun to experience weightlessness.",
+    "episode": "What Is the International Space Station?",
+    "date": "2025-10-11"
+  },
+  {
+    "id": "tot-0093",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a burp that sounds like a trumpet or one that sounds like a squeaky balloon?",
+    "options": [
+      "Trumpet burp",
+      "Squeaky balloon burp"
+    ],
+    "joshPick": 0,
+    "joshSays": "Maybe you could actually play specific notes and sing a song.",
+    "episode": "Why Do We Burp?",
+    "date": "2025-10-12"
+  },
+  {
+    "id": "tot-0094",
+    "category": "this-or-that",
+    "prompt": "Would you rather only use Morse code to send messages, or only send letters in the mail?",
+    "options": [
+      "Morse code",
+      "Letters in the mail"
+    ],
+    "joshPick": 1,
+    "joshSays": "Morse code was great for its time, but it was a very slow instant.",
+    "episode": "When Were Phones Invented?",
+    "date": "2025-10-13"
+  },
+  {
+    "id": "tot-0095",
+    "category": "this-or-that",
+    "prompt": "Would you rather spin in a circle that goes super fast, or ride on spinning teacups at an amusement park?",
+    "options": [
+      "Spin super fast",
+      "Teacup ride"
+    ],
+    "joshPick": 1,
+    "joshSays": "At least with the teacups, I can control how fast it's going.",
+    "episode": "Why Do We Get Dizzy When We Spin Around?",
+    "date": "2025-10-14"
+  },
+  {
+    "id": "tot-0096",
+    "category": "this-or-that",
+    "prompt": "Would you rather do ten big jumps or fifty tiny hops?",
+    "options": [
+      "Ten big jumps",
+      "Fifty tiny hops"
+    ],
+    "joshPick": 1,
+    "joshSays": "One time, the kids got up to 200 jumps.",
+    "episode": "Why Do Your Muscles Get Sore after Playing Hard?",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "tot-0097",
+    "category": "this-or-that",
+    "prompt": "Would you rather only be able to eat crunchy foods or only soft foods?",
+    "options": [
+      "Only crunchy",
+      "Only soft"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I only ate soft foods, I think I would miss crunchy foods more.",
+    "episode": "Why Are Some Teeth Pointy and Others Flat?",
+    "date": "2025-10-17"
+  },
+  {
+    "id": "tot-0098",
+    "category": "this-or-that",
+    "prompt": "Would you rather have fingerprints that glow in the dark or ones that change color?",
+    "options": [
+      "Glow in the dark",
+      "Change color"
+    ],
+    "joshPick": 0,
+    "joshSays": "I wouldn't need a flashlight out in the forest at night.",
+    "episode": "What Are Fingerprints?",
+    "date": "2025-10-18"
+  },
+  {
+    "id": "tot-0099",
+    "category": "this-or-that",
+    "prompt": "Would you rather have super-speed Wi-Fi everywhere you go, even in the middle of a forest, or a device that never needs to be charged?",
+    "options": [
+      "Wi-Fi everywhere",
+      "Never charge"
+    ],
+    "joshPick": 1,
+    "joshSays": "Who even knows what life is gonna be like once you don't have to charge devices?",
+    "episode": "How Does Wi-Fi Work?",
+    "date": "2025-10-19"
+  },
+  {
+    "id": "tot-0100",
+    "category": "this-or-that",
+    "prompt": "Would you rather study earthquakes from above ground, or get down to where the tectonic plates are and study them there?",
+    "options": [
+      "Above ground",
+      "Down by the plates"
+    ],
+    "joshPick": 1,
+    "joshSays": "That does sound really neat.",
+    "episode": "Why Do Earthquakes Happen?",
+    "date": "2025-10-20"
+  },
+  {
+    "id": "tot-0101",
+    "category": "this-or-that",
+    "prompt": "Would you rather be the one launching a rocket into space, or the one in the rocket going up into space?",
+    "options": [
+      "Launch the rocket",
+      "Ride the rocket"
+    ],
+    "joshPick": 0,
+    "joshSays": "You've got to know a lot of stuff to have that responsibility.",
+    "episode": "How Do Satellites Stay in Space?",
+    "date": "2025-10-21"
+  },
+  {
+    "id": "tot-0102",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a camera that could only take one photo a day, but the photo was always perfect, or a camera that could take unlimited photos, but they were always a little blurry?",
+    "options": [
+      "One perfect photo",
+      "Lots of blurry photos"
+    ],
+    "joshPick": 0,
+    "joshSays": "I definitely know which one I'm going to pick for this one.",
+    "episode": "How Do Cameras Take Pictures?",
+    "date": "2025-10-22"
+  },
+  {
+    "id": "tot-0103",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to step into any photo and explore it, or bring anything from a photo into real life?",
+    "options": [
+      "Step into a photo",
+      "Bring things out"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think I'd rather go explore a photo.",
+    "episode": "How Do Cameras Take Pictures?",
+    "date": "2025-10-22"
+  },
+  {
+    "id": "tot-0104",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a fridge that keeps food fresh forever, or a refrigerator as big as an entire room?",
+    "options": [
+      "Fresh forever",
+      "Room-sized fridge"
+    ],
+    "joshPick": 0,
+    "joshSays": "I can't eat an entire room full of food.",
+    "episode": "Why Does Food Go Bad?",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "tot-0105",
+    "category": "this-or-that",
+    "prompt": "Would you rather live somewhere that's always sunny, or somewhere that's always cloudy?",
+    "options": [
+      "Always sunny",
+      "Always cloudy"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love going out and seeing the sun and feeling the sun.",
+    "episode": "Why Do You Get Sunburns?",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "tot-0106",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a backpack that zips itself or shoes that tie themselves?",
+    "options": [
+      "Self-zipping backpack",
+      "Self-tying shoes"
+    ],
+    "joshPick": 1,
+    "joshSays": "I definitely wear shoes more than I wear a backpack.",
+    "episode": "How Does a Zipper Work?",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "tot-0107",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a vacuum that plays your favorite song while it cleans, or one that follows you like a robot pet?",
+    "options": [
+      "Singing vacuum",
+      "Robot pet vacuum"
+    ],
+    "joshSays": "It would be really cool to have one of those robot vacuum cleaners.",
+    "episode": "How Does a Vacuum Cleaner Suck Up Dirt?",
+    "date": "2025-10-27"
+  },
+  {
+    "id": "tot-0108",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a pencil that never needed sharpening or an eraser that never wore out?",
+    "options": [
+      "Never sharpen",
+      "Eraser lasts forever"
+    ],
+    "joshPick": 0,
+    "joshSays": "Never having to sharpen a pencil, man, that's almost as good as having a pen.",
+    "episode": "Why Can You Erase Pencil Writing?",
+    "date": "2025-10-28"
+  },
+  {
+    "id": "tot-0109",
+    "category": "this-or-that",
+    "prompt": "Would you rather always roll a perfect six when playing a game, or be able to predict what number you will roll next?",
+    "options": [
+      "Always roll six",
+      "Predict the roll"
+    ],
+    "joshPick": 1,
+    "joshSays": "Then I could show off and guess what the number is gonna be every time.",
+    "episode": "How Can You Guess a Dice Roll?",
+    "date": "2025-10-29"
+  },
+  {
+    "id": "tot-0110",
+    "category": "this-or-that",
+    "prompt": "Would you rather shrink down to ant size for a day, or have to live in a human-sized ant colony for a week?",
+    "options": [
+      "Ant-sized for a day",
+      "Ant colony, one week"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be cool to see what the world looks like with everything so big.",
+    "episode": "Why Do Fire Ants Sting?",
+    "date": "2025-10-31"
+  },
+  {
+    "id": "tot-0111",
+    "category": "this-or-that",
+    "prompt": "Would you rather see the world from a bird's-eye view or run faster than a cheetah?",
+    "options": [
+      "Bird's-eye view",
+      "Faster than a cheetah"
+    ],
+    "joshPick": 0,
+    "joshSays": "If you've ever been up in an airplane, you know what a beautiful view that is.",
+    "episode": "What Is the Fastest Bird?",
+    "date": "2025-11-01"
+  },
+  {
+    "id": "tot-0112",
+    "category": "this-or-that",
+    "prompt": "Would you rather feel pain when you've gotten hurt, or have your brain make a really loud alarm sound to let you know about the danger?",
+    "options": [
+      "Feel pain",
+      "Loud alarm"
+    ],
+    "joshPick": 0,
+    "joshSays": "What if you could play your favorite song every time you got hurt?",
+    "episode": "Why Do We Feel Pain?",
+    "date": "2025-11-02"
+  },
+  {
+    "id": "tot-0113",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a bike that can float on water or one that can ride up walls?",
+    "options": [
+      "Floating bike",
+      "Wall-riding bike"
+    ],
+    "joshPick": 0,
+    "joshSays": "I could think of so many places I would love to go on a water bike.",
+    "episode": "How Does a Bicycle Stay Balanced?",
+    "date": "2025-11-04"
+  },
+  {
+    "id": "tot-0114",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a gas powered car or an electric car?",
+    "options": [
+      "Gas car",
+      "Electric car"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would be nice not having to stop at the gas station.",
+    "episode": "Why Do Cars Need Gas?",
+    "date": "2025-11-05"
+  },
+  {
+    "id": "tot-0115",
+    "category": "this-or-that",
+    "prompt": "Would you rather teach a baby its first word or hear your own baby laugh for the first time?",
+    "options": [
+      "Teach a first word",
+      "Hear a first laugh"
+    ],
+    "joshPick": 1,
+    "joshSays": "It's a very special day, the first day your baby smiles and laughs.",
+    "episode": "How Do Babies Learn to Talk?",
+    "date": "2025-11-06"
+  },
+  {
+    "id": "tot-0116",
+    "category": "this-or-that",
+    "prompt": "Would you rather be the actor who's on screen or the director who decides how every scene looks?",
+    "options": [
+      "Actor",
+      "Director"
+    ],
+    "joshPick": 1,
+    "joshSays": "I like to be behind the camera.",
+    "episode": "How Do You Make a Movie?",
+    "date": "2025-11-07"
+  },
+  {
+    "id": "tot-0117",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to do a silly dance every time your leg falls asleep, or have to yell \"Wake up!\" to your leg every time it falls asleep?",
+    "options": [
+      "Silly dance",
+      "Yell wake up"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like getting a little bit of exercise.",
+    "episode": "Why Do Your Legs Fall Asleep Sometimes?",
+    "date": "2025-11-08"
+  },
+  {
+    "id": "tot-0118",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a stick that plays a different musical note every time you swing it, or a stick that glows in the dark?",
+    "options": [
+      "Singing stick",
+      "Glow stick"
+    ],
+    "joshPick": 1,
+    "joshSays": "If you had a collection of those, that sounds really fun.",
+    "episode": "Why Do Sticks Make Different Sounds When You Swing Them?",
+    "date": "2025-11-09"
+  },
+  {
+    "id": "tot-0119",
+    "category": "this-or-that",
+    "prompt": "Would you rather live in a world where it's always sunny, always cloudy, or always rainy?",
+    "options": [
+      "Always sunny",
+      "Always cloudy",
+      "Always rainy"
+    ],
+    "joshPick": 1,
+    "joshSays": "I love those cloudy days. They're good for taking pictures.",
+    "episode": "Why Is It Bad to Look at the Sun?",
+    "date": "2025-11-10"
+  },
+  {
+    "id": "tot-0120",
+    "category": "this-or-that",
+    "prompt": "Would you rather live in a rainforest where cacao trees grow, or in a factory that makes chocolate all day?",
+    "options": [
+      "Rainforest",
+      "Chocolate factory"
+    ],
+    "episode": "Why Is Chocolate Good for You?",
+    "date": "2025-11-11"
+  },
+  {
+    "id": "tot-0121",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent a fan that runs on solar power, or a fan that floats in the air and follows you everywhere?",
+    "options": [
+      "Solar fan",
+      "Floating fan"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would keep us cool down at the playground in the summer.",
+    "episode": "Why Do Fans Make You Cold?",
+    "date": "2025-11-12"
+  },
+  {
+    "id": "tot-0122",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a podcast with a million listeners, or a podcast that just your best friends listen to?",
+    "options": [
+      "A million listeners",
+      "Just my best friends"
+    ],
+    "joshSays": "With just your friends, you could have all kinds of silly inside jokes.",
+    "episode": "How Do You Make a Podcast?",
+    "date": "2025-11-13"
+  },
+  {
+    "id": "tot-0123",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep standing up like a horse or be as fast as a horse?",
+    "options": [
+      "Sleep standing up",
+      "Fast as a horse"
+    ],
+    "joshPick": 1,
+    "joshSays": "If I could doze off while standing up, I would probably do it all the time.",
+    "episode": "Why Do Horses Sleep Standing Up?",
+    "date": "2025-11-15"
+  },
+  {
+    "id": "tot-0124",
+    "category": "this-or-that",
+    "prompt": "Would you rather try to solve a brain-bending paradox, or a giant complicated jigsaw puzzle?",
+    "options": [
+      "A paradox",
+      "A jigsaw puzzle"
+    ],
+    "joshSays": "There's no right or wrong answer here. We need both kinds of people in our world.",
+    "episode": "What Is a Paradox?",
+    "date": "2025-11-16"
+  },
+  {
+    "id": "tot-0125",
+    "category": "this-or-that",
+    "prompt": "Would you rather look through a telescope to see a faraway galaxy, or a close-up view of a crater on the moon?",
+    "options": [
+      "Faraway galaxy",
+      "Moon crater"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I discovered a galaxy, I would call it the Curious Kids Galaxy!",
+    "episode": "How Do Telescopes See So Far Away?",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "tot-0126",
+    "category": "this-or-that",
+    "prompt": "Would you rather control all the traffic lights in your whole city for one day, or have your favorite route always turn green when you arrive?",
+    "options": [
+      "Control all the lights",
+      "Always get green"
+    ],
+    "joshPick": 1,
+    "joshSays": "I have a feeling that I would cause a lot of traffic.",
+    "episode": "How Do Traffic Lights Know When to Change Colors?",
+    "date": "2025-11-18"
+  },
+  {
+    "id": "tot-0127",
+    "category": "this-or-that",
+    "prompt": "Would you rather swim super fast through the water or leap high into the air like a dolphin?",
+    "options": [
+      "Swim super fast",
+      "Leap high"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think it would be really fun to swim super fast.",
+    "episode": "Why Do Dolphins Jump Out of the Water?",
+    "date": "2025-11-19"
+  },
+  {
+    "id": "tot-0128",
+    "category": "this-or-that",
+    "prompt": "Would you rather have super hearing or the ability to block out all loud sounds instantly?",
+    "options": [
+      "Super hearing",
+      "Block loud sounds"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like being able to hear the things going on around me.",
+    "episode": "Why Do You Have Wax in Your Ears?",
+    "date": "2025-11-20"
+  },
+  {
+    "id": "tot-0129",
+    "category": "this-or-that",
+    "prompt": "Would you rather drink warm tea or cold water when your throat hurts?",
+    "options": [
+      "Warm tea",
+      "Cold water"
+    ],
+    "joshPick": 0,
+    "joshSays": "It is so soothing. I love that warm tea.",
+    "episode": "Why Do You Get a Sore Throat?",
+    "date": "2025-11-21"
+  },
+  {
+    "id": "tot-0130",
+    "category": "this-or-that",
+    "prompt": "Would you rather be in charge of choosing the color of money, or draw the tiny designs that are all over the bills?",
+    "options": [
+      "Choose the color",
+      "Draw the designs"
+    ],
+    "joshPick": 1,
+    "joshSays": "Maybe I would put the Curious Kids Every Day logo on the dollar bill.",
+    "episode": "Why Do Dollar Bills Look So Weird?",
+    "date": "2025-11-22"
+  },
+  {
+    "id": "tot-0131",
+    "category": "this-or-that",
+    "prompt": "Would you rather have the strength to lift a tree branch with your nose, or be able to smell things from miles away?",
+    "options": [
+      "Lift with my nose",
+      "Smell from miles away"
+    ],
+    "joshPick": 0,
+    "joshSays": "Oh, do you need me to lift that for you? Let me just use my nose here.",
+    "episode": "Why Do Elephants Have Big Trunks?",
+    "date": "2025-11-23"
+  },
+  {
+    "id": "tot-0132",
+    "category": "this-or-that",
+    "prompt": "Would you rather have fingernails that grow super fast like hair, or fingernails that grow super slow and only need trimming once a year?",
+    "options": [
+      "Super fast nails",
+      "Trim once a year"
+    ],
+    "joshPick": 1,
+    "joshSays": "They're growing again!",
+    "episode": "What If You Never Cut Your Fingernails?",
+    "date": "2025-11-24"
+  },
+  {
+    "id": "tot-0133",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a firefighter and fight fires, or a paramedic and help somebody who's gotten hurt?",
+    "options": [
+      "Firefighter",
+      "Paramedic"
+    ],
+    "joshPick": 0,
+    "joshSays": "I am so appreciative of the people who want to do those jobs.",
+    "episode": "How Do Fire Extinguishers Work?",
+    "date": "2025-11-25"
+  },
+  {
+    "id": "tot-0134",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a sunrise from the beach or a sunset from a mountain?",
+    "options": [
+      "Beach sunrise",
+      "Mountain sunset"
+    ],
+    "joshSays": "I'm picking both. I can't choose between them.",
+    "episode": "Why Does the Sky Change Colors at Sunrise & Sunset?",
+    "date": "2025-11-26"
+  },
+  {
+    "id": "tot-0135",
+    "category": "this-or-that",
+    "prompt": "Would you rather fall asleep listening to rain or listening to ocean waves?",
+    "options": [
+      "Rain",
+      "Ocean waves"
+    ],
+    "joshPick": 1,
+    "joshSays": "Ocean waves means I'm at the beach.",
+    "episode": "How Do Doctors Make You Sleep During Surgery?",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "tot-0136",
+    "category": "this-or-that",
+    "prompt": "Would you rather have super speed to run away from creatures, or be able to make yourself smell really bad to keep creatures away?",
+    "options": [
+      "Super speed",
+      "Super stink"
+    ],
+    "joshPick": 0,
+    "joshSays": "I don't want to smell bad. I'd rather just run.",
+    "episode": "Why Are Skunks So Smelly?",
+    "date": "2025-11-28"
+  },
+  {
+    "id": "tot-0137",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a ball of Play-Doh as big as your house, or a ball of Play-Doh that could bounce like a basketball?",
+    "options": [
+      "House-sized Play-Doh",
+      "Bouncy Play-Doh"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would be really cool to use really bouncy Play-Doh.",
+    "episode": "Why Does Play-Doh Dry Out?",
+    "date": "2025-11-29"
+  },
+  {
+    "id": "tot-0138",
+    "category": "this-or-that",
+    "prompt": "Would you rather be in charge of cutting the wood for a pencil, or making the erasers for the pencil?",
+    "options": [
+      "Cut the wood",
+      "Make the erasers"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love the smell of cutting wood.",
+    "episode": "How Many People Does It Take to Make a Pencil?",
+    "date": "2025-11-29"
+  },
+  {
+    "id": "tot-0139",
+    "category": "this-or-that",
+    "prompt": "Would you rather fly as far as you want through space, or be able to see the entire universe at once?",
+    "options": [
+      "Fly through space",
+      "See the whole universe"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think I would rather fly through the entire universe. That sounds amazing.",
+    "episode": "What Is Outside of Outer Space?",
+    "date": "2025-12-02"
+  },
+  {
+    "id": "tot-0140",
+    "category": "this-or-that",
+    "prompt": "Would you rather stand at the very top of a mountain, or dig a hole that goes to the very bottom of a mountain?",
+    "options": [
+      "Top of a mountain",
+      "Bottom of a mountain"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love being up really high and looking out at all the different stuff you can see.",
+    "episode": "How Are Mountains Made?",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "tot-0141",
+    "category": "this-or-that",
+    "prompt": "Would you rather have glue that dries instantly or glue that changes colors while drying?",
+    "options": [
+      "Dries instantly",
+      "Changes colors"
+    ],
+    "joshPick": 0,
+    "joshSays": "That is always super handy, especially when I'm doing a work project.",
+    "episode": "How Does Glue Make Things Stick Together?",
+    "date": "2025-12-05"
+  },
+  {
+    "id": "tot-0142",
+    "category": "this-or-that",
+    "prompt": "Would you rather try to rebuild a dinosaur skeleton, or create a dinosaur model with a computer?",
+    "options": [
+      "Rebuild a skeleton",
+      "Computer model"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds like a lot of fun.",
+    "episode": "How Do We Know What Dinosaurs Looked Like?",
+    "date": "2025-12-07"
+  },
+  {
+    "id": "tot-0143",
+    "category": "this-or-that",
+    "prompt": "Would you rather have sweat come out only from your elbows, or only from the bottom of your feet?",
+    "options": [
+      "Sweaty elbows",
+      "Sweaty feet"
+    ],
+    "joshPick": 0,
+    "joshSays": "I couldn't wear shoes at all if I had sweaty feet all the time.",
+    "episode": "Why Do We Sweat?",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "tot-0144",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a dream where you could fly or a dream where you could run super fast?",
+    "options": [
+      "Fly",
+      "Run super fast"
+    ],
+    "joshPick": 1,
+    "joshSays": "I don't think I've ever had a dream where I was running super fast.",
+    "episode": "Why Do Some People Sleepwalk?",
+    "date": "2025-12-09"
+  },
+  {
+    "id": "tot-0145",
+    "category": "this-or-that",
+    "prompt": "If Earth stopped spinning, would you rather be on the side that's daytime for six months, or the side that's nighttime for six months?",
+    "options": [
+      "Daytime",
+      "Nighttime"
+    ],
+    "joshPick": 0,
+    "joshSays": "Too much nighttime could be a bit much.",
+    "episode": "What Would Happen If the Earth Stopped Spinning?",
+    "date": "2025-12-10"
+  },
+  {
+    "id": "tot-0146",
+    "category": "this-or-that",
+    "prompt": "Would you rather cry bubbles instead of tears, or ice cream instead of tears?",
+    "options": [
+      "Cry bubbles",
+      "Cry ice cream"
+    ],
+    "joshPick": 1,
+    "joshSays": "Especially if it's strawberry ice cream.",
+    "episode": "Why Do We Cry When We Are Sad?",
+    "date": "2025-12-12"
+  },
+  {
+    "id": "tot-0147",
+    "category": "this-or-that",
+    "prompt": "Would you rather snowflakes taste like ice cream, or snowflakes be made of Play-Doh?",
+    "options": [
+      "Ice cream snow",
+      "Play-Doh snow"
+    ],
+    "joshPick": 0,
+    "joshSays": "If snowflakes were made of Play-Doh, snowball fights would be a lot more painful.",
+    "episode": "How Are Snowflakes Made?",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "tot-0148",
+    "category": "this-or-that",
+    "prompt": "Would you rather be car sick for one hour, or stub your toe really, really hard and have it hurt for exactly one minute?",
+    "options": [
+      "Car sick, 1 hour",
+      "Stubbed toe, 1 minute"
+    ],
+    "joshPick": 1,
+    "joshSays": "If the pain only lasted for exactly one minute, I would rather that.",
+    "episode": "Why Do You Get Carsick?",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "tot-0149",
+    "category": "this-or-that",
+    "prompt": "Would you rather feel really, really sick for one hour, or feel a little sick for three straight days?",
+    "options": [
+      "Really sick, 1 hour",
+      "Little sick, 3 days"
+    ],
+    "joshPick": 1,
+    "joshSays": "The last time I felt really, really sick, it was not pleasant.",
+    "episode": "Why Do We Get Fevers?",
+    "date": "2025-12-17"
+  },
+  {
+    "id": "tot-0150",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a calculator in your brain, or be able to do any math problem on paper very easily?",
+    "options": [
+      "Brain calculator",
+      "Easy paper math"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'd like to know I could just simply do it on paper.",
+    "episode": "How Do Calculators Know Every Math Problem?",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "tot-0151",
+    "category": "this-or-that",
+    "prompt": "Would you rather live in a place with lots of people close together, like a big city, or a place with lots of space between houses, like the countryside?",
+    "options": [
+      "Big city",
+      "Countryside"
+    ],
+    "joshPick": 1,
+    "joshSays": "The drives are longer, sure, but boy, they are beautiful.",
+    "episode": "How Many Babies Are Born Every Second?",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "tot-0152",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat one piece of candy after dinner every day, or eat candy for breakfast, lunch, and dinner for one day, but never again?",
+    "options": [
+      "One candy every day",
+      "Candy all day, once"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would still miss eating candy for the rest of my life.",
+    "episode": "Why Can't You Just Eat Candy All the Time?",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "tot-0153",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a giant dog like Clifford the Big Red Dog, or a tiny dog the size of a small lizard?",
+    "options": [
+      "Giant dog",
+      "Tiny dog"
+    ],
+    "joshPick": 0,
+    "joshSays": "You could climb on its back and it would take you anywhere.",
+    "episode": "Why Do Dogs Lick You?",
+    "date": "2025-12-22"
+  },
+  {
+    "id": "tot-0154",
+    "category": "this-or-that",
+    "prompt": "Would you rather play a piano that's as big as a house, or one that is small enough to fit into your backpack?",
+    "options": [
+      "House-sized piano",
+      "Backpack piano"
+    ],
+    "joshPick": 0,
+    "joshSays": "What do you think it would sound like?",
+    "episode": "How Does a Piano Make Music?",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "tot-0155",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat a big giant apple or a ginormous watermelon?",
+    "options": [
+      "Giant apple",
+      "Ginormous watermelon"
+    ],
+    "joshPick": 1,
+    "joshSays": "It's a little bit softer, so it would probably be easier to eat.",
+    "episode": "Why Are Vitamins Good for You?",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "tot-0156",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a giant oak tree in your front yard or a giant Christmas tree?",
+    "options": [
+      "Oak tree",
+      "Christmas tree"
+    ],
+    "joshPick": 1,
+    "joshSays": "Who wouldn't want a giant pine or spruce or fir tree in their yard?",
+    "episode": "Why Do Some Trees Stay Green All Year Long?",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "tot-0157",
+    "category": "this-or-that",
+    "prompt": "Would you rather fly in an airplane with a shark, or ride on the back of a shark? Pretend it's safe.",
+    "options": [
+      "Fly with a shark",
+      "Ride a shark"
+    ],
+    "joshPick": 1,
+    "joshSays": "You better believe I would be riding on the back of a shark.",
+    "episode": "How Do Large Fish Get to the Aquarium?",
+    "date": "2025-12-26"
+  },
+  {
+    "id": "tot-0158",
+    "category": "this-or-that",
+    "prompt": "Would you rather have permanently wrinkly fingers, or fingers that never wrinkle at all, even in the water?",
+    "options": [
+      "Always wrinkly",
+      "Never wrinkly"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'll just make sure I don't spend a bunch of time under the water.",
+    "episode": "Why Do Your Fingers Get Wrinkled in the Bath Tub?",
+    "date": "2025-12-27"
+  },
+  {
+    "id": "tot-0159",
+    "category": "this-or-that",
+    "prompt": "Would you rather wear a shirt that shrank too small, or a shirt that stayed way too big forever?",
+    "options": [
+      "Too small",
+      "Too big"
+    ],
+    "joshPick": 1,
+    "joshSays": "Shirts that are too small are not comfortable.",
+    "episode": "Why Do Clothes Shrink in the Dryer?",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "tot-0160",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a really bad headache for one hour once a year, or a headache that didn't hurt that bad, but you had it once a week?",
+    "options": [
+      "Bad one, yearly",
+      "Small one, weekly"
+    ],
+    "joshPick": 1,
+    "joshSays": "An hour is a long time to have a really bad headache.",
+    "episode": "Why Do You Get a Headache?",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "tot-0161",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a house powered by a giant battery, or powered by a giant hamster on a giant hamster wheel?",
+    "options": [
+      "Giant battery",
+      "Giant hamster"
+    ],
+    "joshSays": "I'm not sure what I would feed a giant hamster.",
+    "episode": "Why Do Batteries in Your Toys Die?",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "tot-0162",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to drop your arms and regrow them, or be as quick as a lizard?",
+    "options": [
+      "Regrow arms",
+      "Quick as a lizard"
+    ],
+    "joshPick": 1,
+    "joshSays": "It's kind of weird to think about my arms falling off and regrowing.",
+    "episode": "Why Does a Lizard's Tail Fall Off?",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "tot-0163",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a super quiet voice that only your family can hear, or a super loud voice that echoes across a whole playground?",
+    "options": [
+      "Super quiet voice",
+      "Super loud voice"
+    ],
+    "joshPick": 1,
+    "joshSays": "That way I could keep doing Curious Kids Every Day.",
+    "episode": "Why Do Cats Purr?",
+    "date": "2026-01-01"
+  },
+  {
+    "id": "tot-0164",
+    "category": "this-or-that",
+    "prompt": "Would you rather have the world's biggest Magna-Tiles set, or travel all the way to the North Pole when the sun doesn't go down?",
+    "options": [
+      "Biggest Magna-Tiles",
+      "North Pole trip"
+    ],
+    "episode": "Why Does a Compass Always Point North?",
+    "date": "2026-01-03"
+  },
+  {
+    "id": "tot-0165",
+    "category": "this-or-that",
+    "prompt": "Would you rather be so small that you could swim through your own bloodstream, or so big that you could touch the moon?",
+    "options": [
+      "Swim in my blood",
+      "Touch the moon"
+    ],
+    "joshPick": 1,
+    "joshSays": "Like getting to travel to the moon without a rocket ship.",
+    "episode": "When Happens When You Lose Blood?",
+    "date": "2026-01-04"
+  },
+  {
+    "id": "tot-0166",
+    "category": "this-or-that",
+    "prompt": "Would you rather always have longer days or always have shorter days?",
+    "options": [
+      "Longer days",
+      "Shorter days"
+    ],
+    "joshPick": 0,
+    "joshSays": "That way I could go outside and play with my kids more often.",
+    "episode": "Why Are Days Shorter in the Winter?",
+    "date": "2026-01-05"
+  },
+  {
+    "id": "tot-0167",
+    "category": "this-or-that",
+    "prompt": "Would you rather have the most delicious scoop of ice cream of all time that gives you a brain freeze, or a less delicious scoop that probably won't?",
+    "options": [
+      "Best ice cream",
+      "No brain freeze"
+    ],
+    "joshPick": 1,
+    "joshSays": "I like those odds a lot better.",
+    "episode": "Why Do You Get a Brain Freeze When Eating Ice Cream?",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "tot-0168",
+    "category": "this-or-that",
+    "prompt": "Would you rather look like someone from your family when you were a baby, or when you are a grown up?",
+    "options": [
+      "As a baby",
+      "As a grown up"
+    ],
+    "joshPick": 1,
+    "joshSays": "We have a picture of my great uncle, and he looks so much like my son.",
+    "episode": "Why Do You Look Like Your Parents?",
+    "date": "2026-01-07"
+  },
+  {
+    "id": "tot-0169",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride in a submarine deep underwater or ride in a spacecraft far above Earth?",
+    "options": [
+      "Submarine",
+      "Spacecraft"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would love to see the earth from that perspective.",
+    "episode": "Why Isn't There Air in Outer Space?",
+    "date": "2026-01-09"
+  },
+  {
+    "id": "tot-0170",
+    "category": "this-or-that",
+    "prompt": "Would you rather have really dry hands or really chapped lips?",
+    "options": [
+      "Dry hands",
+      "Chapped lips"
+    ],
+    "joshPick": 0,
+    "joshSays": "You can't really wear gloves on your lips.",
+    "episode": "Why Do You Get Chapped Lips in the Winter?",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "tot-0171",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to zoom your vision like a camera, or be able to shrink yourself so everything around you looks huge?",
+    "options": [
+      "Zoom vision",
+      "Shrink myself"
+    ],
+    "joshPick": 1,
+    "joshSays": "If I could experience it just for a few minutes, that would be so much fun.",
+    "episode": "Why Do People Look Tiny from Far Away?",
+    "date": "2026-01-12"
+  },
+  {
+    "id": "tot-0172",
+    "category": "this-or-that",
+    "prompt": "Would you rather draw cartoons on paper by hand, or create cartoons on a computer?",
+    "options": [
+      "By hand",
+      "On a computer"
+    ],
+    "joshPick": 0,
+    "joshSays": "Even though it takes a lot longer, it would still be more fun for me.",
+    "episode": "How Are Cartoons Made?",
+    "date": "2026-01-13"
+  },
+  {
+    "id": "tot-0173",
+    "category": "this-or-that",
+    "prompt": "Would you rather always be able to hear your heartbeat, or always hear your stomach?",
+    "options": [
+      "My heartbeat",
+      "My stomach"
+    ],
+    "joshPick": 0,
+    "joshSays": "With the stomach, there's no telling what you'd be hearing.",
+    "episode": "How Does a Stethoscope Hear Your Heartbeat?",
+    "date": "2026-01-14"
+  },
+  {
+    "id": "tot-0174",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to turn into electricity and move through the power lines, or be a lightning strike hitting the ground?",
+    "options": [
+      "Zoom through wires",
+      "Be lightning"
+    ],
+    "joshPick": 0,
+    "joshSays": "It sounds cool to shoot through wires so fast.",
+    "episode": "Why Does the Power Go Out Sometimes?",
+    "date": "2026-01-16"
+  },
+  {
+    "id": "tot-0175",
+    "category": "this-or-that",
+    "prompt": "Would you rather use tape that sticks too much and never comes off, or tape that barely sticks at all?",
+    "options": [
+      "Super sticky tape",
+      "Barely sticky tape"
+    ],
+    "joshPick": 0,
+    "joshSays": "If the tape barely stuck at all, I'd probably not even have a reason to use it.",
+    "episode": "What Makes Tape Sticky?",
+    "date": "2026-01-18"
+  },
+  {
+    "id": "tot-0176",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a hurricane safely from space, or track one on a computer with scientists?",
+    "options": [
+      "Watch from space",
+      "Track on a computer"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I could watch a hurricane forming from space, that would be pretty cool.",
+    "episode": "How Do Hurricanes Form?",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "tot-0177",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a really big pimple on your nose or on your forehead?",
+    "options": [
+      "On my nose",
+      "On my forehead"
+    ],
+    "joshPick": 1,
+    "joshSays": "Something about a pimple on the nose just really hurts.",
+    "episode": "Why Do We Get Pimples?",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "tot-0178",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep in a nest made only of soft feathers, or a really sturdy nest made of only sticks?",
+    "options": [
+      "Soft feather nest",
+      "Sturdy stick nest"
+    ],
+    "joshPick": 0,
+    "joshSays": "That seems like a nice fluffy pillow.",
+    "episode": "How Do Birds Build Their Nests?",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "tot-0179",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a stuffed animal that is super tiny, or one that is as big as your bed?",
+    "options": [
+      "Super tiny",
+      "Big as my bed"
+    ],
+    "joshPick": 1,
+    "joshSays": "Wow, you could use it as a bed.",
+    "episode": "How Are Stuffed Animals Made?",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "tot-0180",
+    "category": "this-or-that",
+    "prompt": "Would you rather find a tiny diamond hidden in a rock, or watch a machine slowly create a diamond in a lab?",
+    "options": [
+      "Find one hidden",
+      "Watch one made"
+    ],
+    "joshPick": 0,
+    "joshSays": "Can you imagine cracking through a rock and finding a diamond inside?",
+    "episode": "How Are Diamonds Made?",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "tot-0181",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a giant tree in your yard that gives lots of shade, or a big bush that you can hide inside of?",
+    "options": [
+      "Giant shady tree",
+      "Hiding bush"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love giant trees that give lots of shade.",
+    "episode": "What's the Difference Between a Tree and a Bush?",
+    "date": "2026-01-25"
+  },
+  {
+    "id": "tot-0182",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a raincoat that makes a water force field around you, or an umbrella that plays music any time rain hits it?",
+    "options": [
+      "Force field raincoat",
+      "Music umbrella"
+    ],
+    "joshPick": 1,
+    "joshSays": "That sounds like a pretty cool umbrella.",
+    "episode": "Why Is Water Wet?",
+    "date": "2026-01-26"
+  },
+  {
+    "id": "tot-0183",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit a landfill or a recycling center with your family?",
+    "options": [
+      "Landfill",
+      "Recycling center"
+    ],
+    "joshPick": 0,
+    "joshSays": "It's hard to even imagine a landfill with all that trash in it.",
+    "episode": "Where Does All the Trash Go?",
+    "date": "2026-01-28"
+  },
+  {
+    "id": "tot-0184",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep through the cold winter months and wake up in the spring, or have to live out in the snow for a whole week?",
+    "options": [
+      "Sleep all winter",
+      "A snowy week"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would miss playing with my kids if I had to sleep through the whole winter.",
+    "episode": "Why Do Animals Hibernate?",
+    "date": "2026-01-29"
+  },
+  {
+    "id": "tot-0185",
+    "category": "this-or-that",
+    "prompt": "Would you rather move very slowly but be able to crawl on walls, or move incredibly fast but always have to stay in your neighborhood?",
+    "options": [
+      "Slow wall crawler",
+      "Fast but stay close"
+    ],
+    "joshPick": 0,
+    "joshSays": "Maybe it would teach me patience. And I get to walk on walls.",
+    "episode": "How Do Snails Move?",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "tot-0186",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a clock in your brain that always knew what time it was, or live inside of a huge clock?",
+    "options": [
+      "Clock in my brain",
+      "Live in a clock"
+    ],
+    "joshPick": 0,
+    "joshSays": "Wow, a brain in a clock. Now, that sounds interesting.",
+    "episode": "Why Can't You See a Clock's Hour Hand Move?",
+    "date": "2026-02-01"
+  },
+  {
+    "id": "tot-0187",
+    "category": "this-or-that",
+    "prompt": "Would you rather make your own TV show or make your own podcast?",
+    "options": [
+      "TV show",
+      "Podcast"
+    ],
+    "joshPick": 1,
+    "joshSays": "I think you know which one I would pick. I'm doing it right now.",
+    "episode": "How Do TVs Work?",
+    "date": "2026-02-02"
+  },
+  {
+    "id": "tot-0188",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a meteor shower from a backyard at night, or look at a real meteorite in a museum?",
+    "options": [
+      "Meteor shower",
+      "Meteorite in a museum"
+    ],
+    "joshPick": 0,
+    "joshSays": "Those are beautiful when you get to actually see them.",
+    "episode": "Asteroids vs Meteorites: What's the Difference?",
+    "date": "2026-02-04"
+  },
+  {
+    "id": "tot-0189",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a nose that is super runny for an hour, or super stuffy for one hour?",
+    "options": [
+      "Super runny",
+      "Super stuffy"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'd rather breathe through my mouth for an hour.",
+    "episode": "Why Does Your Nose Get Stuffy?",
+    "date": "2026-02-05"
+  },
+  {
+    "id": "tot-0190",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent a marker that never gets lost, or a marker that never dries out?",
+    "options": [
+      "Never gets lost",
+      "Never dries out"
+    ],
+    "joshPick": 1,
+    "joshSays": "Can you imagine if you didn't have to put the cap back on?",
+    "episode": "Why Do Markers Dry Out?",
+    "date": "2026-02-07"
+  },
+  {
+    "id": "tot-0191",
+    "category": "this-or-that",
+    "prompt": "Would you rather only hear your voice the way other people hear it, or only hear it the way it sounds when you cover your ears?",
+    "options": [
+      "Like others hear it",
+      "With ears covered"
+    ],
+    "joshPick": 0,
+    "joshSays": "It's cool the way my voice sounds when I close my ears, but not all the time.",
+    "episode": "Why Is Your Voice Louder When You Cover Your Ears?",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "tot-0192",
+    "category": "this-or-that",
+    "prompt": "Would you rather do 10 careful pushups with great form, or be able to do 50 super sloppy ones?",
+    "options": [
+      "10 careful pushups",
+      "50 sloppy pushups"
+    ],
+    "joshPick": 0,
+    "joshSays": "Doing them the right way is the best way to build strength.",
+    "episode": "How Do Muscles Grow Bigger?",
+    "date": "2026-02-10"
+  },
+  {
+    "id": "tot-0193",
+    "category": "this-or-that",
+    "prompt": "Would you rather have an amazing memory where you never forget faces, or be an amazing problem solver who can figure out any puzzle?",
+    "options": [
+      "Never forget faces",
+      "Solve any puzzle"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like solving puzzles, but I like to actually solve them myself.",
+    "episode": "How Smart Are Baboons?",
+    "date": "2026-02-11"
+  },
+  {
+    "id": "tot-0194",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to eat through your belly button or eat through your toes?",
+    "options": [
+      "Belly button",
+      "Toes"
+    ],
+    "joshPick": 0,
+    "joshSays": "Neither sound ideal, but I guess I'd go belly button.",
+    "episode": "Why Do You Have a Belly Button?",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "tot-0195",
+    "category": "this-or-that",
+    "prompt": "Would you rather get a big shock every hour for a week, or 100 small shocks every day for a week?",
+    "options": [
+      "Big shock every hour",
+      "100 small shocks"
+    ],
+    "joshPick": 1,
+    "joshSays": "I know what a small shock feels like. It's not too bad.",
+    "episode": "Why Do You Get Shocked When You Touch Things?",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "tot-0196",
+    "category": "this-or-that",
+    "prompt": "Would you rather zoom through a swimming pool like a rocket, or be able to make a quick decoy blob in the water to distract someone chasing you?",
+    "options": [
+      "Zoom like a rocket",
+      "Make a decoy blob"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would love to be able to zoom around a swimming pool.",
+    "episode": "How Do Squids Squirt Ink?",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "tot-0197",
+    "category": "this-or-that",
+    "prompt": "Would you rather have one huge balloon that shrinks quickly, or two small balloons that never shrink at all?",
+    "options": [
+      "One huge balloon",
+      "Two small balloons"
+    ],
+    "joshPick": 0,
+    "joshSays": "The fun of a balloon is that it doesn't last forever.",
+    "episode": "Why Do Balloons Shrink Over Time?",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "tot-0198",
+    "category": "this-or-that",
+    "prompt": "Would you rather shed your skin like a snake, or grow new shoes every time your feet got bigger?",
+    "options": [
+      "Shed my skin",
+      "Grow new shoes"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would be nice if I could just grow some new shoes from time to time.",
+    "episode": "Why Do Snakes Lose Their Skin?",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "tot-0199",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to wear sunglasses every time you go outside, even on cloudy days, or keep the lights in your house dim all the time?",
+    "options": [
+      "Always sunglasses",
+      "Always dim lights"
+    ],
+    "joshPick": 0,
+    "joshSays": "I already wear glasses, so this would not be too much of a change for me.",
+    "episode": "Why Do Bright Lights Hurt Your Eyes?",
+    "date": "2026-02-18"
+  },
+  {
+    "id": "tot-0200",
+    "category": "this-or-that",
+    "prompt": "Would you rather have cheeks that get super warm when someone compliments you, or hands that get sweaty when you have to introduce yourself?",
+    "options": [
+      "Warm cheeks",
+      "Sweaty hands"
+    ],
+    "joshPick": 0,
+    "joshSays": "I get sweaty hands too sometimes, and I don't like that feeling.",
+    "episode": "Why Do We Blush?",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "tot-0201",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to fall asleep in a room that is perfectly silent, or a room with a gentle fan sound?",
+    "options": [
+      "Perfectly silent",
+      "Gentle fan sound"
+    ],
+    "joshPick": 1,
+    "joshSays": "I like to have some kind of noise machine or fan sound going.",
+    "episode": "Why Do You Hear Ringing When It's Very Quiet?",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "tot-0202",
+    "category": "this-or-that",
+    "prompt": "Would you rather have gray hair as a kid and then your normal color the rest of your life, or your normal color most of your life and then gray hair when you get older?",
+    "options": [
+      "Gray as a kid",
+      "Gray when older"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think it would be really interesting to have gray hair as a kid.",
+    "episode": "Why Do Grown Ups Get Gray Hair?",
+    "date": "2026-02-22"
+  },
+  {
+    "id": "tot-0203",
+    "category": "this-or-that",
+    "prompt": "Would you rather build a clubhouse out of one giant box, or build a maze out of a lot of small boxes?",
+    "options": [
+      "Giant box clubhouse",
+      "Small box maze"
+    ],
+    "joshPick": 1,
+    "joshSays": "We love making mazes at our house.",
+    "episode": "How Is Cardboard Made?",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "tot-0204",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch the stars from a beautiful farm way out in the country, or through a huge telescope so you could see them up close?",
+    "options": [
+      "From a farm",
+      "Through a telescope"
+    ],
+    "joshPick": 0,
+    "joshSays": "Where it's pitch black dark, man, the stars just look beautiful.",
+    "episode": "Why Are Some Stars Brighter than Others?",
+    "date": "2026-02-24"
+  },
+  {
+    "id": "tot-0205",
+    "category": "this-or-that",
+    "prompt": "Would you rather hear with your tongue or smell with your tongue?",
+    "options": [
+      "Hear with tongue",
+      "Smell with tongue"
+    ],
+    "joshPick": 1,
+    "joshSays": "That seems slightly less inconvenient.",
+    "episode": "What Happens When You Bite Your Tongue?",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "tot-0206",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a roof made of glass or a car made of glass?",
+    "options": [
+      "Glass roof",
+      "Glass car"
+    ],
+    "joshPick": 0,
+    "joshSays": "You could watch the stars from inside your living room.",
+    "episode": "Why Does Glass Look Invisible?",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "tot-0207",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep for 12 hours every night, or sleep for one whole day, 24 hours, one day a week?",
+    "options": [
+      "12 hours every night",
+      "24 hours, weekly"
+    ],
+    "joshPick": 1,
+    "joshSays": "This one is a no-brainer for me. I would have so much more time.",
+    "episode": "How Do You Know When You Fall Asleep?",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "tot-0208",
+    "category": "this-or-that",
+    "prompt": "Would you rather do a short burst of jumping jacks for 30 seconds, or take a brisk walk for five minutes?",
+    "options": [
+      "30-second jumping jacks",
+      "5-minute walk"
+    ],
+    "joshPick": 1,
+    "joshSays": "Both are really good for your body.",
+    "episode": "Why Does Exercise Make You Feel Good?",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "tot-0209",
+    "category": "this-or-that",
+    "prompt": "Would you rather live somewhere super cold or somewhere super hot?",
+    "options": [
+      "Super cold",
+      "Super hot"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would just crank up the air conditioning.",
+    "episode": "Why Do Your Fingers Go Numb When It's Cold?",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "tot-0210",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a thermometer that is super fast but sometimes a little bit off, or one that is slower but really accurate?",
+    "options": [
+      "Super fast",
+      "Slow but accurate"
+    ],
+    "joshPick": 1,
+    "joshSays": "As a dad, I will definitely choose the one that's way more accurate.",
+    "episode": "How Do Thermometers Check Your Temperature?",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "tot-0211",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat ice cream for every meal or once a day?",
+    "options": [
+      "Every meal",
+      "Once a day"
+    ],
+    "joshPick": 1,
+    "joshSays": "A little ice cream goes a long way for me.",
+    "episode": "How Do You Make Ice Cream?",
+    "date": "2026-03-04"
+  },
+  {
+    "id": "tot-0212",
+    "category": "this-or-that",
+    "prompt": "Would you rather balance on one foot in a pool for five minutes or on a trampoline for five minutes?",
+    "options": [
+      "In a pool",
+      "On a trampoline"
+    ],
+    "joshPick": 0,
+    "joshSays": "On a trampoline, my sons would start bouncing around me trying to knock me over.",
+    "episode": "Why Do Flamingos Stand on One Leg?",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "tot-0213",
+    "category": "this-or-that",
+    "prompt": "Would you rather have an automatic door at your house, or your own grocery store just for your family?",
+    "options": [
+      "Automatic door",
+      "Family grocery store"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would have all the ingredients for homemade pizza.",
+    "episode": "How Do Automatic Doors Know You're There?",
+    "date": "2026-03-06"
+  },
+  {
+    "id": "tot-0214",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a refrigerator that always stays filled with food automatically, or a refrigerator the size of a house?",
+    "options": [
+      "Always full fridge",
+      "House-sized fridge"
+    ],
+    "joshPick": 0,
+    "joshSays": "I wouldn't have to go to the grocery store anymore.",
+    "episode": "How Does a Refrigerator Keep Food Cold?",
+    "date": "2026-03-07"
+  },
+  {
+    "id": "tot-0215",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride on the blade of a fan or on the wing of an airplane? Pretend it's perfectly safe.",
+    "options": [
+      "Fan blade",
+      "Airplane wing"
+    ],
+    "joshPick": 1,
+    "joshSays": "That sounds like a fun adventure.",
+    "episode": "How Do Ceiling Fans Work?",
+    "date": "2026-03-08"
+  },
+  {
+    "id": "tot-0216",
+    "category": "this-or-that",
+    "prompt": "Would you rather make homemade donuts or make homemade ice cream?",
+    "options": [
+      "Homemade donuts",
+      "Homemade ice cream"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've made homemade ice cream before, but I've never made homemade donuts.",
+    "episode": "Why Do Donuts Have Holes?",
+    "date": "2026-03-09"
+  },
+  {
+    "id": "tot-0217",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a dog that could talk like a human, or be able to understand everything every dog is saying?",
+    "options": [
+      "Talking dog",
+      "Understand dogs"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would rather be able to understand what all the dogs were saying.",
+    "episode": "How Do Dogs Bark?",
+    "date": "2026-03-10"
+  },
+  {
+    "id": "tot-0218",
+    "category": "this-or-that",
+    "prompt": "Would you rather drink warm drinks for the rest of your life or cold drinks for the rest of your life?",
+    "options": [
+      "Warm drinks",
+      "Cold drinks"
+    ],
+    "joshPick": 1,
+    "joshSays": "It is much nicer to drink a cold drink when you're really hot.",
+    "episode": "Why Do Ice Cubes Crack in Your Drink?",
+    "date": "2026-03-11"
+  },
+  {
+    "id": "tot-0219",
+    "category": "this-or-that",
+    "prompt": "Would you rather warm up by lying in the sun like a crocodile, or keep a steady body temperature all by yourself like humans do?",
+    "options": [
+      "Sun warm-ups",
+      "Stay warm myself"
+    ],
+    "joshPick": 1,
+    "joshSays": "It'd be interesting to be like a crocodile for one day, but I'm grateful to be like a human.",
+    "episode": "How Long Do Crocodiles Live?",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "tot-0220",
+    "category": "this-or-that",
+    "prompt": "Would you rather safely travel to the sun or safely travel to a black hole?",
+    "options": [
+      "The sun",
+      "A black hole"
+    ],
+    "joshSays": "I'm gonna cheat this one time and pick both.",
+    "episode": "What Would Happen If the Sun Exploded?",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "tot-0221",
+    "category": "this-or-that",
+    "prompt": "Would you rather be in a place with no air for 10 seconds, or a place with no gravity for 10 seconds?",
+    "options": [
+      "No air",
+      "No gravity"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'd rather float around with no gravity. That sounds much more enjoyable.",
+    "episode": "Why Does Liquid Stay in a Straw?",
+    "date": "2026-03-15"
+  },
+  {
+    "id": "tot-0222",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a bird that can swim really well, or a bird that can fly really high?",
+    "options": [
+      "Swim really well",
+      "Fly really high"
+    ],
+    "joshPick": 1,
+    "joshSays": "I can already swim, but I can't fly.",
+    "episode": "Why Do Penguins Waddle?",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "tot-0223",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a turtle that slowly crawls around on the ground, or a sea turtle that can swim through the ocean?",
+    "options": [
+      "Land turtle",
+      "Sea turtle"
+    ],
+    "episode": "What Is Physics and How Do Things Move? (Curious Kids Club)",
+    "date": "2026-03-17"
+  },
+  {
+    "id": "tot-0224",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to control your own heartbeat or control your own digestion?",
+    "options": [
+      "My heartbeat",
+      "My digestion"
+    ],
+    "joshPick": 0,
+    "joshSays": "Okay, I am going to need my heart rate to go up a little bit now. Thank you.",
+    "episode": "Why Do You Get Butterflies in Your Stomach?",
+    "date": "2026-03-18"
+  },
+  {
+    "id": "tot-0225",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a tickle in your throat for ten seconds, or sneeze one time really loudly?",
+    "options": [
+      "Throat tickle",
+      "One loud sneeze"
+    ],
+    "joshPick": 1,
+    "joshSays": "Sometimes after a sneeze, ah, you feel really good.",
+    "episode": "Why Do You Cough?",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "tot-0226",
+    "category": "this-or-that",
+    "prompt": "Would you rather only drink fizzy drinks or only drink milkshakes for a week?",
+    "options": [
+      "Fizzy drinks",
+      "Milkshakes"
+    ],
+    "joshPick": 0,
+    "joshSays": "That many milkshakes would probably upset my stomach.",
+    "episode": "Why Does Soda Explode When You Shake It?",
+    "date": "2026-03-21"
+  },
+  {
+    "id": "tot-0227",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep in a beautiful castle every night, or only have to sleep for three hours a night?",
+    "options": [
+      "Sleep in a castle",
+      "Sleep 3 hours"
+    ],
+    "joshPick": 1,
+    "joshSays": "Maybe I could do two episodes of Curious Kids Every Day every day.",
+    "episode": "Why Do We Sleep Talk?",
+    "date": "2026-03-22"
+  },
+  {
+    "id": "tot-0228",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat cake every day or eat ice cream every day?",
+    "options": [
+      "Cake",
+      "Ice cream"
+    ],
+    "joshPick": 1,
+    "joshSays": "I know this whole episode is about cake, but I love ice cream.",
+    "episode": "Why Do Cakes Rise in the Oven?",
+    "date": "2026-03-23"
+  },
+  {
+    "id": "tot-0229",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a built-in megaphone under your chin that you can turn on and off, or just have a super loud voice?",
+    "options": [
+      "Chin megaphone",
+      "Super loud voice"
+    ],
+    "joshPick": 0,
+    "joshSays": "Attention, family! We're going outside now!",
+    "episode": "Why Do Frogs Croak at Night?",
+    "date": "2026-03-24"
+  },
+  {
+    "id": "tot-0230",
+    "category": "this-or-that",
+    "prompt": "Would you rather explore another galaxy or find the edge of the universe?",
+    "options": [
+      "Another galaxy",
+      "Edge of the universe"
+    ],
+    "joshPick": 1,
+    "joshSays": "It's hard to pass up checking out the very edge of space.",
+    "episode": "What Is a Galaxy?",
+    "date": "2026-03-25"
+  },
+  {
+    "id": "tot-0231",
+    "category": "this-or-that",
+    "prompt": "Would you rather play a card game or a video game?",
+    "options": [
+      "Card game",
+      "Video game"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love playing card games with my family. One of our favorites is Uno.",
+    "episode": "How Did Nintendo Get Its Name?",
+    "date": "2026-03-26"
+  },
+  {
+    "id": "tot-0232",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit Antarctica when the sun never sets, or when the sun never rises?",
+    "options": [
+      "Sun never sets",
+      "Sun never rises"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be so fun to watch the sun just go around you and never go down.",
+    "episode": "How Cold Is Antarctica?",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "tot-0233",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a cotton candy machine or an ice cream maker?",
+    "options": [
+      "Cotton candy machine",
+      "Ice cream maker"
+    ],
+    "joshPick": 0,
+    "joshSays": "That machine was just always so classic at our house growing up.",
+    "episode": "How Is Cotton Candy Made?",
+    "date": "2026-03-29"
+  },
+  {
+    "id": "tot-0234",
+    "category": "this-or-that",
+    "prompt": "Would you rather walk through a very foggy forest or a very foggy playground?",
+    "options": [
+      "Foggy forest",
+      "Foggy playground"
+    ],
+    "joshPick": 0,
+    "joshSays": "A foggy forest sounds so cool.",
+    "episode": "What Is Fog?",
+    "date": "2026-03-30"
+  },
+  {
+    "id": "tot-0235",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to jump really high like a frog or run really fast like a cheetah?",
+    "options": [
+      "Jump like a frog",
+      "Run like a cheetah"
+    ],
+    "episode": "How Far Can Sea Turtles Swim? (Curious Kids Club)",
+    "date": "2026-03-31"
+  },
+  {
+    "id": "tot-0236",
+    "category": "this-or-that",
+    "prompt": "Would you rather live with living dinosaurs or discover dinosaur bones?",
+    "options": [
+      "Live with dinosaurs",
+      "Discover bones"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I could live one day with the dinosaurs, I would definitely choose that.",
+    "episode": "What Was the Biggest Dinosaur?",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "tot-0237",
+    "category": "this-or-that",
+    "prompt": "Would you rather have to lay on the couch for a month, or walk around on a painful ankle for a week?",
+    "options": [
+      "Couch for a month",
+      "Sore ankle, 1 week"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think after the second day I would start to go crazy.",
+    "episode": "What Happens When You Sprain Your Ankle?",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "tot-0238",
+    "category": "this-or-that",
+    "prompt": "Would you rather pick out a hundred cool looking marbles from a box, or get to create your own marble?",
+    "options": [
+      "Pick 100 marbles",
+      "Make my own marble"
+    ],
+    "joshPick": 1,
+    "joshSays": "That has to be a real business. That's too good of an idea.",
+    "episode": "How Are Marbles Made?",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "tot-0239",
+    "category": "this-or-that",
+    "prompt": "Would you rather remember every single thing that happened today, or every single thing that happened yesterday?",
+    "options": [
+      "Today",
+      "Yesterday"
+    ],
+    "joshPick": 1,
+    "joshSays": "Yesterday we got to see some of our cousins.",
+    "episode": "Why Don't You Remember Being a Baby?",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "tot-0240",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a bird that migrates every year, or a bird that stays in one place all year?",
+    "options": [
+      "Migrate every year",
+      "Stay in one place"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would much rather spend my winters a little further south.",
+    "episode": "Why Do Birds Migrate?",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "tot-0241",
+    "category": "this-or-that",
+    "prompt": "Would you rather grow your own apple tree, or go to an apple farm and pick apples?",
+    "options": [
+      "Grow a tree",
+      "Pick at a farm"
+    ],
+    "joshPick": 0,
+    "joshSays": "One day, many years from now, I would get to pick apples from that tree.",
+    "episode": "Why Are Apples Green or Red?",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "tot-0242",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat a big bowl of cold, juicy fruit on a hot day, or a little box of chewy dried fruit on a road trip?",
+    "options": [
+      "Cold juicy fruit",
+      "Chewy dried fruit"
+    ],
+    "joshSays": "Both of these make me think of summer.",
+    "episode": "How Do Grapes Become Raisins?",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "tot-0243",
+    "category": "this-or-that",
+    "prompt": "Would you rather deliver the mail to your neighborhood, or help sort the mail at the post office?",
+    "options": [
+      "Deliver mail",
+      "Sort mail"
+    ],
+    "joshPick": 0,
+    "joshSays": "I could get to know my neighbors a little bit better.",
+    "episode": "How Does Your Mail Get Delivered?",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "tot-0244",
+    "category": "this-or-that",
+    "prompt": "Would you rather play the drums, the piano, or the guitar?",
+    "options": [
+      "Drums",
+      "Piano",
+      "Guitar"
+    ],
+    "joshPick": 0,
+    "joshSays": "Everybody in Nashville plays the guitar. I never learned the drums.",
+    "episode": "How Are Drums Made at a Factory?",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "tot-0245",
+    "category": "this-or-that",
+    "prompt": "Would you rather build a bridge or build a building?",
+    "options": [
+      "A bridge",
+      "A building"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'd love to build a bridge to one of the islands out on the lake.",
+    "episode": "How Are Bridges Built Over Water?",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "tot-0246",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a surgeon who operates on people, or a veterinarian who takes care of animals?",
+    "options": [
+      "Surgeon",
+      "Veterinarian"
+    ],
+    "joshPick": 0,
+    "joshSays": "The one time I had surgery, I was just so grateful to the doctor.",
+    "episode": "How Long Does It Take to Become a Doctor?",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "tot-0247",
+    "category": "this-or-that",
+    "prompt": "Would you rather look at tiny things with a microscope or look at far away things with a telescope?",
+    "options": [
+      "Microscope",
+      "Telescope"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would love to see things really, really far away in outer space.",
+    "episode": "What Is the Smallest Animal on Earth?",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "tot-0248",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride in a hot air balloon or ride on a rocket ship? Pretend both are perfectly safe.",
+    "options": [
+      "Hot air balloon",
+      "Rocket ship"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would be so fun to go into outer space.",
+    "episode": "How Do Hot Air Balloons Fly?",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "tot-0249",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a blister on every single one of your toes, or on every single one of your fingers?",
+    "options": [
+      "Every toe",
+      "Every finger"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I had blisters on all my toes, I could still sit and work.",
+    "episode": "What Are Blisters?",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "tot-0250",
+    "category": "this-or-that",
+    "prompt": "Would you rather spend a day being a mosquito or a wasp?",
+    "options": [
+      "Mosquito",
+      "Wasp"
+    ],
+    "joshPick": 1,
+    "joshSays": "I definitely wouldn't want to have to bite and suck blood.",
+    "episode": "Why Do Bugs Bite Us?",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "tot-0251",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to make your own small electric shock with your body, or make lightning and thunder outside?",
+    "options": [
+      "Make a shock",
+      "Make lightning"
+    ],
+    "joshPick": 1,
+    "joshSays": "Being able to call lightning and thunder down from the sky, now that sounds pretty cool.",
+    "episode": "How Do Electric Eels Shock You?",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "tot-0252",
+    "category": "this-or-that",
+    "prompt": "Would you rather have everyone sing you a Good Morning song every morning, or have everyone sing you Happy Birthday every morning?",
+    "options": [
+      "Good Morning song",
+      "Happy Birthday song"
+    ],
+    "joshPick": 0,
+    "joshSays": "If it was my birthday every morning, that would make my birthday feel less special.",
+    "episode": "Where Did the Happy Birthday Song Come From?",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "tot-0253",
+    "category": "this-or-that",
+    "prompt": "Would you rather sit completely still for one minute, or run as fast as you can for ten minutes?",
+    "options": [
+      "Sit still 1 minute",
+      "Run 10 minutes"
+    ],
+    "joshPick": 0,
+    "joshSays": "It's hard to be still, isn't it? I could use the practice.",
+    "episode": "How Long Can Humans Hold Their Breath?",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "tot-0254",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a rubber band so big you could stretch it around a big tree, or a thousand tiny rubber bands?",
+    "options": [
+      "One giant rubber band",
+      "1,000 tiny ones"
+    ],
+    "joshPick": 1,
+    "joshSays": "I really enjoy making rubber band balls.",
+    "episode": "How Do Rubber Bands Work?",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "tot-0255",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit one of the planets in our solar system, or visit the moon?",
+    "options": [
+      "Another planet",
+      "The moon"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would want to visit Saturn and see those rings close up.",
+    "episode": "What Would Happen If the Moon Disappeared?",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "tot-0256",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a meteorologist who predicts the weather, or be able to make it rain?",
+    "options": [
+      "Weather predictor",
+      "Make it rain"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds like a really fun job.",
+    "episode": "How Do We Predict the Weather?",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "tot-0257",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a giant slinky big enough to walk through, or a tiny slinky small enough to fit on your finger?",
+    "options": [
+      "Giant slinky",
+      "Tiny slinky"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would take up a big chunk of your front yard. That would be so cool.",
+    "episode": "How Is a Slinky Made?",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "tot-0258",
+    "category": "this-or-that",
+    "prompt": "Would you rather make a movie in black and white or a movie in color?",
+    "options": [
+      "Black and white",
+      "Color"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would need to learn a lot more about lighting to make one in black and white.",
+    "episode": "Why Are Old Movies in Black & White?",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "tot-0259",
+    "category": "this-or-that",
+    "prompt": "Would you rather know the answer to every math problem, or be able to build your own computer?",
+    "options": [
+      "Every math answer",
+      "Build a computer"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I could solve every math problem, I basically would be a computer.",
+    "episode": "What Is a Prime Number?",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "tot-0260",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a firefighter or a doctor?",
+    "options": [
+      "Firefighter",
+      "Doctor"
+    ],
+    "episode": "Why Is Peanut Butter So Sticky? (Curious Kids Club)",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "tot-0261",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a pet worm the size of a large dog, or 1,000 tiny worms in a little worm farm?",
+    "options": [
+      "Giant pet worm",
+      "1,000 tiny worms"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'm not sure what I would do with a worm the size of a large dog.",
+    "episode": "Do Worms Have Hearts or Brains?",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "tot-0262",
+    "category": "this-or-that",
+    "prompt": "Would you rather have road pavement on the walls of your house or on the floor?",
+    "options": [
+      "On the walls",
+      "On the floor"
+    ],
+    "joshPick": 0,
+    "joshSays": "Then I could paint it so it wasn't that very dark black color.",
+    "episode": "Why Do Roads Crack?",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "tot-0263",
+    "category": "this-or-that",
+    "prompt": "Would you rather paint your room a different color or paint your house a different color?",
+    "options": [
+      "My room",
+      "My house"
+    ],
+    "joshPick": 0,
+    "joshSays": "This room I'm in could have a little more personality.",
+    "episode": "How Is Paint Made?",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "tot-0264",
+    "category": "this-or-that",
+    "prompt": "Would you rather have super strong front teeth that never stop growing, or really big Mickey Mouse ears that help you hear everything?",
+    "options": [
+      "Growing teeth",
+      "Mickey Mouse ears"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds like a fun challenge.",
+    "episode": "What's the Difference Between a Mouse and a Rat?",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "tot-0265",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch M&M's being made in a factory, or have a giant M&M in your front yard?",
+    "options": [
+      "Watch them made",
+      "Giant M&M"
+    ],
+    "episode": "How Are M&M's Made?",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "tot-0266",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a fish or a bird?",
+    "options": [
+      "Fish",
+      "Bird"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'd rather be a fish just so I could see really, really deep under the water.",
+    "episode": "How Long Can a Fish Survive Out of Water?",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "tot-0267",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to recognize every animal by its voice, or be able to talk with cows?",
+    "options": [
+      "Know every animal voice",
+      "Talk with cows"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'm not sure how much a cow and I would have to say to each other after a while.",
+    "episode": "Why Do Cows Moo?",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "tot-0268",
+    "category": "this-or-that",
+    "prompt": "Would you rather only be able to taste sweet foods for one day, or only salty foods for one day?",
+    "options": [
+      "Only sweet",
+      "Only salty"
+    ],
+    "joshPick": 1,
+    "joshSays": "Sweet foods all day would make me want to eat too many sweets.",
+    "episode": "How Does Your Tongue Stay Wet?",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "tot-0269",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a chicken farm or a pig farm?",
+    "options": [
+      "Chicken farm",
+      "Pig farm"
+    ],
+    "joshPick": 0,
+    "joshSays": "I wouldn't have to buy eggs at the store.",
+    "episode": "Why Do Some Chicken Eggs Hatch and Some Don't?",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "tot-0270",
+    "category": "this-or-that",
+    "prompt": "Would you rather work at a bank or work at a grocery store?",
+    "options": [
+      "Bank",
+      "Grocery store"
+    ],
+    "joshPick": 1,
+    "joshSays": "There's a grocery store by our house where all the employees seem so happy.",
+    "episode": "How Do Credit Cards Work?",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "tot-0271",
+    "category": "this-or-that",
+    "prompt": "Would you rather travel back in time to watch the Statue of Liberty being built, or watch it being placed on its island in the 1880s?",
+    "options": [
+      "Watch it built",
+      "Watch it placed"
+    ],
+    "joshPick": 1,
+    "joshSays": "Sitting there in New York as it was installed would be so cool.",
+    "episode": "Where Did the Statue of Liberty Come From?",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "tot-0272",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to make the store scanner beep sound with your mouth, or tell the price of anything just by looking at its barcode?",
+    "options": [
+      "Beep with my mouth",
+      "Read barcode prices"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'm not really sure exactly what I would do with that beep sound.",
+    "episode": "How Do Bar Codes Work?",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "tot-0273",
+    "category": "this-or-that",
+    "prompt": "Would you rather sleep in a quiet cave or rest high up in a tree?",
+    "options": [
+      "Quiet cave",
+      "High in a tree"
+    ],
+    "joshPick": 1,
+    "joshSays": "I love being up high and being able to look around.",
+    "episode": "Why Do Bats Sleep Upside Down?",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "tot-0274",
+    "category": "this-or-that",
+    "prompt": "Would you rather have fingers that look like hot dogs, or have bear claws for hands?",
+    "options": [
+      "Hot dog fingers",
+      "Bear claws"
+    ],
+    "joshPick": 1,
+    "joshSays": "At least then I would have more control.",
+    "episode": "Why Do Your Knuckles Crack and Pop?",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "tot-0275",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to make Goldfish crackers at your house, or catch Goldfish crackers from a lake near your house?",
+    "options": [
+      "Make them at home",
+      "Catch them fishing"
+    ],
+    "joshPick": 1,
+    "joshSays": "It would be so fun to go fishing for Goldfish crackers.",
+    "episode": "How Are Goldfish Crackers Made?",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "tot-0276",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat fried potatoes, baked potatoes, or mashed potatoes?",
+    "options": [
+      "Fried",
+      "Baked",
+      "Mashed"
+    ],
+    "joshPick": 0,
+    "joshSays": "You know which one I would pick, but I love baked and mashed potatoes too.",
+    "episode": "Why are French Fries Called \"French Fries?\"",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "tot-0277",
+    "category": "this-or-that",
+    "prompt": "Would you rather practice a spacewalk underwater in a giant pool, or practice flying a spacecraft in a simulator?",
+    "options": [
+      "Pool spacewalk",
+      "Spacecraft simulator"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've never practiced a spacewalk underwater in a giant pool. That sounds pretty cool.",
+    "episode": "How Do Astronauts Get Ready to Go to Outer Space?",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "tot-0278",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a huge bruise for one day or a tiny bruise for a week?",
+    "options": [
+      "Huge bruise, 1 day",
+      "Tiny bruise, 1 week"
+    ],
+    "joshPick": 1,
+    "joshSays": "One big bruise. Ouch. I bet you could feel that a lot.",
+    "episode": "What Are Bruises?",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "tot-0279",
+    "category": "this-or-that",
+    "prompt": "Would you rather have shoes that never wore out or a shirt that you never outgrew?",
+    "options": [
+      "Shoes that last forever",
+      "Shirt I never outgrow"
+    ],
+    "joshPick": 0,
+    "joshSays": "I really like my current pair of shoes. They're so comfortable.",
+    "episode": "What Is the Strongest Material in the World?",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "tot-0280",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a fun new pair of glasses to wear every day, or never have to wear glasses at all?",
+    "options": [
+      "Fun new glasses",
+      "No glasses ever"
+    ],
+    "joshPick": 0,
+    "joshSays": "I have worn glasses for so long, I think I might miss them.",
+    "episode": "How Did People See Before Glasses Were Invented?",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "tot-0281",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a sign language teacher, or create your own sign language?",
+    "options": [
+      "Teach sign language",
+      "Make my own"
+    ],
+    "joshPick": 0,
+    "joshSays": "Think about coming up with a hand movement for every word. Oh boy.",
+    "episode": "How Do People Talk Using Sign Language?",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "tot-0282",
+    "category": "this-or-that",
+    "prompt": "Would you rather have your own trampoline park, or a trampoline that could safely bounce you as high as the trees?",
+    "options": [
+      "Trampoline park",
+      "Bounce to the treetops"
+    ],
+    "joshPick": 0,
+    "joshSays": "There would be trampoline walls, maybe a trampoline ceiling.",
+    "episode": "How Do Trampolines Work?",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "tot-0283",
+    "category": "this-or-that",
+    "prompt": "Would you rather write your own book or make your own movie?",
+    "options": [
+      "Write a book",
+      "Make a movie"
+    ],
+    "joshPick": 0,
+    "joshSays": "I am always so impressed by anybody who can write a whole book.",
+    "episode": "How Do You Tell a Good Story?",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "tot-0284",
+    "category": "this-or-that",
+    "prompt": "Would you rather never stop growing, or get to decide exactly how tall you're going to be?",
+    "options": [
+      "Never stop growing",
+      "Pick my height"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'd pick the height I am now because that's the height I'm supposed to be.",
+    "episode": "Why Do Kids Grow Taller?",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "tot-0285",
+    "category": "this-or-that",
+    "prompt": "Would you rather grow your own potatoes or grow your own potato chips?",
+    "options": [
+      "Grow potatoes",
+      "Grow potato chips"
+    ],
+    "joshPick": 1,
+    "joshSays": "An all-natural potato chip straight from the earth, that does sound cool.",
+    "episode": "How Are Potato Chips Made?",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "tot-0286",
+    "category": "this-or-that",
+    "prompt": "Would you rather hop like a kangaroo for one whole day, or have a pouch on your stomach that you could carry things around in?",
+    "options": [
+      "Hop all day",
+      "Have a pouch"
+    ],
+    "joshPick": 1,
+    "joshSays": "That would be pretty cool to have a built-in pocket on my stomach.",
+    "episode": "Why Do Kangaroos Have Pouches?",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "tot-0287",
+    "category": "this-or-that",
+    "prompt": "Would you rather be really good at throwing a frisbee or really good at throwing a boomerang?",
+    "options": [
+      "Frisbee",
+      "Boomerang"
+    ],
+    "joshPick": 0,
+    "joshSays": "Growing up, we played a game called Ultimate Frisbee.",
+    "episode": "How Do Boomerangs Work?",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "tot-0288",
+    "category": "this-or-that",
+    "prompt": "Would you rather count as high as you can for one whole minute, or draw the longest number line you can on a piece of paper?",
+    "options": [
+      "Count for a minute",
+      "Draw a number line"
+    ],
+    "joshSays": "Drawing a really long number line, that sounds pretty cool too.",
+    "episode": "What Is Infinity?",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "tot-0289",
+    "category": "this-or-that",
+    "prompt": "Would you rather solve a giant maze the size of a playground, or a giant jigsaw puzzle the size of a grocery store?",
+    "options": [
+      "Giant maze",
+      "Giant jigsaw puzzle"
+    ],
+    "joshPick": 0,
+    "joshSays": "Walking through a maze all the way through a playground sounds really fun.",
+    "episode": "Why Do Humans Love Puzzles?",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "tot-0290",
+    "category": "this-or-that",
+    "prompt": "Would you rather tap the trees to get the sap out, or boil the sap to make the syrup just right?",
+    "options": [
+      "Tap the trees",
+      "Boil the syrup"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've seen videos of the sap dripping out from the tap. It's so cool.",
+    "episode": "How Is Maple Syrup Made?",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "tot-0291",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to be invisible, or look like you're made of grass so no one could see you when you lay in the grass?",
+    "options": [
+      "Invisible",
+      "Look like grass"
+    ],
+    "joshPick": 1,
+    "joshSays": "I could suddenly look like grass and then surprise people as they walk by.",
+    "episode": "How Do Animals Use Camouflage?",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "tot-0292",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride in the fastest car on Earth or in a rocket ship going to space?",
+    "options": [
+      "Fastest car",
+      "Rocket ship"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would rather go to space than go really, really fast in the desert.",
+    "episode": "How Fast Is the Fastest Car?",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "tot-0293",
+    "category": "this-or-that",
+    "prompt": "Would you rather stretch your legs for one minute every night before bed, or take a peaceful walk an hour before bedtime?",
+    "options": [
+      "Stretch for a minute",
+      "Take a walk"
+    ],
+    "joshPick": 1,
+    "joshSays": "Whenever we get to do big family walks around the block, those are the best.",
+    "episode": "Why Do You Get Cramps?",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "tot-0294",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to build a home out of really strong spider web, or catch food with spider silk that shoots out of your fingers?",
+    "options": [
+      "Spider web home",
+      "Finger silk"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think I would like to build my own spider home.",
+    "episode": "How Do Spiders Make Webs?",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "tot-0295",
+    "category": "this-or-that",
+    "prompt": "Would you rather have your own sheep or your own cow?",
+    "options": [
+      "Sheep",
+      "Cow"
+    ],
+    "joshPick": 1,
+    "joshSays": "My sons really like milk. Sorry, sheep.",
+    "episode": "Why Do Sheep Baa?",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "tot-0296",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a giant dandelion that you could blow, or ride on one giant fluffy dandelion seed?",
+    "options": [
+      "Blow a giant dandelion",
+      "Ride a dandelion seed"
+    ],
+    "joshPick": 1,
+    "joshSays": "I wonder where it would take me.",
+    "episode": "How Do Dandelions Work?",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "tot-0297",
+    "category": "this-or-that",
+    "prompt": "Would you rather grow your own cucumbers or make your own pickles?",
+    "options": [
+      "Grow cucumbers",
+      "Make pickles"
+    ],
+    "joshSays": "My family is starting a garden this year, and we planted some cucumber plants.",
+    "episode": "How Do Cucumbers Become Pickles?",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "tot-0298",
+    "category": "this-or-that",
+    "prompt": "Would you rather roll a giant die a thousand times, or design your own video game?",
+    "options": [
+      "Roll a giant die",
+      "Design a video game"
+    ],
+    "joshPick": 1,
+    "joshSays": "I have always wanted to design my own video game.",
+    "episode": "What Makes Something Random?",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "tot-0299",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a lever that changes how fast the Earth spins, or a button that stops the Earth from spinning?",
+    "options": [
+      "Speed lever",
+      "Stop button"
+    ],
+    "joshPick": 0,
+    "joshSays": "If the earth stopped spinning, it would get pretty crazy.",
+    "episode": "Why Can't We Feel the Earth Spinning?",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "tot-0300",
+    "category": "this-or-that",
+    "prompt": "Would you rather bowl on a lane with a hundred pins, or bowl with a remote controlled bowling ball?",
+    "options": [
+      "100 pins",
+      "Remote control ball"
+    ],
+    "joshPick": 0,
+    "joshSays": "Can you even imagine the sound a hundred pins would make as they fell down?",
+    "episode": "How Do Bowling Alleys Work?",
+    "date": "2026-06-16"
+  },
+  {
+    "id": "tot-0301",
+    "category": "this-or-that",
+    "prompt": "Would you rather live in the trees or swim in the water?",
+    "options": [
+      "Live in the trees",
+      "Swim in the water"
+    ],
+    "joshPick": 1,
+    "joshSays": "I don't think it would be very comfortable to live in the trees.",
+    "episode": "Why Are Sloths So Slow?",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "tot-0302",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to breathe underwater, or never run out of breath when you're running?",
+    "options": [
+      "Breathe underwater",
+      "Never out of breath"
+    ],
+    "joshPick": 0,
+    "joshSays": "This might be the toughest would you rather ever for me.",
+    "episode": "Why Do We Have Hair in Our Noses?",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "tot-0303",
+    "category": "this-or-that",
+    "prompt": "Would you rather use walkie-talkies while camping in the woods, or while exploring a huge museum?",
+    "options": [
+      "Camping in the woods",
+      "Exploring a museum"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would love to go camping in the woods sometime.",
+    "episode": "How Do Walkie Talkies Work?",
+    "date": "2026-06-19"
+  },
+  {
+    "id": "tot-0304",
+    "category": "this-or-that",
+    "prompt": "Which kind of volcano sounds cooler: one that's always bubbling, or one that only erupts once every 100 years with a really big eruption?",
+    "options": [
+      "Always bubbling",
+      "Huge one, rarely"
+    ],
+    "joshPick": 0,
+    "joshSays": "If I were that volcano, I would get bored sleeping for 100 years.",
+    "episode": "Why Do Volcanoes Erupt?",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "tot-0305",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to sweat whenever you want, or get water into your body without drinking?",
+    "options": [
+      "Sweat on command",
+      "Never need to drink"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think I would miss drinking water.",
+    "episode": "Why Does Salty Food Make You Thirsty?",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "tot-0306",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a bedroom covered in huge glow-in-the-dark stars, or all covered in glow sticks, or have a bunch of fireflies flying around in your bedroom?",
+    "options": [
+      "Glow-in-the-dark stars",
+      "Glow sticks",
+      "Fireflies"
+    ],
+    "joshPick": 2,
+    "joshSays": "You usually see fireflies outside, not inside, so I think that would be cool.",
+    "episode": "How Do Things Glow in the Dark?",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "tot-0307",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a twin, or be one of a set of triplets?",
+    "options": [
+      "Twin",
+      "Triplet"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've never met triplets myself. That way, I could say I've met some.",
+    "episode": "Why Are Some Babies Twins?",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "tot-0308",
+    "category": "this-or-that",
+    "prompt": "Would you rather have your own berry farm or your own chicken farm?",
+    "options": [
+      "Berry farm",
+      "Chicken farm"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've always wanted a chicken farm.",
+    "episode": "Why Are Some Berries Poisonous?",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "tot-0309",
+    "category": "this-or-that",
+    "prompt": "Would you rather create your own fireworks show for your friends to watch, or once per day be able to shoot a firework out of your finger?",
+    "options": [
+      "Create a fireworks show",
+      "Firework from my finger"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've seen a lot of firework shows in my time, and I think it'd be really cool to create my own.",
+    "episode": "How Do Fireworks Work?",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "tot-0310",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a pretzel baker and create new shapes for pretzels, or have a soft pretzel that's the size of your home?",
+    "options": [
+      "Pretzel baker",
+      "House-sized pretzel"
+    ],
+    "joshPick": 0,
+    "joshSays": "I don't know what I would do with a soft pretzel the size of my house. I couldn't eat it all.",
+    "episode": "Why Are Pretzels Shaped Like That?",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "tot-0311",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a professional basketball player or a professional soccer player?",
+    "options": [
+      "Basketball player",
+      "Soccer player"
+    ],
+    "joshPick": 0,
+    "joshSays": "I did like playing basketball, so I guess I would choose basketball.",
+    "episode": "Who Invented Basketball?",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "tot-0312",
+    "category": "this-or-that",
+    "prompt": "Would you rather safely travel to the core of the Earth, or safely travel up to space?",
+    "options": [
+      "Earth's core",
+      "Space"
+    ],
+    "joshPick": 0,
+    "joshSays": "Nobody has ever seen the core of the earth with their own eyes before.",
+    "episode": "What Is at the Center of the Earth?",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "tot-0313",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride a slow, scenic steam train through the mountains, or ride a super fast electric train through the city?",
+    "options": [
+      "Slow steam train",
+      "Fast electric train"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds very peaceful and like a lot of fun.",
+    "episode": "How Do Trains Move?",
+    "date": "2026-07-05"
+  },
+  {
+    "id": "tot-0314",
+    "category": "this-or-that",
+    "prompt": "Would you rather look through a microscope and see bacteria and viruses, or look through a telescope and see the moon?",
+    "options": [
+      "Microscope",
+      "Telescope"
+    ],
+    "joshPick": 0,
+    "joshSays": "My son got a microscope for his birthday and we have had so much fun.",
+    "episode": "How Do Antibiotics Work?",
+    "date": "2026-07-06"
+  },
+  {
+    "id": "tot-0315",
+    "category": "this-or-that",
+    "prompt": "Would you rather have your own parrot, or meet a parrot that you could have a conversation with?",
+    "options": [
+      "Own a parrot",
+      "Talk with a parrot"
+    ],
+    "joshPick": 1,
+    "joshSays": "Having a conversation with a parrot, that sounds pretty cool.",
+    "episode": "How Can Parrots Talk?",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "tot-0316",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to control the rain, or make it snow whenever you want?",
+    "options": [
+      "Control the rain",
+      "Make it snow"
+    ],
+    "joshPick": 1,
+    "joshSays": "If I could make it snow whenever I wanted? That sounds fun.",
+    "episode": "What Makes a Flood Happen?",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "tot-0317",
+    "category": "this-or-that",
+    "prompt": "Would you rather dig a tunnel in your yard or build a tree house?",
+    "options": [
+      "Dig a tunnel",
+      "Build a tree house"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've never built a tree house before, so I think I would choose that.",
+    "episode": "How Long Would It Take to Dig through the Earth?",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "tot-0318",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride the world's fastest roller coaster, or a roller coaster that goes through a huge tube under the water?",
+    "options": [
+      "Fastest coaster",
+      "Underwater coaster"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would like to know what that feels like to go that fast on a roller coaster.",
+    "episode": "How Are Roller Coasters Safe?",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "tot-0319",
+    "category": "this-or-that",
+    "prompt": "Would you rather know what happens inside of a black hole, or have a telescope that can see every black hole in the universe?",
+    "options": [
+      "Know what's inside",
+      "See every black hole"
+    ],
+    "joshPick": 0,
+    "joshSays": "I can't pass that up. I've got to know what happens inside of a black hole.",
+    "episode": "What Is a Black Hole?",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "tot-0320",
+    "category": "this-or-that",
+    "prompt": "Would you rather have black and white stripes that keep bugs off of you, or go to Africa to see zebras in real life?",
+    "options": [
+      "Bug-proof stripes",
+      "See zebras in Africa"
+    ],
+    "joshPick": 0,
+    "joshSays": "I get a lot of mosquito bites. It's very annoying.",
+    "episode": "Why Do Zebras Have Stripes?",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "tot-0321",
+    "category": "this-or-that",
+    "prompt": "Would you rather invent your own kind of cheese, or have an unlimited supply of cheese in your refrigerator?",
+    "options": [
+      "Invent a cheese",
+      "Unlimited cheese"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be really fun to experiment.",
+    "episode": "How Does Cheese Get Made?",
+    "date": "2026-07-14"
+  },
+  {
+    "id": "tot-0322",
+    "category": "this-or-that",
+    "prompt": "Would you rather learn to fly in a propeller plane or in a big jet plane?",
+    "options": [
+      "Propeller plane",
+      "Jet plane"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love those little propeller planes.",
+    "episode": "What's the Difference Between a Jet and an Airplane?",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "tot-0323",
+    "category": "this-or-that",
+    "prompt": "Would you rather have an apple tree or a banana tree?",
+    "options": [
+      "Apple tree",
+      "Banana tree"
+    ],
+    "joshPick": 0,
+    "joshSays": "I really enjoy both of these fruits, but I would go with the apple tree.",
+    "episode": "Why Do Fruits Get Bruises?",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "tot-0324",
+    "category": "this-or-that",
+    "prompt": "Would you rather build your own operating system or build your own video game?",
+    "options": [
+      "Operating system",
+      "Video game"
+    ],
+    "joshPick": 1,
+    "joshSays": "Building my own video game sounds so cool.",
+    "episode": "iPhone vs Android & Mac vs PC: What's the Difference?",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "tot-0325",
+    "category": "this-or-that",
+    "prompt": "Would you rather have an exoskeleton, or have to wear armor all the time?",
+    "options": [
+      "Exoskeleton",
+      "Armor"
+    ],
+    "joshPick": 0,
+    "joshSays": "That way, at least, it was a part of my body.",
+    "episode": "Why Do Crabs Walk Sideways?",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "tot-0326",
+    "category": "this-or-that",
+    "prompt": "Would you rather explore a desert or explore a rainforest?",
+    "options": [
+      "Desert",
+      "Rainforest"
+    ],
+    "joshPick": 1,
+    "joshSays": "I know what a rainforest sounds like, and I really like that sound.",
+    "episode": "How Do Rattlesnakes Rattle Their Tails?",
+    "date": "2026-07-20"
+  },
+  {
+    "id": "tot-0327",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a sunset at the beach or on top of a mountain?",
+    "options": [
+      "At the beach",
+      "On a mountain"
+    ],
+    "joshPick": 1,
+    "joshSays": "If I could get to the tippy top of a mountain and really watch the sunset, that would be amazing.",
+    "episode": "Why Does the Sun Go Down?",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "tot-0328",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to breathe underwater, or have a huge aquarium in your house?",
+    "options": [
+      "Breathe underwater",
+      "Huge aquarium"
+    ],
+    "joshPick": 1,
+    "joshSays": "Some of those sea creatures can be kind of dangerous.",
+    "episode": "How Do Sharks Sleep While Swimming?",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "tot-0329",
+    "category": "this-or-that",
+    "prompt": "Would you rather have your own podcast or your own TV show?",
+    "options": [
+      "Podcast",
+      "TV show"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think you know which one I would pick. I'm doing it right now.",
+    "episode": "How Do Microphones Record Your Voice?",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "tot-0330",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to make everyone laugh, or never stop laughing yourself?",
+    "options": [
+      "Make everyone laugh",
+      "Never stop laughing"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love making people laugh.",
+    "episode": "Why Do We Laugh?",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "tot-0331",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch water float around in a spaceship, or drink it out of a pouch?",
+    "options": [
+      "Watch water float",
+      "Drink from a pouch"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds pretty cool, but we've got to keep all the equipment safe.",
+    "episode": "What Do Astronauts Eat in Outer Space?",
+    "date": "2026-07-27"
+  },
+  {
+    "id": "tot-0332",
+    "category": "this-or-that",
+    "prompt": "Would you rather help place instruments on the ocean floor to spot tsunamis, or watch a tsunami from the shore if you could do it safely?",
+    "options": [
+      "Place ocean instruments",
+      "Watch from shore"
+    ],
+    "joshPick": 1,
+    "joshSays": "If you could do that, which you can't, that would be really cool.",
+    "episode": "How Do Tsunamis Form?",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "tot-0333",
+    "category": "this-or-that",
+    "prompt": "Would you rather make your own yogurt or make your own cheese?",
+    "options": [
+      "Make yogurt",
+      "Make cheese"
+    ],
+    "joshSays": "It is pretty interesting how many similarities cheese and yogurt have.",
+    "episode": "How Is Yogurt Made?",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "tot-0334",
+    "category": "this-or-that",
+    "prompt": "Would you rather play at the beach or play in a forest near a waterfall?",
+    "options": [
+      "Beach",
+      "Forest waterfall"
+    ],
+    "joshPick": 1,
+    "joshSays": "I haven't been to a waterfall in a really long time.",
+    "episode": "How Does Sunscreen Protect Your Skin?",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "tot-0335",
+    "category": "this-or-that",
+    "prompt": "Would you rather change the color of your gums or change the color of your teeth?",
+    "options": [
+      "Gum color",
+      "Teeth color"
+    ],
+    "joshSays": "What if you could choose a different color for each one of your teeth?",
+    "episode": "Why Do You Have Gums in Your Mouth?",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "tot-0336",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit the moon or visit Mars?",
+    "options": [
+      "Moon",
+      "Mars"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be so neat to be on the moon and look back on the earth.",
+    "episode": "What Would Happen If the Moon Crashed into the Earth?",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "tot-0337",
+    "category": "this-or-that",
+    "prompt": "Would you rather be as fast as a cheetah or as tough as a turtle?",
+    "options": [
+      "Fast as a cheetah",
+      "Tough as a turtle"
+    ],
+    "joshPick": 1,
+    "joshSays": "I have just always loved turtles. It would be cool to have a tough shell.",
+    "episode": "Why Are Cheetahs So Fast?",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "tot-0338",
+    "category": "this-or-that",
+    "prompt": "Would you rather play the acoustic guitar or the electric guitar?",
+    "options": [
+      "Acoustic guitar",
+      "Electric guitar"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like the way it sounds. It's very peaceful.",
+    "episode": "How Do Electric Guitars Work?",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "tot-0339",
+    "category": "this-or-that",
+    "prompt": "Would you rather mow the lawn with a push mower or on a riding mower?",
+    "options": [
+      "Push mower",
+      "Riding mower"
+    ],
+    "joshPick": 1,
+    "joshSays": "I have never used a riding mower. It would be fun to try it sometime.",
+    "episode": "How Does Grass Grow?",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "tot-0340",
+    "category": "this-or-that",
+    "prompt": "Would you rather build a huge sand castle or dig a huge hole in the sand?",
+    "options": [
+      "Sand castle",
+      "Dig a hole"
+    ],
+    "joshPick": 0,
+    "joshSays": "It was so fun to come back the next day and see that part of it was still there.",
+    "episode": "How Deep Is the Sand at the Beach?",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "tot-0341",
+    "category": "this-or-that",
+    "prompt": "Would you rather build your own computer program or build your own playground?",
+    "options": [
+      "Computer program",
+      "Playground"
+    ],
+    "joshPick": 1,
+    "joshSays": "I did enjoy building the playground a lot more than building the computer program.",
+    "episode": "How Does AI (Artificial Intelligence) Know So Much?",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "tot-0342",
+    "category": "this-or-that",
+    "prompt": "Would you rather travel north to see the northern lights, or travel to space to see the moon?",
+    "options": [
+      "Northern lights",
+      "The moon"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've always wanted to go see the northern lights with my own eyes.",
+    "episode": "What Are the Northern Lights (Aurora Borealis)?",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "tot-0343",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat a sweet food or a spicy food?",
+    "options": [
+      "Sweet food",
+      "Spicy food"
+    ],
+    "joshPick": 1,
+    "joshSays": "If you asked me right now, I would probably choose a spicy food.",
+    "episode": "What Makes Food Spicy?",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "tot-0344",
+    "category": "this-or-that",
+    "prompt": "Would you rather make your own video game or build your own computer?",
+    "options": [
+      "Make a video game",
+      "Build a computer"
+    ],
+    "joshPick": 0,
+    "joshSays": "I already know how to build my own computer, so I'll learn a new skill.",
+    "episode": "What Was the World's First Video Game?",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "tot-0345",
+    "category": "this-or-that",
+    "prompt": "Would you rather drive a monster truck or a NASCAR race car?",
+    "options": [
+      "Monster truck",
+      "NASCAR race car"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'd just bounce around in it. That sounds really cool.",
+    "episode": "How Are Monster Trucks Built?",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "tot-0346",
+    "category": "this-or-that",
+    "prompt": "Would you rather power your house with a bicycle that someone has to ride every day, or with a treadmill that someone has to walk on every day?",
+    "options": [
+      "Bicycle",
+      "Treadmill"
+    ],
+    "joshPick": 1,
+    "joshSays": "I have a treadmill desk here in my office.",
+    "episode": "How Do Solar Panels Work?",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "tot-0347",
+    "category": "this-or-that",
+    "prompt": "Would you rather spend the day somewhere really hot or really cold?",
+    "options": [
+      "Really hot",
+      "Really cold"
+    ],
+    "joshPick": 0,
+    "joshSays": "I would rather be too hot than too cold.",
+    "episode": "Why Does the Temperature Change?",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "tot-0348",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a book author or a book editor?",
+    "options": [
+      "Author",
+      "Editor"
+    ],
+    "joshPick": 0,
+    "joshSays": "I do like writing stories.",
+    "episode": "How Are Books Made?",
+    "date": "2026-08-19"
+  },
+  {
+    "id": "tot-0349",
+    "category": "this-or-that",
+    "prompt": "Would you rather go visit the snakes at the zoo or have a pet snake?",
+    "options": [
+      "Visit the zoo",
+      "Pet snake"
+    ],
+    "joshPick": 0,
+    "joshSays": "Petting my neighbor's snakes is about as close to a pet snake as I want to be.",
+    "episode": "What Is the World's Longest Snake?",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "tot-0350",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a firefighter or a doctor when you grow up?",
+    "options": [
+      "Firefighter",
+      "Doctor"
+    ],
+    "joshSays": "Maybe I could be a firefighter one day and a doctor the next.",
+    "episode": "How Do Fire Hydrants Work?",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "tot-0351",
+    "category": "this-or-that",
+    "prompt": "Would you rather see an X-ray of all the bones in your body, or find a dinosaur bone in real life?",
+    "options": [
+      "X-ray of my bones",
+      "Find a dinosaur bone"
+    ],
+    "joshPick": 1,
+    "joshSays": "Seeing a dinosaur bone in real life, I think that's way cooler.",
+    "episode": "How Do X-Rays Work?",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "tot-0352",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a plumber or somebody who works on water heaters?",
+    "options": [
+      "Plumber",
+      "Water heater worker"
+    ],
+    "joshPick": 0,
+    "joshSays": "I have less experience with plumbing and it would be fun to learn.",
+    "episode": "How Does Tap Water Get Hot?",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "tot-0353",
+    "category": "this-or-that",
+    "prompt": "Would you rather be the size of an ant or the size of a giant?",
+    "options": [
+      "Size of an ant",
+      "Size of a giant"
+    ],
+    "joshPick": 0,
+    "joshSays": "I couldn't decide which one, but I think I would choose an ant.",
+    "episode": "How Do Ants Carry Heavy Things?",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "tot-0354",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a pet worm or a pet fish?",
+    "options": [
+      "Pet worm",
+      "Pet fish"
+    ],
+    "joshPick": 0,
+    "joshSays": "The worm can kind of just feed itself. You've got to feed a fish.",
+    "episode": "What Do Worms Eat?",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "tot-0355",
+    "category": "this-or-that",
+    "prompt": "Would you rather travel to the sun or travel to the moon, if you could get there safely?",
+    "options": [
+      "The sun",
+      "The moon"
+    ],
+    "joshPick": 0,
+    "joshSays": "Can you imagine seeing the sun up close? That would be amazing.",
+    "episode": "What Would Happen If the Earth Crashed into the Sun?",
+    "date": "2026-08-27"
+  },
+  {
+    "id": "tot-0356",
+    "category": "this-or-that",
+    "prompt": "Would you rather build something with wood or build something with Legos?",
+    "options": [
+      "Wood",
+      "Legos"
+    ],
+    "joshPick": 0,
+    "joshSays": "I love building things with wood.",
+    "episode": "What Is a Splinter?",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "tot-0357",
+    "category": "this-or-that",
+    "prompt": "Would you rather be the firefighter who sprays the hose on a fire, or the firefighter who climbs the ladder to help rescue people?",
+    "options": [
+      "Spray the hose",
+      "Climb the ladder"
+    ],
+    "joshPick": 0,
+    "joshSays": "I have a feeling that would be the job that worked best for me.",
+    "episode": "How Do Firefighters Put Out Fires?",
+    "date": "2026-08-29"
+  },
+  {
+    "id": "tot-0358",
+    "category": "this-or-that",
+    "prompt": "Would you rather see a black bear in the Smoky Mountains or a polar bear in the Arctic?",
+    "options": [
+      "Black bear",
+      "Polar bear"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've seen plenty of black bears, but I've never seen a polar bear in its natural environment.",
+    "episode": "Do Bears Eat Honey?",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "tot-0359",
+    "category": "this-or-that",
+    "prompt": "Would you rather be an airplane pilot or a ship captain?",
+    "options": [
+      "Airplane pilot",
+      "Ship captain"
+    ],
+    "joshPick": 1,
+    "joshSays": "I do like being out on boats.",
+    "episode": "What Is an Aircraft Carrier?",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "tot-0360",
+    "category": "this-or-that",
+    "prompt": "Would you rather live on the sun or live on Mars, if you could do it safely?",
+    "options": [
+      "The sun",
+      "Mars"
+    ],
+    "joshPick": 1,
+    "joshSays": "I think I'd rather choose Mars, since it actually has a surface.",
+    "episode": "Why Does the Sun Keep Burning?",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "tot-0361",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a crayon that never breaks, or one that changes color every time you use it?",
+    "options": [
+      "Never breaks",
+      "Changes color"
+    ],
+    "joshPick": 0,
+    "joshSays": "As a parent, I would definitely take the crayon that never breaks.",
+    "episode": "How Are Crayons Made?",
+    "date": "2026-09-06"
+  },
+  {
+    "id": "tot-0362",
+    "category": "this-or-that",
+    "prompt": "Would you rather be an animal doctor or a people doctor?",
+    "options": [
+      "Animal doctor",
+      "People doctor"
+    ],
+    "joshPick": 1,
+    "joshSays": "I love learning about how the body works.",
+    "episode": "Why Don't Pets Get Sick When We Get Sick?",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "tot-0363",
+    "category": "this-or-that",
+    "prompt": "Would you rather have suction cups for hands or suction cups for feet?",
+    "options": [
+      "Suction cup hands",
+      "Suction cup feet"
+    ],
+    "joshPick": 0,
+    "joshSays": "You'd have to peel your foot every time you take a step.",
+    "episode": "How Do Suction Cups Stick to Things?",
+    "date": "2026-09-08"
+  },
+  {
+    "id": "tot-0364",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a woodpecker or a duck?",
+    "options": [
+      "Woodpecker",
+      "Duck"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've always thought ducks are so cool.",
+    "episode": "How Do Woodpeckers Keep from Hurting Their Heads?",
+    "date": "2026-09-09"
+  },
+  {
+    "id": "tot-0365",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a sandy beach in your backyard or a beautiful river?",
+    "options": [
+      "Sandy beach",
+      "River"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think the sand is so fun to play in. My kids love sand.",
+    "episode": "Why Do You Sink in Quicksand?",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "tot-0366",
+    "category": "this-or-that",
+    "prompt": "Would you rather build a dam or build a lodge?",
+    "options": [
+      "Build a dam",
+      "Build a lodge"
+    ],
+    "joshPick": 1,
+    "joshSays": "A lodge with an underwater entrance sounds really cool.",
+    "episode": "Why Do Beavers Build Dams?",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "tot-0367",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a tiny pet bee that makes you honey whenever you want, or be able to fly around like a bee?",
+    "options": [
+      "Pet honey bee",
+      "Fly like a bee"
+    ],
+    "joshPick": 1,
+    "joshSays": "That sounds really fun.",
+    "episode": "How Do Bees Make Honey?",
+    "date": "2026-09-12"
+  },
+  {
+    "id": "tot-0368",
+    "category": "this-or-that",
+    "prompt": "Would you rather glow bright green like a firefly every time you laugh, or leave a glowing trail behind you every time you walk?",
+    "options": [
+      "Glow when I laugh",
+      "Glowing trail"
+    ],
+    "joshPick": 0,
+    "joshSays": "That sounds funny. I think that would even make me laugh harder.",
+    "episode": "How Do Fireflies Glow?",
+    "date": "2026-09-13"
+  },
+  {
+    "id": "tot-0369",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a total solar eclipse from right underneath it, or use very powerful telescopes to look for astronaut footsteps on the moon?",
+    "options": [
+      "Watch the eclipse",
+      "Find moon footsteps"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've already seen a total solar eclipse once, so I'd try something new.",
+    "episode": "What Is an Eclipse?",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "tot-0370",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a house that grows bigger whenever you need more room, or a playground slide that gets a little bigger every time you slide down it?",
+    "options": [
+      "Growing house",
+      "Growing slide"
+    ],
+    "joshPick": 0,
+    "joshSays": "We would run out of room on the playground for that slide.",
+    "episode": "How Do Snails Get Their Shells?",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "tot-0371",
+    "category": "this-or-that",
+    "prompt": "Would you rather spend the day exploring a river winding through the woods, or a lake surrounded by mountains?",
+    "options": [
+      "River in the woods",
+      "Mountain lake"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'm ready to go back to the mountains.",
+    "episode": "Why Is the Ocean Salty?",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "tot-0372",
+    "category": "this-or-that",
+    "prompt": "Would you rather play in the rain or play in the snow?",
+    "options": [
+      "Rain",
+      "Snow"
+    ],
+    "joshPick": 1,
+    "joshSays": "We look forward all year to that one big snow we usually get in Tennessee.",
+    "episode": "How Do Clouds Stay Up in the Sky?",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "tot-0373",
+    "category": "this-or-that",
+    "prompt": "Would you rather run a 100 meter sprint as fast as you possibly could, or run an entire marathon?",
+    "options": [
+      "100 meter sprint",
+      "Whole marathon"
+    ],
+    "joshPick": 1,
+    "joshSays": "I like being outside in the sun for a longer amount of time.",
+    "episode": "Who Is the Fastest Human?",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "tot-0374",
+    "category": "this-or-that",
+    "prompt": "Would you rather fly an airplane or fly a helicopter?",
+    "options": [
+      "Airplane",
+      "Helicopter"
+    ],
+    "joshPick": 1,
+    "joshSays": "After learning about helicopters today, maybe I'll choose helicopter.",
+    "episode": "How Do Helicopters Fly?",
+    "date": "2026-09-22"
+  },
+  {
+    "id": "tot-0375",
+    "category": "this-or-that",
+    "prompt": "Would you rather have amazing balance like a cat, or have super fast reflexes?",
+    "options": [
+      "Balance like a cat",
+      "Super fast reflexes"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'll hang on to the fast reflexes I already have and pick better balance.",
+    "episode": "Why Do Cats Always Land on Their Feet?",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "tot-0376",
+    "category": "this-or-that",
+    "prompt": "Would you rather see light traveling in super slow motion, or be able to travel at the speed of light?",
+    "options": [
+      "Slow-motion light",
+      "Travel at light speed"
+    ],
+    "joshPick": 1,
+    "joshSays": "Think about how far away from Earth you could get if you could go the speed of light.",
+    "episode": "What Are Lasers and How Do They Work?",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "tot-0377",
+    "category": "this-or-that",
+    "prompt": "Would you rather design the safety features in a new car, or help engineers perform a crash test?",
+    "options": [
+      "Design safety features",
+      "Help crash test"
+    ],
+    "joshPick": 1,
+    "joshSays": "They crash the cars over and over to make sure they're super safe.",
+    "episode": "How Do Car Airbags Work?",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "tot-0378",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a whale or a shark?",
+    "options": [
+      "Whale",
+      "Shark"
+    ],
+    "joshPick": 1,
+    "joshSays": "I don't know what it's like to just swim and never have to come up for air.",
+    "episode": "What Is the Biggest Fish?",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "tot-0379",
+    "category": "this-or-that",
+    "prompt": "Would you rather have whiskers on your face that sense movement, or be able to see in the dark?",
+    "options": [
+      "Whiskers",
+      "See in the dark"
+    ],
+    "joshPick": 1,
+    "joshSays": "That would save me from a lot of stubbed toes.",
+    "episode": "Why Do Cats and Dogs Have Whiskers?",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "tot-0380",
+    "category": "this-or-that",
+    "prompt": "Would you rather make the red and green light patterns for an intersection by your house, or be a city planner and decide where the roads go?",
+    "options": [
+      "Traffic lights",
+      "City planner"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've got some ideas for where the roads in my town should be.",
+    "episode": "Why Do Traffic Jams Happen?",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "tot-0381",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to carry 20 times your own body weight, or be able to pull more than 1,000 times your own body weight?",
+    "options": [
+      "Carry 20 times",
+      "Pull 1,000 times"
+    ],
+    "joshPick": 0,
+    "joshSays": "When we carried heavy drywall into our house, I was really wishing I could carry 20 times my body weight.",
+    "episode": "What Is the Strongest Insect in the World?",
+    "date": "2026-09-30"
+  },
+  {
+    "id": "tot-0382",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a beautiful flower garden, or a garden with lots of delicious vegetables and fruits?",
+    "options": [
+      "Flower garden",
+      "Fruit and veggie garden"
+    ],
+    "joshPick": 1,
+    "joshSays": "I love looking at the flowers, but I can't eat the flowers.",
+    "episode": "Why Are Flowers Different Colors?",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "tot-0383",
+    "category": "this-or-that",
+    "prompt": "Would you rather sneeze like a mouse, tiny and quiet, or sneeze like a lion, loud and rumbling?",
+    "options": [
+      "Mouse sneeze",
+      "Lion sneeze"
+    ],
+    "episode": "Why Do We Sneeze?",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "tot-0384",
+    "category": "this-or-that",
+    "prompt": "Would you rather look at red blood cells through a microscope, or use a prism to split white light into all its colors?",
+    "options": [
+      "Microscope",
+      "Prism"
+    ],
+    "joshSays": "A prism can make a little rainbow on the wall. It's really cool.",
+    "episode": "Why Do Veins Look Blue?",
+    "date": "2026-10-05"
+  },
+  {
+    "id": "tot-0385",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a time machine, or be able to travel at the speed of light?",
+    "options": [
+      "Time machine",
+      "Light speed travel"
+    ],
+    "joshPick": 1,
+    "joshSays": "I'd love to see what else is out there in the universe.",
+    "episode": "What Is Time Dilation?",
+    "date": "2026-10-06"
+  },
+  {
+    "id": "tot-0386",
+    "category": "this-or-that",
+    "prompt": "Would you rather live in a tree like a bird, or be able to fly?",
+    "options": [
+      "Live in a tree",
+      "Be able to fly"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would love to live in a tree house, but being able to fly would be amazing.",
+    "episode": "Why Don't Birds Get Shocked on Power Lines?",
+    "date": "2026-10-07"
+  },
+  {
+    "id": "tot-0387",
+    "category": "this-or-that",
+    "prompt": "Would you rather be on the first mission to Mars, or spend a week on the Moon?",
+    "options": [
+      "First Mars mission",
+      "A Moon week"
+    ],
+    "joshPick": 1,
+    "joshSays": "Mars is pretty far away.",
+    "episode": "How Long Does It Take to Get to Mars?",
+    "date": "2026-10-08"
+  },
+  {
+    "id": "tot-0388",
+    "category": "this-or-that",
+    "prompt": "Would you rather have spines sticking out all over your body, or be able to store all the water you need for months inside your body?",
+    "options": [
+      "Spines all over",
+      "Store water"
+    ],
+    "joshPick": 1,
+    "joshSays": "If I had spines, I couldn't hug my kids.",
+    "episode": "Why Is a Cactus So Sharp?",
+    "date": "2026-10-10"
+  },
+  {
+    "id": "tot-0389",
+    "category": "this-or-that",
+    "prompt": "Would you rather be the pilot of a plane, or the pilot of a rocket going into space?",
+    "options": [
+      "Plane pilot",
+      "Rocket pilot"
+    ],
+    "joshPick": 0,
+    "joshSays": "Both sound like really complicated jobs. I would go with piloting a plane.",
+    "episode": "How Do Airplanes Fly?",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "tot-0390",
+    "category": "this-or-that",
+    "prompt": "Would you rather never stop laughing, or never stop dancing?",
+    "options": [
+      "Never stop laughing",
+      "Never stop dancing"
+    ],
+    "joshPick": 0,
+    "joshSays": "I think dancing forever would be even more tiring.",
+    "episode": "Why Are Armpits So Ticklish?",
+    "date": "2026-10-12"
+  },
+  {
+    "id": "tot-0391",
+    "category": "this-or-that",
+    "prompt": "Would you rather have an electric bike or an electric scooter?",
+    "options": [
+      "Electric bike",
+      "Electric scooter"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've never ridden an electric bike, so I'd try it out for the first time.",
+    "episode": "How Do Electric Bikes Work?",
+    "date": "2026-10-14"
+  },
+  {
+    "id": "tot-0392",
+    "category": "this-or-that",
+    "prompt": "Would you rather chop onions for an entire day or dig a hole for an entire day?",
+    "options": [
+      "Chop onions",
+      "Dig a hole"
+    ],
+    "joshPick": 1,
+    "joshSays": "At least then I'm getting some exercise, you know?",
+    "episode": "Why Does Cutting Onions Make You Cry?",
+    "date": "2026-10-15"
+  },
+  {
+    "id": "tot-0393",
+    "category": "this-or-that",
+    "prompt": "Would you rather surf on a giant wave made by the wind, or float in the middle of the ocean and feel the slow rise and fall of the tide?",
+    "options": [
+      "Surf a giant wave",
+      "Float with the tide"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've always wanted to learn to surf.",
+    "episode": "Why Do Oceans Have Waves?",
+    "date": "2026-10-17"
+  },
+  {
+    "id": "tot-0394",
+    "category": "this-or-that",
+    "prompt": "Would you rather live on the very top floor of a super tall building, or on the very bottom floor?",
+    "options": [
+      "Top floor",
+      "Bottom floor"
+    ],
+    "joshPick": 1,
+    "joshSays": "As long as I had a friend on the top floor, so I could visit the views.",
+    "episode": "How Do Tall Buildings Not Fall Down?",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "tot-0395",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a food inspector or a farmer?",
+    "options": [
+      "Food inspector",
+      "Farmer"
+    ],
+    "joshPick": 1,
+    "joshSays": "I would love to have some chickens.",
+    "episode": "How Do We Know If Food Is Safe to Eat?",
+    "date": "2026-10-19"
+  },
+  {
+    "id": "tot-0396",
+    "category": "this-or-that",
+    "prompt": "Would you rather turn into a pair of pants and get washed in the washing machine, or turn into a pair of pants and get dried in the dryer?",
+    "options": [
+      "Washing machine",
+      "Dryer"
+    ],
+    "joshPick": 1,
+    "joshSays": "I bet the washer feels like one of those spinning rides at the fair.",
+    "episode": "How Does a Washing Machine Clean Clothes?",
+    "date": "2026-10-20"
+  },
+  {
+    "id": "tot-0397",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a nose that could smell things from a mile away, or ears that could hear a whisper from a mile away?",
+    "options": [
+      "Super smelling nose",
+      "Super hearing ears"
+    ],
+    "joshPick": 0,
+    "joshSays": "I could know when the delicious cupcakes are coming out of the oven.",
+    "episode": "Why Does Garbage Smell So Bad?",
+    "date": "2026-10-21"
+  },
+  {
+    "id": "tot-0398",
+    "category": "this-or-that",
+    "prompt": "Would you rather have your house attached to your back, or be able to tuck your head into your body?",
+    "options": [
+      "House on my back",
+      "Tuck my head in"
+    ],
+    "joshPick": 1,
+    "joshSays": "Having my house attached to my back just does not sound comfortable at all.",
+    "episode": "Why Do Turtles Have Shells?",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "tot-0399",
+    "category": "this-or-that",
+    "prompt": "Would you rather be an artist or be a scientist?",
+    "options": [
+      "Artist",
+      "Scientist"
+    ],
+    "joshPick": 0,
+    "joshSays": "Being an artist means that you are always creating things.",
+    "episode": "Why Don't Tattoos Go Away?",
+    "date": "2026-10-28"
+  },
+  {
+    "id": "tot-0400",
+    "category": "this-or-that",
+    "prompt": "Would you rather plant a tree in your backyard or build a tree house?",
+    "options": [
+      "Plant a tree",
+      "Build a tree house"
+    ],
+    "joshPick": 1,
+    "joshSays": "I've got plenty of trees in my backyard already.",
+    "episode": "Why Do Trees Have Bark?",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "tot-0401",
+    "category": "this-or-that",
+    "prompt": "Would you rather go through a poison ivy obstacle course, or play poison ivy hopscotch?",
+    "options": [
+      "Obstacle course",
+      "Hopscotch"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like obstacle courses, and I'm pretty good at them.",
+    "episode": "What Is Poison Ivy?",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "tot-0402",
+    "category": "this-or-that",
+    "prompt": "Would you rather be able to see the DNA in your cells all laid out, or have a program that could change your DNA?",
+    "options": [
+      "See my DNA",
+      "Change my DNA"
+    ],
+    "joshPick": 0,
+    "joshSays": "I'd be a little nervous about trying to change the DNA.",
+    "episode": "What Is DNA?",
+    "date": "2026-11-02"
+  },
+  {
+    "id": "tot-0403",
+    "category": "this-or-that",
+    "prompt": "Would you rather paint your house blue or paint your car red?",
+    "options": [
+      "Blue house",
+      "Red car"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like blue houses and I like red cars.",
+    "episode": "Why Does Metal Rust?",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "tot-0404",
+    "category": "this-or-that",
+    "prompt": "Would you rather become oxygen and see the whole journey through the body, or become a bite of food and see the journey through the digestive system?",
+    "options": [
+      "Become oxygen",
+      "Become food"
+    ],
+    "joshPick": 0,
+    "joshSays": "Since we're talking about lungs today, I think it would be so cool to become oxygen.",
+    "episode": "How Do Your Lungs Help You Breathe?",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "tot-0405",
+    "category": "this-or-that",
+    "prompt": "Would you rather record your own song, or work at a place that makes records?",
+    "options": [
+      "Record a song",
+      "Make records"
+    ],
+    "joshSays": "Have you ever recorded a song before? It is a very fun experience.",
+    "episode": "How Does a Record Player Work?",
+    "date": "2026-11-05"
+  },
+  {
+    "id": "tot-0406",
+    "category": "this-or-that",
+    "prompt": "Would you rather sail around the whole world, or ride in an airplane around the whole world?",
+    "options": [
+      "Sail",
+      "Airplane"
+    ],
+    "joshPick": 1,
+    "joshSays": "I love being on boats, but it would be a long time on a boat.",
+    "episode": "How Long Would it Take to Sail around the World?",
+    "date": "2026-11-09"
+  },
+  {
+    "id": "tot-0407",
+    "category": "this-or-that",
+    "prompt": "Would you rather explore a cave or study sinkholes?",
+    "options": [
+      "Explore a cave",
+      "Study sinkholes"
+    ],
+    "joshPick": 0,
+    "joshSays": "Caves are one of the most beautiful things in our world.",
+    "episode": "What Causes Sinkholes?",
+    "date": "2026-11-11"
+  },
+  {
+    "id": "tot-0408",
+    "category": "this-or-that",
+    "prompt": "Would you rather have a jellyfish's soft body or a crab's hard shell?",
+    "options": [
+      "Jellyfish body",
+      "Crab shell"
+    ],
+    "joshPick": 0,
+    "joshSays": "It would be cool to just kind of float through the water the way a jellyfish does.",
+    "episode": "How Do Jellyfish Sting?",
+    "date": "2026-11-15"
+  },
+  {
+    "id": "tot-0409",
+    "category": "this-or-that",
+    "prompt": "Would you rather eat 40 pounds of food in one day, or be able to swing through the trees?",
+    "options": [
+      "Eat 40 pounds",
+      "Swing through trees"
+    ],
+    "joshSays": "I wonder if I could even do it if I wanted to. That's a lot of food.",
+    "episode": "How Strong Are Gorillas?",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "tot-0410",
+    "category": "this-or-that",
+    "prompt": "Would you rather visit an aquarium or go scuba diving?",
+    "options": [
+      "Aquarium",
+      "Scuba diving"
+    ],
+    "joshPick": 1,
+    "joshSays": "I have never gone scuba diving before, and I would love to do that.",
+    "episode": "Why Do Hammerhead Sharks Have Eyes on the Sides of Their Heads?",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "tot-0411",
+    "category": "this-or-that",
+    "prompt": "Would you rather walk through a glass building, or make your own glass in a factory?",
+    "options": [
+      "Glass building",
+      "Make glass"
+    ],
+    "joshSays": "Walking on a glass floor feels like you're flying.",
+    "episode": "How Is Glass Made?",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "tot-0412",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a rocket launch from a field a few miles away, or blast off into space yourself?",
+    "options": [
+      "Watch from a field",
+      "Blast off myself"
+    ],
+    "joshPick": 0,
+    "joshSays": "Watching a rocket launch still sounds really cool.",
+    "episode": "How Do Rockets Launch?",
+    "date": "2026-11-19"
+  },
+  {
+    "id": "tot-0413",
+    "category": "this-or-that",
+    "prompt": "Would you rather ride in a spaceship for one light year at the speed of light, or go on a one-week space cruise ship?",
+    "options": [
+      "Light-speed trip",
+      "Space cruise"
+    ],
+    "joshPick": 0,
+    "joshSays": "If there was a safe way to do it, that sounds awesome.",
+    "episode": "How Fast Does Light Travel?",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "tot-0414",
+    "category": "this-or-that",
+    "prompt": "Would you rather watch a tornado from far away through binoculars, or fly above one in a helicopter?",
+    "options": [
+      "Binoculars",
+      "Helicopter"
+    ],
+    "joshPick": 0,
+    "joshSays": "I've heard them and seen videos, but I've never seen one with my own eyes.",
+    "episode": "How Do Tornadoes Form?",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "tot-0415",
+    "category": "this-or-that",
+    "prompt": "Would you rather be a stink bug or a bumblebee?",
+    "options": [
+      "Stink bug",
+      "Bumblebee"
+    ],
+    "joshPick": 0,
+    "joshSays": "I like the way they're just always hanging out, sitting there very calmly.",
+    "episode": "Why Do Stink Bugs Stink?",
+    "date": "2026-11-23"
+  }
+]
