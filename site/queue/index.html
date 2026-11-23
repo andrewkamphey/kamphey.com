@@ -31,6 +31,11 @@ h1 { font-size: 40px; line-height: 1.1; margin: 0; }
 .btn:hover { filter: brightness(1.08); }
 .btn.ghost { background: none; color: var(--ink); border: 1px solid var(--line); }
 .note { font-size: 16px; color: var(--muted); margin: 10px 0 0; }
+.steps { margin: 14px 0 0; padding-left: 24px; }
+.steps li { margin: 8px 0; }
+code { font: 15px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; }
+.copy { font: 600 14px "Source Sans 3", system-ui, sans-serif; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px; cursor: pointer; vertical-align: 1px; }
+.copy:hover { border-color: var(--link); }
 h2 { font-size: 26px; margin: 48px 0 8px; }
 figure { margin: 22px 0 0; }
 figure img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 12px; background: #fff; }
@@ -47,10 +52,19 @@ footer { margin-top: 56px; padding-top: 18px; border-top: 1px solid var(--line);
 <div class="hero"><img src="/queue/img/icon.png" alt=""><h1>Queue</h1></div>
 <p class="lead">A free Chrome extension that adds a Queue button next to Post on X and LinkedIn. Write your post, click Queue, and it lands in the next free slot.</p>
 <div class="ctas">
-  <a class="btn" href="https://github.com/andrewkamphey/queue">Get it on GitHub</a>
-  <a class="btn ghost" href="https://github.com/andrewkamphey/queue#install">How to install</a>
+  <a class="btn" href="/queue/queue.zip" download>Download Queue</a>
+  <a class="btn ghost" href="https://github.com/andrewkamphey/queue">Code on GitHub</a>
 </div>
-<p class="note">In review for the Chrome Web Store. Until then, install it from GitHub in about a minute.</p>
+<p class="note">Free, version 1.0.0, for Chrome. Not in the Chrome Web Store yet, so it installs by hand in about a minute:</p>
+
+<ol class="steps">
+  <li><strong>Download</strong> the ZIP above and double-click it. You get a folder called <code>queue-extension</code>. Keep it somewhere it won't get deleted, like Documents.</li>
+  <li><strong>Open</strong> <code id="ext-url">chrome://extensions</code> <button class="copy" type="button" data-copy="chrome://extensions">Copy</button> in a new tab. Paste it into the address bar, since Chrome doesn't allow links to it.</li>
+  <li><strong>Turn on Developer mode</strong>, the switch in the top right corner.</li>
+  <li><strong>Click Load unpacked</strong> and choose the <code>queue-extension</code> folder.</li>
+  <li><strong>Reload</strong> any open X or LinkedIn tabs. The pink Queue button appears next to Post.</li>
+</ol>
+<p class="note">To update later: download again, replace the folder, and click the reload arrow on Queue's card in <code>chrome://extensions</code>.</p>
 
 <figure>
   <img src="/queue/img/2-menu.jpg" alt="X composer with the pink Queue button and its menu of upcoming slots and cadence options" width="889" height="900">
@@ -89,5 +103,14 @@ footer { margin-top: 56px; padding-top: 18px; border-top: 1px solid var(--line);
 
 <footer>Made by <a href="/">Andrew Kamphey</a>. Questions or ideas: <a href="mailto:q@kamphey.com">q@kamphey.com</a></footer>
 </main>
+<script>
+document.querySelectorAll('.copy').forEach(function (b) {
+  b.addEventListener('click', function () {
+    var t = b.getAttribute('data-copy');
+    var done = function () { b.textContent = 'Copied'; setTimeout(function () { b.textContent = 'Copy'; }, 1500); };
+    if (navigator.clipboard) navigator.clipboard.writeText(t).then(done, function () {}); 
+  });
+});
+</script>
 </body>
 </html>
